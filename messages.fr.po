@@ -8291,10 +8291,10 @@ msgstr "Afficher le guide de l'instructeur de Language Explorer."
 msgid "Display the Language Explorer Student Manual, to learn the basics."
 msgstr "Afficher le manuel de l'étudiant de Language Explorer, pour apprendre les fondamentaux."
 
-# DLR ?
+# DLR ? "Afficher des statistiques d'utilisation"
 #. /Src/Common/Controls/XMLViews/ReallySimpleListChooser.resx::m_displayUsageCheckBox.Text
 msgid "Display usage figures"
-msgstr "Afficher des statistiques d'utilisation"
+msgstr "Utilisation"
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpAbout"]
