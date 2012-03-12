@@ -13,6 +13,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
 
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidDiscardChangesConfirm
 msgid ""
@@ -4524,8 +4525,8 @@ msgid "Cleaning"
 msgstr "Temizliyor"
 
 # Alternate:  "Berrak" "Sil" "Yok" "Şeffaf"
-#. Alternative text for the Preview button, indicating that the Preview should be removed.
 # Windows, Excel 2007;Office 2007 Shared;Publisher 2007;Windows Vista;Word 2007;Office 2007 Shared;Outlook 2007;Windows Vista;Excel 2007;Excel 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Windows Vista;Word 2007
+#. Alternative text for the Preview button, indicating that the Preview should be removed.
 #. String used in spelling progress dialog
 #. /Src/LexText/Morphology/MEStrings.resx::ksDealingAnalyses
 msgid "Cleaning up analyses"
@@ -4819,7 +4820,6 @@ msgstr ""
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidViewCollapseNoteItemName
 msgid "&Collapse All Notes"
 msgstr ""
-
 
 #. Alternate text for collapsing all notes item (used in the customize dialog).
 #. Tool tip for the collapse all notes menu item
@@ -10208,11 +10208,11 @@ msgstr ""
 msgid "Filter by {0}..."
 msgstr ""
 
+# Window caption for book filter
 #. Tooltip for the toggle book filter toolbar item.
 #. The text for the book filter toggle toolbar item.
 #. The tooltip for the filter by book menu item
 #. The tooltip for the toolbar button that toggles the book filter on and off.
-# Window caption for book filter
 #. /Src/Common/Controls/ScrControls/FilterScriptureDialog.resx::$this.Text
 #. /Src/TE/TeDialogs/FilterBookDialog.resx::$this.Text
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidBookFilterCaption
@@ -14561,12 +14561,12 @@ msgstr ""
 msgid "L&eft"
 msgstr "S&ol"
 
+# Alternate: "Sola" "Solda" "Soldan"
+# Windows, Access 2007;Excel 2007;Office 2007 Shared;Access 2007;Excel 2007;Excel 2007;Publisher 2007;Windows Vista;Publisher 2007;Windows Vista;.NET Framework 3.0;Excel 2007;Office 2007 Shared;Publisher 2007;Windows Vista;Word 2007
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksLeft
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::m_cboAlignment.Items2
 #. (String used 2 times.)
-# Alternate: "Sola" "Solda" "Soldan"
-# Windows, Access 2007;Excel 2007;Office 2007 Shared;Access 2007;Excel 2007;Excel 2007;Publisher 2007;Windows Vista;Publisher 2007;Windows Vista;.NET Framework 3.0;Excel 2007;Office 2007 Shared;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid "Left"
 msgstr "Sol"
@@ -16683,9 +16683,9 @@ msgstr ""
 msgid "Multiple Writing Systems"
 msgstr ""
 
+# Windows, Office 2007 Shared;Outlook 2007;Windows Vista
 #. script language
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidMyanmar
-# Windows, Office 2007 Shared;Outlook 2007;Windows Vista
 #, fuzzy
 msgid "Myanmar"
 msgstr "Myanmar"
@@ -18420,6 +18420,7 @@ msgstr ""
 msgid "&Ok"
 msgstr ""
 
+# Windows, Office 2007 Setup;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Setup;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007;.NET Framework 3.0;Office 2007 Shared;Word 2007;Windows Vista;Windows Vista;Office 2007 Shared;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Setup;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #. /Src/Common/Controls/DetailControls/ConfigureWritingSystemsDlg.resx::m_okButton.Text
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::okButton.Text
 #. /Src/Common/Controls/XMLViews/ReallySimpleListChooser.resx::btnOK.Text
@@ -18431,7 +18432,6 @@ msgstr ""
 #. /Src/LexText/Morphology/PhonologicalFeatureChooserDlg.resx::m_btnOK.Text
 #. /Src/LexText/ParserUI/ParserUIStrings.resx::ks_OK
 #. (String used 10 times.)
-# Windows, Office 2007 Setup;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Setup;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007;.NET Framework 3.0;Office 2007 Shared;Word 2007;Windows Vista;Windows Vista;Office 2007 Shared;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Setup;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid "&OK"
 msgstr "&Tamam"
@@ -18844,6 +18844,7 @@ msgstr ""
 msgid "Optional. Specifies a variant to distinguish the writing system from other writing systems for the same language."
 msgstr ""
 
+# Windows, Access 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Office 2007 Shared;Word 2007;Access 2007;Excel 2007;Outlook 2007;Publisher 2007;Windows Vista;Office 2007 Shared;Excel 2007;Office 2007 Shared;Windows Vista;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Windows Vista;Word 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Word 2007;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Word 2007
 #. The tooltip for the options menu item
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidOptionsTab
 #. /Src/LexText/LexTextControls/LexOptionsDlg.resx::$this.Text
@@ -18851,7 +18852,6 @@ msgstr ""
 #. /Src/TE/TeDialogs/ToolsOptionsDialog.resx::$this.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidOptionsToolTip
 #. (String used 5 times.)
-# Windows, Access 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Office 2007 Shared;Word 2007;Access 2007;Excel 2007;Outlook 2007;Publisher 2007;Windows Vista;Office 2007 Shared;Excel 2007;Office 2007 Shared;Windows Vista;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Windows Vista;Word 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Word 2007;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid "Options"
 msgstr "Seçenekler"
@@ -18926,9 +18926,9 @@ msgstr ""
 msgid "&Other"
 msgstr ""
 
+# Windows, Excel 2007;Outlook 2007;Windows Vista;Office 2007 Shared;Outlook 2007;Windows Vista;Outlook 2007;Word 2007;Access 2007;Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Windows Vista;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista
 #. Scripture check group name
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::Other
-# Windows, Excel 2007;Outlook 2007;Windows Vista;Office 2007 Shared;Outlook 2007;Windows Vista;Outlook 2007;Word 2007;Access 2007;Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Windows Vista;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista
 #, fuzzy
 msgid "Other"
 msgstr "Diğer"
@@ -18998,15 +18998,15 @@ msgstr ""
 msgid "Other, Surrogate"
 msgstr ""
 
+# Windows, Excel 2007;Windows Vista;Excel 2007;Word 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Word 2007
 #. Subitem in Make dependent clause of...
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksOtherMenuItem
-# Windows, Excel 2007;Windows Vista;Excel 2007;Word 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Word 2007
 #, fuzzy
 msgid "Other..."
 msgstr "Diğer..."
 
-#. /Src/FwResources/ToolBarSystemStrings.resx::kstidOtherLabel
 # Windows, Excel 2007;Office 2007 Shared;Windows Vista;Word 2007;Access 2007;Word 2007
+#. /Src/FwResources/ToolBarSystemStrings.resx::kstidOtherLabel
 #, fuzzy
 msgid "Other:"
 msgstr "Diğer:"
@@ -19446,14 +19446,14 @@ msgstr ""
 msgid "Parts of Speech"
 msgstr ""
 
-#. /Src/FwCoreDlgs/FwUserProperties.resx::lblPasswordGroup.Text
 # Windows, Outlook 2007;Word 2007;Excel 2007;PowerPoint 2007;Word 2007;Excel 2007;Outlook 2007;Access 2007;Office 2007 Shared;Windows Vista
+#. /Src/FwCoreDlgs/FwUserProperties.resx::lblPasswordGroup.Text
 #, fuzzy
 msgid "Password"
 msgstr "Parola"
 
-#. /Src/FwCoreDlgs/FwUserProperties.resx::lblPassword.Text
 # Windows, Outlook 2007;Word 2007;Excel 2007;PowerPoint 2007;Word 2007;Excel 2007;Outlook 2007;Access 2007;Office 2007 Shared;Windows Vista
+#. /Src/FwCoreDlgs/FwUserProperties.resx::lblPassword.Text
 #, fuzzy
 msgid "&Password:"
 msgstr "&Parola:"
@@ -20175,6 +20175,7 @@ msgstr ""
 msgid "&Preview"
 msgstr "Önizleme"
 
+# Windows, .NET Framework 3.0;Outlook 2007;Office 2007 Shared;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Windows Vista
 #. label on a button
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_previewButton.Text
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksPreview
@@ -20182,7 +20183,6 @@ msgstr "Önizleme"
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::groupBox3.Text
 #. /Src/FwCoreDlgs/FwFontDialog.resx::gbPreview.Text
 #. (String used 5 times.)
-# Windows, .NET Framework 3.0;Outlook 2007;Office 2007 Shared;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Windows Vista
 #, fuzzy
 msgid "Preview"
 msgstr "Önizleme"
@@ -20675,9 +20675,9 @@ msgstr ""
 msgid "Psalms"
 msgstr ""
 
+# Windows, Office 2007 Shared;Word 2007;Word 2007;Office 2007 Shared;Publisher 2007;Windows Vista;Word 2007
 #. Measurement unit abbreviation for Points (Localized string should preserve leading space if needed in formatted display.)
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidPt
-# Windows, Office 2007 Shared;Word 2007;Word 2007;Office 2007 Shared;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid " pt"
 msgstr ""
@@ -21925,10 +21925,10 @@ msgstr "&Kaldır"
 msgid "< &Remove"
 msgstr ""
 
+# Windows, Excel 2007
 #. /Src/FwCoreDlgs/PunctuationDlg.resx::btnRemoveMatchedPair.Text
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_btnRemove.Text
 #. (String used 2 times.)
-# Windows, Excel 2007
 #, fuzzy
 msgid "Remove"
 msgstr "Kaldır..."
@@ -22721,8 +22721,8 @@ msgstr ""
 msgid "Rose,255,153,204"
 msgstr "Gül,255,153,204"
 
-#. /Src/LexText/Discourse/AdvancedMTDialog.resx::m_rowLabel.Text
 # Windows, Publisher 2007;Word 2007;Excel 2007
+#. /Src/LexText/Discourse/AdvancedMTDialog.resx::m_rowLabel.Text
 #, fuzzy
 msgid "Row:"
 msgstr "Satır:"
@@ -22843,6 +22843,7 @@ msgstr ""
 msgid "2 Samuel"
 msgstr ""
 
+# Windows, Access 2007;Access 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Word 2007;Office 2007 Shared;Word 2007;Access 2007;Excel 2007;Windows Vista;Outlook 2007;Access 2007;Publisher 2007;Access 2007;Office 2007 Shared;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #. Text for Save toolbar button
 #. This is the text for the save option on the file menu.
 #. Button text when saving modified mapping
@@ -22850,7 +22851,6 @@ msgstr ""
 #. /Src/FwResources/FwStrings.resx::kstidFileSaveMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidSaveItemName
 #. (String used 3 times.)
-# Windows, Access 2007;Access 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Word 2007;Office 2007 Shared;Word 2007;Access 2007;Excel 2007;Windows Vista;Outlook 2007;Access 2007;Publisher 2007;Access 2007;Office 2007 Shared;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid "&Save"
 msgstr ""
@@ -23935,11 +23935,11 @@ msgstr ""
 msgid "Shortcut key:"
 msgstr "Kısayol tuşu:"
 
+# Windows, Office 2007 Shared;Access 2007;Excel 2007;Windows Vista;Word 2007;Windows Vista;Access 2007;Excel 2007;Publisher 2007;Windows Vista;Word 2007;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista
 #. button text
 #. /Src/FdoUi/FdoUiStrings.resx::ksShow
 #. /Src/TE/TeDialogs/ToolsOptionsDialog.resx::groupBox3.Text
 #. (String used 2 times.)
-# Windows, Office 2007 Shared;Access 2007;Excel 2007;Windows Vista;Word 2007;Windows Vista;Access 2007;Excel 2007;Publisher 2007;Windows Vista;Word 2007;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista
 #, fuzzy
 msgid "Show"
 msgstr "Göster"
@@ -23963,8 +23963,8 @@ msgstr ""
 msgid "Show Advanced"
 msgstr "Gelişmiş"
 
-#. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksShowAll
 # Windows, Word 2007;Excel 2007;Windows Vista;Word 2007;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared
+#. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksShowAll
 #, fuzzy
 msgid "Show All"
 msgstr "Tümünü Göster"
@@ -25030,13 +25030,13 @@ msgstr ""
 msgid "Spelling Status"
 msgstr "Yazım Durumu"
 
+# Windows, Windows Vista;Excel 2007;Office 2007 Shared;Access 2007;Windows Vista;Word 2007;Publisher 2007;Windows Vista;Word 2007;Publisher 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista
 #. This is the name of the standard toolbar as it shows up in the toolbar configuration feature
 #. This is the standard category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwStrings.resx::kstidStandardCategory
 #. /Src/FwResources/FwStrings.resx::kstidStandardToolBarText
 #. /Src/FwResources/FwTMStrings.resx::kstidStandardToolBarText
 #. (String used 3 times.)
-# Windows, Windows Vista;Excel 2007;Office 2007 Shared;Access 2007;Windows Vista;Word 2007;Publisher 2007;Windows Vista;Word 2007;Publisher 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista
 #, fuzzy
 msgid "Standard"
 msgstr "Standart"
@@ -25369,7 +25369,6 @@ msgstr ""
 #. This is the text for the stop button on the progress dialog when updating the page breaks
 #. /Src/FwResources/FwStrings.resx::kstidUpdatePageBreakButtonText
 #, fuzzy
-msgid "Stop"
 msgid "Stop"
 msgstr "Durdur"
 
@@ -25933,8 +25932,8 @@ msgstr ""
 msgid "System Language for keyboard input:"
 msgstr ""
 
-#. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Detail-TemplateTable"]/slice/@label
 # Windows, Office 2007 Shared;Word 2007;Excel 2007;Windows Vista;Excel 2007;Office 2007 Shared;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Word 2007
+#. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Detail-TemplateTable"]/slice/@label
 #, fuzzy
 msgid "Table"
 msgstr "Tablo"
@@ -26070,13 +26069,13 @@ msgstr ""
 msgid "Test the {0} writing system:"
 msgstr ""
 
+# Windows, Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Word 2007;Windows Vista;Access 2007;Excel 2007;Word 2007;PowerPoint 2007;Windows Vista;Word 2007;Excel 2007;Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Publisher 2007;Word 2007;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Word 2007
 #. /|strings-en.xml::/ClassNames/StFootnote|
 #. /|strings-en.xml::/ClassNames/StText|
 #. /|strings-en.xml::/ClassNames/Text|
 #. /Language Explorer/Configuration/Parts/CellarParts.xml::/PartInventory/bin/part[@id="CmAnnotation-Detail-TextOnly"]/slice/@label
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::tabLayout.Text
 #. (String used 5 times.)
-# Windows, Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Word 2007;Windows Vista;Access 2007;Excel 2007;Word 2007;PowerPoint 2007;Windows Vista;Word 2007;Excel 2007;Windows Vista;Word 2007;Excel 2007;Office 2007 Shared;Publisher 2007;Word 2007;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid "Text"
 msgstr "Metin"
@@ -28168,17 +28167,17 @@ msgstr ""
 msgid "&Toolbar Name:"
 msgstr ""
 
+# Windows, Windows Vista;Office 2007 Shared;Word 2007;Windows Vista;Word 2007;Windows Vista;Word 2007;Office 2007 Shared
 #. This is the text for the toolbar bar on the view menu.
 #. /Src/FwResources/FwStrings.resx::kstidViewToolBarsMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidToolBarsItemName
 #. (String used 2 times.)
-# Windows, Windows Vista;Office 2007 Shared;Word 2007;Windows Vista;Word 2007;Windows Vista;Word 2007;Office 2007 Shared
 #, fuzzy
 msgid "&Toolbars"
 msgstr "&Araç Çubukları"
 
-#. /Src/FwResources/ToolBarSystemStrings.resx::kstidToolbarsTab
 # Windows, Windows Vista;Office 2007 Shared;Word 2007;Windows Vista;Word 2007;Windows Vista;Word 2007;Office 2007 Shared
+#. /Src/FwResources/ToolBarSystemStrings.resx::kstidToolbarsTab
 #, fuzzy
 msgid "Toolbars"
 msgstr "Araç Çubukları"
@@ -28219,17 +28218,17 @@ msgstr "Araçlar"
 msgid "toolStrip1"
 msgstr ""
 
+# Windows, Excel 2007;Excel 2007
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_chkTop.Text
 #. /Src/TeDll/DockableUsfmBrowser.resx::topcollapsedToolStripMenuItem.Text
 #. (String used 2 times.)
-# Windows, Excel 2007;Excel 2007
 #, fuzzy
 msgid "&Top"
 msgstr "İlk"
 
+# Windows, Excel 2007;Excel 2007
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidTopBorder
-# Windows, Excel 2007;Excel 2007
 #, fuzzy
 msgid "Top"
 msgstr "İlk"
@@ -28792,22 +28791,23 @@ msgstr ""
 msgid "&Underline style:"
 msgstr ""
 
+# Windows, Access 2007;Windows Vista;Word 2007;Office 2007 Shared;Access 2007;Excel 2007;Outlook 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #. This is the text for the undo option on the edit menu.
 #. Text for Undo toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidEditUndoMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidUndoItemName
 #. (String used 2 times.)
-# Windows, Access 2007;Windows Vista;Word 2007;Office 2007 Shared;Access 2007;Excel 2007;Outlook 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid "&Undo"
 msgstr "&Geri Al"
 
-#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 # Windows, Access 2007;Windows Vista;Word 2007;Office 2007 Shared;Access 2007;Excel 2007;Outlook 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #, fuzzy
 msgid "_Undo"
 msgstr "_Geri Al"
 
+# Windows, Access 2007;Windows Vista;Word 2007;Office 2007 Shared;Access 2007;Excel 2007;Outlook 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #. Tool tip for Undo toolbar button
 #. Tool tip for Undo toolbar/menu item
 #. /Src/FwResources/FwStrings.resx::kstidEditUndoToolTip
@@ -28815,13 +28815,12 @@ msgstr "_Geri Al"
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFocusBox_btnUndoChanges
 #. /Src/xWorks/xWorksStrings.resx::Undo
 #. (String used 4 times.)
-# Windows, Access 2007;Windows Vista;Word 2007;Office 2007 Shared;Access 2007;Excel 2007;Outlook 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
 #, fuzzy
 msgid "Undo"
 msgstr "Geri Al"
 
-#. /Src/FwResources/FwStrings.resx::kstidUndoFrame
 # Windows, Access 2007;Windows Vista;Word 2007;Office 2007 Shared;Access 2007;Excel 2007;Outlook 2007;Windows Vista;.NET Framework 3.0;Access 2007;Excel 2007;Office 2007 Shared;Outlook 2007;PowerPoint 2007;Publisher 2007;Windows Vista;Word 2007
+#. /Src/FwResources/FwStrings.resx::kstidUndoFrame
 #, fuzzy
 msgid "&Undo {0}"
 msgstr ""
@@ -29651,8 +29650,8 @@ msgstr ""
 msgid "Unmk. infl. afx slot"
 msgstr ""
 
-#. /|strings-en.xml::/Linguistics/Morphology/TemplateTable/UnnamedSlotName|
 # Windows, PowerPoint 2007;Word 2007
+#. /|strings-en.xml::/Linguistics/Morphology/TemplateTable/UnnamedSlotName|
 #, fuzzy
 msgid "Unnamed"
 msgstr "Adsız"
@@ -30639,8 +30638,8 @@ msgstr ""
 msgid "1 Warning:"
 msgstr ""
 
-#. /Src/LexText/LexTextControls/LexTextControls.resx::ksWarning_
 # Windows, Office 2007 Setup
+#. /Src/LexText/LexTextControls/LexTextControls.resx::ksWarning_
 #, fuzzy
 msgid "Warning:"
 msgstr "Uyarı:"
@@ -30976,13 +30975,13 @@ msgstr "Veri"
 msgid "(with intro)"
 msgstr ""
 
+# Windows, Word 2007
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_clickCopyWordButton.Text
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksWord
 #. /Src/FDO/Strings.resx::ksWord
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksWord
 #. (String used 5 times.)
-# Windows, Word 2007
 #, fuzzy
 msgid "Word"
 msgstr "Sözcük"
