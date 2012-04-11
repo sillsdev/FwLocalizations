@@ -5,8 +5,8 @@ msgstr ""
 "Project-Id-Version: FieldWorks 7.2.0\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2012-03-12T18:08:57.1513727-05:00\n"
-"PO-Revision-Date: 2012-03-13 14:59-0800\n"
-"Last-Translator: FLEx Localization <FLEx_Localization@sil.org>\n"
+"PO-Revision-Date: 2012-03-18 16:01-0000\n"
+"Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -6514,7 +6514,7 @@ msgstr "Ne peut trouver l'objet correct vers lequel aller."
 #. First parameter is the name of a settings file. Second is an error message.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksErrorReadingSettings
 msgid "Could not load your settings from {0}. The system reported that {1}."
-msgstr "Impossible de charger vos paramètres de {0}. Le système a signalé {0}."
+msgstr "Impossible de charger vos paramètres de {0}. Le système a signalé {1}."
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::CannotFindToolNamed0
 msgid "Could not locate the tool named '{0}'."
@@ -16047,11 +16047,11 @@ msgstr "Fusionner la catégorie dans..."
 msgid "Merge current lexical entry into another entry."
 msgstr "Fusionner l'entrée lexicale actuelle dans une autre entrée."
 
-# BB
+# DLR
 #. label for one of the tasks in the Utilities dialog
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeDuplicateWordforms
 msgid "Merge Duplicate Wordforms"
-msgstr "Fusionner formes de mot dupliquées"
+msgstr "Fusionner formes de mot en double"
 
 # DLR
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/commands/command/parameters/@title
@@ -16100,10 +16100,11 @@ msgstr "Fusionner le sens"
 msgid "Merge Sense into..."
 msgstr "Fusionner le sens dans..."
 
+# DLR
 #. {0} is a list of space-separated words (possibly only one).
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksWordformMergeFailures
 msgid "Merge was unable to merge some wordforms because they have inconsistent forms in other writing systems: {0}"
-msgstr ""
+msgstr "Impossible de fusionner certaines formes de mot parce qu'elles ont des formes différentes dans autres systèmes d'écriture: {0}"
 
 # DLR
 #. Causes this cell to merge with empty cell to right to save space
@@ -16141,9 +16142,10 @@ msgstr "Fusionner les systèmes d'écriture"
 msgid "Merge..."
 msgstr "Fusionner..."
 
+# DLR
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeWordformsWarning
 msgid "Merging wordforms is not undoable. We recommend making a backup first. You may need to Refresh some views to see the full effect of this fix."
-msgstr ""
+msgstr "Impossible d'annuler la fusion de formes de mot. Il est conseillé de faire une sauvegarde d'abord. Certains affichage exige une actualisation pour voir les résultats de cette opération."
 
 # @ DLR ??
 #. /Src/LexText/Morphology/MEStrings.resx::ksCannotMergeWordformsYet
@@ -20452,6 +20454,7 @@ msgstr "_Gestion de projet"
 msgid "Project Already Exists"
 msgstr "Ce nom de projet existe déjà."
 
+# DLR
 #. {0} is the project name. {1} is an obscure programmer-type message (probably information about ill-formed XML). {2} is a chunk of incomprehensible XML.
 #. /Src/FDO/Strings.resx::ksBadData
 msgid ""
@@ -20461,6 +20464,11 @@ msgid ""
 "Corrupted Record:\n"
 "{2}"
 msgstr ""
+"Le projet contient un enregistrement endommagé. FieldWorks devra se fermer.\n"
+"Projet: {0}\n"
+"Détails de l'erreur: {1}\n"
+"Enregistrement endommagé:\n"
+"{2}"
 
 # DLR
 #. /Src/FwCoreDlgs/ProjectLocationSharingDlg.resx::label3.Text
@@ -21496,10 +21504,10 @@ msgstr "Refaire Fusionner entrée"
 msgid "Redo Merge Reversal Category"
 msgstr "Refaire Fusionner catégorie d'inversion"
 
-# BB
+# DLR
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksRedoMergeWordforms
 msgid "Redo Merge Wordforms"
-msgstr "Refaire fusionner formes de mot"
+msgstr "Refaire Fusionner formes de mot"
 
 # DLR
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksRedoMoveCellBack
@@ -21841,7 +21849,7 @@ msgstr "Entrée de dictionnaire référencée et le numéro de sens"
 msgid "Referenced Sense"
 msgstr "Sens référencé"
 
-# BB ?
+# DLR
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexSense-jtview-classifiedDictI1"]/part[@ref="OwnerOutlinePub"]/@label
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexSense-jtview-CrossRefPub"]/part[@ref="OwnerOutlinePub"]/@label
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexSense-jtview-publishRootCrossRef"]/part[@ref="OwnerOutlinePub"]/@label
@@ -21860,12 +21868,12 @@ msgstr "Sens référencé"
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexSense-jtview-publishStemMinorRefMainEntry"]/part[@ref="OwnerOutlinePub"]/@label
 #. (String used 16 times.)
 msgid "Referenced Sense Headword"
-msgstr "Entrée de dictionnaire de sens référencée"
+msgstr "Entrée de dictionnaire du sens référencé"
 
-# BB ?
+# DLR
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexSense-jtview-publishStemRefMainEntry"]/part[@ref="OwnerOutlinePub"]/@label
 msgid "Referenced Sense Headword and Sense Number"
-msgstr "Entrée de dictionnaire de sens référencée et le numéro de sens"
+msgstr "Entrée de dictionnaire du sens référencé et le numéro de sens"
 
 # DLR
 #. /Language Explorer/Configuration/Parts/ReversalLayouts.xml::/LayoutInventory/layout["ReversalIndexEntry-jtview-publishPara"]/part[@ref="SensesConfig"]/@label
@@ -22899,12 +22907,12 @@ msgstr "Voir les vidéos démo."
 # DLR
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhenToReassignHomographs
 msgid "Run this utility when the FieldWorks project has entries with duplicate or missing homograph numbers, or when there are gaps in the homograph number sequences."
-msgstr "Lancer cet utilitaire quand le projet FieldWorks a des entrées avec des chiffres d'homographe dupliqués ou manquants, ou quand il y a des sauts dans la série de chiffres d'homographe."
+msgstr "À utiliser lorsque le projet FieldWorks a des entrées avec des chiffres d'homographe dupliqués ou manquants, ou quand il y a des sauts dans la série de chiffres d'homographe."
 
 # DLR
 #. /|strings-en.xml::/Linguistics/Morphology/RemoveParserAnalyses/WhenDescription|
 msgid "Run this utility when you think there are problems of any kind with the analyses that are returned by the parser, or when you simply want to remove all parser approved analyses."
-msgstr "Lancer cet utilitaire quand vous pensez qu'il y a des problèmes avec les analyses que l'Analyseur retourne ou quand vous voulez simplement enlever toutes les analyses approuvées par l'Analyseur."
+msgstr "À utiliser lorsque vous pensez qu'il y a des problèmes avec les analyses que l'Analyseur retourne ou quand vous voulez simplement enlever toutes les analyses approuvées par l'Analyseur."
 
 #. /|strings-en.xml::/LabelAbbreviations/Reversal Entries|
 msgid "rϰ"
@@ -26356,10 +26364,10 @@ msgstr "Textes et Mots"
 msgid "Texts & Words Statistics (using chosen texts)"
 msgstr "Statistique de Textes et Mots (des textes choisis)"
 
-# BB
+# DLR
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImportSFMInterlinTextCount
 msgid "{0} texts will be imported from this SFM file."
-msgstr "{0} textes seront importés de ce fichier SFM."
+msgstr "{0} textes seront importés de ce fichier en Format Standard (SFM)."
 
 #. /Src/Utilities/Reporting/UsageEmailDialog.resx::m_topLineText.Text
 msgid "Thank you for checking out this preview version of FieldWorks Language Explorer."
@@ -27330,10 +27338,11 @@ msgstr ""
 msgid "The program may quit after the restore has finished.  If it does, you can then restart the program on the (restored) project."
 msgstr "Le programme pourrait s'arrêter après que la restauration soit terminée.  Si c'est le cas, vous pouvez alors redémarrer le programme dans le projet (restauré)."
 
+# DLR
 #. Displayed if we try to open a .bak file (because there isn't an fwdata one) and the system won't allow it.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksUnauthorizedRenameBakFile
 msgid "The project {0} only exists in the form of a .bak file, and you apparently do not have file access permissions to restore it to the fwdata file. FieldWorks cannot open it. Try renaming it manually."
-msgstr ""
+msgstr "Le projet {0} n'existe qu'en forme de fichier .bak et il semble que vous n'avez pas droit d'accès pour le restaurer au fichier fwdata. FieldWorks ne peut pas l'ouvrir. Essayer de renommer ce fichier."
 
 # DLR
 #. /Src/MigrateSqlDbs/ExistingProjectDlg.resx::label1.Text
@@ -27659,10 +27668,11 @@ msgstr ""
 "Le système d'écriture {0} et tous les textes dans ce système d'écriture seront définitivement supprimés.\n"
 "Êtes-vous sûr de vouloir supprimer le système d'écriture?"
 
+# DLR
 #. Error message. {0} might be a code like "fr" and {1} a bad ID, typically a short string like "frn[".
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidInvalidDictId
 msgid " The writing system {0} specifies an invalid spelling dictionary ({1}). Valid spelling dictionary IDs must only contain ASCII alphanumeric characters or underline. Spell checking will not work for this writing system until you correct this in the Writing System Properties dialog."
-msgstr ""
+msgstr " Le système d'écriture {0} spécifie un dictionnaire d'orthographe non valable ({1}). L'identification d'un dictionnaire d'orthographe doit ne porter que les caractères A-z, a-z, 0-9 et _. La vérification d'orthographe sera désactivée pour ce système d'écriture jusqu'à ce que vous la corrigez dans les propriétés du système d'écriture."
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidDeleteWritingSystemText
@@ -28130,10 +28140,11 @@ msgstr "Cet utilitaire essayera de régler certaines erreurs dans un fichier de 
 msgid "This utility cleans up the homographs numbers of lexical entries. It preserves the current relative order of homographs, so you won't lose any ordering you have done."
 msgstr "Cet utilitaire remet en ordre les chiffres homographes des entrées lexicales. Il préserve l'ordre relatif des homographes en cours. De cette marière, vous ne perdrez pas l'ordre que vous avez établi."
 
+# DLR
 #. Help information for the Merge Wordform option in Utilities.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeWordformsAttemptsTo
 msgid "This utility finds groups of wordforms that have the same text form in all writing systems (though possibly some may be missing some alternatives). It merges such groups into a single wordform. It keeps all the analyses, which may result in some duplicate anlyses to sort out using the Word Analyses tool. Spelling status will be set to Correct if any of the old wordforms is Correct, otherwise Incorrect if any old form is Incorrect; otherwise it stays Undecided."
-msgstr ""
+msgstr "Cet utilitaire cherchera des groupes de formes de mot qui ont la même forme de texte dans tous les systèmes d'écriture (mais peut-être certaines manquent certaines alternatives). Il fusionne chaque tel groupe dans une seule forme de mot. Il garde toutes les analyses, qui peut produire les analyses en double à résoudre avec l'affichage Analyses de mot. Le statut d'orthographe sera Correcte si une des formes de mot originales était Correcte, Incorrecte si une des formes de mot originales était Incorrecte, ou autrement Pas décidé."
 
 # DLR (was "approved/dissapproved près d'un être humain")
 #. /|strings-en.xml::/Linguistics/Morphology/RemoveParserAnalyses/WhatDescription|
@@ -29572,10 +29583,10 @@ msgstr "Annuler Fusionner entrée"
 msgid "Undo Merge Reversal Category"
 msgstr "Annuler Fusionner catégorie d'inversion"
 
-# BB
+# DLR
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUndoMergeWordforms
 msgid "Undo Merge Wordforms"
-msgstr "Annuler fusionner formes de mot"
+msgstr "Annuler Fusionner formes de mot"
 
 # DLR
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksUndoMoveCellBack
@@ -30217,12 +30228,13 @@ msgstr "Utiliser les anciens fichiers de la sauvegarde."
 # DLR ?somehow?
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksUseThisWhen
 msgid "Use this when a project is throwing exceptions such as \"Key 62c22e20-8d8a-42bf-a54c-e21529284f2d not found in identity map...\", and you suspect the data has been corrupted somehow."
-msgstr "À utiliser quand le projet lance les messages comme \"Key 62c22e20-8d8a-42bf-a54c-e21529284f2d not found in identity map...\" et vous pensez que les données ont été endommagées."
+msgstr "À utiliser lorsque le projet lance les messages comme \"Key 62c22e20-8d8a-42bf-a54c-e21529284f2d not found in identity map...\" et vous pensez que les données ont été endommagées."
 
+# DLR
 #. Help information for the merge wordform option in Utilies.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUseMergeWordformsWhen
 msgid "Use this when you discover (e.g., in Wordlist Concordance) that you have more than one wordform with the exact same text"
-msgstr ""
+msgstr "À utiliser lorsque vous trouver (dans Concordance de liste de mots, par exemple) que vous avez plusieurs formes de mot avec exactement le même texte."
 
 # DLR
 #. /Src/FDO/Strings.resx::ksUsedXTimesByAnalyses
