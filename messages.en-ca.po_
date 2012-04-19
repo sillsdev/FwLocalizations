@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: FieldWorks 7.2.3\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
-"POT-Creation-Date: 2012-03-12T18:08:57.1513727-05:00\n"
-"PO-Revision-Date: 2012-03-12 16:51-0800\n"
+"POT-Creation-Date: 2012-04-11T10:56:48.3231838-05:00\n"
+"PO-Revision-Date: 2012-04-11 17:34-0800\n"
 "Last-Translator: FLEx Localization <FLEx_Localization@sil.org>\n"
 "Language-Team: Language <email@address>\n"
 "MIME-Version: 1.0\n"
@@ -662,8 +662,8 @@ msgstr ""
 msgid "Ad hoc Rules"
 msgstr "^3^Ad hoc Rules"
 
-#. Button text when adding new mapping
 #. button label
+#. Button text when adding new mapping
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterSetupDlg.resx::m_btnAdd.Text
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrAdd
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_btnAddHost.Text
@@ -977,7 +977,7 @@ msgstr "^2^Add Writing System"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImportSFMInterlinNewWSTitle
 msgid "Add writing system {0} to your FieldWorks project?"
-msgstr "^2^Add writing system {0} to your FieldWorks project?"
+msgstr "^3^Add writing system {0} to your FieldWorks project?"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdFormatStyle"]
 msgid "Add, delete, or change styles."
@@ -1625,7 +1625,7 @@ msgstr "^1^analysis or vernacular"
 
 #. /Src/LexText/Morphology/ConcordanceDlg.resx::$this.Text
 msgid "Analysis Usage"
-msgstr "^1^Analysis Usage"
+msgstr "^2^Analysis Usage"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ks_AnalysisWS
 msgid "&Analysis Writing System"
@@ -2139,7 +2139,7 @@ msgstr "^1^= Available for Bulk Editing"
 
 #. /Src/LexText/Interlinear/ConfigureInterlinDialog.resx::label2.Text
 msgid "Available lines:"
-msgstr ""
+msgstr "^2^Available lines:"
 
 #. /Src/FwCoreDlgs/FwHelpAbout.resx::lblAvailableMemory.Text
 msgid "Available memory:"
@@ -2317,8 +2317,8 @@ msgstr "^3^Based On"
 msgid "&Based on:"
 msgstr "^2^&Based on:"
 
-#. name for SFM import field; name matches enumeration member name
 #. Currently, only used in IText. We could think of something more generic later.
+#. name for SFM import field; name matches enumeration member name
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksVernacularInParagraph
 #. /Src/LexText/Interlinear/InterlinMaster.resx::m_tpRawText.Text
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksBaseline
@@ -2624,8 +2624,8 @@ msgstr "^2^Border"
 msgid "Border ({0})"
 msgstr "^2^Border ({0})"
 
-#. Text for Borders toolbar button
 #. Tool tip for Borders toolbar button
+#. Text for Borders toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersToolTip
@@ -2730,8 +2730,8 @@ msgstr "^1^Browse"
 msgid "Browse for FieldWorks Project backup file"
 msgstr "^1^Browse for FieldWorks Project backup file"
 
-#. help string
 #. Help string for Find Mapping button
+#. help string
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrFindMapping
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBrowseForFile
 #. (String used 2 times.)
@@ -3315,8 +3315,8 @@ msgstr "^2^Cautions:"
 msgid "CC"
 msgstr "CC"
 
-#. file description for file chooser combo list
 #. Used in the list of file types in file open dialog accessed from Encoding Converters
+#. file description for file chooser combo list
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_transduceProcessorCombo.Items
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCCTable
 #. /Src/FwResources/FwStrings.resx::kstidAllCCTable
@@ -3472,8 +3472,8 @@ msgstr "^3^Character mapping"
 msgid "&Character Style"
 msgstr "^2^&Character Style"
 
-#. Text for Character Styles combobox on toolbar
 #. Tool tip for Character Styles Combo on toolbar
+#. Text for Character Styles combobox on toolbar
 #. /Src/FwResources/FwStrings.resx::kstidFormatCharStyleToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidCharStyleItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidCharStyleToolTip
@@ -3858,6 +3858,11 @@ msgstr "^2^Clear Chart from here on"
 msgid "Clear Current Parser _Analyses"
 msgstr ""
 
+#. Help text for Force Rechecking Word Breaks utility dialog item.
+#. /Src/LexText/Interlinear/ITextStrings.resx::ksParseIsCurrentWarning
+msgid "Clearing these flags is not undoable. We believe it is very safe, but you may wish to make a backup first. However, if things are out of alignment, the effects of leaving them that way are almost certainly worse than any effects of reparsing."
+msgstr "^3^Clearing these flags is not undoable. We believe it is very safe, but you may wish to make a backup first. However, if things are out of alignment, the effects of leaving them that way are almost certainly worse than any effects of reparsing."
+
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::label5.Text
 msgid "Click below to apply borders:"
 msgstr ""
@@ -4012,9 +4017,9 @@ msgstr "^3^Clients connected to: {0}"
 msgid "Clitic of unknown category"
 msgstr "^1^Clitic of unknown category"
 
+#. Displayed on the Advanced button on the Modify Writing System Properties dialog
 #. Text for Close menu item
 #. This is the text for the close option on the file menu.
-#. Displayed on the Advanced button on the Modify Writing System Properties dialog
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::m_btnExit.Text
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ks_Close
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidWsPropsCloseAdvancedButtonText
@@ -4571,8 +4576,8 @@ msgstr "^1^Configure which columns to display"
 msgid "&Configure..."
 msgstr "^1^&Configure..."
 
-#. The text on the sub-item of the book filter toolbar button.
 #. This text will appear on the sidebar context menu and the View menu below each list of sidebar tab items.
+#. The text on the sub-item of the book filter toolbar button.
 #. /Language Explorer/Configuration/CommonDataTreeInclude.xml::/root/commands/command/@label
 #. (String used 4 times.)
 msgid "Configure..."
@@ -4676,8 +4681,8 @@ msgstr "^3^Conversion Failed"
 msgid "Conversion failed. Check your map file for errors."
 msgstr "^5^Conversion failed. Check your map file for errors."
 
-#. Title for message box displayed when an ECException is caught
 #. caption for message box
+#. Title for message box displayed when an ECException is caught
 #. caption for error message box
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrEcExceptionTitle
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksConvMapError
@@ -4720,7 +4725,7 @@ msgstr "^5^Converted:"
 #. /Src/LexText/Interlinear/LinguaLinksImportDlg.resx::columnHeader3.Text
 #. (String used 2 times.)
 msgid "Converter"
-msgstr "Converter"
+msgstr "^3^Converter"
 
 #. labels the file box when type is CC or TEC
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrMapFileLabel
@@ -4837,7 +4842,7 @@ msgstr "^2^&Copy this message to the clipboard and I will paste it into an email
 
 #. /Src/FwCoreDlgs/PicturePropertiesDialog.resx::m_rbCopy.Text
 msgid "&Copy to Linked Files folder"
-msgstr "^1^&Copy to Linked Files folder"
+msgstr "^2^&Copy to Linked Files folder"
 
 #. /|strings-en.xml::/Linguistics/WFI/SpellingStatus/CorrectSpellingStatus|
 msgid "Correct"
@@ -5285,8 +5290,8 @@ msgid "CurrentFullLocale"
 msgstr ""
 
 #. Name of the custom entry in the list of quotation mark languages.
-#. Color defined by user
 #. for list of paper sizes in Page Setup dialog
+#. Color defined by user
 #. /Language Explorer/Configuration/Parts/NotebookLayouts.xml::/LayoutInventory/layout["StText-jtview-publishCustom"]/part[@ref="CustomConfig"]/@label
 #. /Language Explorer/Configuration/Parts/NotebookLayouts.xml::/LayoutInventory/layout["StText-jtview-publishCustomStText"]/part[@ref="CustomConfig"]/@label
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidCustomQuotationMarksName
@@ -5961,9 +5966,9 @@ msgstr "^2^Delete multi-morphemic analyses"
 msgid "Delete Nested Group"
 msgstr ""
 
+#. Alternate text for the delete note item (used in the customize dialog).
 #. Used for formatting the undo/redo labels for deleting notes
 #. Tool tip for the delete note menu item
-#. Alternate text for the delete note item (used in the customize dialog).
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksDeleteNote
 #. (String used 5 times.)
@@ -6260,7 +6265,7 @@ msgstr "^4^Destination"
 #. Error message displayed if user chooses a destination folderthat is not a subfolder of the Linked Files folder.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidDestFolderMustBeInLinkedFiles
 msgid "Destination folder must be an existing subfolder of the Linked Files folder: {0}"
-msgstr "^1^Destination folder must be an existing subfolder of the Linked Files folder: {0}"
+msgstr "^2^Destination folder must be an existing subfolder of the Linked Files folder: {0}"
 
 #. /Src/LexText/LexTextControls/LexImportWizardMarker.resx::lblDestinationInFlex.Text
 msgid "Destination in Language Explorer:"
@@ -6464,7 +6469,7 @@ msgstr "^2^Display Writing System Abbreviations"
 
 #. /Src/LexText/Interlinear/ConfigureInterlinDialog.resx::label4.Text
 msgid "Displayed lines:"
-msgstr ""
+msgstr "^2^Displayed lines:"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::m_txtProjDescription.HelpString
 msgid "Displays a description of the open notebook for future reference in this dialog only"
@@ -6614,7 +6619,7 @@ msgstr "^4^Document"
 #. name for SFM import field; name matches enumeration member name
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFldIgnored
 msgid "Don't Import"
-msgstr "^1^Don't Import"
+msgstr "^3^Don't Import"
 
 #. /Src/FDO/Strings.resx::ksDottedColorUnderline
 msgid "Dotted {0} Underline"
@@ -6730,9 +6735,9 @@ msgstr "^1^&Edit"
 msgid "_Edit"
 msgstr "^1^_Edit"
 
-#. This is the edit category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the edit category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. Used for the undo/redo label for clicking on the Edit button in the Diff. dialog.
+#. This is the edit category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwStrings.resx::kstidEditCategory
 #. /Src/FwResources/FwTMStrings.resx::kstidEditCategory
 #. /Src/UnicodeCharEditor/CharEditorWindow.resx::m_btnEdit.Text
@@ -7419,8 +7424,8 @@ msgstr "^1^equal to"
 msgid "{0}: error"
 msgstr ""
 
-#. used as title for an error message box
 #. Caption for error messages in dialogs
+#. used as title for an error message box
 #. caption for message box
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksErrorCaption
 #. /Src/Common/UIAdapterInterfaces/UIAdapterInterfacesStrings.resx::ksError
@@ -8286,7 +8291,7 @@ msgstr "^2^Exporting..."
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksExtension
 #. (String used 2 times.)
 msgid "Extension"
-msgstr ""
+msgstr "^2^Extension"
 
 #. /Src/LexText/LexTextControls/LiftSynchronizeDlg.resx::m_label2.Text
 msgid "External LIFT source:"
@@ -8471,7 +8476,7 @@ msgstr ""
 
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::$this.StepNames1
 msgid "Field Mapping"
-msgstr "^2^Field Mapping"
+msgstr "^3^Field Mapping"
 
 #. /Src/xWorks/xWorksStrings.resx::FieldNameShouldNotBeEmpty
 msgid "Field Names should not be empty. Please choose a different name."
@@ -8510,7 +8515,7 @@ msgstr "^1^FieldWorks 6.0 XML file"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label10.Text
 msgid "FieldWorks allows you to set links to files such as documents and pictures. "
-msgstr "^3^FieldWorks allows you to set links to files such as documents and pictures. "
+msgstr "^2^FieldWorks allows you to set links to files such as documents and pictures. "
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBackupErrorCaption
 msgid "FieldWorks Backup Failed"
@@ -8662,8 +8667,8 @@ msgstr "^1^FieldWorks project name not specified."
 msgid "FieldWorks Project Properties"
 msgstr "^1^FieldWorks Project Properties"
 
-#. This is the text for the proj. properties option on the file/project managment menu.
 #. This is the text for the proj. properties option on the file/project management menu.
+#. This is the text for the proj. properties option on the file/project managment menu.
 #. /Src/FwResources/FwStrings.resx::kstidFileProjectPropertiesMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidProjPropertiesItemName
 #. (String used 2 times.)
@@ -8679,7 +8684,7 @@ msgstr "^1^FieldWorks Project synchronization problem"
 #. /Src/FwCoreDlgs/UtilityDlg.resx::$this.Text
 #. (String used 3 times.)
 msgid "FieldWorks Project Utilities"
-msgstr "^1^FieldWorks Project Utilities"
+msgstr "^3^FieldWorks Project Utilities"
 
 #. /Src/FwResources/FwStrings.resx::kstidInvalidInstallation
 msgid "FieldWorks software is not installed correctly. Please insert your FieldWorks CD or re-run the Installer and repair your installation."
@@ -8762,7 +8767,7 @@ msgstr "^1^File"
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.StepNames1
 #. (String used 2 times.)
 msgid "File & settings"
-msgstr "^2^File & settings"
+msgstr "^3^File & settings"
 
 #. /Src/Common/Framework/FrameworkStrings.resx::ksCannotLoadFile
 msgid ""
@@ -8812,11 +8817,11 @@ msgstr "^1^File:"
 msgid "&Fills Slot:"
 msgstr "^1^&Fills Slot:"
 
-#. The tooltip for the toolbar button that toggles the book filter on and off.
 #. The tooltip for the filter by book menu item
-#. window caption for book filter
-#. The text for the book filter toggle toolbar item.
 #. Tooltip for the toggle book filter toolbar item.
+#. The text for the book filter toggle toolbar item.
+#. window caption for book filter
+#. The tooltip for the toolbar button that toggles the book filter on and off.
 #. /Src/Common/Controls/FwControls/TextsTriStateTreeView.resx::$this.Text
 #. (String used 7 times.)
 msgid "Filter by Book"
@@ -8876,7 +8881,7 @@ msgstr "^1^Find a wordform."
 
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksFindAndFixErrors
 msgid "Find and fix errors in a FieldWorks data (XML) file."
-msgstr "^1^Find and fix errors in a FieldWorks data (XML) file."
+msgstr "^3^Find and fix errors in a FieldWorks data (XML) file."
 
 #. /Src/FwCoreDlgs/FwFindReplaceDlg.resx::$this.Text
 msgid "Find and Replace"
@@ -8891,16 +8896,16 @@ msgstr "^2^Find and Replace Specified Text"
 msgid "Find and Replace Text"
 msgstr "^2^Find and Replace Text"
 
-#. dialog caption
 #. Title for Open File dialog for CC tables
+#. dialog caption
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrCCTitle
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindCCTableFile
 #. (String used 2 times.)
 msgid "Find CC Table File"
 msgstr "^5^Find CC Table File"
 
-#. dialog caption
 #. Title for Open File dialog for TECkit files
+#. dialog caption
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrTecTitle
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindConvMappingFile
 #. (String used 2 times.)
@@ -9007,8 +9012,8 @@ msgstr "^4^Find Record"
 msgid "_Find Record..."
 msgstr "^4^_Find Record..."
 
-#. Title for message box when Find Related Words can't find any related words
 #. message box title
+#. Title for message box when Find Related Words can't find any related words
 #. /Src/FdoUi/FdoUiStrings.resx::ksFindRelatedWords
 #. /Src/FdoUi/FdoUiStrings.resx::kstidFindRelWordsTitle
 #. (String used 2 times.)
@@ -9023,8 +9028,8 @@ msgstr "^2^Find Reversal Entry"
 msgid "_Find reversal entry..."
 msgstr "^2^_Find reversal entry..."
 
-#. dialog caption
 #. Title for Open File dialog for unspecified mapping type
+#. dialog caption
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrUnspecifiedTitle
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindUnknownSpecFile
 #. (String used 2 times.)
@@ -9267,7 +9272,7 @@ msgstr "^4^For each marker in your standard format file, indicate its destinatio
 
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::label7.Text
 msgid "For each marker, specify the destination in Language Explorer, and which writing system the marker content is in."
-msgstr "^2^For each marker, specify the destination in Language Explorer, and which writing system the marker content is in."
+msgstr "^3^For each marker, specify the destination in Language Explorer, and which writing system the marker content is in."
 
 #. This is the message displayed in a main window's status bar when there is no other meaningful message to display.
 #. /Src/Common/Framework/FwMainWnd.resx::statusBarFwPanel1.Text
@@ -9296,6 +9301,11 @@ msgstr "^1^For the text:"
 msgid "For the text: "
 msgstr "^1^For the text:"
 
+#. Label for Force Rechecking Word Breaks item in Utility dialog
+#. /Src/LexText/Interlinear/ITextStrings.resx::ksClearParseIsCurrent
+msgid "Force Rechecking Word Breaks"
+msgstr "^3^Force Rechecking Word Breaks"
+
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/item/parameters/clerks/clerk/sortMethods/sortMethod/@label
 #. /Language Explorer/Configuration/Lexicon/ReversalEntriesBulkEdit/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/columns/column/@label
@@ -9323,9 +9333,9 @@ msgstr "^1^Form"
 msgid "F&ormat"
 msgstr "^1^F&ormat"
 
-#. This is the format category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the format category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the name of the format toolbar as it shows up in the toolbar configuration feature
+#. This is the format category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwStrings.resx::kstidFormatCategory
 #. /Src/FwResources/FwStrings.resx::kstidFormatToolBarText
 #. /Src/FwResources/FwTMStrings.resx::kstidFormatCategory
@@ -9940,8 +9950,8 @@ msgstr "^2^He&lp"
 msgid "Hel&p"
 msgstr "^2^Hel&p"
 
-#. This is the text for the Help menu on the main menu bar.
 #. Tool tip for showing help topics
+#. This is the text for the Help menu on the main menu bar.
 #. This is the help category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_helpButton.Text
 #. /Src/Common/Controls/FwControls/FilterAllTextsDialog.resx::m_btnHelp.Text
@@ -10292,7 +10302,7 @@ msgstr ""
 
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksCannotUndo
 msgid "If this utility fails, you will need to go back to a previously saved version of the chosen database."
-msgstr "^1^If this utility fails, you will need to go back to a previously saved version of the chosen database."
+msgstr "^3^If this utility fails, you will need to go back to a previously saved version of the chosen database."
 
 #. /Src/FwCoreDlgs/MissingOldFieldWorksDlg.resx::label2.Text
 msgid "If you can open the original project in FieldWorks 6.0 on another computer, create a backup that includes XML. Cancel this dialog box and select that backup file in the Restore a Project dialog box."
@@ -10394,9 +10404,9 @@ msgstr "^1^&Import"
 msgid "_Import"
 msgstr "^1^_Import"
 
-#. Undo/Redo string for File/Import
 #. button label
 #. This is the text in the caption of the importing progress dialog box.
+#. Undo/Redo string for File/Import
 #. Tool tip for the import menu item
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImport
 #. /Src/LexText/Interlinear/LinguaLinksImportDlg.resx::btnImport.Text
@@ -10452,7 +10462,7 @@ msgstr "^2^Import Failed"
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::tabPage1.Text
 #. (String used 3 times.)
 msgid "Import Files"
-msgstr "^2^Import Files"
+msgstr "^3^Import Files"
 
 #. /Src/LexText/Interlinear/InterlinearImportDlg.resx::m_tbDescription.Text
 msgid "Import from the FLExText interlinear export format. Currently this process imports only the baseline and free translations. It makes no changes to the lexicon."
@@ -10504,7 +10514,7 @@ msgstr "^2^Import Residue (Sense)"
 
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::label6.Text
 msgid "Import settings will be loaded from this file:"
-msgstr "^2^Import settings will be loaded from this file:"
+msgstr "^3^Import settings will be loaded from this file:"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::$this.Text
 msgid "Import Standard Format anthropology data"
@@ -10512,7 +10522,7 @@ msgstr "^4^Import Standard Format anthropology data"
 
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::$this.Text
 msgid "Import Standard Format interlinear texts"
-msgstr "^2^Import Standard Format interlinear texts"
+msgstr "^3^Import Standard Format interlinear texts"
 
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.Text
 msgid "Import Standard Format lexical data"
@@ -10653,8 +10663,8 @@ msgstr ""
 msgid "Incorrectly nested parentheses in regular expression."
 msgstr ""
 
-#. Tool tip for Increase Indent toolbar button
 #. Text for Increase Indent toolbar button
+#. Tool tip for Increase Indent toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatIncreaseIndentToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidIncreaseIndentItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidIncreaseIndentToolTip
@@ -11363,7 +11373,7 @@ msgstr "^2^Interlinear Import failed. Are you sure you are importing a file in F
 #. Used in the list of file times in file open/save dialogs
 #. /Src/FwResources/FwStrings.resx::kstidInterlinearSfm
 msgid "Interlinear SFM files"
-msgstr "^2^Interlinear SFM files"
+msgstr "^3^Interlinear SFM files"
 
 #. /Language Explorer/Configuration/Words/Texts/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Interlinear Texts"
@@ -11684,8 +11694,8 @@ msgstr "^2^{0}. It may be recreated when the parser runs again."
 msgid "&Italic"
 msgstr "^2^&Italic"
 
-#. Text for Italic toolbar button
 #. Tool tip for Italic toolbar button
+#. Text for Italic toolbar button
 #. /Src/FDO/Strings.resx::ksItalic
 #. /Src/FwCoreDlgs/FwCoreDlgControls/ConfigSenseLayout.resx::m_chkSenseItalicNumber.Text
 #. /Src/FwResources/FwStrings.resx::kstidFormatItalicToolTip
@@ -12043,8 +12053,8 @@ msgstr ""
 msgid "Left attached (reordrant around single base character)"
 msgstr ""
 
-#. Tool tip for format/borders left border tooltip
 #. Text for format/borders left border tooltip
+#. Tool tip for format/borders left border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersLeftToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersLeftItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersLeftToolTip
@@ -12137,14 +12147,14 @@ msgstr ""
 #. Displayed on the More/Less button on the find/replace dialog box.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidFindLessButtonText
 msgid "&Less"
-msgstr ""
+msgstr "^1^&Less"
 
 #. Alternative text for more/less options button when more options are shown
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksLess
 #. /Src/LexText/Morphology/MEStrings.resx::ksLess
 #. (String used 2 times.)
 msgid "Less"
-msgstr ""
+msgstr "^1^Less"
 
 #. /Src/Common/Controls/XMLViews/SimpleIntegerMatchDlg.resx::m_comboMatchType.Items1
 msgid "less than"
@@ -12475,11 +12485,11 @@ msgstr "^3^Link To Allomorph"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksMediaFilesRestoreDlg
 msgid "Linked files"
-msgstr "^1^Linked files"
+msgstr "^2^Linked files"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::m_tpExternalLinks.Text
 msgid "Linked Files"
-msgstr "^1^Linked Files"
+msgstr "^2^Linked Files"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_linkedFiles.Text
 msgid "&Linked files (for example, picture, sound, or movie files)"
@@ -12503,11 +12513,11 @@ msgstr "^1^Linked Files folder unavailable"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label12.Text
 msgid "Linked Files folder: "
-msgstr "^1^Linked Files folder: "
+msgstr "^2^Linked Files folder: "
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksLinkedFilesFolder
 msgid "(Linked Files folder: {0})"
-msgstr "^1^(Linked Files folder: {0})"
+msgstr "^2^(Linked Files folder: {0})"
 
 #. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::$this.Text
 msgid "Linked files in backup are older"
@@ -13522,8 +13532,8 @@ msgstr "^1^More Column Choices..."
 msgid "More Windows"
 msgstr ""
 
-#. Text for the more windows menu item
 #. Dynamically displayed menu item
+#. Text for the more windows menu item
 #. /Src/FwResources/FwStrings.resx::kstidMoreWindows
 #. /Src/FwResources/FwTMStrings.resx::kstidMoreWindowsItemName
 #. (String used 2 times.)
@@ -13667,8 +13677,8 @@ msgstr "^2^Move Cell Forward"
 msgid "Move &Down"
 msgstr "^2^Move &Down"
 
-#. context menu item
 #. Used in Interlinear context menu
+#. context menu item
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMoveDown
 #. /Src/xWorks/xWorksStrings.resx::MoveDown
@@ -13778,8 +13788,8 @@ msgstr "^1^&Move to Linked Files folder"
 msgid "Move &Up"
 msgstr "^2^Move &Up"
 
-#. Used in Interlinear context menu
 #. context menu item
+#. Used in Interlinear context menu
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMoveUp
 #. /Src/xWorks/xWorksStrings.resx::MoveUp
@@ -13862,8 +13872,8 @@ msgstr ""
 msgid "{0}, Multiple Writing Systems"
 msgstr ""
 
-#. Displayed when text box contains more than one writing system
 #. dialog caption for kstidFindRepVariableWs
+#. Displayed when text box contains more than one writing system
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidMultipleWritingSystems
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidMultipleWs
 #. (String used 2 times.)
@@ -14374,7 +14384,7 @@ msgstr ""
 #. name for SFM import field; name matches enumeration member name
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFldId
 msgid "New Text"
-msgstr "^1^New Text"
+msgstr "^3^New Text"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksNewTimeOfDayListItems
 msgid "{0} New Time of Day List Items"
@@ -14497,7 +14507,7 @@ msgstr "^3^No Ad hoc Co-occurrence Prevention Rules"
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksNoAnalysis
 msgid "no analysis"
-msgstr "^1^no analysis"
+msgstr "^2^no analysis"
 
 #. /|strings-en.xml::/EmptyTitles/No-AnthroItems|
 msgid "No Anthropology Categories"
@@ -14600,10 +14610,10 @@ msgstr "^3^No files"
 msgid "No files to import!  Please choose at least one file."
 msgstr ""
 
-#. The name for the no filters menu item
 #. This text will appear as a button for a filter in the Notes window.
-#. The tooltip for the no filter menu item
+#. The name for the no filters menu item
 #. The text on the button in the sidebar for turning off all filters
+#. The tooltip for the no filter menu item
 #. /Src/Common/Filters/FiltersStrings.resx::ksNoFilter
 #. /Src/FwResources/FwStrings.resx::kstidNoFilterButtonText
 #. /Src/FwResources/FwStrings.resx::kstidNoFilterItemName
@@ -14684,7 +14694,7 @@ msgstr "^1^No Notebook Record Types"
 #. /Src/LexText/ParserUI/ParserUIStrings.resx::ksNoParserLoaded
 #. (String used 2 times.)
 msgid "No Parser Loaded"
-msgstr "^1^No Parser Loaded"
+msgstr "^3^No Parser Loaded"
 
 #. /|strings-en.xml::/EmptyTitles/No-PhPhonemes|
 msgid "No Phonemes"
@@ -14836,8 +14846,8 @@ msgstr "^1^ None"
 msgid "&None"
 msgstr "^1^&None"
 
-#. Used in Description on the General tab of the Style dialog box
 #. Displays in the label associated with the ChooserTreeView
+#. Used in Description on the General tab of the Style dialog box
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::m_cboSeparator.Items
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_btnNone.Text
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNone
@@ -15079,7 +15089,7 @@ msgstr "^3^Note, FieldWorks will not make any changes to the standard format fil
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label13.Text
 msgid "Note: If you share this project over a network connection, this folder needs to be in the project folder in order for linked files to be accessible to other users. "
-msgstr "^3^Note: If you share this project over a network connection, this folder needs to be in the project folder in order for linked files to be accessible to other users. "
+msgstr "^2^Note: If you share this project over a network connection, this folder needs to be in the project folder in order for linked files to be accessible to other users. "
 
 #. {0} is a newline character
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksLeftButtonEnabledWhen
@@ -15138,8 +15148,8 @@ msgstr "^4^Notebook Records"
 msgid "Notebook Tools"
 msgstr "^4^Notebook Tools"
 
-#. Appears as header of the final, Notes column.
 #. Text for the notes menu item
+#. Appears as header of the final, Notes column.
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksNotesColumnHeader
 #. (String used 2 times.)
 msgid "Notes"
@@ -15543,8 +15553,8 @@ msgstr "^2^Only..."
 msgid "&Open"
 msgstr "^1^&Open"
 
-#. This text appears as a button for a filter in the Notes window.
 #. Text of filter sidebar button
+#. This text appears as a button for a filter in the Notes window.
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_btnOk.Text
 #. (String used 3 times.)
 msgid "Open"
@@ -15908,7 +15918,7 @@ msgstr "^3^Overview"
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.StepNames
 #. (String used 2 times.)
 msgid "Overview & backup"
-msgstr "^1^Overview & backup"
+msgstr "^3^Overview & backup"
 
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_clickCopyOverwriteButton.Text
 #. /Src/Common/Controls/XMLViews/NonEmptyTargetControl.resx::overwriteRadio.Text
@@ -15994,7 +16004,7 @@ msgstr "^2^Paragraph"
 #. name for SFM import field; name matches enumeration member name
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFldParagraphBreak
 msgid "Paragraph Break"
-msgstr "^2^Paragraph Break"
+msgstr "^3^Paragraph Break"
 
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidBidiClassB
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidBidiClassB
@@ -16006,8 +16016,8 @@ msgstr ""
 msgid "&Paragraph Style"
 msgstr "^2^&Paragraph Style"
 
-#. Text for Paragraph Styles combobox on toolbar
 #. Tool tip for Paragraph Styles Combo on toolbar
+#. Text for Paragraph Styles combobox on toolbar
 #. /Src/FwResources/FwStrings.resx::kstidFormatParaStyleToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidParaStyleItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidParaStyleToolTip
@@ -16128,9 +16138,9 @@ msgstr "^1^&Paste"
 msgid "_Paste"
 msgstr "^1^_Paste"
 
-#. for Undo
-#. Tool tip for Paste toolbar/menu item
 #. Tool tip for Paste toolbar button
+#. Tool tip for Paste toolbar/menu item
+#. for Undo
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdPaste"]
 #. /Src/FwResources/FwStrings.resx::kstidEditPaste
 #. /Src/FwResources/FwStrings.resx::kstidEditPasteToolTip
@@ -16507,7 +16517,7 @@ msgstr ""
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksChooseTransducer
 msgid "Please choose or set up a Process"
-msgstr "^1^Please choose or set up a Process"
+msgstr "^3^Please choose or set up a Process"
 
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrMustChooseIcuMapping
 msgid "Please choose the particular ICU processor you want from the Process Options combo box."
@@ -16844,8 +16854,8 @@ msgstr "^1^Primary Entry(s)"
 msgid "Primary Gloss"
 msgstr "^1^Primary Gloss"
 
-#. Tool tip for Print toolbar/menu item
 #. Tool tip for Print toolbar button
+#. Tool tip for Print toolbar/menu item
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdPrint"]
 #. /Src/FwResources/FwStrings.resx::kstidFilePrintToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidPrintToolTip
@@ -16953,7 +16963,7 @@ msgstr "^2^Process without importing.  Useful for creating all of the LLPhaseXOu
 
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::label9.Text
 msgid "Process:"
-msgstr "^1^Process:"
+msgstr "^3^Process:"
 
 #. Label used in progress bar
 #. /Src/xWorks/xWorksStrings.resx::ksParsing
@@ -17051,8 +17061,8 @@ msgstr "^3^Project Locations and Sharing"
 msgid "Project Locations and Sharing..."
 msgstr "^3^Project Locations and Sharing..."
 
-#. This is the text for the project managment option on the file menu.
 #. Text for menu and toolbar item
+#. This is the text for the project managment option on the file menu.
 #. /Src/FwResources/FwStrings.resx::kstidFileProjMgmtMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidProjManagementItemName
 #. (String used 2 times.)
@@ -17091,8 +17101,8 @@ msgstr "^1^Project: {0}"
 msgid "Projects currently open:"
 msgstr "^1^Projects currently open:"
 
-#. label for folder chooser dialog
 #. Label for FolderBrowserDialog
+#. label for folder chooser dialog
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksChooseProjectFolder
 #. (String used 2 times.)
 msgid "Projects Folder"
@@ -17401,7 +17411,7 @@ msgstr "^1^Really delete field and contents?"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksReassignHomographs
 msgid "Reassign Homographs"
-msgstr "^2^Reassign Homographs"
+msgstr "^3^Reassign Homographs"
 
 #. /|strings-en.xml::/ClassNames/RnGenericRec|
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
@@ -18116,8 +18126,8 @@ msgstr "^1^Ref"
 msgid "Refer to as"
 msgstr "^1^Refer to as"
 
-#. name for SFM import field; name matches enumeration member name
 #. This text will appear as a button for a sort method in the Notes window.
+#. name for SFM import field; name matches enumeration member name
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexExampleSentence-jtview-publishRoot"]/part[@ref="ReferencePub"]/@label
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexExampleSentence-jtview-publishRootMinor"]/part[@ref="ReferencePub"]/@label
 #. /Language Explorer/Configuration/Parts/LexSenseLayouts.xml::/LayoutInventory/layout["LexExampleSentence-jtview-publishRootMinorComplexFormExample"]/part[@ref="ReferencePub"]/@label
@@ -18420,8 +18430,8 @@ msgstr "^3^Remove &All"
 msgid "Remove &Character Style"
 msgstr ""
 
-#. Tool tip for Reset Character toolbar button
 #. Tool tip for Reset Character toolbar/menu item
+#. Tool tip for Reset Character toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidRemoveCharacterStyleToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidRemoveCharStyleToolTip
 #. (String used 2 times.)
@@ -18693,8 +18703,8 @@ msgstr ""
 msgid "Reset P&aragraph Style"
 msgstr ""
 
-#. Tool tip for Reset Paragraph toolbar/menu item
 #. Tool tip for Reset Paragraph toolbar button
+#. Tool tip for Reset Paragraph toolbar/menu item
 #. /Src/FwResources/FwStrings.resx::kstidResetParagraphStyleToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidResetParaStyleToolTip
 #. (String used 2 times.)
@@ -18998,8 +19008,8 @@ msgstr ""
 msgid "Right attached"
 msgstr ""
 
-#. Tool tip for format/borders right border tooltip
 #. Text for format/borders right border tooltip
+#. Tool tip for format/borders right border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersRightToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersRightItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersRightToolTip
@@ -19134,11 +19144,11 @@ msgstr "^3^Rule to Prevent Morpheme Co-occurrence"
 #. /Src/FwCoreDlgs/UtilityDlg.resx::m_btnRunUtils.Text
 #. (String used 2 times.)
 msgid "&Run Checked Utilities Now"
-msgstr "^2^&Run Checked Utilities Now"
+msgstr "^3^&Run Checked Utilities Now"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdProjectUtilities"]
 msgid "Run some special utilities to process your data."
-msgstr ""
+msgstr "^3^Run some special utilities to process your data."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoMovies"]
 msgid "Run the Demo Movies."
@@ -19170,9 +19180,9 @@ msgstr ""
 msgid "SampleValue"
 msgstr ""
 
-#. This is the text for the save option on the file menu.
-#. Text for Save toolbar button
 #. Button text when saving modified mapping
+#. Text for Save toolbar button
+#. This is the text for the save option on the file menu.
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrSave
 #. /Src/FwResources/FwStrings.resx::kstidFileSaveMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidSaveItemName
@@ -19423,12 +19433,12 @@ msgstr "^1^Select _All"
 #. Description text displayed in Browse For Folder dialog box as accessed from Picture Properties dialog box. (Parameter is path to Linked Files base folder.)
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidSelectLinkedFilesSubFolder
 msgid "Select a location within the Linked Files folder ({0}) for the picture file."
-msgstr "^1^Select a location within the Linked Files folder ({0}) for the picture file."
+msgstr "^2^Select a location within the Linked Files folder ({0}) for the picture file."
 
 #. message box title
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksSelectProcess
 msgid "Select a Process"
-msgstr ""
+msgstr "^3^Select a Process"
 
 #. /Src/xWorks/DictionaryConfigMgrDlg.resx::m_dlgText.Text
 msgid "Select a view to rename, copy or delete it."
@@ -19626,7 +19636,7 @@ msgstr "^1^Select the target field and the list choice to change it to"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksSelectSectionsExported
 msgid "Select the texts to be exported into a single document."
-msgstr "^3^Select the texts to be exported into a single document."
+msgstr "^2^Select the texts to be exported into a single document."
 
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksAdvDlgPartialPost
 msgid "Select the words to be marked as postposed."
@@ -20854,8 +20864,8 @@ msgstr ""
 msgid "Specifies an abbreviation to identify the writing system."
 msgstr ""
 
-#. help string
 #. Generic help string
+#. help string
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrGenericHelp
 #. /Src/FwCoreDlgs/CnvtrPropertiesCtrl.resx::cboSpec.HelpString
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSpecifiesActualEC
@@ -20896,8 +20906,8 @@ msgstr ""
 msgid "Specifies the ICU converter to use."
 msgstr "^5^Specifies the ICU converter to use."
 
-#. Help string for ICU transducer
 #. help string
+#. Help string for ICU transducer
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrIcuTransHelp
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSpecifiesICUTrans
 #. (String used 2 times.)
@@ -21087,8 +21097,8 @@ msgstr ""
 msgid "Standard Format _Notebook data..."
 msgstr "^4^Standard Format _Notebook data..."
 
-#. Used in the list of file types in file open dialogs
 #. Used in the list of file types in file open/save dialogs
+#. Used in the list of file types in file open dialogs
 #. /Src/FwResources/FwStrings.resx::kstidDefaultStandardFormat
 #. (String used 2 times.)
 msgid "Standard Format Files"
@@ -21344,8 +21354,8 @@ msgstr "^1^Step 3"
 msgid "&Stop"
 msgstr "^1^&Stop"
 
-#. This is the text for the stop button on the progress dialog when updating the page breaks
 #. Stop button text on the import progress dialog.
+#. This is the text for the stop button on the progress dialog when updating the page breaks
 #. /Src/FwResources/FwStrings.resx::kstidUpdatePageBreakButtonText
 #. (String used 2 times.)
 msgid "Stop"
@@ -22148,7 +22158,7 @@ msgstr "^2^Texts & Words Statistics (using chosen texts)"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImportSFMInterlinTextCount
 msgid "{0} texts will be imported from this SFM file."
-msgstr "^2^{0} texts will be imported from this SFM file."
+msgstr "^3^{0} texts will be imported from this SFM file."
 
 #. /Src/Utilities/Reporting/UsageEmailDialog.resx::m_topLineText.Text
 msgid "Thank you for checking out this preview version of FieldWorks Language Explorer."
@@ -23453,11 +23463,11 @@ msgstr ""
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImportSFMInterlinNewVernac
 msgid "This import is set to use the writing system {0} as a vernacular writing system, but it is not in your FieldWorks project. Would you like to add it?"
-msgstr "^2^This import is set to use the writing system {0} as a vernacular writing system, but it is not in your FieldWorks project. Would you like to add it?"
+msgstr "^3^This import is set to use the writing system {0} as a vernacular writing system, but it is not in your FieldWorks project. Would you like to add it?"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImportSFMInterlinNewAnalysis
 msgid "This import is set to use the writing system {0} as an analysis writing system, but it is not in your FieldWorks project. Would you like to add it?"
-msgstr "^2^This import is set to use the writing system {0} as an analysis writing system, but it is not in your FieldWorks project. Would you like to add it?"
+msgstr "^3^This import is set to use the writing system {0} as an analysis writing system, but it is not in your FieldWorks project. Would you like to add it?"
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoBinaryCompoundRule-Detail-BlankLeftMember"]/slice/@label
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoBinaryCompoundRule-Detail-BlankOverrideHead"]/slice/@label
@@ -23615,16 +23625,21 @@ msgstr ""
 
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksThisUtilityAttemptsTo
 msgid "This utility attempts to fix various errors in a FieldWorks project file.  The project must not be open, and must be in the fwdata (XML) format."
-msgstr "^1^This utility attempts to fix various errors in a FieldWorks project file.  The project must not be open, and must be in the fwdata (XML) format."
+msgstr "^3^This utility attempts to fix various errors in a FieldWorks project file.  The project must not be open, and must be in the fwdata (XML) format."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhatIsReassignHomographs
 msgid "This utility cleans up the homographs numbers of lexical entries. It preserves the current relative order of homographs, so you won't lose any ordering you have done."
 msgstr "^3^This utility cleans up the homographs numbers of lexical entries. It preserves the current relative order of homographs, so you won't lose any ordering you have done."
 
+#. Help text for Force Rechecking Word Breaks utility dialog item.
+#. /Src/LexText/Interlinear/ITextStrings.resx::ksClearParseIsCurrentDoes
+msgid "This utility clears an internal flag that FLEx uses to track whether a text's analysis is up-to-date. The effect will be that each text is reparsed into words the next time this information is needed. Work you have done analyzing texts will not be affected, except possibly where word alignment is actually wrong. You may see a longer delay than usual the next time you want a concordance."
+msgstr "^3^This utility clears an internal flag that FLEx uses to track whether a text's analysis is up-to-date. The effect will be that each text is reparsed into words the next time this information is needed. Work you have done analyzing texts will not be affected, except possibly where word alignment is actually wrong. You may see a longer delay than usual the next time you want a concordance."
+
 #. Help information for the Merge Wordform option in Utilities.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeWordformsAttemptsTo
 msgid "This utility finds groups of wordforms that have the same text form in all writing systems (though possibly some may be missing some alternatives). It merges such groups into a single wordform. It keeps all the analyses, which may result in some duplicate anlyses to sort out using the Word Analyses tool. Spelling status will be set to Correct if any of the old wordforms is Correct, otherwise Incorrect if any old form is Incorrect; otherwise it stays Undecided."
-msgstr ""
+msgstr "^3^This utility finds groups of wordforms that have the same text form in all writing systems (though possibly some may be missing some alternatives). It merges such groups into a single wordform. It keeps all the analyses, which may result in some duplicate anlyses to sort out using the Word Analyses tool. Spelling status will be set to Correct if any of the old wordforms is Correct, otherwise Incorrect if any old form is Incorrect; otherwise it stays Undecided."
 
 #. /|strings-en.xml::/Linguistics/Morphology/RemoveParserAnalyses/WhatDescription|
 msgid "This utility removes all parser approved analyses from the system. It does not remove analyses that are approved/disapproved of by a human being, however. "
@@ -23751,8 +23766,8 @@ msgstr "^4^Time of Event: "
 msgid "Tip:"
 msgstr "^2^Tip:"
 
-#. Userview label
 #. field name for Data Notebook records
+#. Userview label
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Parts/CellarParts.xml::/PartInventory/bin/part[@id="StText-Detail-TitleAllWs"]/slice/@label
@@ -23942,8 +23957,8 @@ msgstr "^2^&Top"
 msgid "Top"
 msgstr "^2^Top"
 
-#. Tool tip for format/borders top border tooltip
 #. Text for format/borders top border tooltip
+#. Tool tip for format/borders top border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersTopToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersTopItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersTopToolTip
@@ -25410,12 +25425,17 @@ msgstr "^1^Use the older files from the backup."
 
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksUseThisWhen
 msgid "Use this when a project is throwing exceptions such as \"Key 62c22e20-8d8a-42bf-a54c-e21529284f2d not found in identity map...\", and you suspect the data has been corrupted somehow."
-msgstr ""
+msgstr "^3^Use this when a project is throwing exceptions such as \"Key 62c22e20-8d8a-42bf-a54c-e21529284f2d not found in identity map...\", and you suspect the data has been corrupted somehow."
 
 #. Help information for the merge wordform option in Utilies.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUseMergeWordformsWhen
 msgid "Use this when you discover (e.g., in Wordlist Concordance) that you have more than one wordform with the exact same text"
-msgstr ""
+msgstr "^3^Use this when you discover (e.g., in Wordlist Concordance) that you have more than one wordform with the exact same text"
+
+#. Help text for Force Rechecking Word Breaks utility dialog item.
+#. /Src/LexText/Interlinear/ITextStrings.resx::ksUseClearParseIsCurrentWhen
+msgid "Use this when you suspect the program does not have its analysis of texts aligned with the text. One thing that could cause this was using the Change Spelling dialog in FLEx 7.0 through 7.2.2. One symptom is an incorrect Word List Concordance, where what is highlighted for an occurrence is not the right word."
+msgstr "^3^Use this when you suspect the program does not have its analysis of texts aligned with the text. One thing that could cause this was using the Change Spelling dialog in FLEx 7.0 through 7.2.2. One symptom is an incorrect Word List Concordance, where what is highlighted for an occurrence is not the right word."
 
 #. /Src/FDO/Strings.resx::ksUsedXTimesByAnalyses
 msgid "{0}. Used {1} times by analyses."
@@ -25483,8 +25503,8 @@ msgstr "^2^User Opinion Unknown (Analysis Candidates)"
 msgid "User Properties"
 msgstr ""
 
-#. Text tip for user properties menu item
 #. This is the text for the user properties menu on the tools menu.
+#. Text tip for user properties menu item
 #. /Src/FwResources/FwStrings.resx::kstidUserPropertiesMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidUserPropertiesItemName
 #. (String used 2 times.)
@@ -25511,7 +25531,7 @@ msgstr "^3^Utilities"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Utilities..."
-msgstr "^2^_Utilities..."
+msgstr "^3^_Utilities..."
 
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::$this.Text
 msgid "Valid Characters"
@@ -25802,8 +25822,8 @@ msgstr "^1^&View"
 msgid "_View"
 msgstr "^1^_View"
 
-#. This is the view category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the view category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the view category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwStrings.resx::kstidViewCategory
 #. /Src/FwResources/FwTMStrings.resx::kstidViewCategory
 #. (String used 2 times.)
@@ -25862,15 +25882,15 @@ msgstr "^1^wanted → want {0}ed{1}"
 msgid "wanted → want -ed"
 msgstr ""
 
-#. Used as dialog box caption
-#. Message box caption
+#. message box caption
+#. Title for warning message box
+#. heading for message box
 #.
 #. 			Caption for warning message box
 #.
-#. heading for message box
-#. Title for warning message box
+#. Message box caption
 #. used by DeleteCustomList
-#. message box caption
+#. Used as dialog box caption
 #. /Src/Common/Controls/Widgets/Strings.resx::ksWarning
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksWarning
 #. /Src/Common/CoreImpl/CoreImplStrings.resx::ksWarning
@@ -26444,9 +26464,9 @@ msgstr "^1^&Writing System"
 msgid "_Writing System"
 msgstr "^1^_Writing System"
 
+#. Item name for the writing system selector control on the toolbar. Also used as a column header in controls that display a list of multilingual properties.
 #. Item name for the writing system combobox control on the toolbar
 #. Tooltip text for the writing system selector combo box on the toolbar
-#. Item name for the writing system selector control on the toolbar. Also used as a column header in controls that display a list of multilingual properties.
 #. /Language Explorer/Configuration/Main.xml::/window/toolbars/toolbar/menu/@label
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::InfoColumn.Text
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::label3.Text
@@ -26740,7 +26760,7 @@ msgstr "^3^You cannot use 'Undo' to cancel the effect of this utility. You can r
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksCannotUndoTransducingCitForms
 #. (String used 2 times.)
 msgid "You cannot use 'Undo' to cancel the effect of this utility. You would need to go back to a previously saved version of the database."
-msgstr "^2^You cannot use 'Undo' to cancel the effect of this utility. You would need to go back to a previously saved version of the database."
+msgstr "^3^You cannot use 'Undo' to cancel the effect of this utility. You would need to go back to a previously saved version of the database."
 
 #. /Src/xWorks/xWorksStrings.resx::DidNotSelectValidWsForDb
 msgid "You did not select a writing system that is valid for this database. Unless you have previously entered data in this database in this writing system, this field will never be shown."
@@ -26886,8 +26906,8 @@ msgstr ""
 msgid "{0} Zero or more times"
 msgstr "^5^{0} Zero or more times"
 
-#. Tool tip for Zoom Combo on toolbar
 #. Text for Zoom Combo on toolbar
+#. Tool tip for Zoom Combo on toolbar
 #. /Src/FwResources/FwStrings.resx::kstidZoomToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidZoomItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidZoomToolTip
@@ -27124,13 +27144,13 @@ msgstr ""
 msgid "Back &Translation"
 msgstr ""
 
-#. Appears in details column on import mapping page
-#. Name of back translation toolbar in the customize toolbar dialog
-#. This is the name of the back translation toolbar as it shows up in the toolbar configuration feature
-#. This is the back translation category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
-#. This text will appear as a tab in the task bar.
 #. The tooltip for the Back Translation menu item
 #. The category for back translation toolbar
+#. Appears in details column on import mapping page
+#. This text will appear as a tab in the task bar.
+#. This is the back translation category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the name of the back translation toolbar as it shows up in the toolbar configuration feature
+#. Name of back translation toolbar in the customize toolbar dialog
 #. /Src/TE/TeImportExport/ScrImportComponents.resx::kstidImportWizMappingDetailBackTrans
 #. /Src/TE/TeImportExport/SFFileListBuilder.resx::tabBackTranslation.Text
 #. /Src/TE/TeResources/TeStrings.resx::kstidBackTransBarText
@@ -27217,8 +27237,8 @@ msgstr ""
 msgid "<Based on Context>"
 msgstr ""
 
-#. Scripture check group name
 #. show style level
+#. Scripture check group name
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::Basic
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidStyleLevelBasic
 #. (String used 2 times.)
@@ -27259,8 +27279,8 @@ msgstr ""
 msgid "&Biblical Terms"
 msgstr ""
 
-#. This is the name of the biblical terms toolbar as it shows up in the toolbar configuration feature
 #. Checking--This text will appear in Sidebar, Views menu, and Information Bar
+#. This is the name of the biblical terms toolbar as it shows up in the toolbar configuration feature
 #. The tooltip for the Biblical Terms menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidKeyTermsView
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidKeytermsBarText
@@ -27269,8 +27289,8 @@ msgstr ""
 msgid "Biblical Terms"
 msgstr ""
 
-#. Text for the go to book menu item
 #. The tooltip for the insert book menu item
+#. Text for the go to book menu item
 #. /Src/TE/TeDialogs/EmptyScripture.resx::btnBook.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoBookItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertBooksItemName
@@ -27278,8 +27298,8 @@ msgstr ""
 msgid "&Book"
 msgstr ""
 
-#. Userview label
 #. The filter name for the book filter
+#. Userview label
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::label24.Text
 #. /Src/TE/TeResources/TeStrings.resx::kstidFilterBook
 #. /Src/TE/TeResources/TeStrings.resx::kstidLabelScrBook
@@ -27472,16 +27492,16 @@ msgstr ""
 msgid "&Chapter"
 msgstr ""
 
-#. Tooltip for menu item for menu associated with editorial checks list.
 #. Scripture check name: Chapter and Verse Numbers
+#. Tooltip for menu item for menu associated with editorial checks list.
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidName_F17A054BD21E4298A1A50D79C4AF6F0F
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidChapterVerseNumbersToolTip
 #. (String used 2 times.)
 msgid "Chapter and Verse Numbers"
 msgstr ""
 
-#. Text for the go to first chapter menu item
 #. Text for the go to last chapter menu item
+#. Text for the go to first chapter menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoFirstChapterItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoLastChapterItemName
 #. (String used 2 times.)
@@ -27541,10 +27561,10 @@ msgstr ""
 msgid "Character Style Difference"
 msgstr ""
 
-#. This is the checking category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
-#. This is the checking category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the name of the checking toolbar as it shows up in the toolbar configuration feature
+#. This is the checking category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This text will appear as a tab in the task bar.
+#. This is the checking category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingBarText
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingCategory
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingTask
@@ -27889,8 +27909,8 @@ msgstr ""
 msgid "Daniel"
 msgstr ""
 
-#. This text will appear as a button on the Views tab in the Notes window.
 #. Notes Task--This text will appear in Sidebar, Views menu, and Information Bar
+#. This text will appear as a button on the Views tab in the Notes window.
 #. /Src/TE/TeResources/TeStrings.resx::kstidDataEntryView
 #. /Src/TE/TeResources/TeStrings.resx::kstidNotes
 #. (String used 2 times.)
@@ -27917,8 +27937,8 @@ msgstr ""
 msgid "&Delete Footnote"
 msgstr ""
 
-#. Tooltip for the delete footnote menu item
 #. Undo/Redo text for delete footnote
+#. Tooltip for the delete footnote menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidUndoDelFootnote
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidDeleteFootnoteToolTip
 #. (String used 2 times.)
@@ -28375,8 +28395,8 @@ msgstr ""
 msgid "Export using Pathway"
 msgstr "^1^Export using Pathway"
 
-#. Alternate text for the pathway item (used in the customize dialog).
 #. Tool tip for the pathway menu item
+#. Alternate text for the pathway item (used in the customize dialog).
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportPsItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportPsToolTip
 #. (String used 2 times.)
@@ -28389,8 +28409,8 @@ msgstr ""
 msgid "Export what"
 msgstr ""
 
-#. Tool tip for the export XML menu item
 #. displayed as title of the dialog
+#. Tool tip for the export XML menu item
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidExportXHTML
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportXhtmlToolTip
 #. (String used 2 times.)
@@ -28632,8 +28652,8 @@ msgstr ""
 msgid "Footer:"
 msgstr ""
 
-#. Text for the go to previous footnote menu item
 #. Text for the go to next footnote menu item
+#. Text for the go to previous footnote menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextFootnoteItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoPrevFootnoteItemName
 #. (String used 2 times.)
@@ -28717,8 +28737,8 @@ msgstr ""
 msgid "F&ootnotes"
 msgstr ""
 
-#. Text for the footnotes menu item
 #. Appears in details column on import mapping page
+#. Text for the footnotes menu item
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::label21.Text
 #. /Src/TE/TeDialogs/ScriptureProperties.resx::tpgFootnotes.Text
 #. /Src/TE/TeImportExport/ScrImportComponents.resx::kstidImportWizMappingDetailFootnotes
@@ -28892,8 +28912,8 @@ msgstr ""
 msgid "Go To Next Section"
 msgstr ""
 
-#. The tooltip for the back translation Next unfinished paragraph menu/toolbar item
 #. The tooltip for the back translation Next unfinished paragraph toolbar button
+#. The tooltip for the back translation Next unfinished paragraph menu/toolbar item
 #. /Src/TE/TeResources/TeStrings.resx::kstidBtNextUnfinishedToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBtNextUnfinishedToolTip
 #. (String used 2 times.)
@@ -28945,8 +28965,8 @@ msgstr ""
 msgid "Go To Previous Section"
 msgstr ""
 
-#. The tooltip for the back translation previous unfinished paragraph menu/toolbar item
 #. The tooltip for the back translation previous unfinished paragraph toolbar button
+#. The tooltip for the back translation previous unfinished paragraph menu/toolbar item
 #. /Src/TE/TeResources/TeStrings.resx::kstidBtPrevUnfinishedToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBtPrevUnfinishedToolTip
 #. (String used 2 times.)
@@ -28958,8 +28978,8 @@ msgstr ""
 msgid "Go To Previous Unfinished Paragraph"
 msgstr ""
 
-#. Text for the navigate to Reference control on the toolbar
 #. Tool tip for the Go To Reference control on the toolbar
+#. Text for the navigate to Reference control on the toolbar
 #. /Src/TE/TeResources/TeStrings.resx::kstidGotoPassageToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoPassageItemName
 #. /Src/TeDll/GotoReferenceDialog.resx::$this.Text
@@ -29137,8 +29157,8 @@ msgstr ""
 msgid "Import Complete"
 msgstr "^2^Import Complete"
 
-#. Alternate text for the import Key Terms renderings (XML) menu item (used in the customize dialog)
 #. Tool tip for the import Key Terms renderings (XML) menu item
+#. Alternate text for the import Key Terms renderings (XML) menu item (used in the customize dialog)
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsToolTip
 #. (String used 2 times.)
@@ -29165,8 +29185,8 @@ msgstr ""
 msgid "Import Notes"
 msgstr ""
 
-#. Description for saved version containing import; {0} is typically a file name.
 #. {0} is the description read from the OXES file
+#. Description for saved version containing import; {0} is typically a file name.
 #. /Src/TE/TeResources/TeStrings.resx::kstidOxesImportOf
 #. /Src/TE/TeResources/TeStrings.resx::kstidSavedVersionDescriptionImport
 #. (String used 2 times.)
@@ -29178,8 +29198,8 @@ msgstr ""
 msgid "Import of biblical terms renderings failed: {0}"
 msgstr ""
 
-#. Alternate text for the import XML menu item (used in the customize dialog).
 #. Tooltip for the import XML menu item
+#. Alternate text for the import XML menu item (used in the customize dialog).
 #. /Src/TE/TeImportExport/ImportXmlDialog.resx::$this.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportXmlItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportXmlToolTip
@@ -29281,8 +29301,8 @@ msgstr "^1^&Insert"
 msgid "Insert {0}"
 msgstr "^1^Insert {0}"
 
-#. Text for the insert book menu item
 #. Undo/Redo string for Insert Book
+#. Text for the insert book menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertBook
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertBooksToolTip
 #. (String used 2 times.)
@@ -29290,8 +29310,8 @@ msgid "Insert Book"
 msgstr ""
 
 #. Tool tip for Insert Chapter Number toolbar button
-#. Text for the insert chapter number menu item
 #. undo/redo string for Insert Chapter Number
+#. Text for the insert chapter number menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertChapterNumber
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertChapterNumberToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertChapNumToolTip
@@ -29319,8 +29339,8 @@ msgstr ""
 msgid "Insert Cross-reference Footnote"
 msgstr ""
 
-#. Tool tip for Footnote toolbar button
 #. Undo/Redo string for Insert General Footnote
+#. Tool tip for Footnote toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertFootnote
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertFootnoteToolTip
 #. (String used 2 times.)
@@ -29375,8 +29395,8 @@ msgstr "^1^Insert &Picture..."
 msgid "Insert &Response"
 msgstr ""
 
-#. Tool tip for the insert response menu item
 #. Alternate text for the insert response item (used in the customize dialog).
+#. Tool tip for the insert response menu item
 #. Used for formatting the undo/redo labels for creating annotation responses
 #. /Src/TE/TeResources/TeStrings.resx::kstidCreateResponse
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertResponseItemNameAlt
@@ -29385,8 +29405,8 @@ msgstr ""
 msgid "Insert Response"
 msgstr ""
 
-#. Tool tip for Insert Section toolbar button
 #. Text for the insert scripture section menu item
+#. Tool tip for Insert Section toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertSectionToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertScrSectionToolTip
 #. (String used 2 times.)
@@ -29398,8 +29418,8 @@ msgstr ""
 msgid "Insert Section"
 msgstr ""
 
-#. Tool tip for Insert Single Verse Number toolbar button
 #. Text for the insert verse number menu item
+#. Tool tip for Insert Single Verse Number toolbar button
 #. Undo/Redo string for Insert Verse Number
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertVerseNumber
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertVerseNumberToolTip
@@ -29834,8 +29854,8 @@ msgstr ""
 msgid "&Mark as Untranslated Word"
 msgstr ""
 
-#. The tooltip for the apply untranslated word menu/toolbar item
 #. The tooltip for the Untranslated word toolbar button
+#. The tooltip for the apply untranslated word menu/toolbar item
 #. /Src/TE/TeResources/TeStrings.resx::kstidUnTransToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidApplyUnTransWordToolTip
 #. (String used 2 times.)
@@ -29847,8 +29867,8 @@ msgstr ""
 msgid "Mark Paragraph as &Consultant Checked"
 msgstr ""
 
-#. The tooltip for the back translation paragraph checked toolbar button
 #. The tooltip for the back translation paragraph checked menu/toolbar item
+#. The tooltip for the back translation paragraph checked toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidBtCheckedToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBtCheckedToolTip
 #. (String used 2 times.)
@@ -29873,8 +29893,8 @@ msgstr ""
 msgid "Mark Paragraph as &Unfinished"
 msgstr ""
 
-#. The tooltip for the back translation unfinished paragraph menu/toolbar item
 #. The tooltip for the back translation unfinished paragraph toolbar button
+#. The tooltip for the back translation unfinished paragraph menu/toolbar item
 #. /Src/TE/TeResources/TeStrings.resx::kstidBtUnfinishedToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBtUnfinishedToolTip
 #. (String used 2 times.)
@@ -29907,8 +29927,8 @@ msgstr ""
 msgid "&Matching Punctuation Pairs..."
 msgstr ""
 
-#. the value of the header/footer text that is changed in the setup dialog for the page reference
 #. UI Book name for scripture book 40
+#. the value of the header/footer text that is changed in the setup dialog for the page reference
 #. /Src/Common/FwPrintLayoutComponents/FwPrintLayoutStrings.resx::kstidPageReference
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidBookName40
 #. (String used 2 times.)
@@ -30061,9 +30081,9 @@ msgid "Nahum"
 msgstr ""
 
 #. Tooltip for the go to previous menu item
+#. Tooltip for the go to first menu item
 #. Tooltip for the go to last menu item
 #. Tooltip for the go to next menu item
-#. Tooltip for the go to first menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoFirstToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoLastToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextToolTip
@@ -30110,9 +30130,9 @@ msgstr ""
 msgid "&New Testament"
 msgstr ""
 
-#. the value of the header/footer text that is changed in the setup dialog for the division name
-#. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
 #. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes in TE and Choose Texts dialog box in FLEx)
+#. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
+#. the value of the header/footer text that is changed in the setup dialog for the division name
 #. /Src/Common/Controls/FwControls/FwControls.resx::kstidNtNode
 #. /Src/Common/FwPrintLayoutComponents/FwPrintLayoutStrings.resx::kstidDivName
 #. /Src/TE/TeResources/TeStrings.resx::kstidNtNode
@@ -30287,8 +30307,8 @@ msgstr ""
 msgid "&Old Testament"
 msgstr ""
 
-#. text for OT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
 #. text for OT node in Scripture tree controls (see Save Version and Book Filter dialog boxes in TE and Choose Texts dialog box in FLEx)
+#. text for OT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
 #. /Src/Common/Controls/FwControls/FwControls.resx::kstidOtNode
 #. /Src/TE/TeResources/TeStrings.resx::kstidOtNode
 #. (String used 2 times.)
@@ -30317,16 +30337,16 @@ msgstr ""
 msgid "Open XML for Editing Scripture (OXES) Files"
 msgstr ""
 
-#. Text for the import XML menu item
 #. Text for the export XML menu item
+#. Text for the import XML menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportXmlItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportXmlItemName
 #. (String used 2 times.)
 msgid "Open &XML for Editing Scripture..."
 msgstr ""
 
-#. Text for the export Key Terms renderings (XML) menu item
 #. Text for the import Key Terms renderings (XML) menu item
+#. Text for the export Key Terms renderings (XML) menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportKeyTermsItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsItemName
 #. (String used 2 times.)
@@ -30560,8 +30580,8 @@ msgstr ""
 msgid "Paratext Project Short Name:"
 msgstr ""
 
-#. Text for the paste hyperlink context menu item
 #. Text for the paste hyperlink menu item
+#. Text for the paste hyperlink context menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkCmnuItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkItemName
 #. (String used 2 times.)
@@ -31170,8 +31190,8 @@ msgstr ""
 msgid "Searching Scripture for occurrences of the word"
 msgstr ""
 
-#. Text for the go to previous section menu item
 #. Text for the go to next section menu item
+#. Text for the go to previous section menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextSectionItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoPrevSectionItemName
 #. (String used 2 times.)
@@ -31999,8 +32019,8 @@ msgstr ""
 msgid "Tr&anslator"
 msgstr ""
 
-#. This text appears as a button for a filter in the Notes window.
 #. Text of filter sidebar button
+#. This text appears as a button for a filter in the Notes window.
 #. /Src/TE/NotesView/Properties/Resources.resx::kstidTranslatorNoteFilter
 #. /Src/TE/TeResources/TeStrings.resx::kstidFilterTranslator
 #. (String used 2 times.)
