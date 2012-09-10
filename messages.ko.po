@@ -273,6 +273,7 @@ msgstr ""
 #. (String used 6 times.)
 
 msgid "..."
+msgstr "..."
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwFontAttributes.resx::m_cboUnderlineStyle.Items2
 msgid ".1"
