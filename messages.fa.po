@@ -14218,8 +14218,6 @@ msgstr "زبان‏:‏ "
 #. (String used 2 times.)
 msgid "Languages data is not installed correctly. Please re-run the FieldWorks Installer and repair your installation."
 msgstr ""
-"{0}\n"
-"\t\n"
 "نرم‌ابزار فیلدوورکس کاملاً نصب نشده است.‏ \n"
 "لطفاً برنامهٔ ترجمهٔ فیلدوورکس را ببندید و سپس سی‌دی برنامه فیلدوورکس را واردنمایید و نصب برنامه را بطور کامل انجام دهید.‏"
 
@@ -19168,8 +19166,6 @@ msgstr ""
 #. /Src/FwResources/FwStrings.resx::kstidInvalidPathwayInstallation
 msgid "Pathway is not installed correctly. Please re-run the Pathway installer and repair your installation."
 msgstr ""
-"{0}\n"
-"\t\n"
 "نرم‌ابزار فیلدوورکس کاملاً نصب نشده است.‏ \n"
 "لطفاً برنامهٔ ترجمهٔ فیلدوورکس را ببندید و سپس سی‌دی برنامه فیلدوورکس را واردنمایید و نصب برنامه را بطور کامل انجام دهید.‏"
 
