@@ -7,12 +7,13 @@ msgstr ""
 "Project-Id-Version: FieldWorks 7.3.0\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2012-11-16T12:09:06.1795957-06:00\n"
-"PO-Revision-Date: 2012-11-16 13:19-0600\n"
+"PO-Revision-Date: 2012-11-16 12:57-0600\n"
 "Last-Translator: FLEx Localization <FLEx_Localization@sil.org>\n"
-"Language-Team: Language <email@address>\n"
+"Language-Team: Hungarian <email@address>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Hungarian\n"
 
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidDiscardChangesConfirm
 msgid ""
@@ -6105,7 +6106,7 @@ msgstr ""
 
 #. /Src/XCore/xCoreInterfaces/xCoreInterfaces.resx::DonTShowThisAgain
 msgid "Do not show this again."
-msgstr "^1^Do not show this again."
+msgstr ""
 
 #. /Src/Common/Controls/XMLViews/NonEmptyTargetControl.resx::doNothingRadio.Text
 msgid "Do nothing"
@@ -7543,8 +7544,8 @@ msgid "Example of using Bulk Edit List Choice."
 msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
-msgid "Example of using Rapid Words."
-msgstr "^1^Example of using Rapid Words."
+msgid "Example of using Collect Words."
+msgstr ""
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
@@ -7658,7 +7659,7 @@ msgstr "^3^_Exception Feature..."
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 2 times.)
 msgid "Exception 'Features'"
-msgstr "^3^Exception 'Features'"
+msgstr ""
 
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::Exception0
 msgid "Exception: {0}"
@@ -7764,7 +7765,7 @@ msgstr "^1^Export this FieldWorks project to a file."
 
 #. /Src/xWorks/xWorksStrings.resx::ExportTo0
 msgid "Export to {0}"
-msgstr "^3^Export to {0}"
+msgstr ""
 
 #. /Src/xWorks/ExportTranslatedListsDlg.resx::$this.Text
 msgid "Export Translated Lists"
@@ -7781,7 +7782,7 @@ msgstr "^2^_Export..."
 #. /Src/xWorks/xWorksStrings.resx::Exporting0
 #. (String used 2 times.)
 msgid "Exporting {0}"
-msgstr "^3^Exporting {0}"
+msgstr ""
 
 #. Progress step label for exporting a Lift file: show number of entries being exported.
 #. /Src/FwResources/FwStrings.resx::kstidExportingEntries
@@ -8230,11 +8231,11 @@ msgstr ""
 #. /Src/FwResources/FwTMStrings.resx::kstidFileItemName
 #. (String used 2 times.)
 msgid "&File"
-msgstr "^1^&File"
+msgstr "&Fájl"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
 msgid "_File"
-msgstr "^1^_File"
+msgstr "_Fájl"
 
 #. This is the file category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="CmFile-Detail-FileName"]/slice/@label
@@ -8244,7 +8245,7 @@ msgstr "^1^_File"
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::lblFile.Text
 #. (String used 8 times.)
 msgid "File"
-msgstr "^1^File"
+msgstr "Fájl"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::$this.StepNames1
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.StepNames1
@@ -8290,11 +8291,11 @@ msgstr "^3^File(s) to import:"
 
 #. /Src/FwCoreDlgs/CharContextCtrl.resx::cmnuScanFile.Text
 msgid "&File..."
-msgstr "^1^&File..."
+msgstr "&Fájl..."
 
 #. /Src/FwCoreDlgs/PicturePropertiesDialog.resx::label2.Text
 msgid "File:"
-msgstr "^1^File:"
+msgstr "Fájl:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ks_FillsSlot
 msgid "&Fills Slot:"
@@ -16429,12 +16430,12 @@ msgid "Range of Base Characters"
 msgstr "^3^Range of Base Characters"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
-msgid "_Rapid Words"
-msgstr "^1^_Rapid Words"
+msgid "_Collect Words"
+msgstr "^1^_Collect Words"
 
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
-msgid "Rapid Words"
-msgstr "^1^Rapid Words"
+msgid "Collect Words"
+msgstr "^1^Collect Words"
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 msgid "Re_load Grammar / Lexicon"
@@ -17980,7 +17981,7 @@ msgstr "^1^Root-based (complex forms as subentries)"
 msgid "Rose,255,153,204"
 msgstr ""
 
-#. Used in "delete this {0}" to make it read "delete this row" in tooltip for delete button in Rapid Words view.
+#. Used in "delete this {0}" to make it read "delete this row" in tooltip for delete button in Collect Words view.
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksRow
 msgid "row"
 msgstr "^1^row"
@@ -18898,7 +18899,7 @@ msgstr "^1^Show Dictionary Preview"
 msgid "Show Entry in Concordance"
 msgstr "^1^Show Entry in Concordance"
 
-#. popup menu item in Rapid Words view
+#. popup menu item in Collect Words view
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksShowEntryInLexicon
 #. (String used 2 times.)
@@ -22200,7 +22201,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksUsedForSemanticBasedEntry
 msgid "This tool is designed for a typist to use during a semantically-based word-collection workshop.  For information on this method, see http://www.sil.org/computing/ddp/."
-msgstr "^1^This tool is designed for a typist to use during a semantically-based word-collection workshop.  For information on this method, see http://www.sil.org/computing/ddp/."
+msgstr "^3^This tool is designed for a typist to use during a semantically-based word-collection workshop.  For information on this method, see http://www.sil.org/computing/ddp/."
 
 #. Error message when an action on the undo stack cannot be undone.
 #. /Src/FwResources/FwStrings.resx::kstidCannotUndo
@@ -22239,7 +22240,7 @@ msgstr "^2^This utility removes all parser approved analyses from the system. It
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksShowingSemanticClassification
 msgid "This view shows semantic domains that have been used to classify senses, each listing the related senses. You can optionally show all semantic domains, even those that have not been used for any senses."
-msgstr "^1^This view shows semantic domains that have been used to classify senses, each listing the related senses. You can optionally show all semantic domains, even those that have not been used for any senses."
+msgstr "^2^This view shows semantic domains that have been used to classify senses, each listing the related senses. You can optionally show all semantic domains, even those that have not been used for any senses."
 
 #. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksCheckCreatedForComponentsLink
 msgid "This was automatically created to satisfy a Components link, and it should be checked."
@@ -24709,11 +24710,11 @@ msgstr "^1^Word"
 
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 msgid "Word (Citation Form)"
-msgstr "^1^Word (Citation Form)"
+msgstr "^2^Word (Citation Form)"
 
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 msgid "Word (Lexeme Form)"
-msgstr "^1^Word (Lexeme Form)"
+msgstr "^2^Word (Lexeme Form)"
 
 #. /Language Explorer/Configuration/Words/Analyses/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Word Analyses"
