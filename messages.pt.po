@@ -3290,9 +3290,17 @@ msgstr "Cate&gorias:"
 msgid "_Categorized entry"
 msgstr "_Entrada de categorias"
 
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "_Collect Words"
+msgstr "_Recolher Palavrass"
+
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Categorized Entry"
 msgstr "Entrada de Categorias"
+
+#. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
+msgid "Collect Words"
+msgstr "Recolher Palavras"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::kscategory
 msgid "category"
@@ -8176,6 +8184,10 @@ msgstr "Exemplo do uso do Editor em Massa Lista de Opções."
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
 msgid "Example of using categorized entry."
 msgstr "Exemplo do uso categorizado de entrada ."
+
+#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
+msgid "Example of using Collect Words."
+msgstr "Exemplo do uso Recolher Palavras."
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Example References"

@@ -3229,9 +3229,17 @@ msgstr "Cate&gorías:"
 msgid "_Categorized entry"
 msgstr "Entrar por _categoría"
 
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "_Collect Words"
+msgstr "_Recoger Palabras"
+
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Categorized Entry"
 msgstr "Entrar por categoría"
+
+#. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
+msgid "Collect Words"
+msgstr "Recoger Palabras"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::kscategory
 msgid "category"
@@ -7995,6 +8003,10 @@ msgstr ""
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
 msgid "Example of using Categorized Entry."
 msgstr ""
+
+#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
+msgid "Example of using Collect Words."
+msgstr "Ejemplo del uso de Recoger Palabras."
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Example References"

@@ -3755,9 +3755,17 @@ msgstr "Kate&gori-kategori:"
 msgid "_Categorized entry"
 msgstr "_Entri menurut kategori"
 
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "_Collect Words"
+msgstr "_Kumpulkan Kata"
+
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
-msgid "Categorized Entry"
-msgstr "Entri Menurut Kategori"
+msgid "Categorized entry"
+msgstr "Entri menurut kategori"
+
+#. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
+msgid "Collect Words"
+msgstr "Kumpulkan Kata"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::kscategory
 msgid "category"
@@ -9281,6 +9289,10 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
 msgid "Example of using Categorized Entry."
+msgstr ""
+
+#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
+msgid "Example of using Collect Words."
 msgstr ""
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label

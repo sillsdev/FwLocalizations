@@ -7543,8 +7543,8 @@ msgid "Example of using Bulk Edit List Choice."
 msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
-msgid "Example of using Rapid Words."
-msgstr "^1^Example of using Rapid Words."
+msgid "Example of using Collect Words."
+msgstr "^1^Example of using Collect Words."
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
@@ -16429,12 +16429,12 @@ msgid "Range of Base Characters"
 msgstr "^3^Range of Base Characters"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
-msgid "_Rapid Words"
-msgstr "^1^_Rapid Words"
+msgid "_Collect Words"
+msgstr "^1^_Collect Words"
 
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
-msgid "Rapid Words"
-msgstr "^1^Rapid Words"
+msgid "Collect Words"
+msgstr "^1^Collect Words"
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 msgid "Re_load Grammar / Lexicon"

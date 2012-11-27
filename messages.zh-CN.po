@@ -3239,9 +3239,17 @@ msgstr "范畴(&G):"
 msgid "_Categorized entry"
 msgstr "已分类词条(_C)"
 
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "_Collect Wordsy"
+msgstr "搜集词句(_C)"
+
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Categorized Entry"
 msgstr "已分类词条"
+
+#. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
+msgid "Collect Words"
+msgstr "搜集词句"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::kscategory
 msgid "category"
@@ -8016,8 +8024,8 @@ msgid "Example of using Bulk Edit List Choice."
 msgstr "运用批量编辑列出选择例子。"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
-msgid "Example of using Categorized Entry."
-msgstr "已分类词条运用例子。"
+msgid "Example of using Collect Words."
+msgstr "搜集词句运用例子。"
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Example References"
@@ -33250,7 +33258,7 @@ msgstr "停止导入"
 #~ msgstr "如你删除这自然分类，{0}语境将会不合法。{1}"
 
 #~ msgid "Example of using categorized entry."
-#~ msgstr "运用已分类词条例子。"
+#~ msgstr "运用搜集词句例子。"
 
 #~ msgid "Exit Language Explorer."
 #~ msgstr "退出语言浏览器。"

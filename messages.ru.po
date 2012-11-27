@@ -3178,6 +3178,14 @@ msgstr "&Категории:"
 msgid "_Categorized entry"
 msgstr "К_лассифицированная статья"
 
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "_Collect Words"
+msgstr "Сбор _лексики"
+
+#. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
+msgid "Collect Words"
+msgstr "Сбор лексики"
+
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Categorized Entry"
 msgstr "Классифицированная статья"
