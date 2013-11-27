@@ -13,7 +13,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Language: hi_IN\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidDiscardChangesConfirm
 msgid ""
@@ -28,9 +28,6 @@ msgid ""
 "\n"
 "Click OK to continue making changes."
 msgstr ""
-"{0}\n"
-"\n"
-"Click OK to continue making changes."
 
 #. Displayed in a message box.
 #. /Src/FwResources/FwStrings.resx::kstidFatalError
@@ -1048,7 +1045,7 @@ msgstr "पुर्वावस्था के लिए अतिरिक्
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidAdditionalInfoSent
 #. (String used 2 times.)
 msgid "Additional information about your computer and project will be sent:"
-msgstr "आपके कम्प्युटर व परियोजना के विषय में अतिरिक्त सूचना भेज दी जाएगी:"
+msgstr "आपके कम्प्युटर व प्रोजेक्ट के विषय में अतिरिक्त सूचना भेज दी जाएगी:"
 
 #. /|strings-en.xml::/Linguistics/Morphology/Adjacency/Adjacent to right|
 msgid "adjacent after"
@@ -1518,7 +1515,7 @@ msgstr ""
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksErrorMigratingProjects
 msgid "An error occurred trying to migrate existing projects from an older version of FieldWorks:"
-msgstr "कार्यक्षेत्रों के एक पुराने संस्करण से वर्तमान परियोजनाओं को एक जगह से दुसरी जगह स्थानांतरित करने का प्रयास करते हुए एक अशुद्धि उत्पन्न हो गई है :"
+msgstr "कार्यक्षेत्रों के एक पुराने संस्करण से वर्तमान प्रोजेक्ट्स को एक जगह से दुसरी जगह स्थानांतरित करने का प्रयास करते हुए एक अशुद्धि उत्पन्न हो गई है :"
 
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksExportErrorMsg
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksExportErrorMsg
@@ -1671,7 +1668,7 @@ msgstr "शायद कार्यक्षेत्रों का अन्
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidFieldWorksRespondedNotSure
 msgid "Another instance of FieldWorks appears to be starting up at the same time as this one, and things have gotten confused. We recommend letting one project open fully before you try to open another one. If you get this message repeatedly or when not trying to open two projects at once, you may have encountered a bug; please report it. It may help to restart your computer."
-msgstr "शायद कार्यक्षेत्रों का अन्य प्रकार इसी के साथ ही शुरु हो गया है, और चीज़ें उलझ गई हैं. हम आपको यह सलाह देंगे कि एक परियोजना को पूरा खुलने के पश्चात् ही दूसरी फ़ाइल को ख़ोलें. यदि आपको यह संदेश निरंतर मिलता है या दो परियोजनाओं को एक साथ खोलते समय नहीं, तो इसका मतलब यह है कि आपका सामना गड़बड़ी से हुआ है; इसके बारे में कृपया सूचना दें, यह आपके कम्प्युटर को पुनः चालू करने में सहायता प्रदान करता है।"
+msgstr "शायद फ़िल्डवर्क्स का अन्य प्रकार इसी के साथ ही शुरु हो गया है, और चीज़ें उलझ गई हैं. हम आपको यह सलाह देंगे कि एक परियोजना को पूरा खुलने के पश्चात् ही दूसरी फ़ाइल को ख़ोलें. यदि आपको यह संदेश निरंतर मिलता है या दो प्रोजेक्ट्स को एक साथ खोलते समय नहीं, तो इसका मतलब यह है कि आपका सामना गड़बड़ी से हुआ है; इसके बारे में कृपया सूचना दें, यह आपके कम्प्युटर को पुनः चालू करने में सहायता प्रदान करता है।"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_rdoAnotherLocation.Text
 msgid "&Another location"
@@ -2175,40 +2172,40 @@ msgstr "वापस अनुक्रमणिक मद के लिए..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdBackup"]
 msgid "Back up a FieldWorks project."
-msgstr "एक कार्यक्षेत्र परियोजना की प्रतिलिपि."
+msgstr "एक फ़ील्डवर्क्स प्रोजेक्ड की प्रतिलिपि."
 
 #. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_checkbox_BackupFirst.Text
 msgid "Back up existing project before restoring"
-msgstr "पुनःस्थापन से पहले वर्तमान परियोजना की प्रतिलिपि"
+msgstr "पुनःस्थापन से पहले वर्तमान प्रोजेक्ट की प्रतिलिपि"
 
 #. Tool tip for backup/restore toolbar/menu item
 #. /Src/FwResources/FwTMStrings.resx::kstidBackupToolTip
 msgid "Back up FieldWorks Project"
-msgstr "कार्यक्षेत्र परियोजना की प्रतिलिपि"
+msgstr "फ़ील्डवर्क्स प्रोजेक्ड की प्रतिलिपि"
 
 #. This is the status bar message for the backup and restore menu option.
 #. /Src/FwResources/FwTMStrings.resx::kstidBackupRestoreMsg
 msgid "Back up or restore a FieldWorks project."
-msgstr "एक कार्यक्षेत्र परियोजना का पुनःस्थापन या प्रतिलिपि."
+msgstr "एक फ़ील्डवर्क्स प्रोजेक्ड का पुनःस्थापन या प्रतिलिपि."
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblBackupInstructions.Text
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::lblBackupInstructions.Text
 #. (String used 2 times.)
 msgid "Back up the FieldWorks project before importing.  Then, if you are not satisified with the results of the import, you can restore the backup to undo the import."
-msgstr "आयात करने से पहले कार्यक्षेत्र परियोजना की प्रतिलिपि ले लें. तब, यदि आप प्रतिलिपि के परिणामों से संतुष्ट नही हैं, तो आप प्रतिलिपि को पुर्वस्थिति में ले लें."
+msgstr "आयात करने से पहले फ़ील्डवर्क्स प्रोजेक्ड की प्रतिलिपि ले लें. तब, यदि आप प्रतिलिपि के परिणामों से संतुष्ट नही हैं, तो आप प्रतिलिपि को पुर्वस्थिति में ले लें."
 
 #. /Src/FwCoreDlgs/BackupRestore/BackupProjectDlg.resx::$this.Text
 msgid "Back up this Project"
-msgstr "इस परियोजना की प्रतिलिपि ले लें"
+msgstr "इस प्रोजेक्ट की प्रतिलिपि ले लें"
 
 #. This is the text for the backup option on the file/project management menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidBackupItemName
 msgid "&Back up this Project..."
-msgstr "इस परियोजना की प्रतिलिपि ले लें..."
+msgstr "इस प्रोजेक्ट की प्रतिलिपि ले लें..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Back up this Project..."
-msgstr "_इस परियोजना की प्रतिलिपि ले लें..."
+msgstr "_इस प्रोजेक्ट की प्रतिलिपि ले लें..."
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksProjectBackedUpOn
 msgid "Backed up on {0} at {1}"
@@ -2259,10 +2256,10 @@ msgid ""
 "\n"
 "To restore from this backup, install version {1} of FieldWorks.\n"
 msgstr ""
-"प्रतिलिपि फ़ाइल में परियोजना का वह संस्करण है जो कि कार्यक्षेत्रों:\n"
+"प्रतिलिपि फ़ाइल में प्रोजेक्ट का वह संस्करण है जो कि फ़ील्डवर्स:\n"
 " के नए संस्करण का प्रयोग करते हुए तैयार किया गया है {0}\n"
 "\n"
-"To restore from this backup, install version {1} of FieldWorks.\n"
+"इस बेकअप से पुन:स्थापन के लिए संस्करण {1} को फ़ील्डवर्स में स्थापित करें"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::label2.Text
 msgid "Backup file:"
@@ -2275,7 +2272,7 @@ msgstr "प्रतिलिपि स्थान निर्धारण"
 #. This is the status bar message for the backup and restore menu option.
 #. /Src/FwResources/FwStrings.resx::kstidFileBackupRestoreMsg
 msgid "Backup or restore a FieldWorks project."
-msgstr "प्रतिलिपि या कार्यक्षेत्रों की परियोजना को पुन:स्थापित करें."
+msgstr "प्रतिलिपि या फ़ील्डवर्स प्रोजेक्ट को पुन:स्थापित करें."
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblBackup.Text
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::lblBackup.Text
@@ -2690,7 +2687,7 @@ msgstr ""
 
 #. /Src/LexText/Interlinear/EditMorphBreaksDlg.resx::m_groupBox2BreakCharacters.Text
 msgid "Break Characters"
-msgstr ""
+msgstr "चरित्र विभाजन"
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 msgid "_Break phrase into words"
@@ -2711,7 +2708,7 @@ msgstr ""
 #. Tool tip for item in file menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidSharingLocationToolTip
 msgid "Brings up a dialog for controlling whether projects are shared and where they are stored."
-msgstr "एक वार्तालाप लेकर आएँ जिससे कि परियोजना को बाटाँ गया है व वे कहाँ पर भंडारित है इस पर नियंत्रण किया जा सके।"
+msgstr "एक वार्तालाप लेकर आएँ जिससे कि प्रोजेक्ट को बाटाँ गया है व वे कहाँ पर भंडारित है इस पर नियंत्रण किया जा सके।"
 
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColor1
 msgid "Brown,153,51,0"
@@ -2726,7 +2723,7 @@ msgstr "ब्राउज़ करें"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindBackupFileDialogTitle
 msgid "Browse for FieldWorks Project backup file"
-msgstr "कार्यक्षेत्र परियोजना प्रतिलिपि फ़ाइल के लिए ब्राउज़ करें"
+msgstr "फ़ील्डवर्क्स प्रोजेक्ड प्रतिलिपि फ़ाइल के लिए ब्राउज़ करें"
 
 #. Help string for Find Mapping button
 #. help string
@@ -2862,7 +2859,7 @@ msgid ""
 "By removing the English writing system, some of your topics list items, may show \"***\" instead of their normal contents. For this reason, it is strongly recommended that you keep the English writing system active in your project. However, if you choose to remove English now and encounter problems viewing your topics list items, you may add English back at any time using the Add button.\n"
 "\n"
 "Do you want to remove English now?"
-msgstr "अंग्रेज़ी लेखन व्यवस्था को हटाने के द्वारा आपकी कुछ शीर्षक सूची मद सामान्य विषय-वस्तु के स्थान पर \"***\" दिखा सकता है। इस कारण आपको सशक्त रुप से यह सलाह दी जाती है कि आप अपनी परियोजना में  अंग्रेज़ी लेखन व्यवस्था को सक्रिय रहने दें। फ़िर भी यदि आप अंग्रेज़ी को अभी हटाना चुनते हैं और अपने शीर्षक सूची मद को देखने में समस्या का सामना करते हैं तो आप किसी भी समय अंग्रेज़ी को जोड़ना बटन के द्वारा जोड़ सकते हैं \n"
+msgstr "अंग्रेज़ी लेखन व्यवस्था को हटाने के द्वारा आपकी कुछ शीर्षक सूची मद सामान्य विषय-वस्तु के स्थान पर \"***\" दिखा सकता है। इस कारण आपको सशक्त रुप से यह सलाह दी जाती है कि आप अपने प्रोजेक्ट में  अंग्रेज़ी लेखन व्यवस्था को सक्रिय रहने दें। फ़िर भी यदि आप अंग्रेज़ी को अभी हटाना चुनते हैं और अपने शीर्षक सूची मद को देखने में समस्या का सामना करते हैं तो आप किसी भी समय अंग्रेज़ी को जोड़ना बटन के द्वारा जोड़ सकते हैं \n"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwFontAttributes.resx::label18.Text
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::label7.Text
@@ -3120,7 +3117,7 @@ msgstr ""
 #. Caption for message box when an encoding converter is in use by a writing system.
 #. /Src/FwResources/FwStrings.resx::kstidEncodingConverterInUseErrorCaption
 msgid "Cannot Remove Encoder"
-msgstr ""
+msgstr "एनकोडर को हटाया नहीं जा सकता"
 
 #. Content for message box when an encoding converter is in use by a writing system.
 #. /Src/FwResources/FwStrings.resx::kstidEncodingConverterInUseError
@@ -3567,7 +3564,7 @@ msgstr "एक आज्ञा का चुनाव करें:"
 
 #. /Src/LexText/LexTextControls/MasterCategoryListDlg.resx::label1.Text
 msgid "Choose a grammatical category (Part of Speech) from the following Catalog. The category you choose will be added to the list of categories for this FieldWorks Project."
-msgstr "निम्नलिखित सूचीपत्र से एक वैयाकरणिक श्रेणी का चुनाव करें (शब्द-भेद)। जिस श्रेणी का आप चुनाव करेंगे वह इस कार्यक्षेत्र परियोजना के लिए श्रेणी की सूची में जोड़ दी जाएगी।"
+msgstr "निम्नलिखित सूचीपत्र से एक वैयाकरणिक श्रेणी का चुनाव करें (शब्द-भेद)। जिस श्रेणी का आप चुनाव करेंगे वह इस फ़ील्डवर्क्स प्रोजेक्ड के लिए श्रेणी की सूची में जोड़ दी जाएगी।"
 
 #. /Src/FwCoreDlgs/FwCheckAnthroListDlg.resx::$this.Text
 msgid "Choose a List of Anthropology Categories"
@@ -3579,11 +3576,11 @@ msgstr "एक स्वाभाविक वर्ग का चुनाव �
 
 #. /Src/LexText/LexTextControls/MasterInflectionFeatureListDlg.resx::label1.Text
 msgid "Choose a new inflection feature from the following Catalog. The inflection feature you choose will be added to the list of Inflection features for this FieldWorks Project."
-msgstr "निम्नलिख़ित सूचीपत्र से एक नई रुप-परिवर्तन आकृति का चुनाव करें। जिस रुप-परिवर्तन आकृति का आप चुनाव करेंगे वह इस कार्यक्षेत्र परियोजना की सूची में जोड़ दी जाएगी।"
+msgstr "निम्नलिख़ित सूचीपत्र से एक नई रुप-परिवर्तन आकृति का चुनाव करें। जिस रुप-परिवर्तन आकृति का आप चुनाव करेंगे वह इस फ़ील्डवर्क्स प्रोजेक्ड की सूची में जोड़ दी जाएगी।"
 
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_lblChoosePrj.Text
 msgid "&Choose a project:"
-msgstr "एक परियोजना का चुनाव करें:"
+msgstr "एक प्रोजेक्ट का चुनाव करें:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksChooseAllomorph
 msgid "Choose Allomorph"
@@ -3656,13 +3653,13 @@ msgstr "स्वाभाविक श्रेणी खा चुनाव �
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksInflectionFeatureCatalogPrompt
 msgid "Choose new inflection features from the following catalog. The inflection features you choose will be added to the list of Inflection features for this FieldWorks project."
-msgstr "निम्लिख़ित सूचीपत्र से नई रुप-रचना आकृति का चुनाव करें। जिन रुप-रचना आकृइयों का चुनाव आप इस कार्यक्षेत्र परियोजना के लिए करेंगे वह इन रुप-रचना आकृतियों के लिए जोड़ दी जाएगी"
+msgstr "निम्लिख़ित सूचीपत्र से नई रुप-रचना आकृति का चुनाव करें। जिन रुप-रचना आकृइयों का चुनाव आप इस फ़ील्डवर्क्स प्रोजेक्ड के लिए करेंगे वह इन रुप-रचना आकृतियों के लिए जोड़ दी जाएगी"
 
 #. /Src/LexText/LexTextControls/MasterListDlg.resx::label1.Text
 #. /Src/LexText/LexTextControls/MasterPhonologicalFeatureListDlg.resx::label1.Text
 #. (String used 2 times.)
 msgid "Choose one or more new phonological features from the following Catalog. Note that all features are binary (i.e. have two values: + and -).  The phonological features you choose will be added to the list of phonological features for this FieldWorks Project."
-msgstr "निम्नलिख़ित सूचीपत्र से एक या एक से अधिक नई स्वर-विज्ञान आकृतियों का चुनाव करें। ध्यान दें कि सभी आकृतियाँ द्विगूणीय हैं (अर्थात् जिसमें दो गुण हों +व -का)। इस कार्यक्षेत्र परियोजना के लिए जिन स्वर-विज्ञान आकृतियों का चुनाव आप करते हैं वे स्वर-विज्ञान आकृति की सुची में जोड़ दी जाएगी।"
+msgstr "निम्नलिख़ित सूचीपत्र से एक या एक से अधिक नई स्वर-विज्ञान आकृतियों का चुनाव करें। ध्यान दें कि सभी आकृतियाँ द्विगूणीय हैं (अर्थात् जिसमें दो गुण हों +व -का)। इस फ़ील्डवर्क्स प्रोजेक्ड के लिए जिन स्वर-विज्ञान आकृतियों का चुनाव आप करते हैं वे स्वर-विज्ञान आकृति की सुची में जोड़ दी जाएगी।"
 
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksChooseOwnerOfDemotedRecord
 msgid "Choose Owner of Demoted Record"
@@ -3691,7 +3688,7 @@ msgstr "चित्र का चुनाव करें..."
 
 #. /Src/Utilities/FixFwDataDll/FixErrorsDlg.resx::label1.Text
 msgid "Choose project to fix:"
-msgstr "निश्चति करने के लिए परियोजना का चुनाव करें:"
+msgstr "निश्चति करने के लिए प्रोजेक्ट का चुनाव करें:"
 
 #. /Src/LexText/Lexicon/CreateReversalIndexDlg.resx::m_lblComboBox.Text
 msgid "Choose Reversal Index Writing System"
@@ -3741,7 +3738,7 @@ msgstr ""
 msgid ""
 "Choose the phonological features you want to add to this FieldWorks project. \n"
 "Each feature has two values (+ and -)."
-msgstr "उन स्वर-विज्ञान आकृतियों का चुनाव करें जिन्हें आप इस कार्यक्षेत्र परियोजना में जोड़ना चाहते हैं.प्रत्येक आकृति के दो गुण हैं (+ व-)"
+msgstr "उन स्वर-विज्ञान आकृतियों का चुनाव करें जिन्हें आप इस फ़ील्डवर्क्स प्रोजेक्ड में जोड़ना चाहते हैं.प्रत्येक आकृति के दो गुण हैं (+ व-)"
 
 #. /Src/xWorks/xWorksStrings.resx::ksReversalIndexView
 msgid "Choose the reversal index to configure:"
@@ -3870,7 +3867,7 @@ msgstr "पाठों को आयात  करने के लिए स�
 
 #. /Src/LexText/ParserUI/ParserParametersDlg.resx::label3.Text
 msgid "Click Help to learn about parser parameters."
-msgstr ""
+msgstr "गणितीय स्थिर राशि पार्सर के बारे में जानने के लिए सहायता पर क्लिक करें"
 
 #. /Src/LexText/Interlinear/LinguaLinksImportDlg.resx::linkLabel2.Text
 msgid "Click here for help in exporting your LinguaLinks data."
@@ -3878,27 +3875,27 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="SegmentsButton"]
 msgid "Click here to select a segment which belongs to this natural class."
-msgstr ""
+msgstr "इस स्वाभाविक श्रेणी से संबंधित एक वृत ख़ंड का चुनाव करने के लिए यहाँ क्लिक करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="LinkerEnvButton"]
 msgid "Click here to select any environments which constrain when the linker may appear."
-msgstr ""
+msgstr "किसी भी प्रकार का एसा वातावरण जो कि संपर्ककर्ता के उपस्थित होने पर उसे रोके इसके लिए यहाँ पर क्लिक करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="MoAffixAllomorphInflectionClassesButton"]
 msgid "Click here to select from a list of inflection classes."
-msgstr ""
+msgstr "रुपांतरण श्रेणी की एक सूची से चयन करने के लिए यहाँ क्लिक करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="MorphTypeButton"]
 msgid "Click here to select from a list of morpheme types."
-msgstr ""
+msgstr "रुपिम श्रेणियों की एक सूची से चयन करने के लिए यहाँ क्लिक करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="PhoneEnvButton"]
 msgid "Click here to select from phonetic environments you have used in the past."
-msgstr ""
+msgstr "आपके द्वारा भुत काल में उपयोग में लिए गए ध्वन्यात्मक वातावरणों का चयन करने के लिए यहाँ क्लिक करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="ToPartOfSpeechButton"]
 msgid "Click here to select the category of the stem resulting from the attachment of this affix."
-msgstr ""
+msgstr "इस समयोजन को जोड़ने से परिणाम के रुप में स्तंभ की श्रेणी का चयन करने के लिए यहाँ क्लिक करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="FromPartOfSpeechButton"]
 msgid "Click here to select the category of the stem to which this affix attaches."
@@ -3958,11 +3955,11 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/menuAddOn/menu/item/@label
 msgid "Click Inserts Invisible Space"
-msgstr ""
+msgstr "अदृश्य स्थान में डालता है पर क्लिक करें"
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksClickCopyDesc
 msgid "Click on any word to copy it to the target field"
-msgstr ""
+msgstr "लक्षित क्षेत्र में प्रतिलिपि के लिए किसी भी शब्द पर क्लिक करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="AllomorphAdjacency"]
 msgid "Click on the button to select the relative position of the other allomorph(s) with respect to the key allomorph."
@@ -3974,7 +3971,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksClickOnViewPreviewResults
 msgid "Click on the View Preview Results button to see the full list of results."
-msgstr ""
+msgstr "परिणामों की पूरी सूची देखने के लिए पुर्वावलोकन परिणाम देख़ें पर क्लिक करें"
 
 #. Displayed for menu window list help
 #. /Src/FwResources/FwStrings.resx::kstidWindowListHelp
@@ -3999,16 +3996,16 @@ msgstr ""
 
 #. /Src/FDO/Strings.resx::ksAllProjectsMustDisconnectCaption
 msgid "Clients connected to shared projects."
-msgstr ""
+msgstr "ग्राहक, साझेदार प्रोजेक्ट्स के साथ जुड़े हुए हैं"
 
 #. {0} is project name. This is a dialog caption, keep it short.
 #. /Src/FDO/Strings.resx::ksMustDisconnectCaption
 msgid "Clients connected to: {0}"
-msgstr ""
+msgstr "से ग्राहक जुड़े हुए हैं: {0}"
 
 #. /Src/FDO/Strings.resx::ksCliticNoCatInfo
 msgid "Clitic of unknown category"
-msgstr ""
+msgstr "अज्ञात श्रेणी के क्लिटिक"
 
 #. Displayed on the Advanced button on the Modify Writing System Properties dialog
 #. Text for Close menu item
@@ -4024,7 +4021,7 @@ msgstr ""
 #. /Src/LexText/ParserUI/TryAWordDlg.resx::m_closeButton.Text
 #. (String used 12 times.)
 msgid "&Close"
-msgstr ""
+msgstr "&बंद करें"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Close"
@@ -4046,11 +4043,11 @@ msgstr "_बंद करो"
 #. /Src/UnicodeCharEditor/CharEditorWindow.resx::m_btnClose.Text
 #. (String used 15 times.)
 msgid "Close"
-msgstr ""
+msgstr "बंद करें"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdClose"]
 msgid "Close this project."
-msgstr ""
+msgstr "इस प्रोजेक्ट को बंद करें."
 
 #. This is the status bar message for the close menu option.
 #. /Src/FwResources/FwStrings.resx::kstidFileCloseMsg
@@ -4072,15 +4069,15 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::m_btnCancel.HelpString
 msgid "Closes this dialog box without saving the changes you have made in this dialog. (Changes made in nested dialog boxes are not cancelled)."
-msgstr ""
+msgstr "आपके द्वारा किए गए परिवर्तनों को बिना सुरक्षित किए वार्तालाप ख़ाने को बंद करता है. (स्वामित्व रखे गए वार्तालाफ ख़ानों में किए गए परिवर्तन निरस्त नहीं किए गए है)."
 
 #. /Src/FwCoreDlgs/AddCnvtrDlg.resx::btnClose.HelpString
 msgid "Closes this dialog, changes are automatically saved."
-msgstr ""
+msgstr "इस वार्तालाप को बंद करता है, परिवर्तन स्वत: ही सुरक्षित हो जाते हैं"
 
 #. /Src/FwResources/FwStrings.resx::kstidShutdownCaption
 msgid "Closing {0}"
-msgstr ""
+msgstr "बंद कर रहा है {0}"
 
 #. Measurement unit abbreviation for Centimeters (Localized string should preserve leading space if needed in formatted display.)
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidCm
@@ -4097,7 +4094,7 @@ msgstr ""
 #. describes the list-of-code-pages combo box when type is code page
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrCodePageLabel
 msgid "Code &Page:"
-msgstr ""
+msgstr "कोड &पृष्ठ:"
 
 #. /Src/UnicodeCharEditor/CustomCharDlg.resx::label1.Text
 msgid "Code value:"
@@ -4115,11 +4112,11 @@ msgstr ""
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksRuleColOpt
 msgid "Column"
-msgstr ""
+msgstr "कॉलम"
 
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::label1.Text
 msgid "Column Options"
-msgstr ""
+msgstr "कॉलम विकल्प"
 
 #. /Src/LexText/Discourse/AdvancedMTDialog.resx::m_columnLabel.Text
 msgid "Column:"
@@ -4127,7 +4124,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Columns..."
-msgstr ""
+msgstr "कॉलम..."
 
 #. /Src/UnicodeCharEditor/CharEditorWindow.resx::m_hdrCombin.Text
 msgid "Combining Class"
@@ -4152,7 +4149,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexReferenceDetailsDlg.resx::label3.Text
 msgid "&Comment"
-msgstr ""
+msgstr "टिप्पणी"
 
 #. /Language Explorer/Configuration/Parts/CellarParts.xml::/PartInventory/bin/part[@id="Text-Detail-CommentAllWs"]/slice/@label
 #. /Language Explorer/Configuration/Parts/LexEntryLayouts.xml::/LayoutInventory/layout["LexEntryRef-jtview-publishRootComplexFormRef"]/part[@ref="SummaryPub"]/@label
@@ -4203,27 +4200,27 @@ msgstr ""
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::colComment.Text
 #. (String used 47 times.)
 msgid "Comment"
-msgstr ""
+msgstr "टिप्पणी"
 
 #. name for SFM import field; name matches enumeration member name
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFldComment
 msgid "Comment (of text)"
-msgstr ""
+msgstr "टिप्पणी (पाठ के लिए)"
 
 #. Caption for dialog
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCommentWillBeAltered
 msgid "Comment will be altered in file name"
-msgstr ""
+msgstr "टिप्पणी को फ़ाइल नाम में बदल दिया जाएगा"
 
 #. /Src/FwCoreDlgs/BackupRestore/BackupProjectDlg.resx::label2.Text
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::label5.Text
 #. (String used 2 times.)
 msgid "Comment:"
-msgstr ""
+msgstr "टिप्पणी:"
 
 #. /Src/Utilities/RemoteReport/ErrorReport.resx::m_comments.Text
 msgid "comments"
-msgstr ""
+msgstr "टिप्पणी"
 
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidBidiClassCS
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidBidiClassCS
@@ -4242,16 +4239,16 @@ msgstr ""
 #. file description for file chooser combo list
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCompiledTECKit
 msgid "Compiled TECkit"
-msgstr ""
+msgstr "संकलित TECकिट"
 
 #. Used in the list of file types in file open dialog accessed from Encoding Converters
 #. /Src/FwResources/FwStrings.resx::kstidTECkitCompiled
 msgid "Compiled TECkit Files"
-msgstr ""
+msgstr "संकलित TECकिट फ़ाइलें"
 
 #. /|strings-en.xml::/DocumentGeneration/Complete|
 msgid "Complete"
-msgstr ""
+msgstr "पूर्ण"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksComplexFeature
 msgid "complex feature"
@@ -4286,13 +4283,13 @@ msgstr ""
 #. /Language Explorer/Configuration/Parts/ReversalLayouts.xml::/LayoutInventory/layout["LexEntry-jtview-publishSubSenseComplexFormHeadwordForReversal"]/part[@ref="ComplexFormHeadwordPub"]/@label
 #. (String used 15 times.)
 msgid "Complex Form"
-msgstr ""
+msgstr "जटिल प्रारुप"
 
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_lblPanel.Text
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_tbPanelHeader.Text
 #. (String used 2 times.)
 msgid "Complex Form references: Complex Form"
-msgstr ""
+msgstr "जटिल प्रारुप संदर्भ: जटिल प्रारुप"
 
 #. /|strings-en.xml::/AlternativeTitles/complexEntryType|
 #. /|strings-en.xml::/PossibilityListItemTypeNames/ComplexEntryTypes|
@@ -4317,44 +4314,44 @@ msgstr ""
 #. /Language Explorer/Configuration/Parts/ReversalLayouts.xml::/LayoutInventory/layout["LexEntryRef-jtview-publishSubSenseComplexFormRefForReversal"]/part[@ref="ComplexFormEntryTypePub"]/@label
 #. (String used 21 times.)
 msgid "Complex Form Type"
-msgstr ""
+msgstr "जटिल प्रारप प्रकार"
 
 #. /Src/LexText/LexTextControls/InsertEntryDlg.resx::m_complexTypeLabel.Text
 msgid "Complex Form Type:"
-msgstr ""
+msgstr "जटिल प्रारुप प्रकार:"
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lists/Edit/toolConfiguration.xml::/root/tools/tool/@label
 #. (String used 2 times.)
 msgid "Complex Form Types"
-msgstr ""
+msgstr "जटिल प्रारुप प्रकार"
 
 #. /Src/xWorks/xWorksStrings.resx::ksComplexFormTypes
 msgid "Complex Form Types:"
-msgstr ""
+msgstr "जटिल प्रारुप प्रकार:"
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntry-Detail-ComplexFormEntries"]/slice/@label
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-ComplexFormEntries"]/slice/@label
 #. (String used 3 times.)
 msgid "Complex Forms"
-msgstr ""
+msgstr "जटिल प्रारुप"
 
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntry-Detail-VisibleComplexFormEntries"]/slice/@tooltip
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-VisibleComplexFormEntries"]/slice/@tooltip
 #. (String used 2 times.)
 msgid "Complex forms shown in this field are shown as references in this component entry in Dictionary."
-msgstr ""
+msgstr "इस कार्यक्षेत्र में दिखाए गए जटिल प्रारुप, शब्दकोश में इस आंशिक प्रविष्ठी में संदर्भ के रुप में दिखाए गए हैं."
 
 #. /|strings-en.xml::/AlternativeTitles/AllEntryRefs|
 #. /|strings-en.xml::/AlternativeTitles/LexEntryRef-Plural|
 #. (String used 2 times.)
 msgid "Complex or Variant Entry References"
-msgstr ""
+msgstr "जटिल या भिन्नरुप प्रविष्ठी संदर्भ"
 
 #. /Language Explorer/Configuration/Parts/LexEntryLayouts.xml::/LayoutInventory/layout["LexEntry-jtview-publishStemPara"]/part[@ref="StemMainEntryConfig"]/@label
 msgid "Component References"
-msgstr ""
+msgstr "आंशिक संदर्भ"
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Parts/LexEntryLayouts.xml::/LayoutInventory/layout["LexEntry-jtview-publishRootMinorPara"]/part[@ref="StemMinorComponentsConfig"]/@label
@@ -4363,22 +4360,22 @@ msgstr ""
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntryRef-Detail-ComponentLexemes"]/if/slice/@label
 #. (String used 5 times.)
 msgid "Components"
-msgstr ""
+msgstr "अंश"
 
 #. /|strings-en.xml::/ClassNames/MoCompoundRule|
 msgid "Compound Rule"
-msgstr ""
+msgstr "यौगिक नियम"
 
 #. /|strings-en.xml::/AlternativeTitles/MoCompoundRule-Plural|
 #. /Language Explorer/Configuration/Available Plugins/Concorder/MainConfigurationExtension.xml::/root/listeners/listener/parameters/sourcecontrols/control/targetcontrols/control/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/@label
 #. (String used 3 times.)
 msgid "Compound Rules"
-msgstr ""
+msgstr "यौगिक नियम"
 
 #. /Language Explorer/Configuration/Parts/NotebookParts.xml::/PartInventory/bin/part[@id="RnGenericRec-Detail-Conclusions"]/slice/@label
 msgid "Conclusion"
-msgstr ""
+msgstr "निष्कर्ष"
 
 #. field name for Data Notebook records
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -4386,38 +4383,38 @@ msgstr ""
 #. /Src/FwResources/FwStrings.resx::kstidConclusions
 #. (String used 3 times.)
 msgid "Conclusions"
-msgstr ""
+msgstr "निष्कर्ष"
 
 #. /Language Explorer/Configuration/Parts/NotebookLayouts.xml::/LayoutInventory/layout["StText-jtview-publishRnConclusions"]/part[@ref="RnConclusionsConfig"]/@before
 msgid "Conclusions:"
-msgstr ""
+msgstr "निष्कर्ष:"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksConcordance
 msgid "concordance"
-msgstr ""
+msgstr "अनुक्रमणिका"
 
 #. /|strings-en.xml::/AlternativeTitles/WordListConcordance-Matches|
 #. /Language Explorer/Configuration/Words/Concordance/toolConfiguration.xml::/root/tools/tool/@label
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksFindExampleSentenceDlgBrowseViewPaneTitle
 #. (String used 3 times.)
 msgid "Concordance"
-msgstr ""
+msgstr "अनुक्रमणिका"
 
 #. /Src/LexText/Morphology/ConcordanceDlg.resx::label3.Text
 msgid "2. Concordance of selected analysis. Select the word occurrences to which you want to assign a different analysis."
-msgstr ""
+msgstr "चयनित विश्लेषण की अनुक्रमणिका. शब्दों की व्यत्तपत्ति का चयन करें जिन्हें आप एक अन्य प्रकार के विश्लेषण के प्रति सौंपना चाहेंगे."
 
 #. /|strings-en.xml::/AlternativeTitles/Concordance-Matches|
 msgid "Concordance Results"
-msgstr ""
+msgstr "अनुक्रमणिका परिणाम"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksConcordedOn0
 msgid "Concorded on {0}"
-msgstr ""
+msgstr "को अनुक्रमणिक किए गए {0}"
 
 #. /Src/LexText/Extensions/RBRExtensions/Concorder.resx::$this.Text
 msgid "Concorder"
-msgstr ""
+msgstr "संयोगक"
 
 #. /Language Explorer/Configuration/Available Plugins/Concorder/MainConfigurationExtension.xml::/root/commands/command/@label
 msgid "Concorder..."
@@ -4427,7 +4424,7 @@ msgstr ""
 #. /Language Explorer/Configuration/Parts/LexEntryLayouts.xml::/LayoutInventory/layout["CmPossibility-jtview-publishStemMinorRefMainEntryCondition"]/part[@ref="NamePub"]/@label
 #. (String used 2 times.)
 msgid "Condition"
-msgstr ""
+msgstr "स्थिति"
 
 #. field name for Data Notebook records
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -4437,21 +4434,21 @@ msgstr ""
 #. /Src/FwResources/FwStrings.resx::kstidConfidence
 #. (String used 5 times.)
 msgid "Confidence"
-msgstr ""
+msgstr "आत्विश्वास"
 
 #. /|strings-en.xml::/PossibilityListItemTypeNames/ConfidenceLevels|
 #. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksConfidenceLevel
 #. (String used 2 times.)
 msgid "Confidence Level"
-msgstr ""
+msgstr "आत्विश्वास स्तर"
 
 #. /Language Explorer/Configuration/Lists/Edit/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Confidence Levels"
-msgstr ""
+msgstr "आत्विश्वास स्तर"
 
 #. /Language Explorer/Configuration/Parts/NotebookLayouts.xml::/LayoutInventory/layout["RnGenericRec-jtview-publishClassifications"]/part[@ref="ConfidenceConfig"]/@before
 msgid "Confidence: "
-msgstr ""
+msgstr "आत्विश्वास "
 
 #. /Language Explorer/Configuration/Parts/CellarLayouts.xml::/LayoutInventory/layout["CmPossibility-jtview-advanced1"]/@label
 msgid "Configurable Item Layout 1"
@@ -4475,39 +4472,39 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksConfigurationSettingsRestoreDlg
 msgid "Configuration settings"
-msgstr ""
+msgstr "कोनफ़िगर सेटिंग"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_configurationSettings.Text
 msgid "&Configuration settings (for example, field visibilities, columns, dictionary layout, interlinear)"
-msgstr ""
+msgstr "कोनफ़िगरेशन सेटिंग (उदाहरण के लिए, कार्यक्षेत्र दृश्यता, कॉलम, शब्दकोश लेआउट, अंतरापंक्ति)"
 
 #. /Src/FwCoreDlgs/BackupRestore/BackupProjectDlg.resx::m_configurationSettings.Text
 msgid "Configuration settings (for example, field visibilities, columns, dictionary layout, interlinear)"
-msgstr ""
+msgstr "कोनफ़िगरेशन सेटिंग (उदाहरण के लिए, कार्यक्षेत्र दृश्यता, कॉलम, शब्दकोश लेआउट, अंतरापंक्ति)"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
 #. /Src/xWorks/XmlDocConfigureDlg.resx::label2.Text
 #. (String used 2 times.)
 msgid "Configure"
-msgstr ""
+msgstr "कोनफ़िगर"
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/commands/command/@label
 msgid "Configure {0}"
-msgstr ""
+msgstr "कोनफ़िगर {0}"
 
 #. {0} is a label of something in the dictionary configure dialog, {1} is the main object type.
 #. /Src/xWorks/xWorksStrings.resx::ksConfigureIn
 msgid "Configure {0} in {1} View..."
-msgstr ""
+msgstr "कोनफ़िगर {0} इसमें {1} देख़े..."
 
 #. /Src/xWorks/XmlDocConfigureDlg.resx::$this.Text
 msgid "Configure {0} View"
-msgstr ""
+msgstr "कोनफ़िगर {0} देख़ें"
 
 #. Sole item in right-click menu in Dictionary view
 #. /Src/xWorks/xWorksStrings.resx::ksConfigure
 msgid "Configure {0} View..."
-msgstr ""
+msgstr "कोनफ़िगर {0} देख़ें..."
 
 #. /Src/XCore/SilSidePane/SilSidePane.resx::ConfigureButtons
 msgid "Configure buttons"
@@ -4515,7 +4512,7 @@ msgstr ""
 
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::$this.Text
 msgid "Configure Columns..."
-msgstr ""
+msgstr "कोनफ़िगर कॉलम..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdConfigureColumns"]
 msgid "Configure current browse pane."
@@ -4525,16 +4522,16 @@ msgstr ""
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_linkConfigureHomograph.Text
 #. (String used 2 times.)
 msgid "Configure Homograph Number"
-msgstr ""
+msgstr "होमोग्राफ़ संख्या कोमफ़िगर करें"
 
 #. /Src/LexText/Interlinear/ConfigureInterlinDialog.resx::$this.Text
 msgid "Configure Interlinear Lines"
-msgstr ""
+msgstr "अंतरापंक्ति रेखाएँ कोनफ़िगर करें"
 
 #. Used in Interlinear context menu
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksConfigureLinkText
 msgid "Configure Interlinear..."
-msgstr ""
+msgstr "अंतरापंक्ति कोनफ़िगर करें..."
 
 #. used for ConfigureListDlg title
 #. /Src/xWorks/xWorksStrings.resx::ksConfigureList
@@ -4543,7 +4540,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/ConfigParentNode.resx::m_lnkConfigureNow.Text
 msgid "Configure now..."
-msgstr ""
+msgstr "अभी कोनफ़िगर करें..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdConfigureList"]
 msgid "Configure properties of a list."
@@ -4551,30 +4548,30 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::m_linkConfigHomographNumber.Text
 msgid "Configure Style of Homograph Number..."
-msgstr ""
+msgstr "होमोग्राफ़ संख्या के तरीके को कोनफ़िगर करें..."
 
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::m_linkConfigSenseRefNumber.Text
 msgid "Configure Style of Sense Reference Number..."
-msgstr ""
+msgstr "इन्दियबोध संदर्भ संख़्या के तरीके को कोनफ़िगर करें..."
 
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::textBox1.Text
 msgid "Configure the homograph number which is shown as part of headwords in Language Explorer."
-msgstr ""
+msgstr "उस होमोग्राफ़ संख़्या को कोनफ़िगर करें जो कि भाषा जाँचकर्ता में मुख्यशब्दों के रुप में दिखाई गई हो."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksTipConfig
 msgid "Configure which columns to display"
-msgstr ""
+msgstr "किन कॉलम को दिखाया जाए उसे कोनफ़िगर करें"
 
 #. /Src/FwResources/FwStrings.resx::kstidViewConfigure
 msgid "&Configure..."
-msgstr ""
+msgstr "कोनफ़िगर..."
 
 #. This text will appear on the sidebar context menu and the View menu below each list of sidebar tab items.
 #. The text on the sub-item of the book filter toolbar button.
 #. /Language Explorer/Configuration/CommonDataTreeInclude.xml::/root/commands/command/@label
 #. (String used 4 times.)
 msgid "Configure..."
-msgstr ""
+msgstr "कोनफ़िगर..."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ConfiguredExportHasBeenCancelled
 msgid "Configured export has been cancelled."
@@ -4582,7 +4579,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Configuring columns"
-msgstr ""
+msgstr "कॉलम को कोइनफ़िगर कर रहा है"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoFields"]
 msgid "Configuring fields displayed in an Edit pane."
@@ -4592,11 +4589,11 @@ msgstr ""
 #. /Src/UnicodeCharEditor/Properties/Resources.resx::ksConfirm
 #. (String used 2 times.)
 msgid "Confirm"
-msgstr ""
+msgstr "सुनिश्चित"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFocusBox_btnConfirmChanges
 msgid "Confirm and move next"
-msgstr ""
+msgstr "सुनिश्चित करे अ आगे बढ़ें"
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksConfirmDeleteMulti
 msgid "Confirm multiple deletions"
@@ -4612,7 +4609,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Words/reusableBrowseControlConfiguration.xml::/reusableControls/control/columns/column/@label
 msgid "Conflicting Opinions"
-msgstr ""
+msgstr "विरोधी मत"
 
 #. Error message when processing an XML file to create factory settings (styles, publications, etc.).
 #. /Src/Common/Framework/FrameworkStrings.resx::kstidIncompatibleDTDVersion
@@ -4623,7 +4620,7 @@ msgstr ""
 
 #. /Src/FDO/Infrastructure/Impl/ConnectionLostDlg.resx::label1.Text
 msgid "Connection to the server has been lost. You may need to reconnect a network cable or make sure the server is running."
-msgstr ""
+msgstr "सर्वर से संपर्क टूट गया है. आपको चाहिए कि आप संपर्क तार का प्रयोग करें या यह सुनिश्चित करें कि सर्वर काम कर रहा है."
 
 #. /Src/LexText/Morphology/MGA/MGADialog.resx::labelConstructedGlossForPrompt.Text
 msgid "Constructed gloss for:"
@@ -4632,7 +4629,7 @@ msgstr ""
 #. header for table column
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksContainsData_
 msgid "Contains Data(%)"
-msgstr ""
+msgstr "डाटा सम्मिलित है(%)"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::$this.StepNames3
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblContentMappings.Text
@@ -4640,7 +4637,7 @@ msgstr ""
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::lblContentMappings.Text
 #. (String used 4 times.)
 msgid "Content mapping"
-msgstr ""
+msgstr "विषय-सूची का नक्शा बनाना"
 
 #. /Src/Common/Controls/FwControls/ProgressDialogWorkingOn.resx::m_LabelWorkingOn.Text
 msgid "Contents Determined at Runtime"
@@ -4657,22 +4654,22 @@ msgstr ""
 #. Message displayed when the UI locale the user previously selected is no supported.
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidFallbackToEnglishUi
 msgid "Continue using English as the user interface language?"
-msgstr ""
+msgstr "उपयोगकर्ता मिलन-बिंदू भाषा के रुप में निरंतर अंग्रेज़ी का ही प्रयोग करें?"
 
 #. caption for message box
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksConversionError
 msgid "Conversion Error"
-msgstr ""
+msgstr "परिवर्तन त्रुटि"
 
 #. Dialog caption
 #. /Src/FDO/Strings.resx::ksConvertFailed
 msgid "Conversion Failed"
-msgstr ""
+msgstr "परिवर्तन असफ़ल"
 
 #. Text of message displayed when Test conversion fails
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrConversionError
 msgid "Conversion failed. Check your map file for errors."
-msgstr ""
+msgstr "परिवर्तन असफ़ल. त्रुटियों के लिए अपनी नक्शे की फाइलों की जाँच करें."
 
 #. caption for message box
 #. Title for message box displayed when an ECException is caught
@@ -4682,20 +4679,20 @@ msgstr ""
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksConvMapError
 #. (String used 3 times.)
 msgid "Conversion map error"
-msgstr ""
+msgstr "परिवर्तन नक्शा त्रुटि"
 
 #. {0} is an error message
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksConversionProblem
 msgid "Conversion problem: {0}"
-msgstr ""
+msgstr "परिवर्तन समस्या: {0}"
 
 #. /Src/FwCoreDlgs/CnvtrPropertiesCtrl.resx::lblConversion.Text
 msgid "&Conversion Type:"
-msgstr ""
+msgstr "परिवर्तन प्रकार:"
 
 #. /Src/FwCoreDlgs/ConverterTest.resx::convertButton.Text
 msgid "&Convert"
-msgstr ""
+msgstr "परिवर्तित करें"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Convert to Affix Allomorph"
@@ -4712,42 +4709,42 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/ConverterTest.resx::label3.Text
 msgid "Converted:"
-msgstr ""
+msgstr "परिवर्तित:"
 
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::Converter.Text
 #. /Src/LexText/Interlinear/LinguaLinksImportDlg.resx::columnHeader3.Text
 #. (String used 2 times.)
 msgid "Converter"
-msgstr ""
+msgstr "परिवर्तक"
 
 #. labels the file box when type is CC or TEC
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrMapFileLabel
 #. /Src/FwCoreDlgs/CnvtrPropertiesCtrl.resx::lblSpecs.Text
 #. (String used 2 times.)
 msgid "Converter &Mapping File:"
-msgstr ""
+msgstr "परिवर्तक &नक्शा बनाने वाली फ़ाइलें:"
 
 #. /Src/FwCoreDlgs/CnvtrPropertiesCtrl.resx::lblName.Text
 msgid "Converter &Name (for your reference):"
-msgstr ""
+msgstr "परिवर्तक &नाम (आपके संदर्भ के लिए):"
 
 #. /Src/FwCoreDlgs/AdvancedEncProps.resx::columnHeader1.Text
 msgid "Converter Property"
-msgstr ""
+msgstr "परिवर्तक विशेषता"
 
 #. /Src/FwCoreDlgs/CnvtrPropertiesCtrl.resx::lblConverter.Text
 msgid "C&onverter Type:"
-msgstr ""
+msgstr "परिवर्तक प्रकार:"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksConverters
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::tpConverters.Text
 #. (String used 2 times.)
 msgid "Converters"
-msgstr ""
+msgstr "परिवर्तक"
 
 #. /Src/FwCoreDlgs/ConverterTest.resx::convertButton.HelpString
 msgid "Converts the test data into the target encoding using the selected converter."
-msgstr ""
+msgstr "चयनित परिवर्तक काप्रयोग करते हुए परिक्षण डाटा को कूट डाटा में परिवर्तित करता है ."
 
 #. This is the text for the copy option on the edit menu.
 #. Text for Copy toolbar button
@@ -4758,11 +4755,11 @@ msgstr ""
 #. /Src/xWorks/DictionaryConfigMgrDlg.resx::m_btnCopy.Text
 #. (String used 6 times.)
 msgid "&Copy"
-msgstr ""
+msgstr "प्रतिलिपि"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Copy"
-msgstr ""
+msgstr "_प्रतिलिपि"
 
 #. Tool tip for Copy toolbar button
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdCopy"]
@@ -4774,19 +4771,19 @@ msgstr ""
 #. /Src/FwResources/FwTMStrings.resx::kstidCopyToolTip
 #. (String used 7 times.)
 msgid "Copy"
-msgstr ""
+msgstr "प्रतिलिपि"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Copy _Location as Hyperlink"
-msgstr ""
+msgstr "_हाइपरलिंक के रुप में स्थान की प्रतिलिपि लें"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidCopyStyleNameFormatNumber
 msgid "Copy {0} of {1}"
-msgstr ""
+msgstr "{1} की प्रतिलिपि {0}"
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksCopyApprovedAnalysesToNewSpelling
 msgid "Copy any approved analyses to the new spelling"
-msgstr ""
+msgstr "किसी भी स्वीकृत विश्लेषण को नए अक्षर विन्यास में प्रतिलिपित करें"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCopyFile
 msgid "&Copy File"
@@ -4806,11 +4803,11 @@ msgstr ""
 #. {1} is a number to distinguish an earlier copy.  {0} is the name of a stored dictionary configuration that is being copied.
 #. /Src/xWorks/xWorksStrings.resx::ksDictConfigMultiCopyOf
 msgid "Copy of {0} ({1})"
-msgstr ""
+msgstr "{0} की प्रतिलिपि({1})"
 
 #. /Src/xWorks/ExportDialog.resx::m_chkExportPictures.Text
 msgid "Copy pictures and media files to the export folder."
-msgstr ""
+msgstr "चित्रों व मिडिया फ़ाइलों को स्थानांतर फ़ोल्डर में प्रतिलिपित करें."
 
 #. This is the status bar message for the copy menu option.
 #. /Src/FwResources/FwStrings.resx::kstidEditCopyMsg
@@ -4821,25 +4818,25 @@ msgstr ""
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksBulkCopyDesc
 msgid "Copy the contents of the source field to the target field"
-msgstr ""
+msgstr "स्त्रोत कार्यक्षेत्र की विषय-सूची को लक्षित कार्यक्षेत्र में प्रतिलिपित करें"
 
 #. /Src/Utilities/Reporting/ErrorReport.resx::radSelf.Text
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradSelf
 #. (String used 2 times.)
 msgid "&Copy this information to the clipboard and I will paste it into an email message myself."
-msgstr ""
+msgstr "इस सूचना को क्लिबिर्ड में प्रतिलिपित करें व इसे मैं स्वयं एक इ-मेल के द्वारा चिपका दूँगा."
 
 #. /Src/Utilities/RemoteReport/ErrorReport.resx::radSelf.Text
 msgid "&Copy this message to the clipboard and I will paste it into an email message myself."
-msgstr ""
+msgstr "इस सूचना को क्लिबिर्ड में प्रतिलिपित करें व इसे मैं स्वयं एक इ-मेल के द्वारा चिपका दूँगा."
 
 #. /Src/FwCoreDlgs/PicturePropertiesDialog.resx::m_rbCopy.Text
 msgid "&Copy to Linked Files folder"
-msgstr ""
+msgstr "संपर्क फ़ाइल फ़ोल्डर में प्रतिलिपित करें"
 
 #. /|strings-en.xml::/Linguistics/WFI/SpellingStatus/CorrectSpellingStatus|
 msgid "Correct"
-msgstr ""
+msgstr "सही"
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksChangeProjectLocationFailed
 msgid "Could not change Projects location"
@@ -4847,17 +4844,17 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCannotConnectToServer
 msgid "Could not connect to server. Check service is running and that any running firewalls are configured to allow connections to the service."
-msgstr ""
+msgstr "सर्वर से जोड़ा नहीं जा सका. जाँच करें कि सर्वर कार्य कर रहा है व किसी भी प्रकार के कार्यशील फ़ायरवॉल इस सेवा के प्रति संपर्कों को स्वीकृति देने के लिए कोनफ़िगर किए गए हों ."
 
 #. Parameter is hard-coded service name (FwRemoteDatabaseConnectorService). This is a message targeted primarily at a computer savvy person.
 #. /Src/FDO/Strings.resx::ksCannotConnectToServer
 msgid "Could not connect to server. Check that {0} is running on the remote server and that any firewalls are configured to allow connections to it."
-msgstr ""
+msgstr "सर्वर से जोड़ा नहीं जा सका. जाँच करें कि {0} रिमोट सर्वर पर कार्य कर रहा है व किसी भी प्रकार के कार्यशील फ़ायरवॉल इस सेवा के प्रति संपर्कों को स्वीकृति देने के लिए कोनफ़िगर किए गए हों ."
 
 #. params host then port.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCannotConnectToHost
 msgid "Could not contact host: {0} using port {1}"
-msgstr ""
+msgstr "मेज़बान से संपर्क नहीं किया जा सका: {0} इस भाग का प्रयोग करते हुए {1}"
 
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksImageSliceFailed
 msgid "Could not create the ImageSlice. {0}"
@@ -4905,7 +4902,7 @@ msgstr ""
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidNumTypeCOUNT
 #. (String used 8 times.)
 msgid "Count"
-msgstr ""
+msgstr "गिनें"
 
 #. field name for Data Notebook records
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -4914,15 +4911,15 @@ msgstr ""
 #. /Src/FwResources/FwStrings.resx::kstidCounterEvidence
 #. (String used 4 times.)
 msgid "Counter Evidence"
-msgstr ""
+msgstr "काउंटर साक्ष्य"
 
 #. /Language Explorer/Configuration/Parts/NotebookLayouts.xml::/LayoutInventory/layout["RnGenericRec-jtview-publishRecord"]/part[@ref="CounterEvidenceConfig"]/@before
 msgid "Counter Evidence: "
-msgstr ""
+msgstr "काउंटर साक्ष्य: "
 
 #. /Src/Common/Controls/FwControls/LanguageSetup.resx::hdrCountry.Text
 msgid "Country"
-msgstr ""
+msgstr "देश"
 
 #. /Src/Common/Controls/FwControls/LanguageSetup.resx::cboLookup.Items1
 msgid "Country Name"
@@ -4946,7 +4943,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertACPGroup"]
 msgid "Create a group of ad hoc rules."
-msgstr ""
+msgstr "तदर्थ नियमों के एक समूह का निर्माण करें."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdCopyLocationAsHyperlink"]
 msgid "Create a hyperlink to this location and copy it to the clipboard."
@@ -4958,7 +4955,7 @@ msgstr ""
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertPossibility"]
 #. (String used 4 times.)
 msgid "Create a new {0}."
-msgstr ""
+msgstr "एक नया बनाएँ {0}."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertAnnotationDef"]
 msgid "Create a new annotation definition."
@@ -4970,7 +4967,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertGenericMajorEntry"]
 msgid "Create a new entry and add it to the lexicon."
-msgstr ""
+msgstr "एक नई प्रविष्ठी का निर्माण करें व इसे शब्द-सूची में जोड़ दें."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertPhEnvironment"]
 msgid "Create a new environment."
@@ -4982,7 +4979,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdNewLangProject"]
 msgid "Create a new FieldWorks project."
-msgstr ""
+msgstr "एक नए फ़ील्डवर्क्स प्रोजेक्ट का निर्माण करें फ़ील्डवर्क्स प्रोजेक्ड"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertEndocentricCompound"]
 msgid "Create a new headed compound."
@@ -4990,11 +4987,11 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertLexEntry"]
 msgid "Create a new lexical entry."
-msgstr ""
+msgstr "एक नई कोशगत प्रविष्ठी का निर्माण करें."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertLexRefType"]
 msgid "Create a new lexical relation."
-msgstr ""
+msgstr "एक नए कोशगत संबंध का निर्माण करें."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertLocation"]
 msgid "Create a new location."
@@ -5030,7 +5027,7 @@ msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::m_btnNew.Text
 msgid "Create a &New Project..."
-msgstr ""
+msgstr "एक नए प्रोजेक्ट का निर्माण करें..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertRecord"]
 msgid "Create a new Record in your Notebook."
@@ -5038,11 +5035,11 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertReversalEntry"]
 msgid "Create a new reversal entry."
-msgstr ""
+msgstr "एक परिवर्तित प्रविष्ठी तैयार करें."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertSemDom"]
 msgid "Create a new semantic domain."
-msgstr ""
+msgstr "एक नया अर्थगत डोमेन तैयार करें."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertAllomorphACP"]
 msgid "Create a rule to prevent allomorphs from co-occurring."
@@ -5058,7 +5055,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Create Affix Form"
-msgstr ""
+msgstr "संयोजित प्रारुप तैयार करें"
 
 #. /Src/Utilities/Reporting/UsageEmailDialog.resx::btnSend.Text
 msgid "Create Email Message"
@@ -5066,15 +5063,15 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LinkVariantToEntryOrSense.resx::m_btnInsert.Text
 msgid "&Create Entry..."
-msgstr ""
+msgstr "प्रविष्ठी तैयार करें..."
 
 #. /Language Explorer/Configuration/Grammar/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Create Linker Form"
-msgstr ""
+msgstr "कड़ी प्रारुप तैयार करें"
 
 #. /Src/FwCoreDlgs/FwCheckAnthroListDlg.resx::textBox2.Text
 msgid "Create my own set of anthropology categories (start with a blank list)"
-msgstr ""
+msgstr "मेरी स्वयं का मानवशास्त्र श्रेणी का समूह तैयार करें (एक ख़ाली सुची के साथ शुरु करें)"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertHumanApprovedAnalysis"]
 msgid "Create new approved analysis"
@@ -5084,55 +5081,55 @@ msgstr ""
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksCreateNewEntry_
 #. (String used 2 times.)
 msgid "Create New Entry..."
-msgstr ""
+msgstr "एक नई प्रविष्ठी तैयार करें..."
 
 #. /|strings-en.xml::/DetailControls/MSAReferenceComboBox/CreateGramFunc|
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCreateNewGrammaticalInfo
 #. /Src/LexText/LexTextControls/MsaCreatorDlg.resx::$this.Text
 #. (String used 3 times.)
 msgid "Create New Grammatical Info."
-msgstr ""
+msgstr "नई वैयाकरणिक सूचना तैयार करें."
 
 #. /|strings-en.xml::/Linguistics/Morphology/TemplateTable/InflAffix|
 msgid " Create new inflectional affix "
-msgstr ""
+msgstr " एक नया मुड़ा हुआ संयोजक तैयार करें "
 
 #. menu item
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksCreateLexRefType_
 msgid "Create New Lexical Relation..."
-msgstr ""
+msgstr "नया कोशगत संबंध तैयार करें..."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksCreateReversal
 msgid "Create Reversal"
-msgstr ""
+msgstr "एक तबदीली तैयार करें"
 
 #. /Src/LexText/Lexicon/CreateReversalIndexDlg.resx::$this.Text
 msgid "Create Reversal Index"
-msgstr ""
+msgstr "एक तबदीली विषय-सूची तैयार करें"
 
 #. This is the text for the create shortcut on desktop option on the file/project management menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidCreateShortcutItemName
 msgid "&Create Shortcut on Desktop"
-msgstr ""
+msgstr "डेस्कटॉप पर शार्टकट तैयार करें"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Create Shortcut on Desktop"
-msgstr ""
+msgstr "डेस्कटॉप पर शार्टकट तैयार करें"
 
 #. Tool tip for create shortcut on desktop toolbar/menu item
 #. /Src/FwResources/FwTMStrings.resx::kstidCreateShortcutToolTip
 msgid "Create shortcut on desktop for this project"
-msgstr ""
+msgstr "इस प्रोजेक्ट के लिए डेस्कटॉप पर शार्टकट तैयार करें"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Create Stem Form"
-msgstr ""
+msgstr "एक स्तंभ प्रारुप तैयार करें"
 
 #. /Src/LexText/LexTextControls/BaseGoDlg.resx::m_btnInsert.Text
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ks_Create_
 #. (String used 2 times.)
 msgid "&Create..."
-msgstr ""
+msgstr "तैयार करें..."
 
 #. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksCreatedObjectsFmt
 msgid "Created {0} {1} objects during import from {2}"
@@ -5188,7 +5185,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Parts/NotebookLayouts.xml::/LayoutInventory/layout["RnGenericRec-jtview-publishRecord"]/part[@ref="HistoryConfig"]/@label
 msgid "Created/Modified"
-msgstr ""
+msgstr "तैयार/रुपांतरित"
 
 #. /Src/FwCoreDlgs/FwNewLangProject.resx::btnOK.HelpString
 msgid "Creates a FieldWorks Project with the name you have supplied and closes this dialog box."
@@ -5204,12 +5201,12 @@ msgstr ""
 #. {0} is a project name
 #. /Src/MigrateSqlDbs/Properties/Resources.resx::ksCreatingATemporaryCopyFailed
 msgid "Creating a temporary copy of {0} failed.  The copy process returned error code {1} and error message {2}."
-msgstr ""
+msgstr "{0} की एक अस्थायी प्रतिलिपि तैयार करना असफल हो गया है.  प्रतिलिपि प्रक्रिया ने त्रुटि कोड {1} व त्रुटि संदेश {2} प्रदान किया है."
 
 #. Displayed in the progress dialog box when creating a new FieldWorks project
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidCreatingWS
 msgid "Creating default writing systems..."
-msgstr ""
+msgstr "डिफ़ॉल्ट राइटिंग सिसटम्स तैयार कर रहा है..."
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCreatingImportLog
 msgid "Creating import log..."
@@ -5222,11 +5219,11 @@ msgstr ""
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksCreatingWindowForX
 msgid "Creating window for {0} Project..."
-msgstr ""
+msgstr "{0} प्रोजेक्ट के लिए विंडो तैयार करें..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="DateCreated"]/@caption
 msgid "Creation Date"
-msgstr ""
+msgstr "तैयार करने की तिथि"
 
 #. /Src/Common/Controls/FwControls/ProgressDialogWorkingOn.resx::m_LabelCreationProgress.Text
 msgid "Creation Progress:"
@@ -5244,39 +5241,39 @@ msgstr ""
 #. /Src/FwResources/FwStrings.resx::kstidCrossReferences
 #. (String used 9 times.)
 msgid "Cross References"
-msgstr ""
+msgstr "प्रतिनिर्देश"
 
 #. Message shows in Dictionary view when mouse is over a link to another entry.
 #. /Src/xWorks/xWorksStrings.resx::ksCtrlClickJumpTooltip
 msgid "Ctrl+Click to jump"
-msgstr ""
+msgstr "आगे जाने के लिए Ctrl+क्लिक करें"
 
 #. /Src/Common/Controls/XMLViews/ReallySimpleListChooser.resx::m_ctrlClickLabel.Text
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksCtrlClickForSubItems
 #. (String used 2 times.)
 msgid "Ctrl-click a check box to include all subitems"
-msgstr ""
+msgstr "सभी छोटे मदों को शामिल करने के लिए एक चेक बॉक्स पर Ctrl-क्लिक करें"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Cu_t"
-msgstr ""
+msgstr "काटें"
 
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::label2.Text
 msgid "Current Columns"
-msgstr ""
+msgstr "वर्तमान कॉलम"
 
 #. /Src/Common/Controls/FwControls/LanguageSetup.resx::grpCurrentLang.Text
 msgid "Current Language"
-msgstr ""
+msgstr "वर्तमान भाषा"
 
 #. /Src/xWorks/xWorksStrings.resx::ksCurrentReversal
 msgid "Current Reversal Index"
-msgstr ""
+msgstr "वर्तमान परिवर्तन विषय-सूची"
 
 #. Text for the writing system selector toolbar tooltip
 #. /Src/FwResources/FwStrings.resx::kstidWSTooltip
 msgid "Current Writing System"
-msgstr ""
+msgstr "वर्तमान राइटिंग सिस्टम"
 
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_FullCode.Text
 msgid "CurrentFullLocale"
@@ -5292,11 +5289,11 @@ msgstr ""
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColorCustom
 #. (String used 5 times.)
 msgid "Custom"
-msgstr ""
+msgstr "कस्टम"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Custom _Fields..."
-msgstr ""
+msgstr "कस्टम फ़ील्डस्"
 
 #. /Language Explorer/Configuration/Lists/areaConfiguration.xml::/root/commands/command/@label
 msgid "Custom _List..."
@@ -5308,33 +5305,33 @@ msgstr ""
 
 #. /Src/xWorks/AddCustomFieldDlg.resx::m_nameLabel.Text
 msgid "Custom Field &Name:"
-msgstr ""
+msgstr "कस्टम फ़ील्ड व नाम:"
 
 #. /Src/xWorks/AddCustomFieldDlg.resx::$this.Text
 msgid "Custom Fields"
-msgstr ""
+msgstr "कस्टम फ़ील्डस्"
 
 #. /Src/xWorks/xWorksStrings.resx::ksCustomFieldsCanNotBeAddedDueToRemoteClientsText
 msgid "Custom Fields cannot be added when there is more than one connected client."
-msgstr ""
+msgstr "जब एक से अधिक ग्राहक जुड़े हुए हों तो कस्टम फ़ील्डस् को जोड़ा नहीं जा सकता."
 
 #. /Src/xWorks/xWorksStrings.resx::ksCustomFieldsCanNotBeAddedDueToRemoteClientsCaption
 msgid "Custom Fields cannot be added."
-msgstr ""
+msgstr "कस्टम फ़ील्डस् को जोड़ा नहीं जा सकता."
 
 #. /Src/xWorks/AddCustomFieldDlg.resx::m_fieldsLabel.Text
 msgid "&Custom Fields:"
-msgstr ""
+msgstr "कस्टम फ़ील्डस्:"
 
 #. /Src/FwCoreDlgs/FwApplyStyleDlg.resx::m_cboTypes.Items2
 #. /Src/FwCoreDlgs/FwStylesDlg.resx::m_cboTypes.Items2
 #. (String used 2 times.)
 msgid "Custom Styles"
-msgstr ""
+msgstr "कस्टम स्टाइलस्"
 
 #. /Language Explorer/Configuration/Parts/NotebookLayouts.xml::/LayoutInventory/layout["StText-jtview-publishCustomStText"]/part[@ref="CustomConfig"]/@before
 msgid "Custom:"
-msgstr ""
+msgstr "कस्टम:"
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidCustomizeCaption
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidCustomizeTooltip
