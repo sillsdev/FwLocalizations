@@ -19591,10 +19591,6 @@ msgstr ""
 msgid "Send/Receive LIFT"
 msgstr "Enviar/Recibir LIFT"
 
-#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
-msgid "Send/Receive"
-msgstr "Enviar/Recibir"
-
 #. Occurs as {0} in ksCompleFormIsComponent or ksComponentIsComponent.
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksSense
 msgid "sense"
