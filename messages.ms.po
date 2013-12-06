@@ -1,6 +1,7 @@
 #  Created from FieldWorks sources
-#  Copyright (c) 2011 SIL International.
-#  This file is distributed under the same license as the FieldWorks programs.
+#  Copyright (c) 2011-2013 SIL International
+#  This software is licensed under the LGPL, version 2.1 or later
+#  (http://www.gnu.org/licenses/lgpl-2.1.html)
 msgid ""
 msgstr ""
 "Project-Id-Version: FieldWorks 7.1.1\n"
