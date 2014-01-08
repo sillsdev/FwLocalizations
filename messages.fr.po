@@ -1,12 +1,11 @@
-#  Copyright (c) 2005-2013 SIL International
-#  This software is licensed under the LGPL, version 2.1 or later
-#  (http://www.gnu.org/licenses/lgpl-2.1.html)
+#  Copyright (c) 2005 SIL International
+#  This file is distributed under the same license as the FieldWorks suite.
 msgid ""
 msgstr ""
-"Project-Id-Version: FieldWorks 7.3.1\n"
+"Project-Id-Version: FieldWorks 8.0.5\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
-"POT-Creation-Date: 2013-09-24T13:49:53.0159740-05:00\n"
-"PO-Revision-Date: 2013-10-12 13:48-0000\n"
+"POT-Creation-Date: 2013-12-11T23:28:08.8564581-06:00\n"
+"PO-Revision-Date: 2013-12-16 14:30-0600\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
@@ -16,15 +15,15 @@ msgstr ""
 "X-Poedit-Basepath: C:\\Users\\David\\Documents\\!Localization\\FW localization\n"
 "X-Poedit-Bookmarks: 4021,-1,-1,-1,-1,-1,-1,-1,-1,-1\n"
 
-#. U+29EB
-#. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_cboBulletScheme.Items11
-msgid "⧫"
-msgstr "⧫"
-
 #. U+2B27
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_cboBulletScheme.Items10
 msgid "⬧"
 msgstr "⬧"
+
+#. U+29EB
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_cboBulletScheme.Items11
+msgid "⧫"
+msgstr "⧫"
 
 #. used to indicate no value in ksQueueXYZ
 #. /Src/LexText/ParserUI/ParserUIStrings.resx::ksDash
@@ -35,11 +34,6 @@ msgstr "-"
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksMissingMarker
 msgid "---"
 msgstr "---"
-
-#. U+261E
-#. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_cboBulletScheme.Items15
-msgid "☞"
-msgstr "☞"
 
 #. separate name and abbreviation (space dash space)
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPossibility-Jt-AbbrAndName"]/lit
@@ -154,8 +148,8 @@ msgid ") "
 msgstr ") "
 
 #. indicates a missing value
-#. signals missing value
 #. signals missing/unknown value
+#. signals missing value
 #. marks unknown/missing information
 #. /Src/FDO/Strings.resx::ksStars
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksStars
@@ -165,8 +159,8 @@ msgstr ") "
 msgid "***"
 msgstr "***"
 
-#. Separator to use between multiple slot names when an irregularly inflected form variant fills two or more inflectional affix slots
 #. separate items in a list (comma space)
+#. Separator to use between multiple slot names when an irregularly inflected form variant fills two or more inflectional affix slots
 #. Used in Description on the General tab of the Style dialog box to separate detail items
 #. /Src/FDO/Strings.resx::ksListSep
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidItemSeparator
@@ -232,12 +226,12 @@ msgstr ": "
 msgid "; "
 msgstr "; "
 
-#. indicates unknown/undefined/missing value
 #. Shown in the file list under book names when the file can not be found
-#. missiing/undefined information
-#. default for an unknown/unrecognized/undefined value
 #. signals unknown/missing value
+#. missiing/undefined information
 #. marks unknown value that the user shouldn't see
+#. indicates unknown/undefined/missing value
+#. default for an unknown/unrecognized/undefined value
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Jt-Basic"]/choice/where/choice/otherwise/lit
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Jt-Browse"]/choice/where/choice/otherwise/para/lit
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Jt-BrowseAbbr"]/choice/where/choice/otherwise/para/lit
@@ -308,11 +302,11 @@ msgstr "]"
 msgid "{0}"
 msgstr "{0}"
 
-#. Used for formatting the project name (param 0) and remote server name (param 1) for display in a window caption.
-#. Used for formatting the Main window caption with the project name (param 0) and the application name (param 1)
-#. Format string for info bar caption; {0} is the basic caption, {1} is the book, chapter, verse reference
 #. This is the format string for displaying tooltips for info. bar buttons. Parameter 0 = the tab's text and parameter 1 = the current tab item's text.
 #. title of the button's corresponding sidebar tab followed by the tab's current button
+#. Format string for info bar caption; {0} is the basic caption, {1} is the book, chapter, verse reference
+#. Used for formatting the Main window caption with the project name (param 0) and the application name (param 1)
+#. Used for formatting the project name (param 0) and remote server name (param 1) for display in a window caption.
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksProjectNameAndServerFmt
 #. /Src/Common/Framework/FrameworkStrings.resx::ksInfoBarBtnToolTipFmt
 #. /Src/FwResources/FwStrings.resx::kstidAppCaptionWithProjectName
@@ -338,8 +332,8 @@ msgid "{0} [{1}]"
 msgstr "{0} [{1}]"
 
 #. Used in Reversal Index. {0} is writing system name, {1} is Reversal Index.
-#. used to concatenate a long format date string with a short format time string.
 #. Used in Dictionary View pane, {0} is publication name, {1} is Entries (localized).
+#. used to concatenate a long format date string with a short format time string.
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksDateAndTime
 #. /Src/xWorks/xWorksStrings.resx::ksPublicationEntries
 #. /Src/xWorks/xWorksStrings.resx::ksXReversalIndex
@@ -475,6 +469,11 @@ msgstr "➢"
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_cboBulletScheme.Items20
 msgid "➲"
 msgstr "➲"
+
+#. U+261E
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_cboBulletScheme.Items15
+msgid "☞"
+msgstr "☞"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "↓"
@@ -1233,11 +1232,15 @@ msgstr "Environ"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_About FLEx Bridge..."
 msgstr "_A propos de FLExBridge..."
 
 # DLR _À doesn't work
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_About Language Explorer..."
 msgstr "À propos de Language Explorer..."
 
@@ -1357,8 +1360,8 @@ msgstr "Règles ad hoc de prévention de co-occurrence"
 msgid "Ad hoc Rules"
 msgstr "Règles ad hoc"
 
-#. button label
 #. Button text when adding new mapping
+#. button label
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterSetupDlg.resx::m_btnAdd.Text
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrAdd
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_btnAddHost.Text
@@ -1664,6 +1667,8 @@ msgstr "Ajouter le mot actuel au lexique (s'il s'agit d'un mot vernaculaire)."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Add to Dictionary..."
 msgstr "Ajouter au dictionnaire..."
 
@@ -1775,6 +1780,12 @@ msgstr "On a ajouté {0} à la {1} de {2}."
 #. /Src/FwCoreDlgs/AddNewUserDlg.resx::$this.Text
 msgid "Adding a New User"
 msgstr "Ajoute un nouvel utilisateur"
+
+# DLR ?
+#. Used in Archive with RAMP dialog box
+#. /Src/FwResources/FwStrings.resx::kstidAddingFwProject
+msgid "Adding FieldWorks project"
+msgstr "Ajout du projet FieldWorks"
 
 # DLR
 #. Used in Backup Progress dialog.
@@ -2096,11 +2107,6 @@ msgstr "Toute prononciation"
 msgid "All Reversal Indexes"
 msgstr "Tous les index d'inversion"
 
-#. Displays in the Help/About box and the splash screen
-#. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidCopyrightFmt
-msgid "{0}. All rights reserved."
-msgstr "{0}.Tous droits réservés."
-
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksAllChecked
 msgid "All selected items"
 msgstr "Tous les éléments cochés"
@@ -2183,6 +2189,8 @@ msgstr "Permet à l'utilisateur de spécifier les traits de police, quand c'est 
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Alphabetical Order"
 msgstr "Ordre alphabétique"
 
@@ -2205,6 +2213,11 @@ msgstr "<Déjà en Unicode>"
 #. /Src/LexText/LexTextControls/LexOptionsDlg.resx::includeBetasBox.Text
 msgid "Also notify me when a Beta release is available."
 msgstr "M'avertir aussi lorsqu'une version beta est disponible."
+
+# DLR
+#. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label11.Text
+msgid "Also, keep linked files in one location so that they are all included in the backup files when you back up the project."
+msgstr "De plus, garder des fichiers liés à un endroit de sorte qu'ils soient tous inclus dans la sauvegarde lorsque vous sauvegardez le projet."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksAlternateForms
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksAlternateForms
@@ -2233,8 +2246,9 @@ msgstr "&Toujours montrer les menus complets"
 
 #. menu item
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksAlwaysVisible
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Always visible"
 msgstr "Toujours visible"
 
@@ -2390,10 +2404,11 @@ msgstr "analyse"
 #. /|strings-en.xml::/ClassNames/WfiAnalysis|
 #. /|strings-en.xml::/ClassNames/WfiMorphBundle|
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPossibility-Detail-NameRDEA"]/slice/@label
 #. /Language Explorer/Configuration/Parts/WFIParts.xml::/PartInventory/bin/part[@id="WfiAnalysis-Detail-InterlinearAnal"]/slice/@label
 #. /Language Explorer/Configuration/Parts/WFIParts.xml::/PartInventory/bin/part[@id="WfiAnalysis-Detail-InterlinearParse"]/slice/@label
-#. (String used 6 times.)
+#. (String used 7 times.)
 msgid "Analysis"
 msgstr "Analyse"
 
@@ -2487,7 +2502,7 @@ msgid "&Another location"
 msgstr "Un &autre emplacement"
 
 # DLR
-#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksAnth
+#. /Src/FDO/Strings.resx::ksAnth
 msgid "Anth"
 msgstr "Anthro."
 
@@ -2506,7 +2521,7 @@ msgstr "_Catégorie anthropologique"
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-AnthroCodes"]/slice/@label
 #. /Language Explorer/Configuration/Parts/NotebookParts.xml::/PartInventory/bin/part[@id="RnGenericRec-Detail-AnthroCodes"]/slice/@label
 #. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksAnthropologyCategories
-#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksAnthropologyCategories
+#. /Src/FDO/Strings.resx::ksAnthropologyCategories
 #. (String used 10 times.)
 msgid "Anthropology Categories"
 msgstr "Catégories anthropologiques"
@@ -2672,6 +2687,8 @@ msgid "Apply Style"
 msgstr "Appliquer le style"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Apply Style..."
 msgstr "_Appliquer le style..."
 
@@ -2770,6 +2787,11 @@ msgstr "Aqua,51,204,204"
 msgid "Arabic Number"
 msgstr "Chiffre arabe"
 
+# DLR
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "_Archive with RAMP (SIL)..."
+msgstr "_Archiver avec RAMP (SIL)..."
+
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksAreYouSureAddZtoX
 msgid "Are you sure you want to add the {0} allomorph ({1}) to this entry?"
 msgstr "Êtes-vous sûr de vouloir ajouter l'allomorphe {0} ({1}) à cette entrée?"
@@ -2806,6 +2828,8 @@ msgid "Are you sure you want to delete the selected projects?"
 msgstr "Êtes-vous sûr de vouloir supprimer les projets sélectionnés?"
 
 #. /Language Explorer/Configuration/Main.xml::/window/sidebar/tab/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/sidebar/tab/@label
+#. (String used 2 times.)
 msgid "Areas"
 msgstr "Zones"
 
@@ -3018,8 +3042,8 @@ msgstr "Sauvegarder un projet FieldWorks."
 
 # DLR
 #. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_checkbox_BackupFirst.Text
-msgid "Back up existing project before restoring"
-msgstr "Sauvegarder le projet actuel avant de restaurer"
+msgid "&Back up existing project before restoring"
+msgstr "^Sauvegarder le projet actuel avant de restaurer"
 
 # DLR
 #. Tool tip for backup/restore toolbar/menu item
@@ -3051,6 +3075,8 @@ msgid "&Back up this Project..."
 msgstr "Sauvegarder ce projet..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Back up this Project..."
 msgstr "Sauvegarder ce projet..."
 
@@ -3174,8 +3200,8 @@ msgstr "Basé sur:"
 msgid "&Based on:"
 msgstr "&Basé sur:"
 
-#. name for SFM import field; name matches enumeration member name
 #. Currently, only used in IText. We could think of something more generic later.
+#. name for SFM import field; name matches enumeration member name
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksVernacularInParagraph
 #. /Src/LexText/Interlinear/InterlinMaster.resx::m_tpRawText.Text
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksBaseline
@@ -3493,8 +3519,8 @@ msgstr "Bleu-Gris,102,102,153"
 msgid "&Bold"
 msgstr "Gras"
 
-#. Text for Bold toolbar button
 #. Tool tip for Bold toolbar button
+#. Text for Bold toolbar button
 #. /Src/FDO/Strings.resx::ksBold
 #. /Src/FwCoreDlgs/FwCoreDlgControls/ConfigSenseLayout.resx::m_chkSenseBoldNumber.Text
 #. /Src/FwResources/FwStrings.resx::kstidFormatBoldToolTip
@@ -3548,8 +3574,8 @@ msgid "Bottom"
 msgstr "Bas"
 
 # DLR use MS term (was "Marge bas de page"). "Bordure en bas" also possible
-#. Text for format/borders bottom border tooltip
 #. Tool tip for format/borders bottom border tooltip
+#. Text for format/borders bottom border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersBottomToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersBottomItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersBottomToolTip
@@ -3686,6 +3712,8 @@ msgstr "Intégré"
 
 # @
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Bulk _Edit (copy)"
 msgstr "_Éditer en bloc (copie)"
 
@@ -3694,11 +3722,15 @@ msgid "Bulk Copy"
 msgstr "Copier en bloc"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Bulk Edit (c_lick copy)"
 msgstr "Éditer en bloc (c_liquer-copier)"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Bulk Edit (list choice)"
 msgstr "Éditer en _bloc (choisir d'une liste)"
 
@@ -3757,8 +3789,8 @@ msgstr "Police de puces et numéros..."
 msgid "Bulleted"
 msgstr "À puces"
 
-#. Text for Bullets toolbar button
 #. Tool tip for Bullets toolbar button
+#. Text for Bullets toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatBulletedListItemToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBulletedListItemItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBulletedListItemToolTip
@@ -3811,6 +3843,7 @@ msgstr "{0} peut être configuré avec plus de détails."
 #. /Src/FdoUi/MergeObjectDlg.resx::btnClose.Text
 #. /Src/FwCoreDlgs/MergeWritingSystemDlg.resx::m_cancelButton.Text
 #. /Src/LexText/Lexicon/FindExampleSentenceDlg.resx::btnCancel.Text
+#. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::button_Cancel.Text
 #. /Src/LexText/Lexicon/SwapLexemeWithAllomorphDlg.resx::btnClose.Text
 #. /Src/LexText/LexTextControls/MasterCategoryListDlg.resx::m_btnCancel.Text
 #. /Src/LexText/LexTextControls/MasterInflectionFeatureListDlg.resx::m_btnCancel.Text
@@ -3820,7 +3853,7 @@ msgstr "{0} peut être configuré avec plus de détails."
 #. /Src/LexText/LexTextControls/PhonologicalFeatureChooserDlg.resx::m_btnCancel.Text
 #. /Src/MigrateSqlDbs/ExistingProjectDlg.resx::m_btnCancel.Text
 #. /Src/xWorks/ExportDialog.resx::btnCancel.Text
-#. (String used 16 times.)
+#. (String used 17 times.)
 msgid "&Cancel"
 msgstr "Annuler"
 
@@ -3942,7 +3975,7 @@ msgid "Cannot add Variant"
 msgstr "Impossible d'ajouter variante"
 
 # DLR
-#. Message shown when  user adds a paragraph style and chooses a style for the following paragraph that cannot be applied in the same context (e.g., book title and footnote).
+#. Message shown when user adds a paragraph style and chooses a style for the following paragraph that cannot be applied in the same context (e.g., book title and footnote).
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidStyleContextMismatchMsg
 msgid "{0} cannot be the style for the following paragraph for {1} because these two styles cannot be applied in the same context."
 msgstr "{0} ne peut pas être le style du paragraphe après {1} parce qu'il est impossible d'appiquer ces deux styles dans le même contexte."
@@ -4099,6 +4132,11 @@ msgstr "Impossible de restaurer"
 #. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::$this.Text
 msgid "Cannot restore files in Linked Files folder"
 msgstr "Impossible de restaurer les fichiers dans le dossier de fichiers liés"
+
+# DLR
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBackupCantRestoreWhenUsingSRCaption
+msgid "Cannot Restore Shared Project"
+msgstr "Impossible de restaurer un projet partagé"
 
 # DLR
 #. caption for message box
@@ -4267,8 +4305,8 @@ msgstr "Mises en garde:"
 msgid "CC"
 msgstr "CC"
 
-#. file description for file chooser combo list
 #. Used in the list of file types in file open dialog accessed from Encoding Converters
+#. file description for file chooser combo list
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_transduceProcessorCombo.Items
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCCTable
 #. /Src/FwResources/FwStrings.resx::kstidAllCCTable
@@ -4276,8 +4314,8 @@ msgstr "CC"
 msgid "CC Table"
 msgstr "Tableau CC"
 
-#. Used in Description on the General tab of the Style dialog box
 #. Tool tip for Center toolbar button
+#. Used in Description on the General tab of the Style dialog box
 #. Text for Center toolbar button
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksCenter
 #. /Src/FwResources/FwStrings.resx::kstidFormatCenterToolTip
@@ -4352,8 +4390,9 @@ msgid "Change spelling of multiple occurrences."
 msgstr "Changer l'orthographe des multiples incidences."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Change Spelling..."
 msgstr "Changer l'orthographe..."
 
@@ -4501,11 +4540,15 @@ msgstr "Cocher un plug-in pour l'installer ou en décocher pour le désinstaller
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Check for _Updates..."
 msgstr "Rechercher les mises à jo_ur..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Check for FLEx Bridge _Updates..."
 msgstr "Rechercher des mises à jo_ur de FLEx Bridge..."
 
@@ -5102,8 +5145,8 @@ msgid "Clitic of unknown category"
 msgstr "Clitique de catégorie inconnue"
 
 #. Displayed on the Advanced button on the Modify Writing System Properties dialog
-#. Text for Close menu item
 #. This is the text for the close option on the file menu.
+#. Text for Close menu item
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ks_Close
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidWsPropsCloseAdvancedButtonText
 #. /Src/FwCoreDlgs/FwDeleteProjectDlg.resx::m_btnExit.Text
@@ -5117,6 +5160,8 @@ msgid "&Close"
 msgstr "&Fermer"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Close"
 msgstr "_Fermer"
 
@@ -5211,6 +5256,8 @@ msgid "Codepoint length must be 4-6 digits"
 msgstr "Le point de code doit avoir entre 4 et 6 chiffres"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Collect Words"
 msgstr "_Collectionner des mots"
 
@@ -5240,6 +5287,8 @@ msgstr "Colonne:"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Columns..."
 msgstr "_Colonnes..."
 
@@ -5514,8 +5563,9 @@ msgid "Configuration settings (for example, field visibilities, columns, diction
 msgstr "&Configuration (par exemple, visibilité de champs, colonnes, disposition de dictionnaire, interlinéarisation)"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
 #. /Src/xWorks/XmlDocConfigureDlg.resx::label2.Text
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Configure"
 msgstr "Configurer"
 
@@ -5608,8 +5658,8 @@ msgstr "Configurer quelles colonnes à afficher"
 msgid "&Configure..."
 msgstr "&Configurer..."
 
-#. The text on the sub-item of the book filter toolbar button.
 #. This text will appear on the sidebar context menu and the View menu below each list of sidebar tab items.
+#. The text on the sub-item of the book filter toolbar button.
 #. /Language Explorer/Configuration/CommonDataTreeInclude.xml::/root/commands/command/@label
 #. (String used 4 times.)
 msgid "Configure..."
@@ -5620,6 +5670,8 @@ msgid "Configured export has been cancelled."
 msgstr "L'exportation configurée a été annulée."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Configuring columns"
 msgstr "_Configure les colonnes"
 
@@ -5819,6 +5871,8 @@ msgid "&Copy"
 msgstr "&Copier"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Copy"
 msgstr "_Copier"
 
@@ -5836,6 +5890,8 @@ msgstr "Copier"
 
 # DLR "emplacement" = MS term
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Copy _Location as Hyperlink"
 msgstr "Copier l'emplacement comme _lien hypertexte"
 
@@ -5847,6 +5903,11 @@ msgstr "Copier {0} de {1}"
 #. /Src/LexText/Morphology/MEStrings.resx::ksCopyApprovedAnalysesToNewSpelling
 msgid "Copy any approved analyses to the new spelling"
 msgstr "Copier toute analyse approuvée à la nouvelle orthographe"
+
+# DLR ??
+#. /Src/Common/SimpleRootSite/Properties/Resources.resx::ksCopyFailed
+msgid "Copy failed with message: "
+msgstr "Échec de la copie avec message: "
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCopyFile
@@ -6218,6 +6279,8 @@ msgid "&Create Shortcut on Desktop"
 msgstr "&Créer un raccourci sur le bureau"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Create Shortcut on Desktop"
 msgstr "_Créer un raccourci sur le bureau"
 
@@ -6285,14 +6348,14 @@ msgid "Creates a FieldWorks Project with the name you have supplied and closes t
 msgstr "Créer un projet FieldWorks avec le nom que vous avez donné et fermer ce dialogue."
 
 # DLR
-#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdObtainFirstLiftProject"]
-msgid "Creates a repository for the lexical data in this project for the first time (for use with WeSay)"
-msgstr "Créer un dépôt pour les données lexicales de ce projet pour la première fois (à utiliser avec WeSay)"
+#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdObtainFirstFlexBridgeProject"]
+msgid "Creates a full project repository for this project for the first time (other project members will use \"Get Project\")"
+msgstr "Créer un dépôt pour ce projet pour la première fois (autres utilisateurs employeront \"Recevoir un projet\")"
 
 # DLR
-#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdObtainFirstFlexBridgeProject"]
-msgid "Creates a repository for this project for the first time (other users will use \"Get Project\")"
-msgstr "Créer un dépôt pour ce projet pour la première fois (autres utilisateurs employeront \"Recevoir un project\")"
+#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdObtainFirstLiftProject"]
+msgid "Creates a LIFT repository for the lexical data in this project for the first time (for use with WeSay and other LIFT programs)"
+msgstr "Créer un dépôt pour les données lexicales de ce projet pour la première fois (à utiliser avec WeSay et d'autres logiciels LIFT)"
 
 # DLR
 #. Displayed in the progress dialog box caption when creating a new FieldWorks project
@@ -6371,6 +6434,8 @@ msgid " (Ctrl-Click)"
 msgstr " (Ctrl-clic)"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Cu_t"
 msgstr "Couper"
 
@@ -6398,8 +6463,8 @@ msgid "CurrentFullLocale"
 msgstr "ParRégComplAct"
 
 # DLR
-#. Name of the custom entry in the list of quotation mark languages.
 #. for list of paper sizes in Page Setup dialog
+#. Name of the custom entry in the list of quotation mark languages.
 #. Color defined by user
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidCustomQuotationMarksName
 #. /Src/FwResources/FwStrings.resx::kstidPaperSizeCustom
@@ -6409,6 +6474,8 @@ msgid "Custom"
 msgstr "Personnalisé"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Custom _Fields..."
 msgstr "Champs personnalisés..."
 
@@ -6569,6 +6636,8 @@ msgid "Dashed Underline"
 msgstr "Soulignement tireté"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_Data"
 msgstr "_Données"
 
@@ -6913,6 +6982,8 @@ msgid "Delete {0} View"
 msgstr "Supprimer l'affichage {0}"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Delete {0}..."
 msgstr "Supprimer {0}..."
 
@@ -7074,9 +7145,9 @@ msgstr "Supprimer des analyses multi-morphémiques"
 msgid "Delete Nested Group"
 msgstr "Supprimer groupe imbriqué"
 
-#. Used for formatting the undo/redo labels for deleting notes
 #. Alternate text for the delete note item (used in the customize dialog).
 #. Tool tip for the delete note menu item
+#. Used for formatting the undo/redo labels for deleting notes
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksDeleteNote
 #. (String used 5 times.)
@@ -7096,6 +7167,8 @@ msgstr "Supprimer l'image"
 
 # DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Delete Project..."
 msgstr "Supprimer un projet..."
 
@@ -7125,6 +7198,8 @@ msgstr "Supprimer l'index d'inversion"
 
 # @
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Delete selected {0}"
 msgstr "Supprimer {0} sélectionné"
 
@@ -7304,6 +7379,8 @@ msgid "DelReapps"
 msgstr "DelReapps"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Demo Movies..."
 msgstr "Vidéos _démo..."
 
@@ -7565,6 +7642,11 @@ msgid "&Display items in the list by:"
 msgstr "Afficher les éléments dans la liste par:"
 
 # (DLR)
+#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpNotesSendReceive"]
+msgid "Display technical notes on FieldWorks Send/Receive (only available in English)."
+msgstr "Afficher des notes techniques sur Envoyer/Recevoir dans FieldWorks (disponible seulement en anglais)."
+
+# (DLR)
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpNotesInterlinearImport"]
 msgid "Display technical notes on interlinear import (only available in English)."
 msgstr "Afficher des notes techniques (disponible seulement en anglais) sur l'importation d'interlinéaire."
@@ -7789,6 +7871,46 @@ msgstr "Voulez-vous essayer de vous reconnecter maintenant? "
 msgid "Do you want to update the homograph numbers to be based on the {0} writing system?"
 msgstr "Voulez-vous actualiser les numéros d'homographes pour qu'ils soit basés sur le système d'écriture {0}?"
 
+#. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::htmlControl_Instructions.DocumentText
+msgid ""
+"<!DOCTYPE html><html>\n"
+"<body lang=EN-US style='font-family:\"Microsoft Sans Serif\",\"sans-serif\";font-size:9.5pt'>\n"
+"<p style='font-size:11pt;margin-bottom:0in'>Getting Started</p>\n"
+"<p style='margin:0in;text-indent:10.5pt'>When you begin to share\n"
+"data for the first time, the computer with the most authoritative copy <b>must</b> be\n"
+"the first to send/receive, and all other computers must have the project <b>removed</b>\n"
+"from that computer before proceeding.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>If your project is spread across two or more\n"
+"computers, and neither contains a more complete or up-to-date work, it is recommended to merge\n"
+"the databases into one project before sharing the project. If you need help with this process,\n"
+"please contact <a href='mailto:FLEx_Errors@sil.org'>FLEx_Errors@sil.org</a> for advice.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>All other\n"
+"computers/users in the project will receive this project through the command &quot;Get Project from Colleague&quot;.\n"
+"After that, they can continue to work on the new shared project.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>For step-by-step\n"
+"instructions on project sharing, please search for &quot;Get started with\n"
+"Send/Receive&quot; in the Helps or click the Help button below.</p>\n"
+"\n"
+"<p style='font-size:11pt;margin-bottom:0in'>Best Practices</p>\n"
+"<p style='margin:0in;text-indent:10pt'>When working, it is recommended for\n"
+"each user to complete a send/receive before starting the day’s work (to receive\n"
+"the most current data) and when ending the day’s work (to share your new\n"
+"changes with other users). Users who work at the same time, or who are making\n"
+"major changes to the database are encouraged to send/receive more often to\n"
+"prevent conflicts.</p>\n"
+"\n"
+"<ul>\n"
+"<p style='margin:0in;margin-left:-30pt;text-indent:10pt'>As with any Send/Receive process, there\n"
+"are recommendations about which areas to avoid editing at the same time:</p>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>If you will be doing a Bulk Edit, please do a Send/Receive immediately before and after, and ask other teammates to refrain from working while you do this.</li>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>Try to avoid having two users work on the same interlinear text during the same send/receive cycle. This includes the Text Chart.</li>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>If two users adjust lexical relations in the same entry in the same Send/Receive cycle, the results may not be what you expect.</li>\n"
+"</ul>\n"
+"</body>\n"
+"</html>\n"
+"      "
+msgstr ""
+
 # DLR
 #. /Language Explorer/Configuration/Notebook/Document/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Document"
@@ -7949,12 +8071,14 @@ msgstr "É&dition"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_Edit"
 msgstr "É_dition"
 
 # DLR
-#. This is the edit category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. Used for the undo/redo label for clicking on the Edit button in the Diff. dialog.
+#. This is the edit category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the edit category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwStrings.resx::kstidEditCategory
 #. /Src/FwResources/FwTMStrings.resx::kstidEditCategory
@@ -8002,6 +8126,8 @@ msgstr "Modifier des cases de {0}"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Edit Spelling Status"
 msgstr "Modifier le statut d'orthographe"
 
@@ -8090,7 +8216,7 @@ msgstr "Modifier les genres"
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Detail-ToInflectionClass"]/slice/chooserInfo/chooserLink/@label
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoStemMsa-Detail-InflectionClass"]/slice/chooserInfo/chooserLink/@label
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoStemMsa-Detail-InflectionClassDisabled"]/slice/chooserInfo/chooserLink/@label
-#. (String used 4 times.)
+#. (String used 5 times.)
 msgid "Edit the Inflection Classes for {0}"
 msgstr "Modifier les classes de flexion pour {0}"
 
@@ -8259,6 +8385,8 @@ msgstr "Édition..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Editing Linguistics Papers Using _XLingPaper ..."
 msgstr "Edition des articles linguistiques avec _XLingPaper..."
 
@@ -8544,10 +8672,11 @@ msgstr "&Entrée"
 #. /|strings-en.xml::/ClassNames/LexEntry|
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksComplexConcEntry
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksEntry
 #. /Src/xWorks/xWorksStrings.resx::Entry
-#. (String used 6 times.)
+#. (String used 7 times.)
 msgid "Entry"
 msgstr "Entrée"
 
@@ -8729,9 +8858,9 @@ msgstr "égale à"
 msgid "{0}: error"
 msgstr "{0}: erreur"
 
+#. Caption for error messages in dialogs
 #. used as title for an error message box
 #. caption for message box
-#. Caption for error messages in dialogs
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksErrorCaption
 #. /Src/Common/UIAdapterInterfaces/UIAdapterInterfacesStrings.resx::ksError
 #. /Src/FDO/Strings.resx::ksErrorCaption
@@ -9622,6 +9751,8 @@ msgstr "Exportation des domaines sémantiques"
 
 # DLR ??
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Export Text of browse view"
 msgstr "Exporter le texte de l'affichage Parcourir"
 
@@ -9644,6 +9775,8 @@ msgid "&Export..."
 msgstr "&Exporter..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Export..."
 msgstr "_Exporter..."
 
@@ -9700,46 +9833,68 @@ msgid "eϰ"
 msgstr "eϰ"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "F_ormat"
 msgstr "F_ormat"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F10"
 msgstr "F10"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F11"
 msgstr "F11"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F12"
 msgstr "F12"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F2"
 msgstr "F2"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F3"
 msgstr "F3"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F4"
 msgstr "F4"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F6"
 msgstr "F6"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F7"
 msgstr "F7"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F8"
 msgstr "F8"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "F9"
 msgstr "F9"
 
@@ -9864,6 +10019,8 @@ msgid "Female"
 msgstr "Femelle"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Fi_elds"
 msgstr "Champ"
 
@@ -9916,6 +10073,8 @@ msgid "Field Visibility"
 msgstr "Visibilité du champ"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Field_Works Project Properties..."
 msgstr "Propriétés de projet Field_Works..."
 
@@ -9939,8 +10098,8 @@ msgstr "Fichier XML de FieldWorks 6.0"
 
 # DLR
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label10.Text
-msgid "FieldWorks allows you to set links to files such as documents and pictures. "
-msgstr "FieldWorks vous permet d'établir des liens aux fichiers tels que documents et images. "
+msgid "FieldWorks allows you to set links to files such as documents and pictures."
+msgstr "FieldWorks vous permet d'établir des liens aux fichiers tels que documents et images."
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBackupErrorCaption
@@ -10088,6 +10247,8 @@ msgstr ""
 "On ne sait pas pourquoi cela arrive. Si vous avez une idée de ce que a récemment changé sur votre ordinateur pour provoquer ce problème, veuillez contacter les développeurs."
 
 #. /Language Explorer/Configuration/Main.xml::/window/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/@label
+#. (String used 2 times.)
 msgid "FieldWorks Language Explorer"
 msgstr "FieldWorks Language Explorer"
 
@@ -10160,9 +10321,10 @@ msgid "FieldWorks Project synchronization problem"
 msgstr "Problème de synchronisation de ce projet FieldWorks"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/parameters/@title
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/parameters/@title
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFwProjectUtilities
 #. /Src/FwCoreDlgs/UtilityDlg.resx::$this.Text
-#. (String used 3 times.)
+#. (String used 4 times.)
 msgid "FieldWorks Project Utilities"
 msgstr "Utilitaires du projet FieldWorks"
 
@@ -10243,6 +10405,8 @@ msgid "&File"
 msgstr "&Fichier"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_File"
 msgstr "_Fichier"
 
@@ -10319,11 +10483,11 @@ msgid "&Fills Slot:"
 msgstr "Remplit case:"
 
 # DLR
-#. window caption for book filter
 #. The tooltip for the toolbar button that toggles the book filter on and off.
+#. window caption for book filter
+#. Tooltip for the toggle book filter toolbar item.
 #. The text for the book filter toggle toolbar item.
 #. The tooltip for the filter by book menu item
-#. Tooltip for the toggle book filter toolbar item.
 #. /Src/Common/Controls/FwControls/TextsTriStateTreeView.resx::$this.Text
 #. (String used 7 times.)
 msgid "Filter by Book"
@@ -10358,10 +10522,14 @@ msgstr "Filtré"
 
 # @
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Filtering"
 msgstr "_Filtre"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Filters"
 msgstr "_Filtres"
 
@@ -10414,8 +10582,8 @@ msgid "Find CC Table File"
 msgstr "Rechercher un fichier de tableau CC"
 
 # DLR
-#. Title for Open File dialog for TECkit files
 #. dialog caption
+#. Title for Open File dialog for TECkit files
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrTecTitle
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindConvMappingFile
 #. (String used 2 times.)
@@ -10423,6 +10591,8 @@ msgid "Find Conversion Mapping File"
 msgstr "Rechercher un fichier de mappage de conversion"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Find entry"
 msgstr "_Rechercher une entrée"
 
@@ -10533,8 +10703,8 @@ msgstr "Rechercher enregistrement"
 msgid "_Find Record..."
 msgstr "Rechercher enregistrement..."
 
-#. Title for message box when Find Related Words can't find any related words
 #. message box title
+#. Title for message box when Find Related Words can't find any related words
 #. /Src/FdoUi/FdoUiStrings.resx::ksFindRelatedWords
 #. /Src/FdoUi/FdoUiStrings.resx::kstidFindRelWordsTitle
 #. (String used 2 times.)
@@ -10551,8 +10721,8 @@ msgid "_Find reversal entry..."
 msgstr "Rechercher entrée d'inversion..."
 
 # DLR
-#. dialog caption
 #. Title for Open File dialog for unspecified mapping type
+#. dialog caption
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrUnspecifiedTitle
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindUnknownSpecFile
 #. (String used 2 times.)
@@ -10598,8 +10768,9 @@ msgid "&Find..."
 msgstr "&Rechercher..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/FdoUi/FdoUiStrings.resx::ksFind_
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Find..."
 msgstr "Rechercher..."
 
@@ -10683,6 +10854,8 @@ msgid "Finishing migration process..."
 msgstr "Termination du processus de migration..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_First"
 msgstr "Premier"
 
@@ -10787,6 +10960,8 @@ msgid "FLExText file:"
 msgstr "Fichier FLExText:"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "FLExText Interl_inear..."
 msgstr "FLExText _Interlinéaire..."
 
@@ -10802,8 +10977,8 @@ msgstr "Police"
 msgid "Font Attributes"
 msgstr "Attributs de police"
 
-#. Tool tip for Font Color toolbar button
 #. Text for Font Color toolbar button
+#. Tool tip for Font Color toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatFontColorToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidFontColorItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidFontColorToolTip
@@ -10925,9 +11100,9 @@ msgstr "Forme"
 msgid "F&ormat"
 msgstr "F&ormat"
 
+#. This is the format category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the name of the format toolbar as it shows up in the toolbar configuration feature
 #. This is the format category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
-#. This is the format category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwStrings.resx::kstidFormatCategory
 #. /Src/FwResources/FwStrings.resx::kstidFormatToolBarText
 #. /Src/FwResources/FwTMStrings.resx::kstidFormatCategory
@@ -11155,6 +11330,11 @@ msgid "Get Lexicon (WeSay) and _Merge with this Project..."
 msgstr "Obtenir un lexique WeSay et le fusionner avec ce projet..."
 
 # DLR
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+msgid "Get Lexicon and _Merge with this Project..."
+msgstr "Obtenir un lexique et le fusionner avec ce projet..."
+
+# DLR
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_linkOpenBridgeProject.Text
 msgid "Get project from a colleague"
 msgstr "Recevoir un project d'un collègue"
@@ -11162,12 +11342,14 @@ msgstr "Recevoir un project d'un collègue"
 # DLR
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::receiveButton.Text
 msgid "            Get project from a colleague..."
-msgstr "            Recevoir un project d'un collègue..."
+msgstr "            Recevoir un projet d'un collègue..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Get Project from Colleague..."
-msgstr "Recevoir un project d'un collègue..."
+msgstr "Recevoir un projet d'un collègue..."
 
 # DLR ??
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidGlobalWsChangedCaption
@@ -11231,10 +11413,14 @@ msgid "Go _To..."
 msgstr "A_tteindre..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Go Back"
 msgstr "Retourner"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Go Forward"
 msgstr "Avancer"
 
@@ -11287,6 +11473,8 @@ msgid "Got it!!"
 msgstr "Le voila!!"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Grammar"
 msgstr "_Grammaire"
 
@@ -11295,6 +11483,8 @@ msgid "Grammar"
 msgstr "Grammaire"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Grammar (new template)"
 msgstr "_Grammaire (nouveau modèle)"
 
@@ -11356,6 +11546,8 @@ msgid "Grammatical Info. (Full)"
 msgstr "Info. grammaticale (complète)"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Grammatical info. (POS)"
 msgstr "Info. _grammaticale. (PDD)"
 
@@ -11530,26 +11722,32 @@ msgstr "{0} (En-tête)"
 msgid "Headword"
 msgstr "Entrée de dictionnaire"
 
-#. Text for context menu associated with editorial checks list.
 #. This is the text for the Help menu on the main menu bar.
+#. Text for context menu associated with editorial checks list.
 #. /Src/Common/Controls/DetailControls/ConfigureWritingSystemsDlg.resx::m_helpButton.Text
 #. /Src/Common/Controls/FwControls/FwHelpButton.resx::button.Text
+#. /Src/FwCoreDlgs/BackupRestore/ChangeDefaultBackupDir.resx::button_Help.Text
+#. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_btnHelp.Text
+#. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_btnHelp.Text
 #. /Src/FwCoreDlgs/FwNewLangProject.resx::btnHelp.Text
 #. /Src/FwCoreDlgs/FwStylesDlg.resx::helpToolStripMenuItem.Text
 #. /Src/FwCoreDlgs/MergeWritingSystemDlg.resx::m_helpButton.Text
 #. /Src/FwCoreDlgs/MoveOrCopyFilesDlg.resx::m_btnHelp.Text
 #. /Src/FwResources/FwTMStrings.resx::kstidHelpItemName
 #. /Src/LexText/Lexicon/FindExampleSentenceDlg.resx::btnHelp.Text
+#. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::button_Help.Text
 #. /Src/LexText/Lexicon/SwapLexemeWithAllomorphDlg.resx::buttonHelp.Text
 #. /Src/LexText/LexTextControls/InsertEntryDlg.resx::m_btnHelp.Text
 #. /Src/LexText/LexTextControls/InsertRecordDlg.resx::m_btnHelp.Text
 #. /Src/MigrateSqlDbs/ExistingProjectDlg.resx::m_btnHelp.Text
 #. /Src/xWorks/DictionaryConfigMgrDlg.resx::m_btnHelp.Text
-#. (String used 15 times.)
+#. (String used 19 times.)
 msgid "&Help"
 msgstr "&Aide"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_Help"
 msgstr "_Aide"
 
@@ -11561,8 +11759,8 @@ msgstr "Aide"
 msgid "Hel&p"
 msgstr "Ai&de"
 
-#. This is the help category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. Tool tip for showing help topics
+#. This is the help category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the text for the Help menu on the main menu bar.
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_helpButton.Text
 #. /Src/Common/Controls/FwControls/FilterAllTextsDialog.resx::m_btnHelp.Text
@@ -11588,9 +11786,6 @@ msgstr "Ai&de"
 #. /Src/FwCoreDlgs/AddCnvtrDlg.resx::btnHelp.Text
 #. /Src/FwCoreDlgs/AddNewUserDlg.resx::btnHelp.Text
 #. /Src/FwCoreDlgs/BackupRestore/BackupProjectDlg.resx::m_help.Text
-#. /Src/FwCoreDlgs/BackupRestore/ChangeDefaultBackupDir.resx::button_Help.Text
-#. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_btnHelp.Text
-#. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_btnHelp.Text
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_btnHelp.Text
 #. /Src/FwCoreDlgs/FwApplyStyleDlg.resx::helpToolStripMenuItem.Text
 #. /Src/FwCoreDlgs/FwChooserDlg.resx::btnHelp.Text
@@ -11653,7 +11848,7 @@ msgstr "Ai&de"
 #. /Src/xWorks/ExportDialog.resx::buttonHelp.Text
 #. /Src/xWorks/ExportTranslatedListsDlg.resx::m_btnHelp.Text
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_btnHelp.Text
-#. (String used 115 times.)
+#. (String used 112 times.)
 msgid "Help"
 msgstr "Aide"
 
@@ -11675,34 +11870,36 @@ msgstr "Aide n'est pas disponible pour cet onglet."
 msgid "Help on using Language Explorer (only available in English)."
 msgstr "Aide de l'utilisation de Language Explorer (disponible seulement en anglais)."
 
+#. /Src/FwCoreDlgs/FwCheckAnthroListDlg.resx::m_btnHelp.Text
 #. /Src/LexText/LexTextControls/BaseGoDlg.resx::m_btnHelp.Text
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ks_Help_
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "&Help..."
 msgstr "&Aide..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Help..."
 msgstr "Aide..."
 
 #. menu item
 #. /Language Explorer/Configuration/Grammar/DataTreeInclude.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Grammar/InflAffixTemplateInclude.xml::/window/commands/command/@label
-#. /Src/FwCoreDlgs/FwCheckAnthroListDlg.resx::m_btnHelp.Text
 #. /Src/FwCoreDlgs/FwUserProperties.resx::btnHelp.Text
 #. /Src/LexText/Interlinear/InterlinearImportDlg.resx::m_btnHelp.Text
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksHelp
 #. /Src/LexText/Morphology/MEStrings.resx::ksHelp
 #. /Src/xWorks/CustomListDlg.resx::m_btnHelp.Text
-#. (String used 8 times.)
+#. (String used 7 times.)
 msgid "Help..."
 msgstr "Aide..."
 
 #. help topic ID for add new user dialog
-#. help topic ID for user features properties dialog
-#. help topic ID for user account properties dialog
 #. help topic ID for Export XHTML
+#. help topic ID for user features properties dialog
 #. help topic ID for insert note dialog
+#. help topic ID for user account properties dialog
 #. /Src/FwResources/HelpTopicPaths.resx::khtpUserProperties_Account
 #. /Src/FwResources/HelpTopicPaths.resx::khtpUserProperties_Features
 #. /Src/FwResources/HelpTopicPaths.resx::khtpUserProperties_NewUser
@@ -11802,6 +11999,8 @@ msgid "Homograph Number"
 msgstr "Numéro homographe"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Homograph Number..."
 msgstr "Numéro homographe..."
 
@@ -11840,26 +12039,6 @@ msgstr "Fichiers HTM"
 #. /Src/FwResources/FwStrings.resx::kstidHTML
 msgid "HTML Files"
 msgstr "Fichiers HTML"
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastSeUrl
-msgid "http://downloads.sil.org/FieldWorks/appcast.xml"
-msgstr "http://downloads.sil.org/FieldWorks/appcast.xml"
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastSeBetasUrl
-msgid "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
-msgstr "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastBteUrl
-msgid "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
-msgstr "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastBteBetasUrl
-msgid "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
-msgstr "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
 
 # DLR
 #. field name for Data Notebook records
@@ -11986,11 +12165,6 @@ msgstr "On peut entrer des caractères qui séparent des éléments multiples da
 #. /Src/LexText/LexTextControls/DataNotebook/ListRefFieldOptions.resx::m_chkBetweenEnable.ToolTip
 msgid "If selected, you can enter pairs of characters that mark the beginning and end of list item names (or abbreviations) within a field item."
 msgstr "On peut entrer des paires de caractères qui indiquent le début et la fin des noms (ou abréviations) des éléments de liste dans un élément du champ."
-
-# DLR (shortened from "n'est pas énuméré") since the English only just fits.
-#. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_lblKeyboardSetupInst.Text
-msgid "If the keyboard you need is not listed, click the appropriate link(s) below to set it up."
-msgstr "Si le clavier exigé n'affiche pas, cliquer les liens appropriés ci-dessous pour l'établir."
 
 # DLR
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::groupBox2.Text
@@ -12126,13 +12300,15 @@ msgid "&Import"
 msgstr "&Importer"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Import"
 msgstr "_Importer"
 
 #. Tool tip for the import menu item
 #. This is the text in the caption of the importing progress dialog box.
-#. Undo/Redo string for File/Import
 #. button label
+#. Undo/Redo string for File/Import
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImport
 #. /Src/LexText/Interlinear/LinguaLinksImportDlg.resx::btnImport.Text
 #. (String used 5 times.)
@@ -12428,8 +12604,8 @@ msgstr "Propriété d'Unicode incorrecte."
 msgid "Incorrectly nested parentheses in regular expression."
 msgstr "Parenthèses imbriquées incorrectement dans l'expression régulière."
 
-#. Text for Increase Indent toolbar button
 #. Tool tip for Increase Indent toolbar button
+#. Text for Increase Indent toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatIncreaseIndentToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidIncreaseIndentItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidIncreaseIndentToolTip
@@ -12504,7 +12680,7 @@ msgstr "Traits de flexion"
 #. /Language Explorer/Configuration/Grammar/areaConfiguration.xml::/root/menuAddOn/menu/item/@label
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoStemMsa-Detail-InflectionClass"]/slice/@label
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoStemMsa-Detail-InflectionClassDisabled"]/slice/@label
-#. (String used 4 times.)
+#. (String used 6 times.)
 msgid "Inflection Class"
 msgstr "Classe de flexion"
 
@@ -12792,6 +12968,8 @@ msgid "Input File Contents Changed"
 msgstr "Contenu du fichier source a été changé"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_Insert"
 msgstr "_Insérer"
 
@@ -13245,6 +13423,8 @@ msgstr "Interlinéaire..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Interlinearizing"
 msgstr "_Interlinéairisation en cours"
 
@@ -13263,10 +13443,14 @@ msgid "Internal Problem"
 msgstr "Problème interne"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Introduction to _Lexicography..."
 msgstr "Introduction à la _lexicographie..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Introduction to _Parsing..."
 msgstr "Introduction à l'_analyse..."
 
@@ -13402,6 +13586,8 @@ msgstr "Système d'écriture non valide"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/item/@label
+#. (String used 2 times.)
 msgid "Invisible Spaces"
 msgstr "Les espaces invisibles"
 
@@ -13617,8 +13803,8 @@ msgstr "{0}. Elle peut être recréée quand l'Analyseur est encore lancé."
 msgid "&Italic"
 msgstr "&Italique"
 
-#. Text for Italic toolbar button
 #. Tool tip for Italic toolbar button
+#. Text for Italic toolbar button
 #. /Src/FDO/Strings.resx::ksItalic
 #. /Src/FwCoreDlgs/FwCoreDlgControls/ConfigSenseLayout.resx::m_chkSenseItalicNumber.Text
 #. /Src/FwResources/FwStrings.resx::kstidFormatItalicToolTip
@@ -13740,19 +13926,10 @@ msgstr "Clavier"
 msgid "&Keyboard..."
 msgstr "&Clavier..."
 
-# DLR
-#. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_linkKeymanConfiguration.Text
-msgid "Keyman Configuration"
-msgstr "Configuration Keyman"
-
 #. Error message to display if Keyman initialization fails (application may append a colon and specific error details)
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidKeymanInitFailed
 msgid "Keyman initialization failed"
 msgstr "L'initialisation de Keyman a échoué"
-
-#. /Src/FwCoreDlgs/FwCoreDlgControls/KeyboardControl.resx::m_keyboardLabel.Text
-msgid "Keyman keyboard:"
-msgstr "Clavier Keyman:"
 
 # DLR ? context?
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
@@ -13765,11 +13942,15 @@ msgstr "L"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "L_IFT Lexicon..."
 msgstr "Lexique en format L_IFT"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "L_ink to File..."
 msgstr "L_ien vers fichier..."
 
@@ -13823,6 +14004,8 @@ msgid "Language Explorer merges the incoming data with existing entries in your 
 msgstr "Language Explorer fusionnera les données importées avec les entrées existantes dans votre base de données.  S'il y a un conflit, Language Explorer ne peut pas deviner ce que vous préferrez. Il faut donc choisir le paramètre de fusion que vous voulez utiliser pour cette importation. Lorsqu'il y a un conflit:"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Language Explorer..."
 msgstr "_Language Explorer..."
 
@@ -13866,6 +14049,8 @@ msgstr "Les données de langues ne sont pas correctement installées. Veuillez r
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Last"
 msgstr "Dernier"
 
@@ -14006,8 +14191,8 @@ msgstr "À gauche (rangé autour d'un seul caractère de base)"
 msgid "Left attached (reordrant around single base character)"
 msgstr "Attaché à gauche (rangé autour d'un seul caractère de base)"
 
-#. Text for format/borders left border tooltip
 #. Tool tip for format/borders left border tooltip
+#. Text for format/borders left border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersLeftToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersLeftItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersLeftToolTip
@@ -14207,8 +14392,9 @@ msgstr "Glose lex."
 # DLR
 #. short for Grammatical Information; note indentation formed by leading spaces
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksGramInfo
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Lex. Gram. Info."
 msgstr "Info. gram. lex."
 
@@ -14292,6 +14478,8 @@ msgid "Lexical Relation Types:"
 msgstr "Types de relation lexicale:"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Lexical relations"
 msgstr "Relations _lexicales"
 
@@ -14311,6 +14499,8 @@ msgid "Lexical Tools"
 msgstr "Outils lexicaux"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Lexicon"
 msgstr "_Lexique"
 
@@ -14326,6 +14516,8 @@ msgid "Lexicon Edit"
 msgstr "Modifier le lexique"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "Li_sts"
 msgstr "Li_stes"
 
@@ -14405,6 +14597,8 @@ msgid "1.5 lines"
 msgstr "1.5 lignes"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_LinguaLinks Data..."
 msgstr "Données de _LinguaLinks..."
 
@@ -14527,6 +14721,8 @@ msgstr "Dossier de fichiers liés inaccessible."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "List _Colleagues"
 msgstr "Liste des _collègues"
 
@@ -14555,6 +14751,8 @@ msgstr "Liste de composants possibles de glose"
 
 # @
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_List Properties Table"
 msgstr "_Lister Tableau de Propriétés"
 
@@ -14901,6 +15099,8 @@ msgstr "Faire une suggestion"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Make a Suggestion..."
 msgstr "Faire une suggestion..."
 
@@ -15457,6 +15657,8 @@ msgid "Minor Entry"
 msgstr "Entrée Secondaire"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Minor entry (variant)"
 msgstr "Entrée secondaire (variante)"
 
@@ -15552,8 +15754,8 @@ msgid "Modify Mapping"
 msgstr "Modifier le mappage"
 
 # DLR
-#. This is the status bar message for the FieldWorks project properties menu option.
 #. This is the status bar message for the Fieldworks project properties menu option.
+#. This is the status bar message for the FieldWorks project properties menu option.
 #. /Src/FwResources/FwStrings.resx::kstidFileProjectPropertiesMsg
 #. /Src/FwResources/FwTMStrings.resx::kstidProjectPropertiesMsg
 #. (String used 2 times.)
@@ -15669,8 +15871,9 @@ msgstr "Plus..."
 
 # @ DLR
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksComplexConcMorph
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Morph"
 msgstr "Morph"
 
@@ -15808,8 +16011,8 @@ msgid "Move &Down"
 msgstr "Déplacer &bas"
 
 # DLR Replaced "_bas" with "bas"
-#. context menu item
 #. Used in Interlinear context menu
+#. context menu item
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMoveDown
 #. /Src/xWorks/xWorksStrings.resx::MoveDown
@@ -15858,6 +16061,8 @@ msgid "Move Here"
 msgstr "Déplacer ici"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Move Left"
 msgstr "Déplacer vers la gauche"
 
@@ -15895,6 +16100,8 @@ msgid "Move Reversal Entry"
 msgstr "Déplacer l'entrée d'inversion"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Move Right"
 msgstr "Déplacer vers la droite"
 
@@ -15931,8 +16138,8 @@ msgid "Move &Up"
 msgstr "Déplacer vers le &haut"
 
 # DLR replaced "_haut" with "haut"
-#. Used in Interlinear context menu
 #. context menu item
+#. Used in Interlinear context menu
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMoveUp
 #. /Src/xWorks/xWorksStrings.resx::MoveUp
@@ -16047,8 +16254,8 @@ msgstr "Styles multiples, systèmes d'écriture multiples"
 msgid "{0}, Multiple Writing Systems"
 msgstr "{0}, systèmes d'écriture multiples"
 
-#. Displayed when text box contains more than one writing system
 #. dialog caption for kstidFindRepVariableWs
+#. Displayed when text box contains more than one writing system
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidMultipleWritingSystems
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidMultipleWs
 #. (String used 2 times.)
@@ -16343,6 +16550,8 @@ msgstr "Nouveau double"
 
 # DLR (was "_Nouvelle entrée de donnée")
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_New entry"
 msgstr "_Nouvelle entrée"
 
@@ -16372,6 +16581,8 @@ msgid "&New FieldWorks Project..."
 msgstr "&Nouveau projet FieldWorks..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_New FieldWorks Project..."
 msgstr "_Nouveau projet FieldWorks..."
 
@@ -16482,6 +16693,8 @@ msgid "&New Window"
 msgstr "&Nouvelle fenêtre"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_New Window"
 msgstr "_Nouvelle fenêtre"
 
@@ -16504,6 +16717,8 @@ msgid "&New..."
 msgstr "&Nouveau..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Next"
 msgstr "Suivant"
 
@@ -16563,16 +16778,20 @@ msgstr "ESP IÉ"
 msgid "no"
 msgstr "non"
 
-#. /Language Explorer/Configuration/Words/reusableBrowseControlConfiguration.xml::/reusableControls/control/columns/column/choice/where/span/lit
-#. /Src/Common/FieldWorks/MoveProjectsDlg.resx::m_btnNo.Text
 #. /Src/FwCoreDlgs/BackupRestore/ChangeDefaultBackupDir.resx::button_No.Text
 #. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_btnNo.Text
+#. (String used 4 times.)
+msgid "&No"
+msgstr "&Non"
+
+#. /Language Explorer/Configuration/Words/reusableBrowseControlConfiguration.xml::/reusableControls/control/columns/column/choice/where/span/lit
+#. /Src/Common/FieldWorks/MoveProjectsDlg.resx::m_btnNo.Text
 #. /Src/FwCoreDlgs/WarningNotUsingDefaultLinkedFilesLocation.resx::btn_cancel.Text
 #. /Src/LexText/Interlinear/CreateAllomorphTypeMismatchDlg.resx::m_btnNo.Text
 #. /Src/LexText/LexTextDll/RestoreDefaultsDlg.resx::m_btnNo.Text
 #. /Src/Utilities/MessageBoxExLib/Resources/StandardButtonsText.resx::No
 #. /Src/xWorks/xWorksStrings.resx::ksNo
-#. (String used 9 times.)
+#. (String used 7 times.)
 msgid "No"
 msgstr "Non"
 
@@ -16612,8 +16831,8 @@ msgstr "Aucune catégorie anthropologique"
 msgid "No border"
 msgstr "Pas de bordure"
 
-#. Tool tip for format/borders right border tooltip
 #. Text for format/borders right border tooltip
+#. Tool tip for format/borders right border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersNoneToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersNoneItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersNoneToolTip
@@ -16717,10 +16936,10 @@ msgstr "Pas de fichiers"
 msgid "No files to import!  Please choose at least one file."
 msgstr "Aucun fichier à importer! Choisir au moins un fichier."
 
+#. The name for the no filters menu item
 #. This text will appear as a button for a filter in the Notes window.
 #. The tooltip for the no filter menu item
 #. The text on the button in the sidebar for turning off all filters
-#. The name for the no filters menu item
 #. /Src/Common/Filters/FiltersStrings.resx::ksNoFilter
 #. /Src/FwResources/FwStrings.resx::kstidNoFilterButtonText
 #. /Src/FwResources/FwStrings.resx::kstidNoFilterItemName
@@ -17024,9 +17243,9 @@ msgstr " Aucun"
 msgid "&None"
 msgstr "&Aucun"
 
+#. Name used when no keyman/ibus keyboard is selected.
 #. Used in Description on the General tab of the Style dialog box
 #. Displays in the label associated with the ChooserTreeView
-#. Name used when no keyman/ibus keyboard is selected.
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::m_cboSeparator.Items
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_btnNone.Text
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNone
@@ -17116,16 +17335,18 @@ msgstr "Normal"
 
 #. menu item
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksNormallyHidden
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Normally hidden"
 msgstr "Normalement caché"
 
 # DLR "s'il n'est pas vide" is wrong; "sauf s'il n'est pas vide" is translation of English, but is more complex.
 #. menu item
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksHiddenUnlessData
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Normally hidden, unless non-empty"
 msgstr "Normalement caché, s'il est vide"
 
@@ -17292,8 +17513,8 @@ msgstr "NB: FieldWorks n'effectuera aucun changement aux fichiers de Format Stan
 
 # DLR
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label13.Text
-msgid "Note: If you share this project over a network connection, this folder needs to be in the project folder in order for linked files to be accessible to other users. "
-msgstr "NB: Si vous partagez ce projet sur un réseau, ce dossier doit se trouve dans le dossier du projet pour que les autres utilisateurs puissent accéder les fichiers liés. "
+msgid "Note: If you will collaborate with Send/Receive or by sharing the project over a network connection, use the default folder location."
+msgstr "NB: Si vous allez collaborer via Envoyer/Recevoir ou en partageant le projet sur une connexion réseau, utiliser l'emplacement du dossier par défaut."
 
 # DLR
 #. {0} is a newline character
@@ -17320,6 +17541,8 @@ msgstr "NB: Vous pouvez télécharger les packages à partir de ce dialogue, mai
 
 # DLR 20110407
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Notebook"
 msgstr "_Carnet"
 
@@ -17360,8 +17583,8 @@ msgstr "Enregistrements de carnet"
 msgid "Notebook Tools"
 msgstr "Outils de carnet"
 
-#. Text for the notes menu item
 #. Appears as header of the final, Notes column.
+#. Text for the notes menu item
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksNotesColumnHeader
 #. (String used 2 times.)
 msgid "Notes"
@@ -17765,6 +17988,11 @@ msgstr "O&K"
 msgid "OK"
 msgstr "OK"
 
+# DLR?
+#. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::button_OK.Text
+msgid "&OK (I have the master project)"
+msgstr "&OK (J'ai la copie principale du projet)"
+
 # DLR
 #. /Src/Common/Controls/FwControls/FwControls.resx::kOkbtnEmptySelection
 msgid "OK will create an empty text"
@@ -17859,8 +18087,8 @@ msgstr "Uniquement..."
 msgid "&Open"
 msgstr "&Ouvrir"
 
-#. This text appears as a button for a filter in the Notes window.
 #. Text of filter sidebar button
+#. This text appears as a button for a filter in the Notes window.
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_btnOk.Text
 #. (String used 3 times.)
 msgid "Open"
@@ -17966,6 +18194,8 @@ msgid "&Open..."
 msgstr "&Ouvrir..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Open..."
 msgstr "_Ouvrir..."
 
@@ -18076,6 +18306,8 @@ msgid "Options"
 msgstr "Options"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Options..."
 msgstr "_Options..."
 
@@ -18260,6 +18492,8 @@ msgid "Overriding MSA"
 msgstr "Morphème outrepassant"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Overview"
 msgstr "_Vue d'ensemble"
 
@@ -18349,6 +18583,8 @@ msgid "Page Set&up..."
 msgstr "Mise en page..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Page Setup..."
 msgstr "Mise en page..."
 
@@ -18386,8 +18622,8 @@ msgstr "Séparateur du paragraphe"
 msgid "&Paragraph Style"
 msgstr "Style de &paragraphe"
 
-#. Text for Paragraph Styles combobox on toolbar
 #. Tool tip for Paragraph Styles Combo on toolbar
+#. Text for Paragraph Styles combobox on toolbar
 #. /Src/FwResources/FwStrings.resx::kstidFormatParaStyleToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidParaStyleItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidParaStyleToolTip
@@ -18515,12 +18751,14 @@ msgid "&Paste"
 msgstr "C&oller"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Paste"
 msgstr "C_oller"
 
 #. for Undo
-#. Tool tip for Paste toolbar/menu item
 #. Tool tip for Paste toolbar button
+#. Tool tip for Paste toolbar/menu item
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdPaste"]
 #. /Src/FwResources/FwStrings.resx::kstidEditPaste
 #. /Src/FwResources/FwStrings.resx::kstidEditPasteToolTip
@@ -18531,6 +18769,8 @@ msgstr "Coller"
 
 # DLR "le Lien Hypertexte" -> "l'hyperlien"
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Paste _Hyperlink"
 msgstr "Coller l'h_yperlien"
 
@@ -18883,6 +19123,8 @@ msgid "Place of Residence"
 msgstr "Lieu de résidence"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Play all (32 minutes)"
 msgstr "_Visionner tous (32 minutes)"
 
@@ -19266,6 +19508,8 @@ msgstr "Aperçu:"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Previous"
 msgstr "_Précédent"
 
@@ -19300,8 +19544,8 @@ msgstr "Recherche pré&cédente"
 msgid "Primary Gloss"
 msgstr "Glose principale"
 
-#. Tool tip for Print toolbar button
 #. Tool tip for Print toolbar/menu item
+#. Tool tip for Print toolbar button
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdPrint"]
 #. /Src/FwResources/FwStrings.resx::kstidFilePrintToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidPrintToolTip
@@ -19319,8 +19563,8 @@ msgstr "Im&primer un rapport..."
 msgid "Print View"
 msgstr "Affichage d'impression"
 
-#. This is the text for the print option on the file menu.
 #. Text for Print toolbar button
+#. This is the text for the print option on the file menu.
 #. /Src/FwResources/FwStrings.resx::kstidFilePrintMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidPrintItemName
 #. (String used 2 times.)
@@ -19328,6 +19572,8 @@ msgid "&Print..."
 msgstr "Im&primer..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Print..."
 msgstr "Im_primer..."
 
@@ -19507,6 +19753,8 @@ msgid "Prohibited Movement"
 msgstr "Déplacement interdit"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "Project _Management"
 msgstr "_Gestion de projet"
 
@@ -19560,8 +19808,9 @@ msgstr "Emplacements de projets et partage"
 # DLR "emplacement" = MS term
 #. Text for item in File menu
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/FwResources/FwTMStrings.resx::kstidSharingLocationItemName
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Project Locations and Sharing..."
 msgstr "Emplacements de projets et partage..."
 
@@ -19600,8 +19849,11 @@ msgstr "Migration des {0} projets a échoué."
 
 # DLR
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::label13.Text
+msgid "&Project:"
+msgstr "&Projet :"
+
+# DLR
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::label3.Text
-#. (String used 2 times.)
 msgid "Project:"
 msgstr "Projet:"
 
@@ -19670,6 +19922,8 @@ msgid "Properties"
 msgstr "Propriétés"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "?? Properties (TODO)"
 msgstr "Propriétés"
 
@@ -19694,8 +19948,8 @@ msgstr "ESP PON"
 msgid " pt"
 msgstr " pt"
 
-#. size in "points"
 #. Used in Description on the General tab of the Style dialog box for formatting the point size of the border
+#. size in "points"
 #. /Src/FDO/Strings.resx::ksXPt
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidBorderDetailsWithoutColor
 #. (String used 2 times.)
@@ -19962,12 +20216,12 @@ msgstr "Réattribuer les homographes"
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdObtainLiftProject"]
-msgid "Receive a lexicon for the first time (from a WeSay project) and merge it into the current project"
-msgstr "Recevoir un lexique pour la première fois (d'un projet WeSay) et le fusionner avec le projet actuel"
+msgid "Receive a Lexicon for the first time (from a WeSay or other LIFT project) and merge it into the current project"
+msgstr "Recevoir un lexique pour la première fois (d'un projet WeSay ou d'autre logiciel LIFT) et le fusionner avec le projet actuel"
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdObtainAnyFlexBridgeProject"]
-msgid "Receive a project or lexicon from a colleague for the first time (creates a new project)"
+msgid "Receive a Project or Lexicon from a colleague for the first time (creates a new project)"
 msgstr "Recevoir un project ou un lexique d'un collègue pour la première fois (et créer un nouveau projet)"
 
 # DLR
@@ -20044,6 +20298,8 @@ msgid "&Redo"
 msgstr "&Refaire"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Redo"
 msgstr "_Refaire"
 
@@ -20846,8 +21102,9 @@ msgstr "Type d'ensemble de références"
 
 # DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/xWorks/xWorksStrings.resx::ksReferencedComplexForm
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Referenced Complex Form"
 msgstr "Forme complexe référencé"
 
@@ -20875,6 +21132,8 @@ msgid "References in Reversal Index and Classified Dictionary should include (if
 msgstr "Références dans l'index d'inversion et dictionnaire catégorisé devraient inclure (si pertinent):"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Refresh"
 msgstr "_Actualiser"
 
@@ -21010,8 +21269,8 @@ msgstr "Enlever tout"
 msgid "Remove &Character Style"
 msgstr "Supprimer le style de &caractère"
 
-#. Tool tip for Reset Character toolbar/menu item
 #. Tool tip for Reset Character toolbar button
+#. Tool tip for Reset Character toolbar/menu item
 #. /Src/FwResources/FwStrings.resx::kstidRemoveCharacterStyleToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidRemoveCharStyleToolTip
 #. (String used 2 times.)
@@ -21239,6 +21498,8 @@ msgstr "R&emplacer..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Replace..."
 msgstr "Remplacer..."
 
@@ -21263,6 +21524,8 @@ msgstr "Signaler un problème"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Report a Problem..."
 msgstr "Signale_r un problème..."
 
@@ -21271,6 +21534,8 @@ msgid "Representation"
 msgstr "Représentation"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Request Debug Info"
 msgstr "Demande d'info de débogage"
 
@@ -21388,6 +21653,8 @@ msgid "&Reset..."
 msgstr "&Rétablir..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Resources"
 msgstr "_Ressources"
 
@@ -21418,6 +21685,8 @@ msgstr "&Restaurer un projet..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Restore a Project..."
 msgstr "_Restaurer un projet..."
 
@@ -21433,6 +21702,8 @@ msgstr "Restaurer les défauts"
 
 # DLR ??
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Restore Defaults..."
 msgstr "Restaurer les défauts..."
 
@@ -21578,6 +21849,8 @@ msgstr "Catégories d'index d'inversion"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Reversal Indexes"
 msgstr "Les index d'inve_rsion"
 
@@ -21651,8 +21924,8 @@ msgstr "Droite"
 msgid "Right attached"
 msgstr "Attaché à droite"
 
-#. Tool tip for format/borders right border tooltip
 #. Text for format/borders right border tooltip
+#. Tool tip for format/borders right border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersRightToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersRightItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersRightToolTip
@@ -21840,13 +22113,30 @@ msgstr "rϰ"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. This command tries to update from an external source of lexical data.
+#. (String used 2 times.)
 msgid "S_ynchronize with LiftShare..."
 msgstr "S_ynchroniser avec LiftShare..."
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::m_openSampleOrLastProjectLink.Text
 msgid "SampleDb"
 msgstr "SampleDb"
+
+# DLR
+#. /Src/XCore/ControlLibrary/SidebarLibrary/Resources/ImagesColorPicker.resX::MySample
+msgid "SampleString"
+msgstr "SampleString"
+
+# DLR?
+#. /Src/XCore/ControlLibrary/SidebarLibrary/Controls.resX::SampleString
+#. /Src/XCore/ControlLibrary/SidebarLibrary/Resources/Controls.resX::SampleString
+#. /Src/XCore/ControlLibrary/SidebarLibrary/Resources/ImagesMenu.resX::SampleString
+#. /Src/XCore/ControlLibrary/SidebarLibrary/Resources/MenuControlImages.resX::SampleString
+#. /Src/XCore/ControlLibrary/SidebarLibrary/Resources/SortedListView.resX::SampleString
+#. (String used 5 times.)
+msgid "SampleValue"
+msgstr "SampleValue"
 
 # DLR
 #. This is the text for the save option on the file menu.
@@ -22016,6 +22306,8 @@ msgid "sd"
 msgstr "sd"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Se_t up Writing Systems..."
 msgstr "Configurer des systèmes d'écriture..."
 
@@ -22116,6 +22408,8 @@ msgstr "Choisir"
 
 # DLR (as in OO writer)
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Select _All"
 msgstr "_Tout sélectionner"
 
@@ -22304,8 +22598,6 @@ msgstr "Choisir le fichier de configuration d'importation à enregistrer"
 
 # DLR ?
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksWSPropKeyboardInstruction
-#. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_lblKeyboardInstruction.Text
-#. (String used 2 times.)
 msgid "Select the keyboard combination with which to type {0} text."
 msgstr "Choisir le clavier avec lequel on tape textes en {0}."
 
@@ -22441,11 +22733,21 @@ msgstr "L'envoi de message a échoué"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
-msgid "Send this Lexicon for the first time (to WeSay)..."
-msgstr "Envoyer ce lexique pour la première fois (à WeSay)..."
+msgid "Send this _Lexicon for the first time (to WeSay)..."
+msgstr "Envoyer ce _lexique pour la première fois (à WeSay)..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "Send this _Project for the first time..."
+msgstr "Envoyer ce _projet pour la première fois..."
+
+# DLR
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+msgid "Send this Lexicon for the first time..."
+msgstr "Envoyer ce lexique pour la première fois..."
+
+# DLR
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 msgid "Send this Project for the first time..."
 msgstr "Envoyer ce projet pour la première fois..."
 
@@ -22456,7 +22758,14 @@ msgstr "Envoyer des statisitiques d'utilisation aux développeurs."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_Send/Receive"
+msgstr "Envoyer/recevoir"
+
+# DLR
+#. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::$this.Text
+msgid "Send/Receive"
 msgstr "Envoyer/recevoir"
 
 # DLR
@@ -22465,7 +22774,14 @@ msgid "Send/Receive _Lexicon (WeSay)..."
 msgstr "Envoyer/recevoir _lexique (WeSay)..."
 
 # DLR
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+msgid "Send/Receive _Lexicon (with programs that use LIFT)..."
+msgstr "Envoyer/recevoir _lexique (avec un logiciel qui utilise LIFT)..."
+
+# DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Send/Receive _Project (with other FLEx users)..."
 msgstr "Envoyer/recevoir ce _projet (avec d'autres utilisateurs de FLEx)..."
 
@@ -22476,16 +22792,18 @@ msgstr "Envoyer/recevoir des données de ce projet"
 
 # DLR ??
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdLiftBridge"]
-msgid "Send/Receive the Lexicon in this project (with WeSay)"
-msgstr "Envoyer/recevoir le lexique de ce projet (vers WeSay)"
+msgid "Send/Receive only the Lexicon in this project (with WeSay or other programs that use LIFT)"
+msgstr "Envoyer/recevoir seulement le lexique de ce projet (vers WeSay ou un autre logiciel qui utilise LIFT)"
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdFLExBridge"]
-msgid "Send/Receive this project"
-msgstr "Envoyer/recevoir ce projet"
+msgid "Send/Receive this Project (lexicon and texts)"
+msgstr "Envoyer/recevoir ce projet (lexique et textes)"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Send/Receive..."
 msgstr "Envoyer/recevoir..."
 
@@ -22500,9 +22818,10 @@ msgstr "_Sens"
 
 #. /|strings-en.xml::/ClassNames/LexSense|
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksSense
 #. /Src/xWorks/xWorksStrings.resx::Sense
-#. (String used 4 times.)
+#. (String used 5 times.)
 msgid "Sense"
 msgstr "Sens"
 
@@ -22856,6 +23175,8 @@ msgstr "Afficher allomorphe en concordance"
 
 # @ DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Analysis in Concordance"
 msgstr "Afficher analyses en concordance"
 
@@ -22870,11 +23191,15 @@ msgstr "Afficher comme entrée de dictionnaire dans"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Category in Concordance"
 msgstr "Afficher la catégorie en concordance"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/@label
+#. (String used 2 times.)
 msgid "Show Concordance of"
 msgstr "Afficher concordance de"
 
@@ -22890,15 +23215,17 @@ msgstr "Afficher un aperçu du dictionnaire"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
-#. (String used 2 times.)
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 4 times.)
 msgid "Show Entry in Concordance"
 msgstr "Afficher l'entrée en concordance"
 
 # DLR
 #. popup menu item in Collect Words view
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksShowEntryInLexicon
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Show Entry in Lexicon"
 msgstr "Afficher l'entrée au lexique"
 
@@ -22936,6 +23263,8 @@ msgstr "Afficher dans la liste {0}"
 
 # @ DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show in Category Edit"
 msgstr "Afficher en Édition de catégorie"
 
@@ -22946,12 +23275,15 @@ msgstr "Afficher dans la liste de types de formes complexes"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
-#. (String used 2 times.)
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 4 times.)
 msgid "Show in Compound Rules Editor"
 msgstr "Afficher dans l'éditeur de règles composées"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show in Environments Editor"
 msgstr "Afficher dans l'éditeur d'environnements"
 
@@ -22977,6 +23309,8 @@ msgstr "Afficher dans la liste de types de morphèmes"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show in Natural Classes Editor"
 msgstr "Afficher dans l'éditeur de classes naturelles"
 
@@ -22988,6 +23322,8 @@ msgstr "Afficher dans la liste de classes naturelles"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show in Phonemes Editor"
 msgstr "Afficher dans l'éditeur de phonèmes"
 
@@ -23009,6 +23345,8 @@ msgstr "Afficher dans la liste de types de variantes"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show in Word Analyses"
 msgstr "Afficher dans des analyses de mot"
 
@@ -23023,7 +23361,8 @@ msgstr "&Afficher Info »"
 # DLR
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/contextMenus/menu/item/@label
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
-#. (String used 2 times.)
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 3 times.)
 msgid "Show Lexeme Form in Concordance"
 msgstr "Afficher la forme de lexème dans la concordance"
 
@@ -23044,6 +23383,8 @@ msgstr "Afficher plus de boutons"
 
 # @ DLR ?? Morph=Morpheme??
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Morph in Concordance"
 msgstr "Afficher le morphème en concordance"
 
@@ -23077,6 +23418,8 @@ msgstr "Afficher l'enregistrement de carnet"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Sense in Concordance"
 msgstr "Afficher le sens en concordance"
 
@@ -23091,6 +23434,8 @@ msgstr "Afficher les sous-entrées"
 
 # @ DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Subentry under this Component"
 msgstr "Afficher une sous-entrée sous ce composant"
 
@@ -23149,26 +23494,36 @@ msgid "Show Unused Items"
 msgstr "Afficher des éléments inutilisés"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Vernacular Spelling _Errors"
 msgstr "Afficher les _erreurs d'orthographe vernaculaire."
 
 # @ DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Word Category in Category Edit"
 msgstr "Afficher la catégorie de mot en Édition de catégorie"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Word Category in Concordance"
 msgstr "Afficher la catégorie de mot en concordance"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Word Gloss in Concordance"
 msgstr "Afficher la glose de mot en concordance"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Show Wordform in Concordance"
 msgstr "Afficher la forme de mot en concordance"
 
@@ -23429,11 +23784,6 @@ msgid "somewhere before"
 msgstr "quelque part avant"
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCInvalidWordform
-msgid "Somewhere in the word '{0}', beginning with character number {1} – that is, in the part of the word '{2}' – there is at least one undefined phoneme.  Please make sure all phonemes in the word have been defined."
-msgstr "Dans le mot '{0}', à partir du caractère numéro {1} – c'est-à-dire, dans la partie du mot '{2}' –  au moins un phonème n'est pas défini. Veilliez vérifier que tous les phonèmes du mot sont définis."
-
-# DLR
 #. message for message box
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksNoAssistForDerivAffixes
 msgid "Sorry, but the assistant for derivational affixes has not been implemented yet."
@@ -23587,14 +23937,20 @@ msgid "Sorted by {0}"
 msgstr "Trié par {0}"
 
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/item/@label
+#. (String used 2 times.)
 msgid "Sorted By Length"
 msgstr "Arranger selon la longueur"
 
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/item/@label
+#. (String used 2 times.)
 msgid "Sorted From End"
 msgstr "Arranger à partir de la fin"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Sorting"
 msgstr "_Tri"
 
@@ -23695,6 +24051,8 @@ msgid "Spacing, split, enclosing, reordrant, and Tibetan subjoined"
 msgstr "Espacement, divisé, englobant, reclassant, et subjointe tibétain"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Special _character..."
 msgstr "_Caractère spécial..."
 
@@ -23778,31 +24136,21 @@ msgid "Specifies the ICU converter to use."
 msgstr "Spécifier le convertisseur ICU à utiliser."
 
 # DLR
-#. Help string for ICU transducer
 #. help string
+#. Help string for ICU transducer
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrIcuTransHelp
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSpecifiesICUTrans
 #. (String used 2 times.)
 msgid "Specifies the ICU transducer to use."
 msgstr "Spécifier le transducteur ICU à utiliser."
 
-# DLR
-#. /Src/FwCoreDlgs/FwCoreDlgControls/KeyboardControl.resx::m_keyboardComboBox.HelpString
-msgid "Specifies the Keyman keyboard for typing this writing system.  This lists currently installed Keyman keyboards."
-msgstr "Spécifier le clavier Keyman pour taper ce système d'écriture. Les claviers Keyman actuellement installés sont affichés."
-
 #. /Src/FwCoreDlgs/FwNewLangProject.resx::m_txtName.HelpString
 msgid "Specifies the name for this project."
 msgstr "Spécifier le nom de ce projet."
 
 # DLR
-#. /Src/FwCoreDlgs/FwCoreDlgControls/KeyboardControl.resx::m_langIdComboBox.HelpString
-msgid "Specifies the system language which will provide a keyboard. You may need to install one."
-msgstr "Spécifier la langue de système qui fournira un clavier. Peut-être vous devez en installer un."
-
-# DLR
-#. help string
 #. Help string for TECkit files
+#. help string
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrTecHelp
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSpecifiesTECkitFile
 #. (String used 2 times.)
@@ -23937,6 +24285,8 @@ msgid "Spelled correctly?"
 msgstr "Orthographié correctement?"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "Spelling"
 msgstr "Orthographe"
 
@@ -23997,12 +24347,14 @@ msgstr "format standard"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Standard Format _Notebook data..."
 msgstr "Car_net de données en Format Standard..."
 
 #  or: Fichiers «Standard Format»??
-#. Used in the list of file types in file open dialogs
 #. Used in the list of file types in file open/save dialogs
+#. Used in the list of file types in file open dialogs
 #. /Src/FwResources/FwStrings.resx::kstidDefaultStandardFormat
 #. (String used 2 times.)
 msgid "Standard Format Files"
@@ -24010,10 +24362,14 @@ msgstr "Fichiers en Format Standard"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Standard Format I_nterlinear..."
 msgstr "I_nterlinéaire en Format Standard..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Standard Format Lexicon..."
 msgstr "Lexique en Format _Standard..."
 
@@ -24032,6 +24388,8 @@ msgstr "Text en Format Standard "
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Standard Format W_ords and Glosses..."
 msgstr "M_ots et gloses en Format Standard..."
 
@@ -24058,6 +24416,8 @@ msgstr "Début:"
 
 # DLR (was "Débuter Enregistrement")
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Start Logging"
 msgstr "Commencer à journaliser"
 
@@ -24087,6 +24447,11 @@ msgstr "Lancer l'Analyseur."
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksStarted
 msgid "started"
 msgstr "commencé"
+
+# DLR "mettre en ligne" for "upload"
+#. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdArchiveWithRamp"]
+msgid "Starts RAMP (if it is installed) and prepares an archive package for uploading."
+msgstr "Lancer RAMP (s'il est installé) et préparer un package d'archives pour le mettre en ligne."
 
 # DLR
 #. Caption that goes with kstidFieldWorksDidNotRespond.
@@ -24378,9 +24743,10 @@ msgstr "Style:"
 
 #. Tool tip for Styles toolbar/menu item
 #. /Language Explorer/Configuration/Main.xml::/window/toolbars/toolbar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/toolbars/toolbar/menu/@label
 #. /Src/FwCoreDlgs/FwStylesDlg.resx::$this.Text
 #. /Src/FwResources/FwTMStrings.resx::kstidStyleToolTip
-#. (String used 4 times.)
+#. (String used 5 times.)
 msgid "Styles"
 msgstr "Styles"
 
@@ -24393,6 +24759,8 @@ msgid "&Styles..."
 msgstr "&Styles..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Styles..."
 msgstr "_Styles..."
 
@@ -24436,6 +24804,8 @@ msgid "Subentries"
 msgstr "Sous-entrées"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Subentry (derivative)"
 msgstr "_Sous-entrée (dérivatif)"
 
@@ -24526,6 +24896,15 @@ msgstr "suffixe"
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSuffixMenuCmd
 msgid "{0} Suffix"
 msgstr "{0} Suffixe"
+
+# DLR
+#. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksSuggestButtonText
+msgid "Suggest"
+msgstr "Suggérer"
+
+#. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksSuggestButtonToolTip
+msgid "Suggest will replace the normal Preview; Apply will then add any suggestions to any currently saved domains."
+msgstr "Suggérer remplacera l'Aperçu normal; puis Appliquer ajoutera toutes les suggestions à tous les domaines actuellement enregistrés."
 
 #  cfr contexte
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -24668,11 +25047,6 @@ msgstr "Symbole, autre"
 msgid "System Default"
 msgstr "Système par défaut"
 
-# DLR
-#. /Src/FwCoreDlgs/FwCoreDlgControls/KeyboardControl.resx::m_langIdLabel.Text
-msgid "System Language for keyboard input:"
-msgstr "Langue de système pour la saisie au clavier:"
-
 #. /Src/UnicodeCharEditor/CustomCharDlg.resx::m_lblDecompostionDisplay.Text
 #. /Src/UnicodeCharEditor/CustomCharDlg.resx::m_lblTitleDisplay.Text
 #. (String used 2 times.)
@@ -24722,20 +25096,33 @@ msgstr "Bleu-vert,0,128,128"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Technical Notes on _Interlinear Import..."
 msgstr "Notes techniques sur l'importation d'_interlinéaire..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Technical Notes on _SFM Database Import..."
 msgstr "Notes techniques sur l'importation de dases de données en Format Standard..."
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Technical Notes on _Writing Systems..."
 msgstr "Notes techniques sur des systèmes d'écriture..."
 
+# DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+msgid "Technical Notes on FieldWorks Send-_Receive..."
+msgstr "Notes techniques sur Envoyer-_Recevoir dans FieldWorks..."
+
+#. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Technical Notes on Lin_guaLinks Import..."
 msgstr "Notes techniques sur l'importation de _Lingualinks..."
 
@@ -24769,13 +25156,13 @@ msgstr "Scénario de test "
 
 # @
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Test Follow Link"
 msgstr "Tester le lien à suivre"
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksWSPropKeyboardTest
-#. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_lblKeyboardTestInstr.Text
-#. (String used 2 times.)
 msgid "Test the {0} writing system:"
 msgstr "Tester le système d'écriture {0}:"
 
@@ -24951,6 +25338,8 @@ msgid "Texts"
 msgstr "Textes"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Texts && Words"
 msgstr "_Textes et Mots"
 
@@ -25719,12 +26108,6 @@ msgstr "Le fichier aide ne pouvait pas être trouvé."
 msgid "The help topic is not available for topic: {0}"
 msgstr "Aide n'est pas disponible pour ce sujet: {0}"
 
-# DLR
-#. Where {0} is the name of a help viewing application.
-#. /Src/Common/FwUtils/FwUtilsStrings.resx::ksLinuxHelpViewerCouldNotLoad
-msgid "The help viewer could not load. Maybe you don't have {0} installed."
-msgstr "Impossible de charger la visionneuse de l'aide. Peut-être {0} n'est pas installé."
-
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHermitCrabReduplicationProblem
 msgid "The Hermit Crab parser cannot currently run, because the morpheme \"{0}\" has an invalid reduplication environment. The problem is {1}."
 msgstr "L'analyseur Hermit Crab ne peut pas fonctionner, parce que le morphème \"{0}\" a un environnement de réduplication non valide. Le problème est {1}."
@@ -26467,13 +26850,15 @@ msgid ""
 "You probably have a Conflict Report open. It will need to be closed before you can access any of the other FLExBridge functions such as:\n"
 "-- Send/Receive Project\n"
 "-- Get project from a colleague\n"
-"-- View Conflict Report (can't have two open)"
+"-- View Conflict Report (can't have two open)\n"
+"If you don't see any FLExBridge windows open, it may just be that FLExBridge is still shutting down. Please wait 15 seconds and try again."
 msgstr ""
 "Une copie de FLExBridge est déjà active.\n"
 "Probablement vous avez un Rapport de conflits ouvert. Il doit être fermé avant d'avoir accès aux autres fonctionnes de FLExBridge tels que:\n"
 "- Envoyer/recevoir projet\n"
 "- Recevoir un project d'un collègue\n"
-"- Rapport de conflits (un seul à la fois peut être ouvert)"
+"- Rapport de conflits (un seul à la fois peut être ouvert)\n"
+"Si vous ne voyez aucune fenêtre FLExBridge ouverte, peut-être FLExBridge est en train d'éteindre. Veuillez attendre 15 seconds et réessayer."
 
 # DLR
 #. used by AddCustomFieldDlg. Variables are a field name and one of: Entry, Sense, Example, Allomorph
@@ -26482,10 +26867,20 @@ msgid "There is already a field named {1} in each {0}, please choose a different
 msgstr "Un champ portant le nom {1} existe déjà dans chaque {0}. Veuillez choisir un nom différent pour votre champ personalisé."
 
 # DLR
+#. /Src/xWorks/xWorksStrings.resx::ksLIFTAlreadyExists
+msgid "There is already a project in that folder.  Click “OK” to overwrite the lexicon in that project, or “Cancel” to abort."
+msgstr "Un projet existe déjà dans ce dossier. Cliquer sur \"OK\" pour écraser le lexique dans ce projet-là ou sur «Annuler» pour annuler."
+
+# DLR
 #. Error message that may occur importing from 6.0
 #. /Src/FDO/Strings.resx::ksProjectExists
 msgid "There is already a project with the same name as the one you are trying to convert."
 msgstr "Il existe déjà un projet avec le même nom que celui que vous tentez de convertir."
+
+# DLR
+#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCInvalidWordform
+msgid "There is at least one undefined phoneme in the word '{0}'. The following phonemes were parsed: '{3}'.  The problem begins with character/diacritic number {1} – that is, in the part of the word '{2}'.  Please make sure all phonemes in the word have been defined."
+msgstr "Dans le mot '{0}', au moins un phonème n'est pas défini. Les phonèmes suivants ont été analysés: '{3}'. Le problème se trouve à partir du caractère ou diacritique numéro {1} – c'est-à-dire, dans la partie du mot '{2}'. Veilliez vérifier que tous les phonèmes du mot sont définis."
 
 #. /Src/xWorks/xWorksStrings.resx::NoDescriptionForItem
 msgid "There is no description available for this item."
@@ -26773,6 +27168,12 @@ msgid "This processor uses a transducer unknown to this version of ICU. The firs
 msgstr "Ce processeur emploie un transducteur inconnu à cette version d'ICU. Le premier transducteur sera substitué."
 
 # DLR
+#. Message shown when user attempts to restore a project that is using Send/Receive (has a local FLEx or LIFT repository)
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBackupCantRestoreWhenUsingSRMsg
+msgid "This project cannot be restored, because it is being shared using Send/Receive.  Attempting to restore a project that is shared using Send/Receive could result in data loss for everyone working on the project.  If you would like to view the contents of this backup, you can restore it using a different name."
+msgstr "Impossible de restaurer ce projet, car il est partagé via Envoyer/Recevoir. Tenter de restaurer un projet qui est partagé via Envoyer/Recevoir pourrait entraîner la perte de données pour tous ceux qui travaillent sur ​​le projet. Si vous souhaitez afficher le contenu de cette sauvegarde, vous pouvez restaurer sous un nom différent."
+
+# DLR
 #. /Src/LexText/Lexicon/LexEdStrings.resx::kProjectAlreadyHasLiftRepo
 msgid "This project has already been linked to a Lexicon (LIFT) repository. It is not possible to use Get and Merge with another Lexicon repository."
 msgstr "Ce projet est déjà lié à un dépôt lexical (LIFT). Ce n'est pas possible d'utiliser 'Recevoir et fusionner' avec un autre dépôt lexical."
@@ -26885,6 +27286,12 @@ msgstr ""
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="AllomorphsGroup"]
 msgid "This shows all of the allomorphs of this entry."
 msgstr "Afficher tous les allomorphes de cette entrée."
+
+# DLR
+#. Displays in the Help/About box and the splash screen
+#. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidLicense
+msgid "This software is licensed under the LGPL License"
+msgstr "Ce logiciel est sous licence LGPL"
 
 # @ DLR check "Texts Edit"
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksBaseLineNotEditable
@@ -27009,11 +27416,6 @@ msgid "This will eventually have an explanation of the problem, links to help ab
 msgstr "This will eventually have an explanation of the problem, links to help about fixing it, and a way to jump to the problem object. The user won't see this...  we need to have a way to convert it to a sentence in the user interface language."
 
 # DLR
-#. /Src/xWorks/xWorksStrings.resx::ksLIFTAlreadyExists
-msgid "This will overwrite the lexicon in that project.  Click “Cancel” if you have not already imported that LIFT file into FLEx."
-msgstr "Ceci écrasera le lexique dans ce projet-là. Cliquer “Annuler” si vous n'avez pas déjà importé ce fichier LIFT vers FLEx."
-
-# DLR
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksCannotDeleteWordform
 msgid "This wordform cannot be deleted."
 msgstr "Cette forme de mot ne peut pas être supprimé."
@@ -27068,7 +27470,7 @@ msgstr "Moment de la journée"
 msgid "Time of Event"
 msgstr "L'heure de l'événement"
 
-#. /Src/FwCoreDlgs/FwNewLangProject.resx::lblTip.Text
+#. /Src/FwCoreDlgs/FwNewLangProject.resx::m_lblTip.Text
 msgid "Tip:"
 msgstr "Astuce:"
 
@@ -27246,13 +27648,16 @@ msgid "&Tools"
 msgstr "Ou&tils"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_Tools"
 msgstr "Ou_tils"
 
 #. This is the tools category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Language Explorer/Configuration/Main.xml::/window/sidebar/tab/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/sidebar/tab/@label
 #. /Src/FwResources/FwTMStrings.resx::kstidToolsCategory
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Tools"
 msgstr "Outils"
 
@@ -27331,6 +27736,8 @@ msgid "&Training"
 msgstr "&Formation"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Training"
 msgstr "_Formation"
 
@@ -27406,6 +27813,8 @@ msgstr "Problème de transformation: {0}"
 
 # DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Translated List Content"
 msgstr "Contenu de liste _traduite"
 
@@ -27508,6 +27917,8 @@ msgstr "ts"
 
 # @ (Désactiver??)
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Turn off all filters"
 msgstr "Arrêter tous les filtres"
 
@@ -27738,11 +28149,13 @@ msgid "&Undo"
 msgstr "Ann&uler"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Undo"
 msgstr "Ann_uler"
 
-#. Tool tip for Undo toolbar button
 #. Tool tip for Undo toolbar/menu item
+#. Tool tip for Undo toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidEditUndoToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidUndoToolTip
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFocusBox_btnUndoChanges
@@ -28607,8 +29020,8 @@ msgid "Unimplemented field"
 msgstr "Champ non implémentée"
 
 # Inconnu
-#. short for Unknown
 #. short for unknown (writing system)
+#. short for Unknown
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksUNK
 #. /Src/FDO/Strings.resx::ksUNK
 #. (String used 2 times.)
@@ -28898,8 +29311,8 @@ msgstr "Utilisations"
 
 # @ DLR
 #. /Src/FwCoreDlgs/FwCheckAnthroListDlg.resx::m_radioOther.Text
-msgid "Use"
-msgstr "Utiliser"
+msgid "&Use"
+msgstr "&Utiliser"
 
 #  cfr terme linguistique dans contexte
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksUseAllomorph
@@ -29035,8 +29448,8 @@ msgstr "Avis d'utilitsateur"
 msgid "User Properties"
 msgstr "Propriétés de l'utilisateur"
 
-#. This is the text for the user properties menu on the tools menu.
 #. Text tip for user properties menu item
+#. This is the text for the user properties menu on the tools menu.
 #. /Src/FwResources/FwStrings.resx::kstidUserPropertiesMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidUserPropertiesItemName
 #. (String used 2 times.)
@@ -29069,6 +29482,8 @@ msgid "Utilities"
 msgstr "Utilitaires"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Utilities..."
 msgstr "_Utilitaires..."
 
@@ -29268,8 +29683,8 @@ msgid "Version History"
 msgstr "Historique des versions"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::label16.Text
-msgid "Version:"
-msgstr "Version:"
+msgid "&Version:"
+msgstr "&Version :"
 
 #. Displays in the Help/About box and the splash screen
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidFwVersionFmt
@@ -29291,6 +29706,8 @@ msgstr "vi"
 
 # DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Vie_w Lexicon Messages..."
 msgstr "Afficher des messages de lexique..."
 
@@ -29302,6 +29719,8 @@ msgid "&View"
 msgstr "&Affichage"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_View"
 msgstr "Afficha_ge"
 
@@ -29332,6 +29751,8 @@ msgstr "Afficher le fichier..."
 
 # in the English string show is more commonly used than view
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "View Incorrect Words in Use"
 msgstr "Afficher les mots incorrectes en usage"
 
@@ -29342,17 +29763,19 @@ msgstr "Voir des mots mal orthographiés en usage."
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdViewLiftMessages"]
-msgid "View lexicon questions, merge conflicts, and notifications"
-msgstr "Afficher des questions, des conflits de fusion et des notifications du lexique"
+msgid "View Lexicon (LIFT) questions, merge conflicts, and notifications"
+msgstr "Afficher des questions, des conflits de fusion et des notifications du lexique (LIFT)"
 
 # DLR
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_View Project Messages..."
 msgstr "Afficher messages du projet..."
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdViewMessages"]
-msgid "View project questions, merge conflicts, and notifications"
+msgid "View Project questions, merge conflicts, and notifications"
 msgstr "Afficher des questions, des conflits de fusion et des notifications du projet"
 
 # DLR
@@ -29392,16 +29815,16 @@ msgstr "wanted → want {0}ed{1}"
 msgid "wanted → want -ed"
 msgstr "wanted → want -ed"
 
-#. heading for message box
 #. Title for warning message box
 #. Message box caption
+#. heading for message box
 #. used for dialog caption when project name has non-Ascii characters
+#. used by DeleteCustomList
 #.
 #. Caption for warning message box
 #.
-#. message box caption
 #. Used as dialog box caption
-#. used by DeleteCustomList
+#. message box caption
 #. /Src/Common/Controls/Widgets/Strings.resx::ksWarning
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksWarning
 #. /Src/Common/CoreImpl/CoreImplStrings.resx::ksWarning
@@ -29736,11 +30159,6 @@ msgstr "{0} avertissements:"
 msgid "We recommend that you only change this after discussing it with a consultant."
 msgstr "On vous conseille de ne changer ceci qu'après discussion avec un consultant."
 
-# DLR
-#. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label11.Text
-msgid "We suggest you collect these files in one location so that the FieldWorks backup function can include them in the project backup file. "
-msgstr "On vous conseille de mettre ces fichiers dans un seul emplacement afin que la sauvegarde FieldWorks puisse les inclure dans le fichier de sauvegarde du projet. "
-
 # @ DLR
 #. field name for Data Notebook records
 #. /Src/FwResources/FwStrings.resx::kstidWeather
@@ -29749,6 +30167,8 @@ msgstr "Conditions météorologiques"
 
 # @
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "_Welcome"
 msgstr "_Bienvenu"
 
@@ -29862,6 +30282,8 @@ msgid "&Window"
 msgstr "Fenêtre"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/@label
+#. (String used 2 times.)
 msgid "_Window"
 msgstr "Fenêtre"
 
@@ -29874,10 +30296,6 @@ msgstr "Fenêtre"
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrCodePage
 msgid "Windows Code Page"
 msgstr "page de code Windows"
-
-#. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_linkWindowsKeyboard.Text
-msgid "Windows keyboard settings"
-msgstr "Paramètres du clavier Windows"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::ContentMapHeader3.Text
 msgid "With Data"
@@ -29927,8 +30345,9 @@ msgstr "Cat. de mot"
 
 #  voir contexte
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
 #. /Language Explorer/Configuration/Parts/WFIParts.xml::/PartInventory/bin/part[@id="WfiAnalysis-Detail-PartOfSpeech"]/slice/@label
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Word Category"
 msgstr "Catégorie de mot"
 
@@ -29955,10 +30374,11 @@ msgstr "Partie de mot"
 #. name for SFM import field; name matches enumeration member name
 #. /|strings-en.xml::/ClassNames/WfiGloss|
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
 #. /Language Explorer/Configuration/Parts/WFIParts.xml::/PartInventory/bin/part[@id="WfiGloss-Detail-FormAllAnal"]/slice/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksWordGloss
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksFldWordGloss
-#. (String used 5 times.)
+#. (String used 6 times.)
 msgid "Word Gloss"
 msgstr "Glose de mot"
 
@@ -30008,9 +30428,10 @@ msgstr "Mot:"
 #. name for SFM import field; name matches enumeration member name
 #. /|strings-en.xml::/ClassNames/WfiWordform|
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksFldWordform
-#. (String used 4 times.)
+#. (String used 5 times.)
 msgid "Wordform"
 msgstr "Forme de mot"
 
@@ -30034,6 +30455,8 @@ msgstr "Formes de mot"
 
 # @ DLR ("assigner"->"attribuer")
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
+#. (String used 2 times.)
 msgid "Words (_assign analysis)"
 msgstr "Mots (_attribuer l'analyse)"
 
@@ -30102,6 +30525,8 @@ msgid "&Writing System"
 msgstr "Système d'écriture"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/menubar/menu/menu/@label
+#. (String used 2 times.)
 msgid "_Writing System"
 msgstr "Système d'écriture"
 
@@ -30109,6 +30534,7 @@ msgstr "Système d'écriture"
 #. Item name for the writing system combobox control on the toolbar
 #. Item name for the writing system selector control on the toolbar. Also used as a column header in controls that display a list of multilingual properties.
 #. /Language Explorer/Configuration/Main.xml::/window/toolbars/toolbar/menu/@label
+#. /Language Explorer/Configuration/Main-long.xml::/window/toolbars/toolbar/menu/@label
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::InfoColumn.Text
 #. /Src/Common/Controls/XMLViews/ColumnConfigureDialog.resx::label3.Text
 #. /Src/FwResources/FwStrings.resx::kstidWritingSystemItemName
@@ -30119,7 +30545,7 @@ msgstr "Système d'écriture"
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::WritingSystem.Text
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::columnHeaderCM3.Text
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::LangcolumnHeader1.Text
-#. (String used 11 times.)
+#. (String used 12 times.)
 msgid "Writing System"
 msgstr "Système d'écriture"
 
@@ -30327,18 +30753,22 @@ msgstr "Jaune,255,255,0"
 msgid "yes"
 msgstr "oui"
 
+#. /Src/FwCoreDlgs/BackupRestore/ChangeDefaultBackupDir.resx::button_Yes.Text
+#. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_btnYes.Text
+#. (String used 4 times.)
+msgid "&Yes"
+msgstr "Oui"
+
 #. /Language Explorer/Configuration/Words/reusableBrowseControlConfiguration.xml::/reusableControls/control/columns/column/choice/otherwise/span/lit
 #. /Src/Common/FieldWorks/MoveProjectsDlg.resx::m_btnYes.Text
 #. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::radio_Yes.Text
 #. /Src/FDO/Infrastructure/Impl/ConnectionLostDlg.resx::m_btnYes.Text
-#. /Src/FwCoreDlgs/BackupRestore/ChangeDefaultBackupDir.resx::button_Yes.Text
-#. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_btnYes.Text
 #. /Src/FwCoreDlgs/WarningNotUsingDefaultLinkedFilesLocation.resx::btn_OK.Text
 #. /Src/LexText/Interlinear/CreateAllomorphTypeMismatchDlg.resx::m_btnYes.Text
 #. /Src/LexText/LexTextDll/RestoreDefaultsDlg.resx::m_btnYes.Text
 #. /Src/Utilities/MessageBoxExLib/Resources/StandardButtonsText.resx::Yes
 #. /Src/xWorks/xWorksStrings.resx::ksYes
-#. (String used 11 times.)
+#. (String used 9 times.)
 msgid "Yes"
 msgstr "Oui"
 
@@ -31019,13 +31449,13 @@ msgstr "Retraduction"
 msgid "Back &Translation"
 msgstr "Re&traduction"
 
-#. Name of back translation toolbar in the customize toolbar dialog
-#. The category for back translation toolbar
-#. This is the name of the back translation toolbar as it shows up in the toolbar configuration feature
-#. This text will appear as a tab in the task bar.
-#. This is the back translation category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. Appears in details column on import mapping page
 #. The tooltip for the Back Translation menu item
+#. This text will appear as a tab in the task bar.
+#. This is the back translation category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the name of the back translation toolbar as it shows up in the toolbar configuration feature
+#. The category for back translation toolbar
+#. Name of back translation toolbar in the customize toolbar dialog
 #. /Src/TE/TeImportExport/ScrImportComponents.resx::kstidImportWizMappingDetailBackTrans
 #. /Src/TE/TeImportExport/SFFileListBuilder.resx::tabBackTranslation.Text
 #. /Src/TE/TeResources/TeStrings.resx::kstidBackTransBarText
@@ -31183,9 +31613,9 @@ msgstr "Traduction de termes bibliques"
 msgid "&Biblical Terms"
 msgstr "Termes &bibliques"
 
-#. Checking--This text will appear in Sidebar, Views menu, and Information Bar
-#. This is the name of the biblical terms toolbar as it shows up in the toolbar configuration feature
 #. The tooltip for the Biblical Terms menu item
+#. This is the name of the biblical terms toolbar as it shows up in the toolbar configuration feature
+#. Checking--This text will appear in Sidebar, Views menu, and Information Bar
 #. /Src/TE/TeResources/TeStrings.resx::kstidKeyTermsView
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidKeytermsBarText
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidKeyTermsToolTip
@@ -31193,8 +31623,8 @@ msgstr "Termes &bibliques"
 msgid "Biblical Terms"
 msgstr "Termes bibliques"
 
-#. The tooltip for the insert book menu item
 #. Text for the go to book menu item
+#. The tooltip for the insert book menu item
 #. /Src/TE/TeDialogs/EmptyScripture.resx::btnBook.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoBookItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertBooksItemName
@@ -31418,8 +31848,8 @@ msgid "&Chapter"
 msgstr "Chapitre"
 
 # DLR
-#. Tooltip for menu item for menu associated with editorial checks list.
 #. Scripture check name: Chapter and Verse Numbers
+#. Tooltip for menu item for menu associated with editorial checks list.
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidName_F17A054BD21E4298A1A50D79C4AF6F0F
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidChapterVerseNumbersToolTip
 #. (String used 2 times.)
@@ -31493,10 +31923,10 @@ msgid "Character Style Difference"
 msgstr "Différence de style de caractère"
 
 # DLR
-#. This is the checking category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the name of the checking toolbar as it shows up in the toolbar configuration feature
 #. This text will appear as a tab in the task bar.
 #. This is the checking category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the checking category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingBarText
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingCategory
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingTask
@@ -31699,8 +32129,8 @@ msgid "C&onsultant"
 msgstr "C&onsultant"
 
 # DLR
-#. Text of filter sidebar button
 #. This text appears as a button for a filter in the Notes window.
+#. Text of filter sidebar button
 #. /Src/TE/NotesView/Properties/Resources.resx::kstidConsultantNoteFilter
 #. /Src/TE/TeResources/TeStrings.resx::kstidFilterConsultant
 #. (String used 2 times.)
@@ -31924,8 +32354,8 @@ msgstr "Supprimer livre"
 msgid "&Delete Footnote"
 msgstr "Supprimer la note de bas de page"
 
-#. Undo/Redo text for delete footnote
 #. Tooltip for the delete footnote menu item
+#. Undo/Redo text for delete footnote
 #. /Src/TE/TeResources/TeStrings.resx::kstidUndoDelFootnote
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidDeleteFootnoteToolTip
 #. (String used 2 times.)
@@ -32113,8 +32543,8 @@ msgstr "Double-cliquer sur un texte pour l'ajouter"
 msgid "Double-click text to remove"
 msgstr "Double-cliquer sur un texte pour l'enlever"
 
-#. Back Translation Task--This text will appear in Sidebar, Views menu, and Information Bar
 #. Scripture task--This text will appear in Sidebar, Views menu, and Information Bar
+#. Back Translation Task--This text will appear in Sidebar, Views menu, and Information Bar
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::label12.Text
 #. /Src/TE/TeResources/TeStrings.resx::kstidBackTransDraftView
 #. /Src/TE/TeResources/TeStrings.resx::kstidDraftView
@@ -32357,8 +32787,8 @@ msgid "Export Document (RTF)"
 msgstr "Exporter document (RTF)"
 
 # DLR
-#. message box caption
 #. Tool tip for the export XML menu item
+#. message box caption
 #. /Src/TE/TeImportExport/ExportXmlDialog.resx::$this.Text
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidExportOXES
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportXmlToolTip
@@ -32400,8 +32830,8 @@ msgid "Export to Open XML for Editing Scripture"
 msgstr "Exporter en format OXES"
 
 # DLR
-#. Alternate text for the export Key Terms renderings (XML) menu item (used in the customize dialog)
 #. Tool tip for the export Key Terms renderings (XML) menu item
+#. Alternate text for the export Key Terms renderings (XML) menu item (used in the customize dialog)
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportKeyTermsItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportKeyTermsToolTip
 #. (String used 2 times.)
@@ -32457,8 +32887,8 @@ msgid "Export using Pathway"
 msgstr "Exportation via Pathway"
 
 # DLR
-#. Tool tip for the pathway menu item
 #. Alternate text for the pathway item (used in the customize dialog).
+#. Tool tip for the pathway menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportPsItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportPsToolTip
 #. (String used 2 times.)
@@ -32747,8 +33177,8 @@ msgid "Footer:"
 msgstr "Pied de page:"
 
 # DLR
-#. Text for the go to previous footnote menu item
 #. Text for the go to next footnote menu item
+#. Text for the go to previous footnote menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextFootnoteItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoPrevFootnoteItemName
 #. (String used 2 times.)
@@ -32813,8 +33243,8 @@ msgstr "Police des appels de note de bas de page: "
 msgid "Footnote Paragraphs"
 msgstr "Paragraphes de notes de bas de page"
 
-#. The tooltip for the footnote properties menu item
 #. Undo/Redo tag for footnote properties
+#. The tooltip for the footnote properties menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidUndoFootnoteProperties
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidFootnotePropertiesToolTip
 #. (String used 2 times.)
@@ -32840,8 +33270,8 @@ msgstr "Notes de bas de page"
 msgid "F&ootnotes"
 msgstr "Notes de bas de page"
 
-#. Text for the footnotes menu item
 #. Appears in details column on import mapping page
+#. Text for the footnotes menu item
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::label21.Text
 #. /Src/TE/TeDialogs/ScriptureProperties.resx::tpgFootnotes.Text
 #. /Src/TE/TeImportExport/ScrImportComponents.resx::kstidImportWizMappingDetailFootnotes
@@ -33135,8 +33565,8 @@ msgid "Go To Previous Unfinished Paragraph"
 msgstr "Atteindre le paragraphe inachevé précédent"
 
 # DLR
-#. Text for the navigate to Reference control on the toolbar
 #. Tool tip for the Go To Reference control on the toolbar
+#. Text for the navigate to Reference control on the toolbar
 #. /Src/TE/TeResources/TeStrings.resx::kstidGotoPassageToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoPassageItemName
 #. /Src/TeDll/GotoReferenceDialog.resx::$this.Text
@@ -33336,8 +33766,8 @@ msgid "Import Complete"
 msgstr "Importation terminée"
 
 # DLR
-#. Tool tip for the import Key Terms renderings (XML) menu item
 #. Alternate text for the import Key Terms renderings (XML) menu item (used in the customize dialog)
+#. Tool tip for the import Key Terms renderings (XML) menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsToolTip
 #. (String used 2 times.)
@@ -33369,8 +33799,8 @@ msgid "Import Notes"
 msgstr "Importer les notes"
 
 # DLR
-#. Description for saved version containing import; {0} is typically a file name.
 #. {0} is the description read from the OXES file
+#. Description for saved version containing import; {0} is typically a file name.
 #. /Src/TE/TeResources/TeStrings.resx::kstidOxesImportOf
 #. /Src/TE/TeResources/TeStrings.resx::kstidSavedVersionDescriptionImport
 #. (String used 2 times.)
@@ -33384,8 +33814,8 @@ msgid "Import of biblical terms renderings failed: {0}"
 msgstr "Importation de traductions de termes bibliques a échoué: {0}"
 
 # DLR
-#. Alternate text for the import XML menu item (used in the customize dialog).
 #. Tooltip for the import XML menu item
+#. Alternate text for the import XML menu item (used in the customize dialog).
 #. /Src/TE/TeImportExport/ImportXmlDialog.resx::$this.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportXmlItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportXmlToolTip
@@ -33509,8 +33939,8 @@ msgid "Insert {0}"
 msgstr "Insérer {0}"
 
 # DLR
-#. Undo/Redo string for Insert Book
 #. Text for the insert book menu item
+#. Undo/Redo string for Insert Book
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertBook
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertBooksToolTip
 #. (String used 2 times.)
@@ -33518,9 +33948,9 @@ msgid "Insert Book"
 msgstr "Insérer livre"
 
 # DLR
-#. Tool tip for Insert Chapter Number toolbar button
-#. Text for the insert chapter number menu item
 #. undo/redo string for Insert Chapter Number
+#. Text for the insert chapter number menu item
+#. Tool tip for Insert Chapter Number toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertChapterNumber
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertChapterNumberToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertChapNumToolTip
@@ -33552,8 +33982,8 @@ msgstr "Insérer un &renvoi dans une note de bas de page"
 msgid "Insert Cross-reference Footnote"
 msgstr "Insérer un renvoi dans une note de bas de page"
 
-#. Tool tip for Footnote toolbar button
 #. Undo/Redo string for Insert General Footnote
+#. Tool tip for Footnote toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertFootnote
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertFootnoteToolTip
 #. (String used 2 times.)
@@ -33596,8 +34026,8 @@ msgstr "Insérer note"
 msgid "Insert Old Testament Book"
 msgstr "Insérer livre de l'Ancien Testament"
 
-#. Undo/Redo string for Insert Picture
 #. The tooltip for the insert picture menu item
+#. Undo/Redo string for Insert Picture
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertPicture
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertPictureToolTip
 #. (String used 2 times.)
@@ -33616,9 +34046,9 @@ msgid "Insert &Response"
 msgstr "Insérer &réponse"
 
 # DLR
+#. Used for formatting the undo/redo labels for creating annotation responses
 #. Alternate text for the insert response item (used in the customize dialog).
 #. Tool tip for the insert response menu item
-#. Used for formatting the undo/redo labels for creating annotation responses
 #. /Src/TE/TeResources/TeStrings.resx::kstidCreateResponse
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertResponseItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertResponseToolTip
@@ -33627,8 +34057,8 @@ msgid "Insert Response"
 msgstr "Insérer réponse"
 
 # DLR
-#. Text for the insert scripture section menu item
 #. Tool tip for Insert Section toolbar button
+#. Text for the insert scripture section menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertSectionToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertScrSectionToolTip
 #. (String used 2 times.)
@@ -33642,9 +34072,9 @@ msgid "Insert Section"
 msgstr "Insérer section"
 
 # DLR
-#. Text for the insert verse number menu item
-#. Tool tip for Insert Single Verse Number toolbar button
 #. Undo/Redo string for Insert Verse Number
+#. Tool tip for Insert Single Verse Number toolbar button
+#. Text for the insert verse number menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertVerseNumber
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertVerseNumberToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertVerseNumToolTip
@@ -34394,9 +34824,9 @@ msgid "Nahum"
 msgstr "Nahum"
 
 #. Tooltip for the go to first menu item
+#. Tooltip for the go to next menu item
 #. Tooltip for the go to previous menu item
 #. Tooltip for the go to last menu item
-#. Tooltip for the go to next menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoFirstToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoLastToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextToolTip
@@ -34448,8 +34878,8 @@ msgid "&New Testament"
 msgstr "&Nouveau Testament"
 
 #. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes in TE and Choose Texts dialog box in FLEx)
-#. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
 #. the value of the header/footer text that is changed in the setup dialog for the division name
+#. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
 #. /Src/Common/Controls/FwControls/FwControls.resx::kstidNtNode
 #. /Src/Common/FwPrintLayoutComponents/FwPrintLayoutStrings.resx::kstidDivName
 #. /Src/TE/TeResources/TeStrings.resx::kstidNtNode
@@ -34475,12 +34905,6 @@ msgstr "Suivant >>"
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidNextDiffItemName
 msgid "&Next Difference"
 msgstr "Différence suivante"
-
-#. /Src/TE/TeDialogs/FilesOverwriteDialog.resx::btnNo.Text
-#. /Src/TeDll/TrainingAvailable.resx::buttonNo.Text
-#. (String used 2 times.)
-msgid "&No"
-msgstr "&Non"
 
 # DLR
 #. Format string for a message displayed when a scan finds no tokens in the current Scripture project. The parameter is the type of tokens sought (e.g., "punctuation patterns" or "characters"). Localizer should ensure that the text of this message corresponds appropriately to kstidCurrentScriptureProject in the FwStrings resources.
@@ -34653,8 +35077,8 @@ msgstr "Page impaire"
 msgid "&Old Testament"
 msgstr "Ancien Testament"
 
-#. text for OT node in Scripture tree controls (see Save Version and Book Filter dialog boxes in TE and Choose Texts dialog box in FLEx)
 #. text for OT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
+#. text for OT node in Scripture tree controls (see Save Version and Book Filter dialog boxes in TE and Choose Texts dialog box in FLEx)
 #. /Src/Common/Controls/FwControls/FwControls.resx::kstidOtNode
 #. /Src/TE/TeResources/TeStrings.resx::kstidOtNode
 #. (String used 2 times.)
@@ -34688,8 +35112,8 @@ msgid "Open XML for Editing Scripture (OXES) Files"
 msgstr "Fichiers OXES (Format XML pour des Écritures)"
 
 # DLR
-#. Text for the export XML menu item
 #. Text for the import XML menu item
+#. Text for the export XML menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportXmlItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportXmlItemName
 #. (String used 2 times.)
@@ -34969,8 +35393,8 @@ msgid "Paratext Project Short Name:"
 msgstr "Nom court du projet Paratext:"
 
 # DLR
-#. Text for the paste hyperlink menu item
 #. Text for the paste hyperlink context menu item
+#. Text for the paste hyperlink menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkCmnuItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkItemName
 #. (String used 2 times.)
@@ -34978,8 +35402,8 @@ msgid "Paste &Hyperlink"
 msgstr "Coller l'&hyperlien"
 
 # DLR
-#. Tool tip for the paste hyperlink menu item
 #. Alternate text for the paste hyperlink item (used in the customize dialog).
+#. Tool tip for the paste hyperlink menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkToolTip
 #. (String used 2 times.)
@@ -35238,8 +35662,8 @@ msgid "Punctuation Usage"
 msgstr "Emploi de ponctuation"
 
 # DLR
-#. Tooltip for menu item for menu associated with editorial checks list.
 #. Scripture check name: Quotation Marks
+#. Tooltip for menu item for menu associated with editorial checks list.
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidName_DDCCB400F274449892C577E99C90F75C
 #. /Src/FwCoreDlgs/PunctuationDlg.resx::tpgQuotations.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidQuotationMarksToolTip
@@ -35696,8 +36120,8 @@ msgstr "Sous-titre supprimé"
 msgid "Section Heading"
 msgstr "Sous-titre"
 
-#. Text for the go to last section menu item
 #. Text for the go to first section menu item
+#. Text for the go to last section menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoFirstSectionItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoLastSectionItemName
 #. (String used 2 times.)
@@ -36669,8 +37093,8 @@ msgid "Tr&anslator"
 msgstr "Tr&aducteur"
 
 # DLR context?
-#. This text appears as a button for a filter in the Notes window.
 #. Text of filter sidebar button
+#. This text appears as a button for a filter in the Notes window.
 #. /Src/TE/NotesView/Properties/Resources.resx::kstidTranslatorNoteFilter
 #. /Src/TE/TeResources/TeStrings.resx::kstidFilterTranslator
 #. (String used 2 times.)
@@ -36881,8 +37305,8 @@ msgstr "Actualiser la pagination"
 msgid "Update Picture Properties"
 msgstr "Actualiser les propriétés d'image"
 
-#. status text for progress dialog when updating verse bridges
 #. progress dialog status message with book name
+#. status text for progress dialog when updating verse bridges
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidFootnoteResequenceMessage
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidUpdateVerseBridgesInBook
 #. (String used 2 times.)
@@ -37212,12 +37636,6 @@ msgstr "5.8 x 8.7 po"
 msgid "X&HTML..."
 msgstr "X&HTML..."
 
-#. /Src/TE/TeDialogs/FilesOverwriteDialog.resx::btnYes.Text
-#. /Src/TeDll/TrainingAvailable.resx::buttonYes.Text
-#. (String used 2 times.)
-msgid "&Yes"
-msgstr "Oui"
-
 #. /Src/TE/TeDialogs/FilesOverwriteDialog.resx::btnYesToAll.Text
 msgid "Yes to &All"
 msgstr "Oui à &tous"
@@ -37269,3 +37687,18 @@ msgstr "Zacharie"
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidBookName36
 msgid "Zephaniah"
 msgstr "Sophonie"
+
+#~ msgid "{0}. All rights reserved."
+#~ msgstr "{0}.Tous droits réservés."
+
+#~ msgid "http://downloads.sil.org/FieldWorks/appcast.xml"
+#~ msgstr "http://downloads.sil.org/FieldWorks/appcast.xml"
+
+#~ msgid "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
+#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
+
+#~ msgid "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
+#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
+
+#~ msgid "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
+#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
