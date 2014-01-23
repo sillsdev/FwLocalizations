@@ -3,10 +3,10 @@
 #  (http://www.gnu.org/licenses/lgpl-2.1.html)
 msgid ""
 msgstr ""
-"Project-Id-Version: FieldWorks 8.0.5\n"
+"Project-Id-Version: FieldWorks 8.0.7\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
-"POT-Creation-Date: 2013-12-11T23:28:08.8564581-06:00\n"
-"PO-Revision-Date: 2013-12-16 14:30-0600\n"
+"POT-Creation-Date: 2014-01-07T21:00:03.9070656-06:00\n"
+"PO-Revision-Date: 2014-01-13 18:05-0800\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
@@ -5910,14 +5910,15 @@ msgstr "Copier toute analyse approuvée à la nouvelle orthographe"
 msgid "Copy failed with message: "
 msgstr "Échec de la copie avec message: "
 
-# DLR
+# DLR 2014-01-14 not enough room on button for " fichier"
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCopyFile
 msgid "&Copy File"
-msgstr "&Copier fichier"
+msgstr "&Copier"
 
+# DLR 2014-01-14 not enough room on button for " fichiers"
 #. /Src/FwCoreDlgs/MoveOrCopyFilesDlg.resx::m_btnCopy.Text
 msgid "&Copy Files"
-msgstr "&Copier fichiers"
+msgstr "&Copier"
 
 #. {0} is the name of a stored dictionary configuration that is being copied.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidCopyStyleNameFormat
@@ -7872,45 +7873,37 @@ msgstr "Voulez-vous essayer de vous reconnecter maintenant? "
 msgid "Do you want to update the homograph numbers to be based on the {0} writing system?"
 msgstr "Voulez-vous actualiser les numéros d'homographes pour qu'ils soit basés sur le système d'écriture {0}?"
 
+# DLR
+#. Instructions shown before first Send/Receive. Please keep HTML tags as-is to preserve formatting, and use HTML escapes (&quot; for ", etc.). If using PoEdit, you will also need to keep all "\n" (line breaks) as-is.
 #. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::htmlControl_Instructions.DocumentText
 msgid ""
-"<!DOCTYPE html><html>\n"
-"<body lang=EN-US style='font-family:\"Microsoft Sans Serif\",\"sans-serif\";font-size:9.5pt'>\n"
+"<!DOCTYPE html><html><body style='font-family:\"Microsoft Sans Serif\",\"sans-serif\";font-size:9.5pt'>\n"
 "<p style='font-size:11pt;margin-bottom:0in'>Getting Started</p>\n"
-"<p style='margin:0in;text-indent:10.5pt'>When you begin to share\n"
-"data for the first time, the computer with the most authoritative copy <b>must</b> be\n"
-"the first to send/receive, and all other computers must have the project <b>removed</b>\n"
-"from that computer before proceeding.</p>\n"
-"<p style='margin:0in;text-indent:10pt'>If your project is spread across two or more\n"
-"computers, and neither contains a more complete or up-to-date work, it is recommended to merge\n"
-"the databases into one project before sharing the project. If you need help with this process,\n"
-"please contact <a href='mailto:FLEx_Errors@sil.org'>FLEx_Errors@sil.org</a> for advice.</p>\n"
-"<p style='margin:0in;text-indent:10pt'>All other\n"
-"computers/users in the project will receive this project through the command &quot;Get Project from Colleague&quot;.\n"
-"After that, they can continue to work on the new shared project.</p>\n"
-"<p style='margin:0in;text-indent:10pt'>For step-by-step\n"
-"instructions on project sharing, please search for &quot;Get started with\n"
-"Send/Receive&quot; in the Helps or click the Help button below.</p>\n"
-"\n"
+"<p style='margin:0in;text-indent:10.5pt'>When you begin to share data for the first time, the computer with the most authoritative copy <b>must</b> be the first to send/receive, and all other computers must have the project <b>removed</b> from that computer before proceeding.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>If your project is spread across two or more computers, and neither contains a more complete or up-to-date work, it is recommended to merge the databases into one project before sharing the project. If you need help with this process, please contact <a href='mailto:FLEx_Errors@sil.org'>FLEx_Errors@sil.org</a> for advice.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>All other computers/users in the project will receive this project through the command &quot;Get Project from Colleague&quot;. After that, they can continue to work on the new shared project.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>For step-by-step instructions on project sharing, please search for &quot;Get started with Send/Receive&quot; in the Helps or click the Help button below.</p>\n"
 "<p style='font-size:11pt;margin-bottom:0in'>Best Practices</p>\n"
-"<p style='margin:0in;text-indent:10pt'>When working, it is recommended for\n"
-"each user to complete a send/receive before starting the day’s work (to receive\n"
-"the most current data) and when ending the day’s work (to share your new\n"
-"changes with other users). Users who work at the same time, or who are making\n"
-"major changes to the database are encouraged to send/receive more often to\n"
-"prevent conflicts.</p>\n"
-"\n"
-"<ul>\n"
-"<p style='margin:0in;margin-left:-30pt;text-indent:10pt'>As with any Send/Receive process, there\n"
-"are recommendations about which areas to avoid editing at the same time:</p>\n"
+"<p style='margin:0in;text-indent:10pt'>When working, it is recommended for each user to complete a send/receive before starting the day's work (to receive the most current data) and when ending the day's work (to share your new changes with other users). Users who work at the same time, or who are making major changes to the database are encouraged to send/receive more often to prevent conflicts.</p>\n"
+"<ul><p style='margin:0in;margin-left:-30pt;text-indent:10pt'>As with any Send/Receive process, there are recommendations about which areas to avoid editing at the same time:</p>\n"
 "<li style='list-style-type:bullet;margin-left:-10pt'>If you will be doing a Bulk Edit, please do a Send/Receive immediately before and after, and ask other teammates to refrain from working while you do this.</li>\n"
 "<li style='list-style-type:bullet;margin-left:-10pt'>Try to avoid having two users work on the same interlinear text during the same send/receive cycle. This includes the Text Chart.</li>\n"
 "<li style='list-style-type:bullet;margin-left:-10pt'>If two users adjust lexical relations in the same entry in the same Send/Receive cycle, the results may not be what you expect.</li>\n"
-"</ul>\n"
-"</body>\n"
-"</html>\n"
-"      "
+"</ul></body></html>"
 msgstr ""
+"<!DOCTYPE html><html><body style='font-family:\"Microsoft Sans Serif\",\"sans-serif\";font-size:9.5pt'>\n"
+"<p style='font-size:11pt;margin-bottom:0in'>Mise en route</p>\n"
+"<p style='margin:0in;text-indent:10.5pt'>Lorsque vous commencez à partager des données pour la première fois, l'ordinateur avec la version la plus autorisé <b>doit</b> être le premier à faire Envoyer/recevoir, et tous les autres ordinateurs doit avoir le projet <b>supprimé</b> de l'ordinateur avant de continuer.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>Si votre projet est réparti entre deux ou plusieurs ordinateurs, et aucun ordinateur ne contient un ouvrage complet et à jour, on vous conseille de fusionner les bases de données dans un projet avant de partager le projet. Si vous avez besoin d'aide à le faire, veuillez contacter <a href='mailto:FLEx_Errors@sil.org'>FLEx_Errors@sil.org</a> pour obtenir des conseils.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>Tous les autres ordinateurs/utilisateurs dans le projet recevront ce projet à travers la commande &quot;Recevoir un projet d'un collègue&quot;. Puis ils peuvent continuer à travailler sur le nouveau projet partagé.</p>\n"
+"<p style='margin:0in;text-indent:10pt'>Pour des instructions pas à pas sur le partage d'un projet, veuillez rechercher &quot;Get started with Send/Receive&quot; dans l'Aide ou cliquez sur le bouton Aide ci-dessous.</p>\n"
+"<p style='font-size:11pt;margin-bottom:0in'>Meilleures pratiques</p>\n"
+"<p style='margin:0in;text-indent:10pt'>Lorsque vous travaillez, chaque utilisateur est conseillé de faire Envoyer/Recevoir avant le début des travaux de la journée (pour recevoir les données les plus récentes) et lors de la fin des travaux de la journée (pour partager vos nouveaux changements avec d'autres utilisateurs). Les utilisateurs qui travaillent en même temps ou qui font des changements majeurs à la base de données sont invités à faire Envoyer/recevoir plus souvent afin de prévenir des conflits.</p>\n"
+"<ul><p style='margin:0in;margin-left:-30pt;text-indent:10pt'>Comme pour n'importe quel projet partagé, il y a des recommandations concernant des choses à ne pas éditer simultanément:</p>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>Si vous voulez éditer en bloc, veuillez faire Envoyer/recevoir immédiatement avant et après vos opérations et demander aux autres membres de l'équipe de suspendre leur travail pendant le vôtre.</li>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>Essayer d'éviter que deux personnes travaillent sur le même texte interlinéaire, y inclus Tableau de texte, pendant le même cycle d'Envoyer/recevoir.</li>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>Si deux personnes modifient les relations lexicales de la même entrée pendant le même cycle d'Envoyer/recevoir, les résultats risquent d'être indésirables.</li>\n"
+"</ul></body></html>"
 
 # DLR
 #. /Language Explorer/Configuration/Notebook/Document/toolConfiguration.xml::/root/tools/tool/@label
@@ -12041,6 +12034,31 @@ msgstr "Fichiers HTM"
 msgid "HTML Files"
 msgstr "Fichiers HTML"
 
+#. Do not localize
+#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastSeUrl
+msgid "http://downloads.sil.org/FieldWorks/appcast.xml"
+msgstr "http://downloads.sil.org/FieldWorks/appcast.xml"
+
+#. Do not localize
+#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastSeBetasUrl
+msgid "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
+msgstr "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
+
+#. Do not localize
+#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastBteUrl
+msgid "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
+msgstr "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
+
+#. Do not localize
+#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastBteBetasUrl
+msgid "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
+msgstr "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
+
+#. Displays in the Help/About box
+#. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidLicenseURL
+msgid "(http://www.gnu.org/licenses/lgpl-2.1.html)"
+msgstr "(http://www.gnu.org/licenses/lgpl-2.1.html)"
+
 # DLR
 #. field name for Data Notebook records
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -14125,15 +14143,15 @@ msgstr "Signe Avant"
 msgid "Leave _suggestion and"
 msgstr "Laisser la _suggestion et"
 
-# @ DLR (or does Leave mean Exit ?)
+# DLR 2014-01-14 not enough room on button for " le fichier"
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksLeaveFile
 msgid "&Leave File"
-msgstr "&Laisser le fichier"
+msgstr "&Laisser"
 
-# @ DLR (or does Leave mean Exit ?)
+# DLR 2014-01-14 not enough room on button for " les fichiers"
 #. /Src/FwCoreDlgs/MoveOrCopyFilesDlg.resx::m_btnLeave.Text
 msgid "&Leave Files"
-msgstr "&Laisser des fichiers"
+msgstr "&Laisser"
 
 # DLR
 #. /Src/FwCoreDlgs/PicturePropertiesDialog.resx::m_rbLeave.Text
@@ -16037,13 +16055,15 @@ msgstr "Déplacer l'exemple vers le _bas"
 msgid "Move Example _Up"
 msgstr "Déplacer l'exemple vers le _haut"
 
+# DLR 2014-01-14 not enough room on button for " le fichier"
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksMoveFile
 msgid "&Move File"
-msgstr "Déplacer le fichier"
+msgstr "Déplacer"
 
+# DLR 2014-01-14 not enough room on button for " les fichiers"
 #. /Src/FwCoreDlgs/MoveOrCopyFilesDlg.resx::m_btnMove.Text
 msgid "&Move Files"
-msgstr "Déplacer les fichiers"
+msgstr "Déplacer"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 #. (String used 2 times.)
@@ -24903,6 +24923,7 @@ msgstr "{0} Suffixe"
 msgid "Suggest"
 msgstr "Suggérer"
 
+# DLR ?? CHECK
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksSuggestButtonToolTip
 msgid "Suggest will replace the normal Preview; Apply will then add any suggestions to any currently saved domains."
 msgstr "Suggérer remplacera l'Aperçu normal; puis Appliquer ajoutera toutes les suggestions à tous les domaines actuellement enregistrés."
@@ -27291,8 +27312,8 @@ msgstr "Afficher tous les allomorphes de cette entrée."
 # DLR
 #. Displays in the Help/About box and the splash screen
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidLicense
-msgid "This software is licensed under the LGPL License"
-msgstr "Ce logiciel est sous licence LGPL"
+msgid "This software is licensed under the LGPL, version 2.1 or later"
+msgstr "Ce logiciel est sous licence LGPL version 2.1 ou ultérieure"
 
 # @ DLR check "Texts Edit"
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksBaseLineNotEditable
@@ -37691,15 +37712,3 @@ msgstr "Sophonie"
 
 #~ msgid "{0}. All rights reserved."
 #~ msgstr "{0}.Tous droits réservés."
-
-#~ msgid "http://downloads.sil.org/FieldWorks/appcast.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcast.xml"
-
-#~ msgid "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
-
-#~ msgid "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
-
-#~ msgid "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
