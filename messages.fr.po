@@ -5259,12 +5259,12 @@ msgstr "Le point de code doit avoir entre 4 et 6 chiffres"
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. (String used 2 times.)
 msgid "_Collect Words"
-msgstr "_Collectionner des mots"
+msgstr "_Collecter des mots"
 
 # DLR
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Collect Words"
-msgstr "Collectionner des mots"
+msgstr "Collecter des mots"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::label1.Text
 msgid "C&olor:"
@@ -9509,7 +9509,7 @@ msgstr "Exemple d'éditer en bloc: Choisir d'une liste."
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
 msgid "Example of using Collect Words."
-msgstr "Exemple de l'utilisation d'entrée catégorisée."
+msgstr "Exemple de collecter des mots."
 
 # DLR ?
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
