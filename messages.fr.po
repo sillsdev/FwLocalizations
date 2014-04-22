@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.0.7\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2014-01-07T21:00:03.9070656-06:00\n"
-"PO-Revision-Date: 2014-01-13 18:05-0800\n"
+"PO-Revision-Date: 2014-04-15 15:12-0800\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
@@ -925,7 +925,7 @@ msgstr "Un caractère de compatibilité demi-chasse (hankaku)"
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidDecompCompatnoBreak
 #. (String used 2 times.)
 msgid "A no-break version of a space or hyphen"
-msgstr "Une version non-sécable d'un espace ou d'un trait d'union"
+msgstr "Une version non-sécable d'une espace ou d'un trait d'union"
 
 # DLR
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCUninstFeature
@@ -5078,7 +5078,7 @@ msgstr "Cliquer ici pour définir la case du modèle (ou catégorie, si vous ne 
 # DLR
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/menuAddOn/menu/item/@label
 msgid "Click Inserts Invisible Space"
-msgstr "Cliquer pour insérer un espace invisible"
+msgstr "Cliquer pour insérer une espace invisible"
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksOKToContinueCancelToChangeName
@@ -5260,12 +5260,12 @@ msgstr "Le point de code doit avoir entre 4 et 6 chiffres"
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. (String used 2 times.)
 msgid "_Collect Words"
-msgstr "_Collecter des mots"
+msgstr "_Collecte de mots"
 
 # DLR
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Collect Words"
-msgstr "Collecter des mots"
+msgstr "Collecte de mots"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::label1.Text
 msgid "C&olor:"
@@ -6700,7 +6700,7 @@ msgstr "Créé le:"
 msgid "Date Format"
 msgstr "Format de date"
 
-# DLR
+# DLR 2014-04-15 corrected escape sequences:  initial \t had been changed to \"\"\t and space after \t lost.
 #. /Src/LexText/LexTextControls/DataNotebook/ImportDateFormatDlg.resx::m_lblDescription.Text
 msgid ""
 "Date format picture elements:\n"
@@ -6719,17 +6719,17 @@ msgid ""
 "Punctuation and space characters are also allowed as verbatim elements."
 msgstr ""
 "Éléments du format de date:\n"
-"\"\"\n"
-"\"\"\td = jour du mois (premier = 1)\n"
-"\"\"\tdd = jour du mois (premier = 01)\n"
-"\"\"\n"
-"\"\"\tM = mois en chiffres (janvier = 1)\n"
-"\"\tMM = mois en chiffres (janvier = 01)\n"
-"\tMMM = abréviation du mois (janvier = janv.)\n"
-"\tMMMM = nom du mois (janvier = janvier\n"
 "\n"
-"\tyy = an  (2001 = 01)\n"
-"\tyyyy = an (2001 = 2001)\n"
+"\t d = jour du mois (premier = 1)\n"
+"\t dd = jour du mois (premier = 01)\n"
+"\n"
+"\t M = mois en chiffres (janvier = 1)\n"
+"\t MM = mois en chiffres (janvier = 01)\n"
+"\t MMM = abréviation du mois (janvier = janv.)\n"
+"\t MMMM = nom du mois (janvier = janvier\n"
+"\n"
+"\t yy = an  (2001 = 01)\n"
+"\t yyyy = an (2001 = 2001)\n"
 "\n"
 "Caractères de ponctuation et d'espace sont permis comme éléments littéraux."
 
@@ -9420,7 +9420,7 @@ msgstr "Terminaison de chiffre européen"
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksExactSpacing
 msgid "Exact Spacing"
-msgstr "Espacement Exacte"
+msgstr "Espacement Exact"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::m_cboLineSpacing.Items5
 msgid "Exactly"
@@ -9507,10 +9507,10 @@ msgstr "Exemple d'éditer en bloc: Cliquer-copier."
 msgid "Example of using Bulk Edit List Choice."
 msgstr "Exemple d'éditer en bloc: Choisir d'une liste."
 
-# DLR
+# DLR 2014-04-15 Was "Exemple de l'utilisation d'entrée catégorisée."
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoCategorized"]
 msgid "Example of using Collect Words."
-msgstr "Exemple de collecter des mots."
+msgstr "Exemple de 'Collecte de mots' (entrée catégorisée)."
 
 # DLR ?
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -11383,12 +11383,13 @@ msgstr "Gloser les mots dans le texte."
 msgid "Gloss:"
 msgstr "Glose:"
 
+# DLR 2014-01-22 Changed from "Les Gloses" since other column heads are singular.
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksGlosses
 #. (String used 3 times.)
 msgid "Glosses"
-msgstr "Les Gloses"
+msgstr "Glose"
 
 # @
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/commands/command/parameters/@okbuttonlabel
@@ -13244,7 +13245,7 @@ msgstr "Insérer entrée principale"
 #. Text of popup menu item used when footnote is embedded in word.
 #. /Src/Common/RootSite/RootSiteStrings.resx::ksInsertMissingSpaces
 msgid "Insert Missing Spaces"
-msgstr "Insérer les espaces absents"
+msgstr "Insérer les espaces absentes"
 
 # DLR
 #. /Src/LexText/Interlinear/EditMorphBreaksDlg.resx::$this.Text
@@ -17329,7 +17330,7 @@ msgstr "Mot composé exocentrique"
 msgid "Non-headed Compound Rule"
 msgstr "Règle de mot composé exocentrique"
 
-# @ DLR ?caractère autre qu'un espace
+# @ DLR ?caractère autre qu'une espace
 #. Menu Command: {0} is the special regular expression metacharacter(s)
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksRENonspaceChar
 msgid "{0} Non-space character"
@@ -27562,7 +27563,7 @@ msgstr "Pour remettre l'emplacement des fichiers liés à l'emplacement par déf
 # DLR
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
 msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
-msgstr "Pour créer un circumfixe, chaque alternative de la forme qui n'est pas vide doit avoir deux morphèmes séparés par un espace ou un point."
+msgstr "Pour créer un circumfixe, chaque alternative de la forme qui n'est pas vide doit avoir deux morphèmes séparés par une espace ou un point."
 
 # @ DLR:JN
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/if/para/lit
@@ -27952,7 +27953,7 @@ msgstr "Arrêter tous les filtres."
 # DLR Unicode.org "espace sans chasse" for "zero-width space" U+200B
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="ClickInvisibleSpace"]
 msgid "Turn on mode in which a click inserts an invisible, zero-width space."
-msgstr "Activer le mode dans lequel un clic insère un espace invisible sans chasse."
+msgstr "Activer le mode dans lequel un clic insère une espace invisible sans chasse."
 
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColor28
 msgid "Turquoise,0,255,255"
@@ -27989,7 +27990,7 @@ msgstr "Type"
 # DLR (possible shorter text: "Un espace sépare des morphèmes et un caractère de séparation indique le type de morphème.")
 #. /Src/LexText/Interlinear/EditMorphBreaksDlg.resx::m_label1.Text
 msgid "Type a space to separate morphemes and a break character to indicate the morpheme type."
-msgstr "Taper un espace pour séparer des morphèmes et un caractère de séparation pour indiquer le type de morphème."
+msgstr "Taper une espace pour séparer des morphèmes et un caractère de séparation pour indiquer le type de morphème."
 
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 msgid "Type or Values"
@@ -29808,7 +29809,7 @@ msgstr "Afficher dossier du projet"
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="ShowInvisibleSpaces"]
 msgid "View the invisible, zero-width spaces in this text."
-msgstr "Afficher les espaces invisible sans chasse dans ce texte."
+msgstr "Afficher les espaces invisibles sans chasse dans ce texte."
 
 # DLR
 #. /Src/xWorks/LiftExportMessageDlg.resx::m_linkWeSay.Text
@@ -31276,7 +31277,7 @@ msgstr "Un mappage avec la balise de début \"{0}\" existe déjà. Spécifier un
 # DLR
 #. /Src/TE/TeImportExport/ScrImportComponents.resx::kstidImportMappingsNoSpace
 msgid "A space is only allowed at the end of a marker. Revise the marker \"{0}\"."
-msgstr "Un espace n'est permis qu'à la fin d'une balise. Reviser la balise \"{0}\"."
+msgstr "Une espace n'est permise qu'à la fin d'une balise. Reviser la balise \"{0}\"."
 
 #. The tooltip for the help about menu/toolbar item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidHelpAboutToolTip
