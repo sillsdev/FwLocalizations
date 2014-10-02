@@ -3,10 +3,10 @@
 #  (http://www.gnu.org/licenses/lgpl-2.1.html)
 msgid ""
 msgstr ""
-"Project-Id-Version: FieldWorks 8.0.7\n"
+"Project-Id-Version: FieldWorks 8.1.0\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
-"POT-Creation-Date: 2014-01-07T21:00:03.9070656-06:00\n"
-"PO-Revision-Date: 2014-04-15 15:12-0800\n"
+"POT-Creation-Date: 2014-08-14T21:31:43.3353466-05:00\n"
+"PO-Revision-Date: 2014-08-14 20:51-0800\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
@@ -113,8 +113,7 @@ msgstr "\t• {0}{1}"
 #. /Src/FwCoreDlgs/RealSplashScreen.resx::lblMessage.Text
 #. /Src/FwCoreDlgs/RealSplashScreen.resx::lblProductName.Text
 #. /Src/UnicodeCharEditor/CustomCharDlg.resx::$this.Text
-#. /Src/Utilities/BasicUtils/FindFileStatusDialog.resx::lblCurrentFolder.Text
-#. (String used 45 times.)
+#. (String used 44 times.)
 msgid "#"
 msgstr "#"
 
@@ -148,8 +147,8 @@ msgstr ")"
 msgid ") "
 msgstr ") "
 
-#. indicates a missing value
 #. signals missing/unknown value
+#. indicates a missing value
 #. signals missing value
 #. marks unknown/missing information
 #. /Src/FDO/Strings.resx::ksStars
@@ -160,13 +159,14 @@ msgstr ") "
 msgid "***"
 msgstr "***"
 
-#. separate items in a list (comma space)
 #. Separator to use between multiple slot names when an irregularly inflected form variant fills two or more inflectional affix slots
 #. Used in Description on the General tab of the Style dialog box to separate detail items
+#. separate items in a list (comma space)
 #. /Src/FDO/Strings.resx::ksListSep
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksListSep
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidItemSeparator
 #. /Src/LexText/ParserUI/ParserUIStrings.resx::ksSlotNameSeparator
-#. (String used 3 times.)
+#. (String used 4 times.)
 msgid ", "
 msgstr ", "
 
@@ -228,11 +228,11 @@ msgid "; "
 msgstr "; "
 
 #. Shown in the file list under book names when the file can not be found
+#. default for an unknown/unrecognized/undefined value
 #. signals unknown/missing value
+#. indicates unknown/undefined/missing value
 #. missiing/undefined information
 #. marks unknown value that the user shouldn't see
-#. indicates unknown/undefined/missing value
-#. default for an unknown/unrecognized/undefined value
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Jt-Basic"]/choice/where/choice/otherwise/lit
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Jt-Browse"]/choice/where/choice/otherwise/para/lit
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Jt-BrowseAbbr"]/choice/where/choice/otherwise/para/lit
@@ -244,7 +244,7 @@ msgstr "; "
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksQuestions
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksQuestions
 #. /Src/LexText/Morphology/MEStrings.resx::ksQuestions
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksQuestions
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksQuestions
 #. (String used 13 times.)
 msgid "???"
 msgstr "???"
@@ -303,11 +303,11 @@ msgstr "]"
 msgid "{0}"
 msgstr "{0}"
 
-#. This is the format string for displaying tooltips for info. bar buttons. Parameter 0 = the tab's text and parameter 1 = the current tab item's text.
-#. title of the button's corresponding sidebar tab followed by the tab's current button
-#. Format string for info bar caption; {0} is the basic caption, {1} is the book, chapter, verse reference
 #. Used for formatting the Main window caption with the project name (param 0) and the application name (param 1)
+#. Format string for info bar caption; {0} is the basic caption, {1} is the book, chapter, verse reference
+#. title of the button's corresponding sidebar tab followed by the tab's current button
 #. Used for formatting the project name (param 0) and remote server name (param 1) for display in a window caption.
+#. This is the format string for displaying tooltips for info. bar buttons. Parameter 0 = the tab's text and parameter 1 = the current tab item's text.
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksProjectNameAndServerFmt
 #. /Src/Common/Framework/FrameworkStrings.resx::ksInfoBarBtnToolTipFmt
 #. /Src/FwResources/FwStrings.resx::kstidAppCaptionWithProjectName
@@ -323,7 +323,7 @@ msgid "{0} ({1})"
 msgstr "{0} ({1})"
 
 #. {0} is the lexical form, {1} is the gloss, {2} is the citation form
-#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksX_Y_Z
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksX_Y_Z
 msgid "{0} ({1}): {2}"
 msgstr "{0} ({1}): {2}"
 
@@ -332,8 +332,8 @@ msgstr "{0} ({1}): {2}"
 msgid "{0} [{1}]"
 msgstr "{0} [{1}]"
 
-#. Used in Reversal Index. {0} is writing system name, {1} is Reversal Index.
 #. Used in Dictionary View pane, {0} is publication name, {1} is Entries (localized).
+#. Used in Reversal Index. {0} is writing system name, {1} is Reversal Index.
 #. used to concatenate a long format date string with a short format time string.
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksDateAndTime
 #. /Src/xWorks/xWorksStrings.resx::ksPublicationEntries
@@ -928,7 +928,7 @@ msgid "A no-break version of a space or hyphen"
 msgstr "Une version non-sécable d'une espace ou d'un trait d'union"
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCUninstFeature
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksHCUninstFeature
 msgid "A phonological rule is using a feature variable for feature {0}, but there is no corresponding feature variable in the environment."
 msgstr "Une règle phonologique utilise une variable de trait pour le trait {0}, mais l'environnement ne contient pas une variable de trait correspondante."
 
@@ -988,7 +988,7 @@ msgstr "Une règle qui empêche que les morphèmes de se produire ensemble et qu
 #. Label used in place of the normal display of a sense that has no MSA, gloss, or defn.
 #. /Src/FDO/Strings.resx::ksBlankSense
 msgid "<a sense with no gloss or grammatical info>"
-msgstr "<un sens sans glose ou information grammaticale>"
+msgstr "<un sens sans glose ou info grammaticale>"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CategoryName"]
 msgid "A short name for this category."
@@ -1226,8 +1226,9 @@ msgstr "Abandonner"
 # DLR ?
 #. for use with dates: "approximately"
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_precisionComboBox.Items2
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::ksGenDateApprox
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::ksGenDateApprox
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "About"
 msgstr "Environ"
 
@@ -1348,8 +1349,9 @@ msgstr "Suppression réelle"
 # DLR (BN)
 #. for dates (anno domini)
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_eraComboBox.Items
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::ksGenDateAD
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::ksGenDateAD
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "AD"
 msgstr "Ap. J-C"
 
@@ -1945,9 +1947,10 @@ msgstr "Des affixes"
 
 # DLR
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_precisionComboBox.Items3
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::ksGenDateAfter
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::ksGenDateAfter
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::m_radioAfter.Text
-#. (String used 3 times.)
+#. (String used 4 times.)
 msgid "After"
 msgstr "Après"
 
@@ -2007,8 +2010,8 @@ msgstr "al"
 msgid "Alias"
 msgstr "Alias"
 
-#. Tool tip for Left Align toolbar button
 #. Text for Left Align toolbar button
+#. Tool tip for Left Align toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatLeftAlignToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidLeftAlignItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidLeftAlignToolTip
@@ -2313,6 +2316,11 @@ msgstr "Une erreur est survenue pendant la création d'un nouveau projet."
 msgid "An error has occurred while opening project {0}: {1}"
 msgstr "Une erreur est survenue en ouvrant le projet {0}: {1}"
 
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksRestoreProblemText
+msgid "An error occurred and the project could not be restored."
+msgstr "Une erreur est survenue. Impossible de restaurer le projet."
+
 #. Error message when deleting a database fails
 #. /Src/FwResources/FwStrings.resx::kstidDeleteProjError
 msgid "An error occurred deleting project {0}"
@@ -2343,6 +2351,11 @@ msgstr "Une erreur est survenue pendant l'exportation de vos données. Ceci est 
 #. /Src/xWorks/xWorksStrings.resx::ErrorExporting_ProbablyBug
 msgid "An error occurred while exporting your data. This could be the result of an error in an FXT file, an output file that is locked, or a bug in the FieldWorks code."
 msgstr "Une erreur est survenue pendant l'exportation de vos données. Ceci pourrait être dû à une erreur dans un fichier FXT, un fichier de sortie verrouillé ou un bogue dans ce logiciel FieldWorks."
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksBackupFileProblemText
+msgid "An error occurred. Please select a different file."
+msgstr "Une erreur est survenue. Veuillez sélectionner un autre fichier."
 
 #. Error message
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidErrorConvertingTestFile
@@ -2396,7 +2409,7 @@ msgid "Analyses"
 msgstr "Analyses"
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksAnalysis
-#. /Src/FwResources/FwStrings.resx::kstidAnalysis
+#. /Src/FDO/Strings.resx::ksAnalysis
 #. /Src/xWorks/xWorksStrings.resx::ksAnalysis
 #. (String used 3 times.)
 msgid "analysis"
@@ -2619,7 +2632,7 @@ msgstr "{0}. Le texte qui l'utilise doit être analysé plus en profondeur, parc
 #. {0} is a number (for showing a numbered list). {1} is the count (a number).
 #. /Src/FDO/Strings.resx::ksDelAnalysisUsedXTimes
 msgid "{0}. Any texts that used it will need more analysis work, as it is being used {1} times in your texts."
-msgstr "{0}. Tous les textes qui l'a utilisé devront être analysés plus en profondeur, parce qu'il est utilisé {1} fois dans vos textes."
+msgstr "{0}. Tous les textes qui l'ont utilisé devront être analysés plus en profondeur, parce qu'il est utilisé {1} fois dans vos textes."
 
 # DLR
 #. {0} is a number (for showing a numbered list).
@@ -2963,7 +2976,7 @@ msgid "Auto-Hide"
 msgstr "Masquer automatiquement"
 
 #. Content used when showing the details of a parse in Try a Word for these inflectional affix slot fillers.  {0} is the Name of the irregularly inflected form variant type.
-#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksIrregularlyInflectedFormNullAffix
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksIrregularlyInflectedFormNullAffix
 msgid "Automatically generated null affix for the {0} irregularly inflected form"
 msgstr "Affixe nul généré automatiquement pour la forme irrégulièrement fléchie {0}"
 
@@ -3086,8 +3099,8 @@ msgstr "Sauvegarder ce projet..."
 msgid "Backed up on {0} at {1}"
 msgstr "Sauvegardé le {0} à {1}"
 
-#. Tool tip for Background Color toolbar button
 #. Text for Background Color toolbar button
+#. Tool tip for Background Color toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatBackgroundColorToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBackgroundColorItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBackgroundColorToolTip
@@ -3096,7 +3109,7 @@ msgid "Background Color"
 msgstr "Couleur d'arrière-plan"
 
 #. text background color
-#. /Src/FDO/Strings.resx::ksBackgroundIsX
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksBackgroundIsX
 msgid "Background is {0}"
 msgstr "L'arrière-plan est {0}"
 
@@ -3127,7 +3140,7 @@ msgid "Backup date:"
 msgstr "Date de sauvegarde:"
 
 # DLR
-#. /Src/FwResources/FwStrings.resx::ksBackupFileCreatedByNewerFwVersion
+#. /Src/FDO/Strings.resx::ksBackupFileCreatedByNewerFwVersion
 msgid ""
 "Backup file contains a version of the project which was created using a newer version of FieldWorks:\n"
 "{0}\n"
@@ -3180,7 +3193,7 @@ msgid "Backup..."
 msgstr "Sauvegarder..."
 
 #. Caption that goes with ksHermitCrabReduplicationProblem
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksBadAffixForm
+#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksBadAffixForm
 msgid "Bad Affix Form"
 msgstr "Mauvaise forme d'affixe"
 
@@ -3201,8 +3214,8 @@ msgstr "Basé sur:"
 msgid "&Based on:"
 msgstr "&Basé sur:"
 
-#. Currently, only used in IText. We could think of something more generic later.
 #. name for SFM import field; name matches enumeration member name
+#. Currently, only used in IText. We could think of something more generic later.
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksVernacularInParagraph
 #. /Src/LexText/Interlinear/InterlinMaster.resx::m_tpRawText.Text
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksBaseline
@@ -3232,8 +3245,9 @@ msgstr "bb"
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_eraComboBox.Items1
 #. /Src/Common/Controls/XMLViews/SimpleDateMatchDlg.resx::m_chkEndBC.Text
 #. /Src/Common/Controls/XMLViews/SimpleDateMatchDlg.resx::m_chkStartBC.Text
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::ksGenDateBC
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::ksGenDateBC
-#. (String used 4 times.)
+#. (String used 5 times.)
 msgid "BC"
 msgstr "Av. J-C"
 
@@ -3269,9 +3283,10 @@ msgstr "deviendront"
 
 # DLR
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_precisionComboBox.Items
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::ksGenDateBefore
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::ksGenDateBefore
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::m_radioBefore.Text
-#. (String used 3 times.)
+#. (String used 4 times.)
 msgid "Before"
 msgstr "Avant"
 
@@ -3326,6 +3341,11 @@ msgid "Begins"
 msgstr "Début"
 
 # DLR
+#. /Src/FDO/Strings.resx::ksUsedXTimesInAffixProcessRules
+msgid "{0}. Being used {1} times by affix process rules."
+msgstr "{0}. Utilisé {1} fois par des règles de processus d'affixe."
+
+# DLR
 #. /Src/FDO/Strings.resx::ksUsedXTimesInRules
 msgid "{0}. Being used {1} times by rules."
 msgstr "{0}. Utilisé {1} fois par des règles."
@@ -3334,6 +3354,11 @@ msgstr "{0}. Utilisé {1} fois par des règles."
 #. /Src/FDO/Strings.resx::ksUsedXTimesInNatClasses
 msgid "{0}. Being used {1} times in your natural classes."
 msgstr "{0}. Utilisé {1} fois dans vos classes naturelles."
+
+# DLR
+#. /Src/FDO/Strings.resx::ksUsedOnceInAffixProcessRules
+msgid "{0}. Being used 1 time by an affix process rule."
+msgstr "{0}. Utilisé 1 fois par une règle de processus d'affixe."
 
 # DLR
 #. /Src/FDO/Strings.resx::ksUsedOnceInRules
@@ -3522,8 +3547,8 @@ msgstr "Gras"
 
 #. Tool tip for Bold toolbar button
 #. Text for Bold toolbar button
-#. /Src/FDO/Strings.resx::ksBold
 #. /Src/FwCoreDlgs/FwCoreDlgControls/ConfigSenseLayout.resx::m_chkSenseBoldNumber.Text
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksBold
 #. /Src/FwResources/FwStrings.resx::kstidFormatBoldToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBoldItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBoldToolTip
@@ -3549,8 +3574,8 @@ msgstr "Bordure ({0})"
 msgid "Borders"
 msgstr "Bordures"
 
-#. Text for format/borders surrounding border tooltip
 #. Tool tip for format/borders surrounding border tooltip
+#. Text for format/borders surrounding border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersSurroundToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersSurroundItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersSurroundToolTip
@@ -3575,8 +3600,8 @@ msgid "Bottom"
 msgstr "Bas"
 
 # DLR use MS term (was "Marge bas de page"). "Bordure en bas" also possible
-#. Tool tip for format/borders bottom border tooltip
 #. Text for format/borders bottom border tooltip
+#. Tool tip for format/borders bottom border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersBottomToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersBottomItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersBottomToolTip
@@ -3649,8 +3674,9 @@ msgstr "Brun,153,51,0"
 
 #. /Language Explorer/Configuration/Lexicon/Browse/toolConfiguration.xml::/root/tools/tool/@label
 #. /Language Explorer/Configuration/Notebook/Browse/toolConfiguration.xml::/root/tools/tool/@label
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::btnBrowse.Text
 #. /Src/xWorks/ExportTranslatedListsDlg.resx::m_btnBrowse.Text
-#. (String used 3 times.)
+#. (String used 4 times.)
 msgid "Browse"
 msgstr "Parcourir"
 
@@ -3659,8 +3685,8 @@ msgstr "Parcourir"
 msgid "Browse for FieldWorks Project backup file"
 msgstr "Parcourir pour un fichier de sauvegarde de projet FieldWorks"
 
-#. help string
 #. Help string for Find Mapping button
+#. help string
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrFindMapping
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBrowseForFile
 #. (String used 2 times.)
@@ -3790,8 +3816,8 @@ msgstr "Police de puces et numéros..."
 msgid "Bulleted"
 msgstr "À puces"
 
-#. Tool tip for Bullets toolbar button
 #. Text for Bullets toolbar button
+#. Tool tip for Bullets toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatBulletedListItemToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBulletedListItemItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBulletedListItemToolTip
@@ -3813,7 +3839,7 @@ msgstr "bouton"
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksRemovingEnWsMsg
 msgid ""
-"By removing the English writing system, some of your topics list items, may show \"***\" instead of their normal contents. For this reason, it is strongly recommended that you keep the English writing system active in your project. However, if you choose to remove English now and encounter problems viewing your topics list items, you may add English back at any time using the Add button.\n"
+"By removing the English writing system, some of your List items, may show \"***\" instead of their normal contents. For this reason, it is strongly recommended that you keep the English writing system active in your project. However, if you choose to remove English now and encounter problems viewing your List items, you may add English back at any time using the Add button.\n"
 "\n"
 "Do you want to remove English now?"
 msgstr ""
@@ -3840,8 +3866,8 @@ msgstr "{0} peut être configuré avec plus de détails."
 #. /Src/Common/Controls/DetailControls/ConfigureWritingSystemsDlg.resx::m_cancelButton.Text
 #. /Src/Common/Controls/FwControls/ProgressDialogWorkingOn.resx::m_CancelBtn.Text
 #. /Src/Common/Controls/XMLViews/ReallySimpleListChooser.resx::btnCancel.Text
-#. /Src/FdoUi/ConfirmDeleteObjectDlg.resx::m_cancelButton.Text
-#. /Src/FdoUi/MergeObjectDlg.resx::btnClose.Text
+#. /Src/FdoUi/Dialogs/ConfirmDeleteObjectDlg.resx::m_cancelButton.Text
+#. /Src/FdoUi/Dialogs/MergeObjectDlg.resx::btnClose.Text
 #. /Src/FwCoreDlgs/MergeWritingSystemDlg.resx::m_cancelButton.Text
 #. /Src/LexText/Lexicon/FindExampleSentenceDlg.resx::btnCancel.Text
 #. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::button_Cancel.Text
@@ -3876,9 +3902,9 @@ msgstr "Annuler"
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterModifyDlg.resx::m_btnCancel.Text
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterSetupDlg.resx::m_btnCancel.Text
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::m_btnCancel.Text
-#. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::button_Cancel.Text
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::button_Cancel.Text
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::button_Cancel.Text
+#. /Src/FdoUi/Dialogs/CantRestoreLinkedFilesToOriginalLocation.resx::button_Cancel.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::button_Cancel.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::button_Cancel.Text
 #. /Src/FwCoreDlgs/AddNewUserDlg.resx::btnCancel.Text
 #. /Src/FwCoreDlgs/BackupRestore/BackupProjectDlg.resx::m_cancel.Text
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_btnCancel.Text
@@ -3898,6 +3924,8 @@ msgstr "Annuler"
 #. /Src/FwCoreDlgs/PunctuationDlg.resx::btnCancel.Text
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::btnCancel.Text
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::btnCancel.Text
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::btnCancel.Text
+#. /Src/FwParatextLexiconPlugin/FilesToRestoreAreOlder.resx::button_Cancel.Text
 #. /Src/FwResources/FwStrings.resx::kstidUndoRedoCancel
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidCancel
 #. /Src/LexText/Discourse/AdvancedMTDialog.resx::m_cancelButton.Text
@@ -3934,7 +3962,6 @@ msgstr "Annuler"
 #. /Src/LexText/ParserUI/ParserParametersDlg.resx::btnCancel.Text
 #. /Src/MigrateSqlDbs/Properties/Resources.resx::ksCancel
 #. /Src/UnicodeCharEditor/CustomCharDlg.resx::m_btnCancel.Text
-#. /Src/Utilities/BasicUtils/FindFileStatusDialog.resx::btnCancel.Text
 #. /Src/Utilities/FixFwDataDll/FixErrorsDlg.resx::m_btnCancel.Text
 #. /Src/Utilities/MessageBoxExLib/Resources/StandardButtonsText.resx::Cancel
 #. /Src/Utilities/Reporting/ErrorReport.resx::cancelButton.Text
@@ -3946,13 +3973,18 @@ msgstr "Annuler"
 #. /Src/xWorks/ExportTranslatedListsDlg.resx::m_btnCancel.Text
 #. /Src/xWorks/LiftExportMessageDlg.resx::m_btnCancel.Text
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_btnCancel.Text
-#. (String used 107 times.)
+#. (String used 108 times.)
 msgid "Cancel"
 msgstr "Annuler"
 
 #. /Src/FwCoreDlgs/DuplicateProjectFoundDlg.resx::btnCancel.Text
 msgid "Cancel\n"
 msgstr "Annuler\n"
+
+# DLR
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::CancelDeleteWS
+msgid "Cancel Delete Writing System"
+msgstr "Annuler Supprimer un système d'écriture"
 
 # DLR
 #. Content for message box when user attempts to add a style with a blank name.
@@ -3963,6 +3995,11 @@ msgstr "Impossible d'ajouter un style avec un nom vide."
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksCannotAddAllomorph
 msgid "Cannot add allomorph"
 msgstr "Impossible d'ajouter l'allomorphe"
+
+# DLR
+#. /Src/xWorks/xWorksStrings.resx::ksCustomFieldsCanNotBeAddedDueToOtherAppsCaption
+msgid "Cannot Add Custom Fields"
+msgstr "Impossible d'ajouter des champs personnalisés"
 
 # DLR
 #. Content for message box when user attempts to add a duplicate style.
@@ -3995,6 +4032,8 @@ msgstr "Impossible de continuer tant que les clients suivants sont connectés à
 # DLR
 #. Caption going with ksProjectExists or ksMissingXmlInBackup
 #. /Src/FDO/Strings.resx::ksCannotConvert
+#. /Src/MigrateSqlDbs/Properties/Resources.resx::ksCannotConvert
+#. (String used 2 times.)
 msgid "Cannot Convert"
 msgstr "Impossible de convertir"
 
@@ -4130,14 +4169,24 @@ msgid "Cannot Restore"
 msgstr "Impossible de restaurer"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::$this.Text
+#. /Src/FdoUi/Dialogs/CantRestoreLinkedFilesToOriginalLocation.resx::$this.Text
 msgid "Cannot restore files in Linked Files folder"
 msgstr "Impossible de restaurer les fichiers dans le dossier de fichiers liés"
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksCannotRestoreLinkedFilesToOriginalLocationCaption
+msgid "Cannot Restore Linked Files"
+msgstr "Impossible de restaurer des fichiers liés"
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBackupCantRestoreWhenUsingSRCaption
 msgid "Cannot Restore Shared Project"
 msgstr "Impossible de restaurer un projet partagé"
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksConflictingSaveCaption
+msgid "Cannot Save Lexicon"
+msgstr "Impossible d'enregistrer le lexique"
 
 # DLR
 #. caption for message box
@@ -4306,8 +4355,8 @@ msgstr "Mises en garde:"
 msgid "CC"
 msgstr "CC"
 
-#. Used in the list of file types in file open dialog accessed from Encoding Converters
 #. file description for file chooser combo list
+#. Used in the list of file types in file open dialog accessed from Encoding Converters
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_transduceProcessorCombo.Items
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCCTable
 #. /Src/FwResources/FwStrings.resx::kstidAllCCTable
@@ -4315,9 +4364,9 @@ msgstr "CC"
 msgid "CC Table"
 msgstr "Tableau CC"
 
+#. Text for Center toolbar button
 #. Tool tip for Center toolbar button
 #. Used in Description on the General tab of the Style dialog box
-#. Text for Center toolbar button
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksCenter
 #. /Src/FwResources/FwStrings.resx::kstidFormatCenterToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidCenterItemName
@@ -4932,8 +4981,8 @@ msgid "Cleaning up analyses"
 msgstr "Mettre de l'ordre dans les analyses"
 
 # DLR (changed from  Effacer, which was confusing)
-#. label on a button
 #. Alternative text for the Preview button, indicating that the Preview should be removed.
+#. label on a button
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksClear
 #. /Src/LexText/Morphology/MEStrings.resx::ksClear
 #. (String used 2 times.)
@@ -5112,15 +5161,15 @@ msgid "Click on the window you want to switch to."
 msgstr "Cliquer sur la fenêtre auquelle vous désirez aller."
 
 # DLR
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::m_labelSqlDownload.Text
 #. /Src/FwCoreDlgs/MissingOldFieldWorksDlg.resx::m_labelSqlDownload.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::m_labelSqlDownload.Text
 #. (String used 2 times.)
 msgid "Click this link to download a FieldWorks installer for SQL Server, and then install it first."
 msgstr "Cliquer sur ce lien pour télécharger l'installer FieldWorks pour SQL Server, puis le lancer d'abord."
 
 # DLR
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::m_labelFwDownload.Text
 #. /Src/FwCoreDlgs/MissingOldFieldWorksDlg.resx::m_labelFwDownload.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::m_labelFwDownload.Text
 #. (String used 2 times.)
 msgid "Click this link to download an installer for a minimal set of FieldWorks 6.0 features, and then install it."
 msgstr "Cliquer sur ce lien pour télécharger un installer d'un minimum de fonctionnalités de FieldWorks 6.0, puis le lancer."
@@ -5145,9 +5194,9 @@ msgstr "Clients connectés à: {0}"
 msgid "Clitic of unknown category"
 msgstr "Clitique de catégorie inconnue"
 
+#. Text for Close menu item
 #. Displayed on the Advanced button on the Modify Writing System Properties dialog
 #. This is the text for the close option on the file menu.
-#. Text for Close menu item
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ks_Close
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidWsPropsCloseAdvancedButtonText
 #. /Src/FwCoreDlgs/FwDeleteProjectDlg.resx::m_btnExit.Text
@@ -5169,8 +5218,8 @@ msgstr "_Fermer"
 #. Button text for Cancel/Close button
 #. /Src/Common/FieldWorks/ShareProjectsFolderDlg.resx::m_btnClose.Text
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::closeButton.Text
-#. /Src/FdoUi/RelatedWords.resx::m_btnClose.Text
-#. /Src/FdoUi/SummaryDialogForm.resx::btnClose.Text
+#. /Src/FdoUi/Dialogs/RelatedWords.resx::m_btnClose.Text
+#. /Src/FdoUi/Dialogs/SummaryDialogForm.resx::btnClose.Text
 #. /Src/FwCoreDlgs/AddCnvtrDlg.resx::btnClose.Text
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidClose
 #. /Src/FwCoreDlgs/FwFindReplaceDlg.resx::btnClose.Text
@@ -5659,8 +5708,8 @@ msgstr "Configurer quelles colonnes à afficher"
 msgid "&Configure..."
 msgstr "&Configurer..."
 
-#. This text will appear on the sidebar context menu and the View menu below each list of sidebar tab items.
 #. The text on the sub-item of the book filter toolbar button.
+#. This text will appear on the sidebar context menu and the View menu below each list of sidebar tab items.
 #. /Language Explorer/Configuration/CommonDataTreeInclude.xml::/root/commands/command/@label
 #. (String used 4 times.)
 msgid "Configure..."
@@ -5719,7 +5768,7 @@ msgstr ""
 "Cette version du logiciel exige la version {1}."
 
 # DLR
-#. /Src/FDO/Infrastructure/Impl/ConnectionLostDlg.resx::label1.Text
+#. /Src/FdoUi/Dialogs/ConnectionLostDlg.resx::label1.Text
 msgid "Connection to the server has been lost. You may need to reconnect a network cable or make sure the server is running."
 msgstr "La connexion au serveur a été perdue. Peut-être il faut reconnecter un câble réseau ou vérifier que le serveur fonctionne."
 
@@ -5772,9 +5821,9 @@ msgstr "Conversion échouée"
 msgid "Conversion failed. Check your map file for errors."
 msgstr "La conversion a échoué. Verifiez votre fichier de mappage."
 
-#. caption for message box
 #. caption for error message box
 #. Title for message box displayed when an ECException is caught
+#. caption for message box
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrEcExceptionTitle
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksConvMapError
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksConvMapError
@@ -5860,8 +5909,8 @@ msgstr "Convertisseurs"
 msgid "Converts the test data into the target encoding using the selected converter."
 msgstr "Convertir les données d'essai vers l'encodage cible avec le convertisseur sélectionné."
 
-#. This is the text for the copy option on the edit menu.
 #. Text for Copy toolbar button
+#. This is the text for the copy option on the edit menu.
 #. /Src/FwCoreDlgs/FwStylesDlg.resx::m_btnCopy.Text
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::btnCopy.Text
 #. /Src/FwResources/FwStrings.resx::kstidEditCopyMenuName
@@ -5880,7 +5929,7 @@ msgstr "_Copier"
 #. Tool tip for Copy toolbar button
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdCopy"]
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::groupBox1.Text
-#. /Src/FdoUi/RelatedWords.resx::m_btnCopy.Text
+#. /Src/FdoUi/Dialogs/RelatedWords.resx::m_btnCopy.Text
 #. /Src/FwCoreDlgs/AddCnvtrDlg.resx::btnCopy.Text
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidCopy
 #. /Src/FwResources/FwStrings.resx::kstidEditCopyToolTip
@@ -5971,6 +6020,8 @@ msgstr "Impossible de changer l'emplacement de projets"
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCannotConnectToServer
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksCouldNotConnectText
+#. (String used 2 times.)
 msgid "Could not connect to server. Check service is running and that any running firewalls are configured to allow connections to the service."
 msgstr "Impossible de se connecter au serveur. Vérifier que le service est actif et que tout pare-feu actif permettra des connections au service."
 
@@ -6362,7 +6413,7 @@ msgstr "Créer un dépôt pour les données lexicales de ce projet pour la premi
 # DLR
 #. Displayed in the progress dialog box caption when creating a new FieldWorks project
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidCreateLangProjCaption
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksCreatingX
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksCreatingX
 #. (String used 2 times.)
 msgid "Creating {0}"
 msgstr "Création en cours: {0}"
@@ -6465,9 +6516,9 @@ msgid "CurrentFullLocale"
 msgstr "ParRégComplAct"
 
 # DLR
-#. for list of paper sizes in Page Setup dialog
-#. Name of the custom entry in the list of quotation mark languages.
 #. Color defined by user
+#. Name of the custom entry in the list of quotation mark languages.
+#. for list of paper sizes in Page Setup dialog
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidCustomQuotationMarksName
 #. /Src/FwResources/FwStrings.resx::kstidPaperSizeCustom
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColorCustom
@@ -6498,6 +6549,11 @@ msgstr "&Nom de champ personalisé"
 #. /Src/xWorks/AddCustomFieldDlg.resx::$this.Text
 msgid "Custom Fields"
 msgstr "Champs personnalisés"
+
+# DLR
+#. /Src/xWorks/xWorksStrings.resx::ksCustomFieldsCanNotBeAddedDueToOtherAppsText
+msgid "Custom Fields cannot be added when there is more than one application using this project."
+msgstr "Impossile d'ajouter des champs personnalisés quand plus d'un logiciel utilise ce projet."
 
 # DLR
 #. /Src/xWorks/xWorksStrings.resx::ksCustomFieldsCanNotBeAddedDueToRemoteClientsText
@@ -6560,17 +6616,17 @@ msgstr "Styles personnalisés"
 msgid "Customized Styles not Updated"
 msgstr "Styles personnalisés ne sont pas actualisés"
 
-#. Text for Cut toolbar button
 #. This is the text for the cut option on the edit menu.
+#. Text for Cut toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidEditCutMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidCutItemName
 #. (String used 3 times.)
 msgid "Cu&t"
 msgstr "Cou&per"
 
-#. Tool tip for Cut toolbar/menu item
-#. for Undo
 #. Tool tip for Cut toolbar button
+#. for Undo
+#. Tool tip for Cut toolbar/menu item
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdCut"]
 #. /Src/FwResources/FwStrings.resx::kstidEditCut
 #. /Src/FwResources/FwStrings.resx::kstidEditCutToolTip
@@ -6628,12 +6684,12 @@ msgid "Dark Yellow,128,128,0"
 msgstr "Marron clair,128,128,0"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksDashedColorUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksDashedColorUnderline
 msgid "Dashed {0} Underline"
 msgstr "Soulignement tireté en {0}"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksDashedUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksDashedUnderline
 msgid "Dashed Underline"
 msgstr "Soulignement tireté"
 
@@ -6878,7 +6934,7 @@ msgstr "Classe de flexion par défaut"
 
 # DLR
 #. style name used for the "Default Paragraph Characters" pseudo-style
-#. /Src/FwResources/FwStrings.resx::kstidDefaultParaChars
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::kstidDefaultParaChars
 msgid "Default Paragraph Characters"
 msgstr "Caractères de paragraphe par défaut"
 
@@ -6936,9 +6992,14 @@ msgstr "D&éfinir nouveau..."
 msgid "Definition"
 msgstr "Définition"
 
+# DLR
+#. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
+msgid "Definitions"
+msgstr "Définitions"
+
 #. This is the text for the delete option on the edit menu.
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterSetupDlg.resx::m_btnDelete.Text
-#. /Src/FdoUi/ConfirmDeleteObjectDlg.resx::m_deleteButton.Text
+#. /Src/FdoUi/Dialogs/ConfirmDeleteObjectDlg.resx::m_deleteButton.Text
 #. /Src/FwCoreDlgs/FwDeleteProjectDlg.resx::m_btnDelete.Text
 #. /Src/FwCoreDlgs/FwStylesDlg.resx::m_btnDelete.Text
 #. /Src/FwCoreDlgs/FwUserProperties.resx::btnDelete.Text
@@ -7147,9 +7208,9 @@ msgstr "Supprimer des analyses multi-morphémiques"
 msgid "Delete Nested Group"
 msgstr "Supprimer groupe imbriqué"
 
-#. Alternate text for the delete note item (used in the customize dialog).
-#. Tool tip for the delete note menu item
 #. Used for formatting the undo/redo labels for deleting notes
+#. Tool tip for the delete note menu item
+#. Alternate text for the delete note item (used in the customize dialog).
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksDeleteNote
 #. (String used 5 times.)
@@ -7308,7 +7369,7 @@ msgstr "Supprimer un système d'écriture"
 msgid "&Delete..."
 msgstr "Supprimer..."
 
-#. /Src/FdoUi/ConfirmDeleteObjectDlg.resx::$this.Text
+#. /Src/FdoUi/Dialogs/ConfirmDeleteObjectDlg.resx::$this.Text
 msgid "Delete:"
 msgstr "Supprimer:"
 
@@ -7523,7 +7584,7 @@ msgstr "df"
 msgid "Dictionary"
 msgstr "Dictionnaire"
 
-#. /Src/FdoUi/SummaryDialogForm.resx::$this.Text
+#. /Src/FdoUi/Dialogs/SummaryDialogForm.resx::$this.Text
 msgid "Dictionary Entry"
 msgstr "Entrée dans le dictionnaire"
 
@@ -7813,7 +7874,7 @@ msgstr "Êtes-vous sûr de vouloir supprimer cet index d'inversion?"
 msgid "Do you want FLEx to change the location of these files back to the default location in order to enable sharing via Send/Receive?"
 msgstr "Voulez-vous que FLEx rétablit l'emplacement de ces fichiers à l'emplacement par défaut pour activer le partage via Envoyer/recevoir?"
 
-#. /Src/FdoUi/ConfirmDeleteObjectDlg.resx::label2.Text
+#. /Src/FdoUi/Dialogs/ConfirmDeleteObjectDlg.resx::label2.Text
 msgid "Do you want to continue with the deletion?"
 msgstr "Voulez-vous continuer avec la suppression?"
 
@@ -7864,7 +7925,7 @@ msgstr ""
 "Si vous cliquez Non, vous verez différentes options pour débuter le travail dans Language Explorer."
 
 # DLR
-#. /Src/FDO/Infrastructure/Impl/ConnectionLostDlg.resx::label2.Text
+#. /Src/FdoUi/Dialogs/ConnectionLostDlg.resx::label2.Text
 msgid "Do you want to try to connect again now? "
 msgstr "Voulez-vous essayer de vous reconnecter maintenant? "
 
@@ -7889,6 +7950,7 @@ msgid ""
 "<li style='list-style-type:bullet;margin-left:-10pt'>If you will be doing a Bulk Edit, please do a Send/Receive immediately before and after, and ask other teammates to refrain from working while you do this.</li>\n"
 "<li style='list-style-type:bullet;margin-left:-10pt'>Try to avoid having two users work on the same interlinear text during the same send/receive cycle. This includes the Text Chart.</li>\n"
 "<li style='list-style-type:bullet;margin-left:-10pt'>If two users adjust lexical relations in the same entry in the same Send/Receive cycle, the results may not be what you expect.</li>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>Once you have done Send/Receive with this project, you will not be able to restore a backup over it.</li>\n"
 "</ul></body></html>"
 msgstr ""
 "<!DOCTYPE html><html><body style='font-family:\"Microsoft Sans Serif\",\"sans-serif\";font-size:9.5pt'>\n"
@@ -7903,6 +7965,7 @@ msgstr ""
 "<li style='list-style-type:bullet;margin-left:-10pt'>Si vous voulez éditer en bloc, veuillez faire Envoyer/recevoir immédiatement avant et après vos opérations et demander aux autres membres de l'équipe de suspendre leur travail pendant le vôtre.</li>\n"
 "<li style='list-style-type:bullet;margin-left:-10pt'>Essayer d'éviter que deux personnes travaillent sur le même texte interlinéaire, y inclus Tableau de texte, pendant le même cycle d'Envoyer/recevoir.</li>\n"
 "<li style='list-style-type:bullet;margin-left:-10pt'>Si deux personnes modifient les relations lexicales de la même entrée pendant le même cycle d'Envoyer/recevoir, les résultats risquent d'être indésirables.</li>\n"
+"<li style='list-style-type:bullet;margin-left:-10pt'>Une fois qu'on a fait Envoyer/recevoir avec ce projet, il sera impossible de l'écraser en restaurant un fichier de sauvegarde.</li>\n"
 "</ul></body></html>"
 
 # DLR
@@ -7923,12 +7986,12 @@ msgid "Don't Import"
 msgstr "Ne pas importer"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksDottedColorUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksDottedColorUnderline
 msgid "Dotted {0} Underline"
 msgstr "Soulignement pointillé en {0}"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksDottedUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksDottedUnderline
 msgid "Dotted Underline"
 msgstr "Soulignement pointillé"
 
@@ -7937,7 +8000,7 @@ msgid "Double"
 msgstr "Double"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksDoubleColorUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksDoubleColorUnderline
 msgid "Double {0} Underline"
 msgstr "Soulignement double en {0}"
 
@@ -7962,20 +8025,20 @@ msgid "Double Spacing"
 msgstr "Espacement double"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksDoubleUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksDoubleUnderline
 msgid "Double Underline"
 msgstr "Soulignement double"
 
 # DLR
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::m_lnkSqlSvr.Text
 #. /Src/FwCoreDlgs/MissingOldFieldWorksDlg.resx::m_lnkSqlSvr.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::m_lnkSqlSvr.Text
 #. (String used 2 times.)
 msgid "Download FieldWorks installer for SQL Server."
 msgstr "Télécharger l'installer FieldWorks pour SQL Server."
 
 # DLR
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::m_lnkFw60.Text
 #. /Src/FwCoreDlgs/MissingOldFieldWorksDlg.resx::m_lnkFw60.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::m_lnkFw60.Text
 #. (String used 2 times.)
 msgid "Download SIL FieldWorks Conversion Components."
 msgstr "Télécharger SIL FieldWorks Conversion Components."
@@ -8403,8 +8466,8 @@ msgstr "Niveaux d'education"
 
 # DLR ? trailing < ??
 #. /Src/FDO/Strings.resx::ksDuplicateGuidsMsg4
-msgid "Email the error report to FLExErrors@sil.org<"
-msgstr "Envoyer le rapport d'erreur à FLExErrors@sil.org<"
+msgid "Email the error report to FLExErrors@sil.org"
+msgstr "Envoyer le rapport d'erreur à FLExErrors@sil.org"
 
 #. header for table column
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksEmpty
@@ -8618,7 +8681,7 @@ msgid "Enter the regular expression"
 msgstr "Entrer l'expression régulière"
 
 #. /|strings-en.xml::/AlternativeTitles/LexEntry-Plural|
-#. /Src/FdoUi/MergeObjectDlg.resx::label2.Text
+#. /Src/FdoUi/Dialogs/MergeObjectDlg.resx::label2.Text
 #. /Src/LexText/Lexicon/SwapLexemeWithAllomorphDlg.resx::label2.Text
 #. (String used 3 times.)
 msgid "Entries"
@@ -8652,8 +8715,8 @@ msgstr "{0} entrées à examiner: Détail affiche pour les {1} premières entré
 msgid "{0} Entries to review: Detail shown for first Entry."
 msgstr "{0} entrées à examiner: Détail affiché pour première entrée."
 
-#. Occurs as {0} in ksCompleFormIsComponent or ksComponentIsComponent.
-#. /Src/LexText/Lexicon/LexEdStrings.resx::ksEntry
+#. Occurs as {0} in ksComplexFormIsComponent or ksComponentIsComponent.
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksEntry
 #. /Src/xWorks/xWorksStrings.resx::LowerCaseEntry
 #. (String used 2 times.)
 msgid "entry"
@@ -8848,12 +8911,12 @@ msgstr "{0} environnements seront non valides, si vous supprimez la classe natur
 msgid "equal to"
 msgstr "égale à"
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksX_error
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksX_error
 msgid "{0}: error"
 msgstr "{0}: erreur"
 
-#. Caption for error messages in dialogs
 #. used as title for an error message box
+#. Caption for error messages in dialogs
 #. caption for message box
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksErrorCaption
 #. /Src/Common/UIAdapterInterfaces/UIAdapterInterfacesStrings.resx::ksError
@@ -8904,14 +8967,14 @@ msgstr "1 erreur et 1 avertissement trouvés dans {0}"
 msgid "Error caught trying to open the file: "
 msgstr "Une erreur est survenue en essayant d'ouvrir le fichier: "
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksErrorEncountered
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksErrorEncountered
 msgid "error encountered"
 msgstr "erreur rencontrée"
 
-#. Message displayed if an error occurred unexpectedly during the Send/Receive lift while the export of the LIFT data was going on.
+#. Message displayed if an error occurred during "Send/Receive Lexicon" while the export of the LIFT data was going on.
 #.
 #. /Src/LexText/Lexicon/LexEdStrings.resx::FLExBridgeListener_UndoExport_Error_exporting_LIFT
-msgid "Error exporting LIFT data could not complete Send/Receive"
+msgid "Error exporting LIFT data; could not complete Send/Receive"
 msgstr "Envoyer/recevoir n'a pas pu completé à cause d'une erreur pendant l'exportation des données en format LIFT"
 
 #. {0} is a filename
@@ -9235,6 +9298,11 @@ msgstr "Erreur pendant le chargement des chaînes de ressource: {0}"
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksErrorMessage
 msgid "Error message"
 msgstr "Message d'Erreur"
+
+# DLR ?
+#. /Src/FwResources/FwStrings.resx::kstidDataMigrationProhibitedCaption
+msgid "Error migrating project"
+msgstr "Erreur de migration de projet"
 
 # DLR
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::X1HasAnUnrecognizedDateForm2
@@ -9667,7 +9735,7 @@ msgstr "Propriétés exclues"
 msgid "E&xit"
 msgstr "&Quitter"
 
-#. /Src/FDO/Infrastructure/Impl/ConnectionLostDlg.resx::m_btnExit.Text
+#. /Src/FdoUi/Dialogs/ConnectionLostDlg.resx::m_btnExit.Text
 msgid "Exit"
 msgstr "Quitter"
 
@@ -9812,7 +9880,7 @@ msgid "External Materials"
 msgstr "Matériaux externes"
 
 # DLR ?du projet
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::$this.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::$this.Text
 msgid "Extra Requirements for Project Migration"
 msgstr "Conditions supplémentaires de migration du projet"
 
@@ -9898,8 +9966,6 @@ msgstr "Atténuation"
 
 # DLR ?
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksFailed
-#. /Src/FDO/Strings.resx::ksFailed
-#. (String used 2 times.)
 msgid "Failed"
 msgstr "Échoué"
 
@@ -10123,9 +10189,9 @@ msgid "FieldWorks cannot open the project {0} because another program is using i
 msgstr "FieldWorks ne peut pas ouvrir le projet {0} parce qu'un autre logiciel l'utilise. Veuillez fermer l'autre logiciel et réessayer. NB: Parfois ce message peut s'afficher quand aucun autre logiciel ne semble en train d'utiliser le fichier. La solution la plus simple est de fermer et rouvrir la session. Voir Aide pour d'autres options."
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::label_message.Text
+#. /Src/FdoUi/Dialogs/CantRestoreLinkedFilesToOriginalLocation.resx::label_message.Text
 msgid "FieldWorks cannot restore the linked files to their original location. The restored linked files for this project will be placed inside the project folder."
-msgstr "Impossible de restaurer les fichiers liés à leur emplacement original. Les fichiers liés restaurés pour ce projet seront placé dans le dossier du projet."
+msgstr "Impossible de restaurer les fichiers liés à leur emplacement original. Les fichiers liés restaurés pour ce projet seront placés dans le dossier du projet."
 
 # DLR (horodateur=timestamp)
 #. {0} and {1} will be representations of a Date and time.
@@ -10152,7 +10218,7 @@ msgstr ""
 "{1}"
 
 # DLR
-#. /Src/FDO/Infrastructure/Impl/ConflictingSaveDlg.resx::label1.Text
+#. /Src/FdoUi/Dialogs/ConflictingSaveDlg.resx::label1.Text
 msgid "FieldWorks cannot save your changes, because they conflict with changes made by another user in a way that FieldWorks cannot resolve. You will not be able to save changes until you Refresh your display so that you are starting your edits from the state that has been saved by other users. You may choose to Refresh at once, or you may wish to delay, perhaps in order to copy your most recent work to the clipboard."
 msgstr "FieldWorks ne pouvez pas enregistrer vos modifications, car elles sont en conflit avec les modifications apportées par un autre utilisateur d'une manière que FieldWorks ne peut pas résoudre. Vous ne pourrez pas enregistrer les modifications jusqu'à ce que vous actualisez l'affichage afin de commencer vos modifications de l'état qui a été sauvé par d'autres utilisateurs. Vous pouvez l'actualiser maintenant ou vous pouvez le faire plus tard, après avoir copié vos travaux les plus récents au Presse-papiers."
 
@@ -10194,8 +10260,8 @@ msgid "FieldWorks has detected that there are two wordforms with the form {0}. T
 msgstr "FieldWorks a trouvé deux formes de mot avec la forme {0}. Ce n'est pas prévu! Si vous pouvez expliquer comment cela s'est produit, veuillez le communiquer aux développeurs. Il serait bon de supprimer manuellement tous sauf un d'eux. En attendant, voici les informations sur la première forme."
 
 # DLR ?
-#. Used in Linux version if the user forgets to logout and back in after New Install.
-#. /Src/FDO/Strings.resx::ksNeedToJoinFwGroup
+#. Used in Linux version if the user forgets to log out and back in after a new install.
+#. /Src/FwResources/FwStrings.resx::ksNeedToJoinFwGroup
 msgid "FieldWorks has encountered a problem setting up the writing systems. It may be that you need to first log out and then back in. If that doesn't fix it, you can also try asking an administrator to add you to the fieldworks group by using the command: $ sudo adduser 'yourusername' fieldworks"
 msgstr "FieldWorks a rencontré un problème de configuration des systèmes d'écriture. Peut-être vous devez d'abord vous déconnecter puis vous réconnecter encore. Si cela ne réussit pas, vous pouvez aussi essayer de demander à un administrateur de vous ajouter au groupe fieldworks en utilisant la commande: $ sudo adduser 'yourusername' fieldworks"
 
@@ -10218,11 +10284,6 @@ msgstr "FieldWorks n'a pas pu déplacé les projets suivants au nouvel emplaceme
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidBadLanguageName
 msgid "FieldWorks is unable to recognize a language name. This item will be omitted from the list of System Languages for keyboard input."
 msgstr "FieldWorks ne peut pas identifier un nom de langue. Cet élément sera omis de la liste de langues de système pour l'entrée de clavier."
-
-# DLR ?crash?
-#. /Src/Common/CoreImpl/CoreImplStrings.resx::ksCannotWriteWritingSystemInfo
-msgid "FieldWorks is unable to save some writing system settings because access to {0} is not authorized. This may cause unexpected behavior, and may be indicative of a wider problem with access permissions that could cause program crashes."
-msgstr "FieldWorks ne peut pas enregistrer certains paramètres du système d'écriture parce qu'accès à {0} n'est pas autorisé. Cela peut provoquer un fonctionnement inattendu et peut indiquer un problème de permissions plus large qui peut arrêter le logiciel."
 
 # DLR
 #. This message should never be seen. Some users however have gotten into a weird state we don't understand where they have to run-as-administrator in order to access required local-machine keys.
@@ -10284,7 +10345,7 @@ msgstr "Fichiers de projet FieldWorks"
 
 # @ DLR
 #. Message box displayed if count of current vernacular/analysis writing systems is 0. (parameter is either verncaular or analysis)
-#. /Src/FwResources/FwStrings.resx::kstidNoWritingSystems
+#. /Src/FDO/Strings.resx::ksNoWritingSystems
 msgid "FieldWorks project has no current {0} writing systems."
 msgstr "Ce projet FieldWorks n'a pas un système d'écriture {0}"
 
@@ -10328,7 +10389,7 @@ msgid "FieldWorks software is not installed correctly. Please insert your FieldW
 msgstr "Les logiciels FieldWorks ne sont pas correctement installés. Veuillez insérer votre CD FieldWorks ou relancer l'installation pour réparer votre installation."
 
 # DLR
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::m_txtDescription.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::m_txtDescription.Text
 msgid ""
 "FieldWorks version {0} cannot migrate your data to this version of FieldWorks.\n"
 "\n"
@@ -10339,9 +10400,9 @@ msgstr ""
 "Pour migrer vos données vous devez installer FieldWorks 6 et une version plus récente de SQL Server."
 
 # DLR
-#. /Src/FDO/Strings.resx::ksCouldNotBackupSomeFiles
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCouldNotBackupSomeFiles
 msgid "FieldWorks was not able to back up some of the files used by this project. Do you want to keep the backup anyway? The files not backed up were {0}"
-msgstr "FieldWorks n'a pas pu sauvegarder certains fichiers utilisés par ce projet.Voulez-vous garder la sauvegarde quand même? il manque les fichiers {0}"
+msgstr "FieldWorks n'a pas pu sauvegarder certains fichiers utilisés par ce projet.Voulez-vous garder la sauvegarde quand même? Il manque les fichiers {0}"
 
 # DLR
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidSendFailed
@@ -10417,7 +10478,7 @@ msgstr "Fichier"
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::$this.StepNames1
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.StepNames1
 #. (String used 2 times.)
-msgid "File & Settings"
+msgid "File & settings"
 msgstr "Fichier et paramètres"
 
 # DLR
@@ -10440,7 +10501,7 @@ msgstr ""
 "{0}"
 
 # DLR
-#. /Src/FwResources/FwStrings.resx::ksInvalidFwBackupFile
+#. /Src/FDO/Strings.resx::ksInvalidFwBackupFile
 msgid "File is not a valid FieldWorks backup:"
 msgstr "Ce fichier n'est pas une sauvegarde FieldWorks valide:"
 
@@ -10458,6 +10519,11 @@ msgstr "Options d'emplacement de fichier"
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrMapFileNotFoundTitle
 msgid "File not found"
 msgstr "Le fichier n'existe pas"
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::label1.Text
+msgid "File to restore:"
+msgstr "Fichier à restaurer:"
 
 #. /Src/LexText/ParserUI/ImportWordSetDlg.resx::label2.Text
 msgid "File(s) to import:"
@@ -10478,9 +10544,9 @@ msgstr "Remplit case:"
 
 # DLR
 #. The tooltip for the toolbar button that toggles the book filter on and off.
+#. The text for the book filter toggle toolbar item.
 #. window caption for book filter
 #. Tooltip for the toggle book filter toolbar item.
-#. The text for the book filter toggle toolbar item.
 #. The tooltip for the filter by book menu item
 #. /Src/Common/Controls/FwControls/TextsTriStateTreeView.resx::$this.Text
 #. (String used 7 times.)
@@ -10567,8 +10633,8 @@ msgid "Find and Replace Text"
 msgstr "Rechercher et remplacer le texte"
 
 # DLR
-#. dialog caption
 #. Title for Open File dialog for CC tables
+#. dialog caption
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrCCTitle
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindCCTableFile
 #. (String used 2 times.)
@@ -10697,8 +10763,8 @@ msgstr "Rechercher enregistrement"
 msgid "_Find Record..."
 msgstr "Rechercher enregistrement..."
 
-#. message box title
 #. Title for message box when Find Related Words can't find any related words
+#. message box title
 #. /Src/FdoUi/FdoUiStrings.resx::ksFindRelatedWords
 #. /Src/FdoUi/FdoUiStrings.resx::kstidFindRelWordsTitle
 #. (String used 2 times.)
@@ -10820,7 +10886,7 @@ msgstr "Problème d'importation des textes LinguaLinks (phase 5): {0}"
 msgid "Finish without importing.  Useful for creating all of the phaseXoutput files and related files."
 msgstr "Terminer sans importation. Utile pour créer tous les fichiers de phaseXoutput et ses fichiers apparentés."
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksFinished
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksFinished
 msgid "finished"
 msgstr "terminé"
 
@@ -10971,8 +11037,8 @@ msgstr "Police"
 msgid "Font Attributes"
 msgstr "Attributs de police"
 
-#. Text for Font Color toolbar button
 #. Tool tip for Font Color toolbar button
+#. Text for Font Color toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatFontColorToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidFontColorItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidFontColorToolTip
@@ -11095,8 +11161,8 @@ msgid "F&ormat"
 msgstr "F&ormat"
 
 #. This is the format category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
-#. This is the name of the format toolbar as it shows up in the toolbar configuration feature
 #. This is the format category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the name of the format toolbar as it shows up in the toolbar configuration feature
 #. /Src/FwResources/FwStrings.resx::kstidFormatCategory
 #. /Src/FwResources/FwStrings.resx::kstidFormatToolBarText
 #. /Src/FwResources/FwTMStrings.resx::kstidFormatCategory
@@ -11657,6 +11723,12 @@ msgstr "gs"
 msgid "_Guess Word Breaks"
 msgstr "_Deviner les séparations de mot"
 
+# DLR
+#. MessageBox title when the utility looking for incorrect Part of Speech GUIDs found some.
+#. /Src/LexText/Lexicon/LexEdStrings.resx::GoldEticGuidFixer_Guids_changed_Title
+msgid "GUIDs changed"
+msgstr "Changement des GUIDs."
+
 #. /|strings-en.xml::/LabelAbbreviations/Gloss|
 msgid "gϰ"
 msgstr "gϰ"
@@ -11754,8 +11826,8 @@ msgstr "Aide"
 msgid "Hel&p"
 msgstr "Ai&de"
 
-#. Tool tip for showing help topics
 #. This is the help category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
+#. Tool tip for showing help topics
 #. This is the text for the Help menu on the main menu bar.
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_helpButton.Text
 #. /Src/Common/Controls/FwControls/FilterAllTextsDialog.resx::m_btnHelp.Text
@@ -11772,12 +11844,12 @@ msgstr "Ai&de"
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterModifyDlg.resx::m_btnHelp.Text
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterSetupDlg.resx::m_btnHelp.Text
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::m_btnHelp.Text
-#. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::button_Help.Text
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::button_Help.Text
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::button_Help.Text
-#. /Src/FdoUi/ConfirmDeleteObjectDlg.resx::buttonHelp.Text
-#. /Src/FdoUi/MergeObjectDlg.resx::buttonHelp.Text
-#. /Src/FdoUi/SummaryDialogForm.resx::btnHelp.Text
+#. /Src/FdoUi/Dialogs/CantRestoreLinkedFilesToOriginalLocation.resx::button_Help.Text
+#. /Src/FdoUi/Dialogs/ConfirmDeleteObjectDlg.resx::buttonHelp.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::button_Help.Text
+#. /Src/FdoUi/Dialogs/MergeObjectDlg.resx::buttonHelp.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::button_Help.Text
+#. /Src/FdoUi/Dialogs/SummaryDialogForm.resx::btnHelp.Text
 #. /Src/FwCoreDlgs/AddCnvtrDlg.resx::btnHelp.Text
 #. /Src/FwCoreDlgs/AddNewUserDlg.resx::btnHelp.Text
 #. /Src/FwCoreDlgs/BackupRestore/BackupProjectDlg.resx::m_help.Text
@@ -11890,11 +11962,11 @@ msgstr "Aide..."
 msgid "Help..."
 msgstr "Aide..."
 
-#. help topic ID for add new user dialog
+#. help topic ID for insert note dialog
 #. help topic ID for Export XHTML
 #. help topic ID for user features properties dialog
-#. help topic ID for insert note dialog
 #. help topic ID for user account properties dialog
+#. help topic ID for add new user dialog
 #. /Src/FwResources/HelpTopicPaths.resx::khtpUserProperties_Account
 #. /Src/FwResources/HelpTopicPaths.resx::khtpUserProperties_Features
 #. /Src/FwResources/HelpTopicPaths.resx::khtpUserProperties_NewUser
@@ -12056,7 +12128,7 @@ msgid "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
 msgstr "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
 
 #. Displays in the Help/About box
-#. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidLicenseURL
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::kstidLicenseURL
 msgid "(http://www.gnu.org/licenses/lgpl-2.1.html)"
 msgstr "(http://www.gnu.org/licenses/lgpl-2.1.html)"
 
@@ -12198,6 +12270,12 @@ msgstr "Si le champ cible n'est pas vide"
 msgid "If there is a decomposition type, you need a decomposition"
 msgstr "Un type de décomposition exige une décomposition"
 
+# DLR
+# "Un identifiant unique global (GUID)"
+#. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhenToSetPartOfSpeechGUIDsToGold
+msgid "If this project was created before FieldWorks version 8.1 and you want to use the data as part of a multi-language query, use this utility to standardize the internal identifiers (GUIDs)."
+msgstr "Si ce projet a été créé par une vesion de FieldWorks antérieure à 8.1 et vous voulez utiliser les données dans une interrogation multilingue, utiliser cet utilitaire pour standardiser les identifiants interne (GUIDs)."
+
 # DLR ?
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksCannotUndo
 msgid "If this utility fails, you will need to go back to a previously saved version of the chosen database."
@@ -12325,10 +12403,10 @@ msgstr "&Importer"
 msgid "_Import"
 msgstr "_Importer"
 
-#. Tool tip for the import menu item
-#. This is the text in the caption of the importing progress dialog box.
 #. button label
+#. Tool tip for the import menu item
 #. Undo/Redo string for File/Import
+#. This is the text in the caption of the importing progress dialog box.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImport
 #. /Src/LexText/Interlinear/LinguaLinksImportDlg.resx::btnImport.Text
 #. (String used 5 times.)
@@ -12994,9 +13072,9 @@ msgid "_Insert"
 msgstr "_Insérer"
 
 #. This is the name of the insert toolbar as it shows up in the toolbar configuration feature
-#. This is the insert category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the insert category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
-#. /Src/FdoUi/RelatedWords.resx::m_btnInsert.Text
+#. This is the insert category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
+#. /Src/FdoUi/Dialogs/RelatedWords.resx::m_btnInsert.Text
 #. (String used 5 times.)
 msgid "Insert"
 msgstr "Insérer"
@@ -13409,8 +13487,8 @@ msgstr "{0} occurrences (avec données)"
 
 # DLR
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksInterlinImportFailed
-msgid "Interlinear Import failed. Are you sure you are importing a file in FLExText interlinear format? Word and Open Office/Libre Office docs cannot yet be imported:"
-msgstr "L'importation d'interlinéaire a échoué. Est-ce qu'il s'agit d'un fichier en format interlinéaire de Fieldworks? Les fichiers de Word et d'Open Office/Libre Office ne peut pas encore être importés:"
+msgid "Interlinear Import failed. Are you sure you are importing a file in FLExText interlinear format? Word, Open Office, and Libre Office docs cannot yet be imported."
+msgstr "L'importation d'interlinéaire a échoué. Est-ce qu'il s'agit d'un fichier en format interlinéaire de Fieldworks? Les fichiers de Word et d'Open Office/Libre Office ne peut pas encore être importés."
 
 # DLR
 #. Used in the list of file times in file open/save dialogs
@@ -13702,6 +13780,11 @@ msgid "{0}. Is being used {1} times in analyses."
 msgstr "{0}. Utilisé {1} fois par des analyses."
 
 # DLR
+#. /Src/FDO/Strings.resx::ksIsUsedXTimesInTexts
+msgid "{0}. Is being used {1} times in your texts."
+msgstr "{0}. Utilisé {1} fois dans vos textes."
+
+# DLR
 #. /Src/FDO/Strings.resx::ksIsUsedOnceByAnalyses
 msgid "{0}. Is being used 1 time by analyses."
 msgstr "{0}. Utilisé 1 fois par des analyses."
@@ -13751,8 +13834,13 @@ msgid "{0}. Is being used 1 time in analyses."
 msgstr "{0}. Utilisé 1 fois par des analyses."
 
 # DLR
+#. /Src/FDO/Strings.resx::ksIsUsedOnceInTexts
+msgid "{0}. Is being used 1 time in your texts."
+msgstr "{0}. Utilisé 1 fois dans vos textes."
+
+# DLR
 #. Error message for accessing an invalid LangProject.LinkedFilesRootDir value
-#. /Src/FDO/Strings.resx::ksInvalidLinkedFilesFolder
+#. /Src/Common/FieldWorks/Properties/Resources.resx::ksInvalidLinkedFilesFolder
 msgid "{0} is not a valid directory for linked files. Please select a valid directory."
 msgstr "{0} n'est pas un dossier de fichiers liés valide. Veuillez sélectionner un dossier valide."
 
@@ -13825,8 +13913,8 @@ msgstr "&Italique"
 
 #. Tool tip for Italic toolbar button
 #. Text for Italic toolbar button
-#. /Src/FDO/Strings.resx::ksItalic
 #. /Src/FwCoreDlgs/FwCoreDlgControls/ConfigSenseLayout.resx::m_chkSenseItalicNumber.Text
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksItalic
 #. /Src/FwResources/FwStrings.resx::kstidFormatItalicToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidItalicItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidItalicToolTip
@@ -13839,7 +13927,7 @@ msgstr "Italique"
 msgid "_Item"
 msgstr "Élément"
 
-#. /Src/FdoUi/MergeObjectDlg.resx::m_chItems.Text
+#. /Src/FdoUi/Dialogs/MergeObjectDlg.resx::m_chItems.Text
 #. /Src/LexText/Lexicon/SwapLexemeWithAllomorphDlg.resx::m_chItems.Text
 #. (String used 2 times.)
 msgid "Item"
@@ -13906,7 +13994,9 @@ msgid "Keep multi-morphemic analyses"
 msgstr "Garder des analyses multi-morphémiques"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::radio_Keep.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::radio_Keep.Text
+#. /Src/FwParatextLexiconPlugin/FilesToRestoreAreOlder.resx::radio_Keep.Text
+#. (String used 2 times.)
 msgid "Keep newer files in the folder."
 msgstr "Garder les fichiers plus récents dans le dossier."
 
@@ -13977,6 +14067,10 @@ msgstr "L_ien vers fichier..."
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="CmMedia-Detail-Label"]/slice/@label
 msgid "Label"
 msgstr "Étiquette"
+
+#. /Src/FwParatextLexiconPlugin/ProjectExistsForm.resx::label1.Text
+msgid "labelText"
+msgstr "labelText"
 
 # DLR: from Descripteur de Langue
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::columnHeader4.Text
@@ -14211,8 +14305,8 @@ msgstr "À gauche (rangé autour d'un seul caractère de base)"
 msgid "Left attached (reordrant around single base character)"
 msgstr "Attaché à gauche (rangé autour d'un seul caractère de base)"
 
-#. Tool tip for format/borders left border tooltip
 #. Text for format/borders left border tooltip
+#. Tool tip for format/borders left border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersLeftToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersLeftItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersLeftToolTip
@@ -14531,6 +14625,11 @@ msgid "Lexicon"
 msgstr "Lexique"
 
 # DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksConnectionLostCaption
+msgid "Lexicon Connection Lost"
+msgstr "Connexion au lexique perdue"
+
+# DLR
 #. /Language Explorer/Configuration/Lexicon/Edit/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Lexicon Edit"
 msgstr "Modifier le lexique"
@@ -14547,7 +14646,7 @@ msgid "LIFT Export"
 msgstr "Exportation en format LIFT"
 
 # DLR ?
-#. Title of message box displayed if an error occurred unexpectedly during the Send/Receive lift while the export of the LIFT data was going on.
+#. Title of message box displayed if an error occurred during the Send/Receive lift while the export of the LIFT data was going on.
 #.
 #. /Src/LexText/Lexicon/LexEdStrings.resx::FLExBridgeListener_UndoExport_LIFT_Export_failed_Title
 msgid "LIFT Export failed"
@@ -14703,14 +14802,15 @@ msgid "Linked files (for example, picture, sound, or movie files)"
 msgstr "Fichiers liés (par exemple, fichiers d'image, de son ou de vidéo)"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::$this.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::$this.Text
 msgid "Linked Files folder"
 msgstr "Dossier de fichiers liés"
 
 #. Caption for folder dialog, when setting a new LangProject.LinkedFilesRootDir value
-#. /Src/FDO/Strings.resx::ksLinkedFilesFolder
+#. /Src/Common/FieldWorks/Properties/Resources.resx::ksLinkedFilesFolder
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::folderBrowserDlgDescription
-#. (String used 2 times.)
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksRestoreLinkedFilesInProjectFolderCaption
+#. (String used 3 times.)
 msgid "Linked Files Folder"
 msgstr "Dossier de fichiers liés"
 
@@ -14730,7 +14830,9 @@ msgid "(Linked Files folder: {0})"
 msgstr "(Dossier de fichiers liés: {0})"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::$this.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::$this.Text
+#. /Src/FwParatextLexiconPlugin/FilesToRestoreAreOlder.resx::$this.Text
+#. (String used 2 times.)
 msgid "Linked files in backup are older"
 msgstr "Fichiers liés dans la sauvegarde sont plus anciens"
 
@@ -14995,12 +15097,12 @@ msgstr "Un schéma de recherche Regarder-Derrière doit avoir une longueur maxim
 msgid "Looking for and fixing errors in {0}"
 msgstr "En train de chercher et régler des erreurs dans {0}"
 
-#. /Src/FdoUi/RelatedWords.resx::m_btnLookup.Text
+#. /Src/FdoUi/Dialogs/RelatedWords.resx::m_btnLookup.Text
 msgid "Lookup"
 msgstr "Trouver"
 
 # DLR
-#. /Src/FDO/Infrastructure/Impl/ConnectionLostDlg.resx::$this.Text
+#. /Src/FdoUi/Dialogs/ConnectionLostDlg.resx::$this.Text
 msgid "Lost Connection"
 msgstr "Connexion perdue"
 
@@ -15025,7 +15127,7 @@ msgstr "Abaissé"
 
 # @
 #. Font lowered by X points
-#. /Src/FDO/Strings.resx::ksLoweredXpt
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksLoweredXpt
 msgid "Lowered by {0} pt"
 msgstr "Abaissé par {0} pt"
 
@@ -15137,16 +15239,6 @@ msgstr "Faire une locution avec le prochain mot"
 #. /Src/LexText/Morphology/ConcordanceDlg.resx::label4.Text
 msgid "4. Make the changes."
 msgstr "4. Faire les changements."
-
-# DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksMakingHCFiles
-msgid "Making HC Files"
-msgstr "Création des fichiers HC"
-
-# DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksMakingXAmpleFiles
-msgid "Making XAmple Files"
-msgstr "Création des fichiers XAmple"
 
 #. /|strings-en.xml::/Gender/Male|
 msgid "Male"
@@ -15327,11 +15419,11 @@ msgid "Maximum"
 msgstr "Maximum"
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksReachedMaxInternalBufferSize
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksReachedMaxInternalBufferSize
 msgid "Maximum internal buffer size ({0}) reached."
 msgstr "Taille maximum ({0}) de mémoire tampon atteinte."
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksReachedMaxAnalysesAllowed
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksReachedMaxAnalysesAllowed
 msgid "Maximum permitted analyses ({0}) reached."
 msgstr "Le maximum d'analyses permises ({0}) est atteint."
 
@@ -15407,7 +15499,7 @@ msgstr "Information d'utilisation de memoire et de disque."
 msgid "Menu Animation:"
 msgstr "Animation de menu:"
 
-#. /Src/FdoUi/MergeObjectDlg.resx::btnOK.Text
+#. /Src/FdoUi/Dialogs/MergeObjectDlg.resx::btnOK.Text
 #. /Src/FwCoreDlgs/MergeWritingSystemDlg.resx::m_mergeButton.Text
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ks_Merge
 #. (String used 3 times.)
@@ -15488,7 +15580,7 @@ msgid "Merge Grammatical Info. into..."
 msgstr "Fusionner l'info. grammaticale dans..."
 
 # DLR
-#. /Src/FdoUi/MergeObjectDlg.resx::$this.Text
+#. /Src/FdoUi/Dialogs/MergeObjectDlg.resx::$this.Text
 msgid "Merge Object"
 msgstr "Fursionner l'objet"
 
@@ -15871,8 +15963,8 @@ msgid "More Windows"
 msgstr "Plus de fenêtres"
 
 # @ Check contexte
-#. Text for the more windows menu item
 #. Dynamically displayed menu item
+#. Text for the more windows menu item
 #. /Src/FwResources/FwStrings.resx::kstidMoreWindows
 #. /Src/FwResources/FwTMStrings.resx::kstidMoreWindowsItemName
 #. (String used 2 times.)
@@ -16031,8 +16123,8 @@ msgid "Move &Down"
 msgstr "Déplacer &bas"
 
 # DLR Replaced "_bas" with "bas"
-#. Used in Interlinear context menu
 #. context menu item
+#. Used in Interlinear context menu
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMoveDown
 #. /Src/xWorks/xWorksStrings.resx::MoveDown
@@ -16819,7 +16911,7 @@ msgstr "Non"
 
 # @
 #. nonsense, but a possibility
-#. /Src/FDO/Strings.resx::ksNoColorUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNoColorUnderline
 msgid "No ({0}) Underline"
 msgstr "Pas ({0}) souligné"
 
@@ -16853,8 +16945,8 @@ msgstr "Aucune catégorie anthropologique"
 msgid "No border"
 msgstr "Pas de bordure"
 
-#. Text for format/borders right border tooltip
 #. Tool tip for format/borders right border tooltip
+#. Text for format/borders right border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersNoneToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersNoneItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersNoneToolTip
@@ -16880,6 +16972,12 @@ msgstr "Aucune catégorie"
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksNoChange
 msgid "<No Change>"
 msgstr "<Pas de changement>"
+
+# DLR
+#. Message box content for when the POS GUID utility found nothing to change.
+#. /Src/LexText/Lexicon/LexEdStrings.resx::GoldEticGuidFixer_NoChangeContent
+msgid "No changes were necessary."
+msgstr "Aucun changement n'était nécessaire."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksNoChecked
 msgid "No checked item"
@@ -16958,10 +17056,10 @@ msgstr "Pas de fichiers"
 msgid "No files to import!  Please choose at least one file."
 msgstr "Aucun fichier à importer! Choisir au moins un fichier."
 
-#. The name for the no filters menu item
 #. This text will appear as a button for a filter in the Notes window.
-#. The tooltip for the no filter menu item
 #. The text on the button in the sidebar for turning off all filters
+#. The name for the no filters menu item
+#. The tooltip for the no filter menu item
 #. /Src/Common/Filters/FiltersStrings.resx::ksNoFilter
 #. /Src/FwResources/FwStrings.resx::kstidNoFilterButtonText
 #. /Src/FwResources/FwStrings.resx::kstidNoFilterItemName
@@ -16982,8 +17080,15 @@ msgstr "Aucun genre"
 # DLR
 #. Message for Invalid Installation of factory styles
 #. /Src/FwResources/FwStrings.resx::ksNoGuidOnFactoryStyle
-msgid "No guid attribute on factory style [{0}]"
-msgstr "Aucun attribut guid pour le style prédéfini [{0}]"
+msgid "No GUID attribute on factory style [{0}]"
+msgstr "Aucun attribut GUID pour le style prédéfini [{0}]"
+
+# DLR
+# "Un identifiant unique global (GUID)"
+#. MessageBox title when the utility looking for incorrect Part of Speech GUIDs found nothing.
+#. /Src/LexText/Lexicon/LexEdStrings.resx::GoldEticGuidFixer_NoChangeTitle
+msgid "No GUIDs changed"
+msgstr "Aucun changement de GUID."
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="MissingHelpId"]/@caption
@@ -17173,7 +17278,7 @@ msgid "<no style>"
 msgstr "<pas de style>"
 
 # @
-#. /Src/FDO/Strings.resx::ksNoSuperSubscript
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNoSuperSubscript
 msgid "No Super/Subscript"
 msgstr "Pas d'indice inférieur/supérieur"
 
@@ -17198,7 +17303,7 @@ msgid "No texts are selected"
 msgstr "Aucun texte sélectionné"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::radio_NoThanks.Text
+#. /Src/FdoUi/Dialogs/CantRestoreLinkedFilesToOriginalLocation.resx::radio_NoThanks.Text
 msgid "No thanks. Skip restoring the linked files."
 msgstr "Non merci. Ignorer la restauration des fichiers liés."
 
@@ -17207,7 +17312,7 @@ msgstr "Non merci. Ignorer la restauration des fichiers liés."
 msgid "No Times Of Day"
 msgstr "Aucun moment de la journée"
 
-#. /Src/FDO/Strings.resx::ksNoUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNoUnderline
 msgid "No Underline"
 msgstr "Sans trait de soulignement"
 
@@ -17228,7 +17333,7 @@ msgid "No wordforms are selected to move"
 msgstr "Aucune forme de mot n'est sélectionnée pour être déplacée"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::radio_No.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::radio_No.Text
 msgid "No, please use original path."
 msgstr "Non, veuillez utiliser le chemin original."
 
@@ -17265,9 +17370,9 @@ msgstr " Aucun"
 msgid "&None"
 msgstr "&Aucun"
 
+#. Displays in the label associated with the ChooserTreeView
 #. Name used when no keyman/ibus keyboard is selected.
 #. Used in Description on the General tab of the Style dialog box
-#. Displays in the label associated with the ChooserTreeView
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::m_cboSeparator.Items
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_btnNone.Text
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNone
@@ -17386,9 +17491,14 @@ msgid "Not {0}"
 msgstr "Pas {0}"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksNotAdvisableOthersConnectedCaption
-msgid "Not advisable when other users connected"
-msgstr "Déconseillé pendant que les autres sont connectés"
+#. /Src/FwCoreDlgs/Strings.resx::ksNotAdvisableOtherAppsUsingProjectCaption
+msgid "Not advisable when other applications are using this project"
+msgstr "Déconseillé pendant qu'un autre logiciel utilise ce projet"
+
+# DLR
+#. /Src/FwCoreDlgs/Strings.resx::ksNotAdvisableOthersConnectedCaption
+msgid "Not advisable when other users are connected"
+msgstr "Déconseillé pendant que des autres utilisateurs se sont connectés"
 
 # DLR
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksContinueLiftImportQuestion
@@ -17405,7 +17515,7 @@ msgid "Not Base"
 msgstr "Pas base"
 
 # @
-#. /Src/FDO/Strings.resx::ksNotBold
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNotBold
 msgid "Not Bold"
 msgstr "Pas en caractère gras"
 
@@ -17440,7 +17550,7 @@ msgstr " - Pas installé(e)"
 msgid " -- Not Installed"
 msgstr " -- Pas installé(e)"
 
-#. /Src/FDO/Strings.resx::ksNotItalic
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNotItalic
 msgid "Not Italic"
 msgstr "Pas en italique"
 
@@ -17455,7 +17565,7 @@ msgid "Not published"
 msgstr "Non publié"
 
 # @
-#. /Src/FDO/Strings.resx::ksNotRaisedLowered
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNotRaisedLowered
 msgid "Not Raised/Lowered"
 msgstr "Pas Elevé/Abaissé"
 
@@ -17557,7 +17667,7 @@ msgid "Note: this will remove this entire {0} reference set tree."
 msgstr "Note: ceci enlèvera cet arbre entière {0} d'ensemble de références."
 
 # DLR "package" from MS French terms
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::m_txtWaitToInstall.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::m_txtWaitToInstall.Text
 msgid "Note: You can download the packages from this dialog, but you must finish the current installation or close the current program before installing the packages."
 msgstr "NB: Vous pouvez télécharger les packages à partir de ce dialogue, mais il faut terminer l'installation en cours ou fermer le logiciel en cours avant d'installer les packages."
 
@@ -17706,7 +17816,7 @@ msgid "Number in Corpus"
 msgstr "Combien dans le corpus"
 
 # DLR ?
-#. /Src/FDO/Strings.resx::ksWarnOnOpeningSingleUserDialog
+#. /Src/FwCoreDlgs/Strings.resx::ksWarnOnOpeningSingleUserDialog
 msgid ""
 "Number of other users: {0}\n"
 "The menu command you selected will open a dialog box. If you change any selections or settings in the dialog box, other users who have this project open on their computers will have problems.\n"
@@ -17723,7 +17833,7 @@ msgstr ""
 "Si vous devez changer quelque chose, demandez les autres utilisateurs de fermer ce projet avant de continuez ou cliquez sur Annuler."
 
 # DLR ("provoquer un crash" or "cause FieldWorks to malfunction"???)
-#. /Src/FDO/Strings.resx::ksWarnOnConfirmingSingleUserChanges
+#. /Src/FwCoreDlgs/Strings.resx::ksWarnOnConfirmingSingleUserChanges
 msgid ""
 "Number of other users: {0}\n"
 "When saving changes in this dialog with other users connected, FieldWorks may crash or malfunction for those users.\n"
@@ -17785,8 +17895,8 @@ msgstr "Nombre, autre"
 msgid "Numbered"
 msgstr "Numéroté"
 
-#. Tool tip for Numbering toolbar button
 #. Text for Numbering toolbar button
+#. Tool tip for Numbering toolbar button
 #. /Src/FwResources/FwStrings.resx::kstidFormatNumberedListItemToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidNumberedListItemItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidNumberedListItemToolTip
@@ -17949,10 +18059,9 @@ msgstr "O&K"
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterModifyDlg.resx::m_btnOK.Text
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterSetupDlg.resx::m_btnOk.Text
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::m_btnOK.Text
-#. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::button_OK.Text
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::button_OK.Text
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::button_OK.Text
-#. /Src/FDO/DomainServices/DataMigration/FWVersionTooOld.resx::m_btnOK.Text
+#. /Src/FdoUi/Dialogs/CantRestoreLinkedFilesToOriginalLocation.resx::button_OK.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::button_OK.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::button_OK.Text
 #. /Src/FwCoreDlgs/BackupRestore/BackupProjectDlg.resx::m_backUp.Text
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_btnOk.Text
 #. /Src/FwCoreDlgs/FwApplyStyleDlg.resx::m_btnOk.Text
@@ -17972,6 +18081,8 @@ msgstr "O&K"
 #. /Src/FwCoreDlgs/PunctuationDlg.resx::btnOk.Text
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::btnOk.Text
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::btnOk.Text
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::btnOk.Text
+#. /Src/FwParatextLexiconPlugin/FilesToRestoreAreOlder.resx::button_OK.Text
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidOK
 #. /Src/LexText/Discourse/AdvancedMTDialog.resx::m_OkButton.Text
 #. /Src/LexText/Discourse/SelectClausesDialog.resx::m_OkButton.Text
@@ -17998,6 +18109,7 @@ msgstr "O&K"
 #. /Src/LexText/LexTextControls/SfmToTextsAndWordsMappingBaseDlg.resx::m_okButton.Text
 #. /Src/LexText/LexTextDll/Db4oSendReceiveDialog.resx::m_OKButton.Text
 #. /Src/LexText/ParserUI/ParserParametersDlg.resx::btnOK.Text
+#. /Src/MigrateSqlDbs/FWVersionTooOld.resx::m_btnOK.Text
 #. /Src/UnicodeCharEditor/CustomCharDlg.resx::m_btnOK.Text
 #. /Src/Utilities/MessageBoxExLib/Resources/StandardButtonsText.resx::Ok
 #. /Src/XCore/SilSidePane/SilSidePane.resx::OK
@@ -18006,7 +18118,7 @@ msgstr "O&K"
 #. /Src/xWorks/DictionaryConfigMgrDlg.resx::m_btnOK.Text
 #. /Src/xWorks/LiftExportMessageDlg.resx::m_btnOK.Text
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_btnOK.Text
-#. (String used 89 times.)
+#. (String used 91 times.)
 msgid "OK"
 msgstr "OK"
 
@@ -18109,8 +18221,8 @@ msgstr "Uniquement..."
 msgid "&Open"
 msgstr "&Ouvrir"
 
-#. Text of filter sidebar button
 #. This text appears as a button for a filter in the Notes window.
+#. Text of filter sidebar button
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_btnOk.Text
 #. (String used 3 times.)
 msgid "Open"
@@ -18141,9 +18253,12 @@ msgstr "            Ouvrir un projet..."
 
 # DLR
 #. /Src/Utilities/Reporting/ErrorReport.resx::radEmail.Text
-#. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradEmail
-#. (String used 2 times.)
 msgid "&Open an email containing this message using the default email client"
+msgstr "&Ouvrir un courriel qui contient ce message avec le client courriel par défaut"
+
+# DLR
+#. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradEmail
+msgid "&Open an email containing this message using the default email client."
 msgstr "&Ouvrir un courriel qui contient ce message avec le client courriel par défaut"
 
 # DLR
@@ -18156,7 +18271,7 @@ msgstr "Ouvrir un projet FieldWorks existant."
 msgid "Open Combo"
 msgstr "Ouvrir menu déroulant"
 
-#. /Src/FdoUi/SummaryDialogForm.resx::btnLexicon.Text
+#. /Src/FdoUi/Dialogs/SummaryDialogForm.resx::btnLexicon.Text
 msgid "Open &Lexicon"
 msgstr "Ouvrir le &lexique"
 
@@ -18337,6 +18452,11 @@ msgstr "_Options..."
 msgid "Options:"
 msgstr "Options:"
 
+# DLR
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::groupBoxRestore.Text
+msgid "Or select a project to restore:"
+msgstr "Ou sélectionner un projet à restaurer:"
+
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColor9
 msgid "Orange,255,102,0"
 msgstr "Orange,255,102,0"
@@ -18376,7 +18496,7 @@ msgstr "Valeur originale"
 msgid "*Orphan Annotation"
 msgstr "*Note orpheline"
 
-#. /Src/FdoUi/SummaryDialogForm.resx::btnOther.Text
+#. /Src/FdoUi/Dialogs/SummaryDialogForm.resx::btnOther.Text
 msgid "&Other"
 msgstr "&Autre"
 
@@ -18529,13 +18649,14 @@ msgstr "Vue d'ensemble"
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::$this.StepNames
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.StepNames
 #. (String used 2 times.)
-msgid "Overview & Backup"
+msgid "Overview & backup"
 msgstr "Vue d'ensemble et sauvegarde"
 
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_clickCopyOverwriteButton.Text
 #. /Src/Common/Controls/XMLViews/NonEmptyTargetControl.resx::overwriteRadio.Text
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksOverwrite
-#. (String used 3 times.)
+#. /Src/FwParatextLexiconPlugin/ProjectExistsForm.resx::btnOverwrite.Text
+#. (String used 4 times.)
 msgid "Overwrite"
 msgstr "Écraser"
 
@@ -18644,8 +18765,8 @@ msgstr "Séparateur du paragraphe"
 msgid "&Paragraph Style"
 msgstr "Style de &paragraphe"
 
-#. Tool tip for Paragraph Styles Combo on toolbar
 #. Text for Paragraph Styles combobox on toolbar
+#. Tool tip for Paragraph Styles Combo on toolbar
 #. /Src/FwResources/FwStrings.resx::kstidFormatParaStyleToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidParaStyleItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidParaStyleToolTip
@@ -18677,6 +18798,16 @@ msgid "Paragraph Style:"
 msgstr "Style de paragraphe:"
 
 # DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksCannotRestoreLinkedFilesToOriginalLocationText
+msgid "ParaTExt cannot restore the linked files to their original location. If you choose to restore the linked files, they will be placed inside the project folder. Do you wish to restore the linked files anyway? "
+msgstr "ParaTExt ne peut pas restaurer les fichiers liés à leur emplacement original. Si vous choisissez de restaurer les fichiers liés, ils seront placés dans le dossier du projet. Voulez-vous quand même restaurer les fichiers liés? "
+
+# DLR (BB: assume 'reverted' to mean 'discarded'.)
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksConflictingSaveText
+msgid "ParaTExt cannot save changes to the lexicon, because they conflict with changes made by another user or application. The conflicting changes will be reverted."
+msgstr "ParaTExt ne peut pas enregistré des modifications au lexique, parce qu'elles sont en conflit avec des modifications faites par un autre utilisateur ou logiciel. Les modifications en conflit seront jetées."
+
+# DLR
 #. Used in the Browse for Language File filter accessed from the Valid Characters dialog box
 #. /Src/FwResources/FwStrings.resx::kstidParatextLanguageFiles
 msgid "Paratext Language Files"
@@ -18696,7 +18827,7 @@ msgstr "Analyser le mot a_ctif"
 msgid "Parse result"
 msgstr "Résultat de l'analyse"
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksDidNotParse
+#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksDidNotParse
 msgid "Parse was not attempted because of errors in the lexical data"
 msgstr "On n'a pas essayé l'analyse à cause d'erreurs dans les données lexicales"
 
@@ -18764,8 +18895,8 @@ msgstr "&Mot de passe:"
 msgid "Pass&word:"
 msgstr "Mot de &passe:"
 
-#. This is the text for the paste option on the edit menu.
 #. Text for Paste toolbar button
+#. This is the text for the paste option on the edit menu.
 #. /Src/FwResources/FwStrings.resx::kstidEditPasteMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidPasteItemName
 #. (String used 3 times.)
@@ -18779,8 +18910,8 @@ msgid "_Paste"
 msgstr "C_oller"
 
 #. for Undo
-#. Tool tip for Paste toolbar button
 #. Tool tip for Paste toolbar/menu item
+#. Tool tip for Paste toolbar button
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdPaste"]
 #. /Src/FwResources/FwStrings.resx::kstidEditPaste
 #. /Src/FwResources/FwStrings.resx::kstidEditPasteToolTip
@@ -19347,8 +19478,8 @@ msgstr "Veuillez choisir l'information approprié de caractère personnalisé."
 
 # DLR
 #. /Src/FDO/Strings.resx::ksDuplicateGuidsMsg3
-msgid "Please send a copy of of this report to the FLEX team as soon as possible to have this problem corrected."
-msgstr "Veuillez envoyer une copie de ce rapport à l'équipe FLEX le plus tôt que possible pour résoudre ce problème."
+msgid "Please send a copy of of this report to the FLEx team as soon as possible to have this problem corrected."
+msgstr "Veuillez envoyer une copie de ce rapport à l'équipe FLEx le plus tôt que possible pour résoudre ce problème."
 
 # DLR
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidReportSeriousProblemSteps
@@ -19485,11 +19616,6 @@ msgid "Preparing Interlinear (Step 5)"
 msgstr "Préparation d'interlinéaire (Étape 5)"
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksPreparingTemplatesForXAmple
-msgid "Preparing Templates for XAmple Files"
-msgstr "Préparation des modèles de fichiers XAmple"
-
-# DLR
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="LexEntryInflType-Detail-GlossPrependAllA"]/slice/@label
 msgid "Prepend to Gloss"
 msgstr "Préfixer à la glose"
@@ -19566,8 +19692,8 @@ msgstr "Recherche pré&cédente"
 msgid "Primary Gloss"
 msgstr "Glose principale"
 
-#. Tool tip for Print toolbar/menu item
 #. Tool tip for Print toolbar button
+#. Tool tip for Print toolbar/menu item
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdPrint"]
 #. /Src/FwResources/FwStrings.resx::kstidFilePrintToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidPrintToolTip
@@ -19653,7 +19779,9 @@ msgstr "Problème d'objet"
 
 # DLR
 #. Caption for error dialog
-#. /Src/FDO/Properties/Resources.resx::kstidProblemOpeningFile
+#. /Src/FdoUi/FdoUiStrings.resx::kstidProblemOpeningFile
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksOfferToRestoreCaption
+#. (String used 2 times.)
 msgid "Problem opening file"
 msgstr "Problème d'ouverture de fichier"
 
@@ -19671,6 +19799,11 @@ msgstr "Problème pendant l'enregistrement des paramètres: {0}"
 #. /Src/xWorks/xWorksStrings.resx::ProblemStarting0
 msgid "Problem Starting {0}"
 msgstr "Problème au démarrage de {0}"
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksBackupFileProblemCaption
+msgid "Problem With Backup File"
+msgstr "Problème de sauvegarde"
 
 # DLR
 #. Caption of dialog that reports such a problem
@@ -19781,8 +19914,9 @@ msgid "Project _Management"
 msgstr "_Gestion de projet"
 
 #. /Src/FwCoreDlgs/DuplicateProjectFoundDlg.resx::$this.Text
+#. /Src/FwParatextLexiconPlugin/ProjectExistsForm.resx::$this.Text
 #. /Src/MigrateSqlDbs/ExistingProjectDlg.resx::$this.Text
-#. (String used 2 times.)
+#. (String used 3 times.)
 msgid "Project Already Exists"
 msgstr "Ce nom de projet existe déjà."
 
@@ -19836,8 +19970,8 @@ msgstr "Emplacements de projets et partage"
 msgid "Project Locations and Sharing..."
 msgstr "Emplacements de projets et partage..."
 
-#. Text for menu and toolbar item
 #. This is the text for the project managment option on the file menu.
+#. Text for menu and toolbar item
 #. /Src/FwResources/FwStrings.resx::kstidFileProjMgmtMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidProjManagementItemName
 #. (String used 2 times.)
@@ -19848,6 +19982,11 @@ msgstr "&Gestion du projet"
 #. /Src/FwResources/FwTMStrings.resx::kstidProjManagementToolTip
 msgid "Project Management"
 msgstr "Gestion du projet"
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::label2.Text
+msgid "Project name:"
+msgstr "Nom du projet:"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label5.Text
 msgid "Project &Name:"
@@ -19890,8 +20029,8 @@ msgid "Projects currently open:"
 msgstr "Projets ouverts actuellement:"
 
 # DLR
-#. label for folder chooser dialog
 #. Label for FolderBrowserDialog
+#. label for folder chooser dialog
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksChooseProjectFolder
 #. (String used 2 times.)
 msgid "Projects Folder"
@@ -19972,8 +20111,8 @@ msgstr " pt"
 
 #. Used in Description on the General tab of the Style dialog box for formatting the point size of the border
 #. size in "points"
-#. /Src/FDO/Strings.resx::ksXPt
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidBorderDetailsWithoutColor
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksXPt
 #. (String used 2 times.)
 msgid "{0} pt"
 msgstr "{0} pt"
@@ -20179,7 +20318,7 @@ msgstr "Elevé"
 
 # @ DLR
 #. Font raised by X points
-#. /Src/FDO/Strings.resx::ksRaisedXpt
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksRaisedXpt
 msgid "Raised by {0} pt"
 msgstr "Elevé par {0} pt"
 
@@ -21099,8 +21238,8 @@ msgstr "Ref"
 msgid "Refer to as"
 msgstr "Nom"
 
-#. This text will appear as a button for a sort method in the Notes window.
 #. name for SFM import field; name matches enumeration member name
+#. This text will appear as a button for a sort method in the Notes window.
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexExampleSentence-Detail-Reference"]/slice/@label
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFldReference
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksFldReference
@@ -21202,7 +21341,7 @@ msgstr "Les expressions régulières ne peuvent pas avoir des ensembles Unicode 
 msgid "Related Domains"
 msgstr "Domaines apparentés"
 
-#. /Src/FdoUi/RelatedWords.resx::$this.Text
+#. /Src/FdoUi/Dialogs/RelatedWords.resx::$this.Text
 msgid "Related Words"
 msgstr "Mots apparentés"
 
@@ -21427,6 +21566,11 @@ msgstr "Enlevant un élément rt non utilisé. (class='{0}', guid='{1}')."
 #. /Src/FwResources/FwStrings.resx::kstidDeletingStylesStatusMsg
 msgid "Removing: '{0}' ..."
 msgstr "Enlèvement de: '{0}'..."
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/ProjectExistsForm.resx::btnRename.Text
+msgid "Rename"
+msgstr "Renommer"
 
 #. This is the text for the rename project option on the file/project management menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidRenameItemName
@@ -21730,11 +21874,6 @@ msgid "Restore Defaults..."
 msgstr "Restaurer les défauts..."
 
 # DLR
-#. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksRestoreDidNotSucceed
-msgid "Restore Failed"
-msgstr "Restauration échouée."
-
-# DLR
 #. Tool tip for backup/restore toolbar/menu item
 #. /Src/FwResources/FwTMStrings.resx::kstidRestoreToolTip
 msgid "Restore FieldWorks Project"
@@ -21760,8 +21899,6 @@ msgstr ""
 
 # DLR
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksRestoringOldFwBackupFailed
-#. /Src/FDO/Strings.resx::ksRestoringOldFwBackupFailed
-#. (String used 2 times.)
 msgid "Restoring from an old FieldWorks backup failed."
 msgstr "Restauration d'une ancienne sauvegarde FieldWorks a échoué."
 
@@ -21822,15 +21959,6 @@ msgstr "Résultat"
 msgid "  Results:"
 msgstr "  Résultats:"
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksRetrievingGrammarAndLexicon
-msgid "Retrieving Grammar and Lexicon"
-msgstr "Récupérer la grammaire et le lexique"
-
-# DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksRetrievingTemplateInformation
-msgid "Retrieving Template Information"
-msgstr "Recherche de l'information de modèle"
-
 # DLR
 #. /Src/FwCoreDlgs/MissingOldFieldWorksDlg.resx::m_btnOK.Text
 #. /Src/Utilities/MessageBoxExLib/Resources/StandardButtonsText.resx::Retry
@@ -21882,9 +22010,10 @@ msgid "Reversal Indexes"
 msgstr "Les index d'inversion"
 
 #. /|strings-en.xml::/AlternativeTitles/ReversalIndex-Plural|
+#. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
-#. (String used 3 times.)
+#. (String used 4 times.)
 msgid "Reversals"
 msgstr "Inversions"
 
@@ -21946,8 +22075,8 @@ msgstr "Droite"
 msgid "Right attached"
 msgstr "Attaché à droite"
 
-#. Text for format/borders right border tooltip
 #. Tool tip for format/borders right border tooltip
+#. Text for format/borders right border tooltip
 #. /Src/FwResources/FwStrings.resx::kstidFormatBordersRightToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersRightItemName
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersRightToolTip
@@ -22162,8 +22291,8 @@ msgstr "SampleValue"
 
 # DLR
 #. This is the text for the save option on the file menu.
-#. Text for Save toolbar button
 #. Button text when saving modified mapping
+#. Text for Save toolbar button
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrSave
 #. /Src/FwResources/FwStrings.resx::kstidFileSaveMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidSaveItemName
@@ -22262,6 +22391,17 @@ msgstr "Enregistrer des changements."
 #. /Src/FwResources/FwStrings.resx::kstidShutdownSaveMessage
 msgid "Saving all changes..."
 msgstr "Enregistrement des changements..."
+
+# DLR
+#. /Src/FwCoreDlgs/Strings.resx::ksWarnOnConfirmingSingleAppChanges
+msgid ""
+"Saving changes in this dialog while this project is open in other applications may cause those applications to crash or malfunction.\n"
+"\n"
+"Do you want to make the changes anyway?"
+msgstr ""
+"Enregistrer des modifications dans ce dialogue pendant qu'un autre logiciel utilise ce projet peut provoquer un crash chez l'autre logiciel.\n"
+"\n"
+"Voulez-vous enregistrer des modifications quand même?"
 
 # DLR ?? Can 'migrer' be used that way?
 #. Message on a progress dialog. Appears after a data migration has completed and before the project is opened by FLEx.
@@ -22375,14 +22515,6 @@ msgstr "Recherche arrêtée par l'utilisateur avant qu'elle ait fini de recherch
 #. /Src/Common/Controls/FwControls/LanguageSetup.resx::btnFind.HelpString
 msgid "Searches the Ethnologue according to the search criteria."
 msgstr "Recherche dans l'Ethnologue selon les critères de recherche."
-
-#. /Src/Utilities/BasicUtils/FindFileStatusDialog.resx::lblSearching.Text
-msgid "Searching Folder:"
-msgstr "Recherche de dossier:"
-
-#. /Src/Utilities/BasicUtils/FindFileStatusDialog.resx::$this.Text
-msgid "Searching..."
-msgstr "Recherche..."
 
 # DLR
 #. Menu Command: {0} is the special regular expression metacharacter(s)
@@ -22500,6 +22632,11 @@ msgstr "Sélectionner tout le texte"
 msgid "1. Select an analysis to view its current uses in a text."
 msgstr "1. Choisir une analyse pour regarder ses utilisations actuelles dans un texte."
 
+# DLR
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::groupBoxExisting.Text
+msgid "Select an existing project:"
+msgstr "Sélectionner un projet existant:"
+
 # DLR Changed "modifier/personnaliser" to "modifier" and "pour répondre à la base" to "pour la base"  in order to shorten string.
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblSettingsInstructions.Text
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::lblSettingsInstructions.Text
@@ -22535,6 +22672,11 @@ msgstr "Sélectionner la langue"
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidLanguageSelectionNewWsCaption
 msgid "Select Language for New Writing System"
 msgstr "Chosir la langue du nouveau système d'écriture"
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/ChooseFdoProjectForm.resx::$this.Text
+msgid "Select Lexical Project"
+msgstr "Sélectionner un projet lexical"
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksDirectoryLocationForBackup
@@ -22808,9 +22950,19 @@ msgid "Send/Receive _Project (with other FLEx users)..."
 msgstr "Envoyer/recevoir ce _projet (avec d'autres utilisateurs de FLEx)..."
 
 # DLR
+#. /Src/LexText/Lexicon/LexEdStrings.resx::ksSendReceiveNotPermittedMultipleAppsText
+msgid "Send/Receive cannot be performed when there are other applications using this project. Please close all other applications that are using this project before continuing."
+msgstr "Impossible de faire Envoyer/recevoir pendant qu'un autre logiciel utilise ce projet. Veuillez fermer tous les autres logiciels qui utilisent ce projet avant de continuer."
+
+# DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdFLExLiftBridge"]
 msgid "Send/Receive data in this project"
 msgstr "Envoyer/recevoir des données de ce projet"
+
+# DLR
+#. /Src/LexText/Lexicon/LexEdStrings.resx::ksSendReceiveNotPermittedMultipleAppsCaption
+msgid "Send/Receive not permitted"
+msgstr "Envoyer/recevoir n'est pas permis"
 
 # DLR ??
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdLiftBridge"]
@@ -22829,8 +22981,8 @@ msgstr "Envoyer/recevoir ce projet (lexique et textes)"
 msgid "Send/Receive..."
 msgstr "Envoyer/recevoir..."
 
-#. Occurs as {0} in ksCompleFormIsComponent or ksComponentIsComponent.
-#. /Src/LexText/Lexicon/LexEdStrings.resx::ksSense
+#. Occurs as {0} in ksComplexFormIsComponent or ksComponentIsComponent.
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSense
 msgid "sense"
 msgstr "sens"
 
@@ -23651,7 +23803,7 @@ msgstr "Simple"
 
 # DLR
 #. insert explicit color
-#. /Src/FDO/Strings.resx::ksSingleColorUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksSingleColorUnderline
 msgid "Single {0} Underline"
 msgstr "Souligné en {0}"
 
@@ -23667,7 +23819,7 @@ msgid "Single Spacing"
 msgstr "Espacement simple"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksSingleUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksSingleUnderline
 msgid "Single Underline"
 msgstr "Soulignement simple"
 
@@ -23747,7 +23899,9 @@ msgid "Sociolinguistics Notes"
 msgstr "Notes sociolinguistiques"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::label_message.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::label_message.Text
+#. /Src/FwParatextLexiconPlugin/FilesToRestoreAreOlder.resx::label_message.Text
+#. (String used 2 times.)
 msgid "Some files in the Linked Files folder are newer than the ones which will be restored, and these may not be files that this FieldWorks project links to yet. "
 msgstr "Certains fichiers dans le dossier de fichiers liés sont plus récents que ceux qui seront restaurés et peut-être ce projet FieldWorks ne lie pas encore aux ces fichiers restaurés. "
 
@@ -23757,6 +23911,12 @@ msgstr "Certains fichiers dans le dossier de fichiers liés sont plus récents q
 #. (String used 2 times.)
 msgid "Some grammatical information will be lost! Do you still want to continue?"
 msgstr "Certaine information grammaticale sera perdue! Voulez-vous continuer?"
+
+# DLR
+#. Message box content for when the utility found GUIDs and changed them.
+#. /Src/LexText/Lexicon/LexEdStrings.resx::GoldEticGuidFixer_GuidsChangedContent
+msgid "Some GUIDs for Parts of Speech that did not match the GOLD standard were found and replaced."
+msgstr "Certains GUIDs des parties du discours qui ne correspondaient pas au standard GOLD ont été trouvés et remplacés."
 
 # DLR
 #. /Src/LexText/LexTextControls/LexOptionsDlg.resx::label3.Text
@@ -23830,12 +23990,12 @@ msgid "Sorry, could not show {0}."
 msgstr "Désolé, impossible d'afficher {0}."
 
 # DLR
-#. /Src/xWorks/xWorksStrings.resx::ksCannotDeleteItem
+#. /Src/FdoUi/FdoUiStrings.resx::ksCannotDeleteItem
 msgid "Sorry, FieldWorks cannot delete this item."
 msgstr "Désolé, FieldWorks ne peut pas effacer cet élément."
 
 # DLR
-#. /Src/xWorks/xWorksStrings.resx::ksCannotWordform
+#. /Src/FdoUi/FdoUiStrings.resx::ksCannotDeleteWordform
 msgid "Sorry, FieldWorks cannot delete this wordform because it occurs in your texts."
 msgstr "Désolé, FieldWorks ne peut pas supprimer cette forme de mot parce qu'elle existe dans vos textes."
 
@@ -24121,8 +24281,8 @@ msgid "Specifies the actual encoding converter."
 msgstr "Spécifier le convertisseur d'encodage."
 
 # DLR
-#. help string
 #. Help string for CC Table
+#. help string
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrCCHelp
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSpecifiesCCTable
 #. (String used 2 times.)
@@ -24158,8 +24318,8 @@ msgid "Specifies the ICU converter to use."
 msgstr "Spécifier le convertisseur ICU à utiliser."
 
 # DLR
-#. help string
 #. Help string for ICU transducer
+#. help string
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrIcuTransHelp
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSpecifiesICUTrans
 #. (String used 2 times.)
@@ -24171,8 +24331,8 @@ msgid "Specifies the name for this project."
 msgstr "Spécifier le nom de ce projet."
 
 # DLR
-#. Help string for TECkit files
 #. help string
+#. Help string for TECkit files
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrTecHelp
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSpecifiesTECkitFile
 #. (String used 2 times.)
@@ -24353,8 +24513,8 @@ msgstr "st"
 msgid "standard"
 msgstr "standard"
 
-#. This is the name of the standard toolbar as it shows up in the toolbar configuration feature
 #. This is the standard category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the name of the standard toolbar as it shows up in the toolbar configuration feature
 #. /Src/FwResources/FwStrings.resx::kstidStandardCategory
 #. /Src/FwResources/FwStrings.resx::kstidStandardToolBarText
 #. /Src/FwResources/FwTMStrings.resx::kstidStandardToolBarText
@@ -24466,7 +24626,7 @@ msgid "Start the Parser running."
 msgstr "Lancer l'Analyseur."
 
 # DLR ?
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksStarted
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksStarted
 msgid "started"
 msgstr "commencé"
 
@@ -24682,12 +24842,12 @@ msgid "Storing {0} lexical entry references for complex entries and variants"
 msgstr "Stockage de {0} références d'entrées lexicales pour les entrées complexes et variantes"
 
 # DLR MS term
-#. /Src/FDO/Strings.resx::ksColorStrikethrough
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksColorStrikethrough
 msgid "{0} Strikethrough"
 msgstr "{0} Barré"
 
 # DLR MS term
-#. /Src/FDO/Strings.resx::ksStrikethrough
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksStrikethrough
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwFontAttributes.resx::m_cboUnderlineStyle.Items6
 #. (String used 2 times.)
 msgid "Strikethrough"
@@ -24729,7 +24889,7 @@ msgstr "Le style {0} ne peut être remplacé par {1} parce que leurs contextes s
 
 # DLR
 #. Error message when someone adds a style that has been added on another machine that is incompatible (e.g. because of different context, structure, etc).
-#. /Src/FwResources/FwStrings.resx::kstidIncompatibleStyleExists
+#. /Src/FDO/Strings.resx::ksIncompatibleStyleExists
 msgid "Style {0} could not be added because an incompatible style with the same name already exists."
 msgstr "Impossible d'ajouter style {0} parce qu'un style incompatible avec le même nom existe déjà."
 
@@ -24885,7 +25045,7 @@ msgstr "Sous-enregistrements"
 msgid "Subscrip&t"
 msgstr "Indice inférieur"
 
-#. /Src/FDO/Strings.resx::ksSubscript
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksSubscript
 msgid "Subscript"
 msgstr "Indice inférieur"
 
@@ -24941,7 +25101,7 @@ msgstr "Résumé de la définition"
 msgid "Sup&erscript"
 msgstr "Indice supérieur"
 
-#. /Src/FDO/Strings.resx::ksSuperscript
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksSuperscript
 msgid "Superscript"
 msgstr "Indice supérieur"
 
@@ -25095,9 +25255,14 @@ msgid "Tagging"
 msgstr "Étiqueter"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksOthersConnectedCaption
-msgid "Take care - other users connected"
-msgstr "Attention - autres utilisateurs connectés"
+#. /Src/FwCoreDlgs/Strings.resx::ksOtherAppsUsingProjectCaption
+msgid "Take care: other applications are using this project."
+msgstr "Attention: un autre logiciel utilise ce projet"
+
+# DLR
+#. /Src/FwCoreDlgs/Strings.resx::ksOthersConnectedCaption
+msgid "Take care: other users are connected."
+msgstr "Attention: autres utilisateurs connectés"
 
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColor33
 msgid "Tan,255,204,153"
@@ -25280,13 +25445,13 @@ msgstr "Texte a un nouveau système d'écriture vernaculaire"
 
 # DLR ("est"->"est en")
 #. text foreground color
-#. /Src/FDO/Strings.resx::ksTextIsX
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksTextIsX
 msgid "Text is {0}"
 msgstr "Le texte est en {0}"
 
 # DLR ("est"->"est en")
 #. text foreground and background colors
-#. /Src/FDO/Strings.resx::ksTextIsXonY
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksTextIsXonY
 msgid "Text is {0} on {1}"
 msgstr "Le texte est en {0} sur {1}"
 
@@ -25400,7 +25565,7 @@ msgid "Thank you for reporting a problem. A detailed description will help us to
 msgstr "Merci d'avoir signalé un problème. Une description détaillée nous aidera à améliorer le logiciel."
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/CantRestoreLinkedFilesToOriginalLocation.resx::radio_Thanks.Text
+#. /Src/FdoUi/Dialogs/CantRestoreLinkedFilesToOriginalLocation.resx::radio_Thanks.Text
 msgid "Thanks, and change the default Linked Files location for this project."
 msgstr "Merci, et changer l'emplacement par défaut des fichiers liés pour ce projet."
 
@@ -25422,9 +25587,12 @@ msgstr "Ce nom est déjà utilisé par une autre liste."
 msgid "That name is already in use by another view."
 msgstr "Ce nom est déjà utilisé par un autre affichage."
 
+# DLR
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksExistingProjectName
+msgid "That project already exists. Please choose a different name in Project Properties."
+msgstr "Ce projet existe déjà. Veuillez choisir un nom différent dans Propriétés du projet."
+
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksExistingProjectName
-#. (String used 2 times.)
 msgid "That project already exists. You'll need to choose a different name in Project Properties."
 msgstr "Ce projet existe déjà. Il faut choisir un nom différent dans Propriétés du projet."
 
@@ -25450,23 +25618,28 @@ msgstr "La bases de données {0} doit être mise à jour de la version {1} à la
 msgid "The {0} I need is not shown in the Catalog. Create a custom {1}."
 msgstr "J'ai besoin d'un(e) {0} qui n'existe pas dans le catalogue. Créer un(e) {1} personnalisé(e)."
 
-# DLR Ou: L(e) {0} que vous venez de choisir comme forme complexe de {1} est déjà enregistré(e) comme composant de {1}.
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksProjectExistsText1
+msgid "The {0} project already exists."
+msgstr "Le projet {0} existe déjà."
+
+# DLR
 #. {0} is ksEntry or ksSense. {1} is a vernacular word.
-#. /Src/LexText/Lexicon/LexEdStrings.resx::ksCompleFormIsComponent
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksComplexFormIsComponent
 msgid ""
-"The {0} you just selected as a complex form of {1} is already saved as a component of {1}. Which item is really a component of the other?\n"
+"The {0} you just selected as a complex or variant form of {1} is already saved as a component or variant of {1}. Which item is really a component of the other?\n"
 "Delete the existing relationship before trying to add this one again."
 msgstr ""
-"Vous venez de choisir un(e) {0} comme forme complexe de {1}, mais ce(tte) {0} est déjà enregistré(e) comme composant de {1}. Quel élément est en réalité un composant de l'autre?\n"
+"Vous venez de choisir un(e) {0} comme forme complexe ou forme variante de {1}, mais ce(tte) {0} est déjà enregistré(e) comme composant ou variant de {1}. Quel élément est en réalité un composant de l'autre?\n"
 "Supprimer le lien actuel avant d'essayer d'ajouter celui-ci à nouveau."
 
 # DLR
-#. /Src/LexText/Lexicon/LexEdStrings.resx::ksComponentIsComponent
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksComponentIsComponent
 msgid ""
-"The {0} you just selected as a component of {1} already has {1} specified as one if its components! Which item is really a component of the other?\n"
+"The {0} you just selected as a component or variant of {1} is already saved as a complex or variant form of {1}! Which item is really a component of the other?\n"
 "Delete the existing relationship before trying to add this one again."
 msgstr ""
-"Vous venez de choisir un(e) {0} comme composant de {1}, mais {1} est déjà spécifié comme composant de ce(tte) {0}! Quel élément est en réalité un composant de l'autre?\n"
+"Vous venez de choisir un(e) {0} comme composant ou variant de {1}, mais ce(tte) {0} est déjà enregistré(e) comme forme complexe ou forme variante de {1}! Quel élément est en réalité un composant de l'autre?\n"
 "Supprimer le lien actuel avant d'essayer d'ajouter celui-ci à nouveau."
 
 #. /Src/FDO/Strings.resx::ksBadClassInEnv
@@ -25638,10 +25811,10 @@ msgid "The current entry is shown as a subentry under the component entries show
 msgstr "L'entrée actuelle sera affichée comme sous-entrée sous les composants affichés dans ce champ dans l'affichage Dictionnaire."
 
 # DLR
-#. used when only non-Ascii characters are found in the project name on Send/Receive.
+#. Used when only non-ASCII characters are found in the project name on Send/Receive.
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksAllNonAsciiProjectNameWarning
 msgid ""
-"The current Project name contains non-ASCII characters. This currently prevents use of the Send/Receive project function.\n"
+"The current project name contains non-ASCII characters. This currently prevents use of the Send/Receive Project function.\n"
 "Please use a name that only contains ASCII characters.\n"
 "You may choose a different project name in FieldWorks Project Properties."
 msgstr ""
@@ -25649,12 +25822,25 @@ msgstr ""
 "Veuillez utiliser un nom qui ne contient que des caractères ASCII.\n"
 "Vous pouvez choisir un autre nom de projet dans Propriétés du projet FieldWorks."
 
-#. used when non-Ascii characters are found in the project name
-#. /Src/LexText/Lexicon/LexEdStrings.resx::ksNonAsciiProjectNameWarning
+#. Used when non-ASCII characters are found in the project name
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksNonAsciiProjectNameWarning
-#. (String used 2 times.)
 msgid ""
-"The current Project name contains one or more non-ASCII characters. This currently prevents use of the Send/Receive project function.\n"
+"The current project name contains one or more non-ASCII characters. This currently prevents use of the Send/Receive project function.\n"
+"{0} is a name that will work.\n"
+"You may choose a different project name in FieldWorks Project Properties.\n"
+"Click 'OK' to change the name of your project and continue with Send/Receive.\n"
+"Click 'Cancel' to cancel Send/Receive."
+msgstr ""
+"Le nom du projet actuel contient des caractères non-ASCII, qui empêche le fonctionnement d'Envoyer/recevoir projet.\n"
+"On peut utiliser le nom {0}.\n"
+"Vous pouvez choisir un autre nom de projet dans Propriétés du projet FieldWorks.\n"
+"Cliquer sur 'OK' pour utiliser le changement proposé du nom de project puis continuer avec Envoyer/recevoir.\n"
+"Cliquer sur 'Annuler' pour annuler Envoyer/recevoir."
+
+#. Used when some non-ASCII characters are found in the project name
+#. /Src/LexText/Lexicon/LexEdStrings.resx::ksNonAsciiProjectNameWarning
+msgid ""
+"The current project name contains one or more non-ASCII characters. This currently prevents use of the Send/Receive Project function.\n"
 "{0} is a name that will work.\n"
 "You may choose a different project name in FieldWorks Project Properties.\n"
 "Click 'OK' to change the name of your project and continue with Send/Receive.\n"
@@ -25698,7 +25884,7 @@ msgstr "Le dossier de la base de données ({0}) est crypté. C'est impossible de
 
 # DLR
 #. Error message attempting to delete the one and only discourse chart template. Same message is used for moving or promoting.
-#. /Src/FDO/Strings.resx::ksCantDeleteDefaultDiscourseTemplate
+#. /Src/FdoUi/FdoUiStrings.resx::ksCantDeleteDefaultDiscourseTemplate
 msgid "The default discourse chart template cannot be deleted, moved or promoted."
 msgstr "Impossible d'effacer, déplacer ou promouvoir le modèle de tableau de discours par défaut."
 
@@ -26117,6 +26303,11 @@ msgid "The gloss for this sense to use in interlinearization."
 msgstr "La glose de ce sens dans l'interlinéarisation."
 
 # DLR
+#. /Src/FDO/Strings.resx::ksMsaWhichWouldBeDeletedUsedHere
+msgid "The Grammatical Info. (which will also be deleted) is being used in these contexts:"
+msgstr "L'info. grammaticale (qui sera aussi supprimée) est utilisée dans ces contextes:"
+
+# DLR
 #. error message from Page Setup dialog
 #. /Src/FwResources/FwStrings.resx::kstidGutterTooBig
 msgid "The gutter is too big for the publication page to fit on the selected paper size."
@@ -26131,7 +26322,7 @@ msgstr "Le fichier aide ne pouvait pas être trouvé."
 msgid "The help topic is not available for topic: {0}"
 msgstr "Aide n'est pas disponible pour ce sujet: {0}"
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHermitCrabReduplicationProblem
+#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksHermitCrabReduplicationProblem
 msgid "The Hermit Crab parser cannot currently run, because the morpheme \"{0}\" has an invalid reduplication environment. The problem is {1}."
 msgstr "L'analyseur Hermit Crab ne peut pas fonctionner, parce que le morphème \"{0}\" a un environnement de réduplication non valide. Le problème est {1}."
 
@@ -26235,7 +26426,7 @@ msgstr "L'élément dans cette cellule doit être enlevé avant qu'un nouveau pu
 
 # DLR
 #. Error message attempting to delete the one and only text markup tag type.
-#. /Src/FDO/Strings.resx::ksCantDeleteLastTagList
+#. /Src/FdoUi/FdoUiStrings.resx::ksCantDeleteLastTagList
 msgid "The last remaining Text Markup tag list cannot be deleted."
 msgstr "Impossible d'effacer la dernière liste d'étiquettes de texte."
 
@@ -26274,9 +26465,14 @@ msgid "The Linked Files folder on {0} is unavailable. If you are able to re-esta
 msgstr "Le dossier de fichiers liés sur {0} n'est pas disponible. Si vous pouvez réetablir la connexion à ce dossier, faites-le maintenant. Vous pouvez utiliser FieldWorks sans accès à ces fichiers."
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::labelMessage.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::labelMessage.Text
 msgid "The Linked Files folder was not previously stored in the project folder."
 msgstr "Le dossier de fichiers liés n'était pas précédemment dans le dossier de projet."
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksRestoreLinkedFilesInProjectFolderText
+msgid "The Linked Files folder was not previously stored in the project folder. Would you like ParaTExt to restore the linked files within the project folder?"
+msgstr "Le dossier de fichiers liés n'était pas précédemment dans le dossier de projet. Voulez-vous que ParaTExt restaure les fichiers liés dans le dossier de projet?"
 
 # DLR ?
 #. /Src/FwCoreDlgs/WarningNotUsingDefaultLinkedFilesLocation.resx::label2.Text
@@ -26304,6 +26500,21 @@ msgstr "La chaîne de recherche est trop longue et elle a été limitée aux 100
 #. /Src/Common/Filters/FiltersStrings.resx::ksMatchStringToLongLength0
 msgid "The match string is too long, and will be trimmed to the first {0} characters."
 msgstr "La chaîne de recherche est trop longue et elle a été limitée aux {0} premiers caractères."
+
+# DLR ?
+#. /Src/FwCoreDlgs/Strings.resx::ksWarnOnOpeningSingleAppDialog
+msgid ""
+"The menu command you selected will open a dialog box. If you change any selections or settings in the dialog box, it can cause problems in other applications that have this project open.\n"
+"\n"
+"If you will only look at selections and settings, click OK.\n"
+"\n"
+"If you need to make changes, close all other applications that have this project open before you continue, or click Cancel."
+msgstr ""
+"La commande que vous avez choisie ouvrira un dialogue. Si vous changez les sélections ou la configuration dans le dialogue, les autres logiciels qui ont ouvert ce projet peuvent avoir des problèmes.\n"
+"\n"
+"Si vous regarderez seulement les sélections et la configuration, cliquez sur OK.\n"
+"\n"
+"Si vous devez changer quelque chose, fermez d'abord des autres logiciels qui ont ouvert ce projet avant de continuez ou cliquez sur Annuler."
 
 # DLR
 #. Displayed in label next the Scan button on the Punctuation Patterns tab of the Punctuation Usage dialog box after a scan that finds more than one pattern that does not have its status set to either valid or invalid.
@@ -26353,17 +26564,17 @@ msgid "The other morpheme(s) which cannot occur with the key morpheme."
 msgstr "Les autres morphèmes qui ne peuvent pas se trouver avec l'allomorphe principal."
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCDefaultErrorMsg
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksHCDefaultErrorMsg
 msgid "The parser gave the following cryptic message (you may need to contact FieldWorks support to know what it means): {0}"
 msgstr "L'Analyseur a donné ce message cryptique (contacter fieldworks_support@sil.org pour savoir ce que cela signifie): {0}"
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCInvalidRuleShape
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksHCInvalidRuleShape
 msgid "The phoneme {0} of affix {1} is not defined.  Please make sure all phonemes in all allomorphs of all affixes have been defined."
 msgstr "Le phonème {0} de l'affixe {1} n'est pas défini. Veilliez vérifier que tous les phonèmes de tous les allomorphes sont définis."
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCInvalidEntryShape
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksHCInvalidEntryShape
 msgid "The phoneme {0} of lexical entry {1} is not defined.  Please make sure all phonemes in all allomorphs of all entries have been defined."
 msgstr "Le phonème {0} de l'entrée lexicale  {1} n'est pas défini. Veilliez vérifier que tous les phonèmes de tous les allomorphes de toutes les entrées sont définis."
 
@@ -26661,11 +26872,11 @@ msgid ""
 "\n"
 "However, the customized settings might not match well with the new default settings. You may want to check these styles."
 msgstr ""
-"La feuille de styles de Translation Editor a été mise à jour à un nouveau version.\n"
+"La feuille de styles de Translation Editor a été mise à jour à une nouvelle version.\n"
 "\n"
 "Le processus de mise à jour a trouvé au moins une configuration personnalisée pour les styles dans cette liste. Le processus n'a pas changé la configuration des styles personnalisés.\n"
 "\n"
-"Cependant, les configurations personnalisées ne pourraient pas s'assortir bien avec les nouvelle configuration par défaut. Il se peut que vous vouliez vérifier ces styles."
+"Cependant, les configurations personnalisées ne pourraient pas s'assortir bien avec la nouvelle configuration par défaut. Il se peut que vous vouliez vérifier ces styles."
 
 # DLR
 #. Warning message that appears when the text chart is displayed and there are more than one template defined.
@@ -26680,7 +26891,7 @@ msgstr "La liste d'étiquette de texte ne peut avoir que deux niveaux: les types
 
 # DLR
 #. Usage information for Default Paragraph Characters
-#. /Src/FwResources/FwStrings.resx::kstidDefaultParaCharsUsage
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidDefaultParaCharsUsage
 msgid "The text will get its font properties from the paragraph to which it belongs"
 msgstr "Le texte obtiendra ses propriétés de police du paragraphe auquel il appartient"
 
@@ -26763,15 +26974,15 @@ msgstr ""
 "Êtes-vous sûr de vouloir supprimer le système d'écriture?"
 
 # DLR
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::DataInWsWontBeDeleted
+msgid "The writing system {0} and all text in the writing system will no longer be deleted."
+msgstr "Le système d'écriture {0} et tous les textes dans ce système d'écriture ne seront plus supprimés."
+
+# DLR
 #. Error message. {0} might be a code like "fr" and {1} a bad ID, typically a short string like "frn[".
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidInvalidDictId
 msgid " The writing system {0} specifies an invalid spelling dictionary ({1}). Valid spelling dictionary IDs must only contain ASCII alphanumeric characters or underline. Spell checking will not work for this writing system until you correct this in the Writing System Properties dialog."
 msgstr " Le système d'écriture {0} spécifie un dictionnaire d'orthographe non valable ({1}). L'identification d'un dictionnaire d'orthographe doit ne porter que les caractères A-z, a-z, 0-9 et _. La vérification d'orthographe sera désactivée pour ce système d'écriture jusqu'à ce que vous la corrigez dans les propriétés du système d'écriture."
-
-# DLR
-#. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidDeleteWritingSystemText
-msgid "The writing system and all text in the writing system will be deleted permanently. Are you sure you wish to delete the writing system?"
-msgstr "Le système d'écriture et tous les textes dans le système d'écriture seront définitivement supprimés. Êtes-vous sûr de vouloir supprimer le système d'écriture?"
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidErrorInstallingWS
@@ -26828,8 +27039,8 @@ msgid "There are duplicate {0} fields named \"{1}\". Please choose a different n
 msgstr "Plusieurs champs {0} portent le nom \"{1}\". Veuillez choisir un nom différent."
 
 #. /Src/FDO/Strings.resx::ksDuplicateGuidsMsg1
-msgid "There are duplicate guids in this project."
-msgstr "Ce projet contient des guids dupliqués."
+msgid "There are duplicate GUIDs in this project."
+msgstr "Ce projet contient des GUIDs dupliqués."
 
 # DLR
 #. /Src/FDO/Strings.resx::ksMissingCloseParenInEnv
@@ -26858,6 +27069,11 @@ msgstr "Une parenthèse ouvrante '(' est absente quelque part près d'ici: '{0} 
 #. (String used 2 times.)
 msgid "There is a missing opening square bracket '[' somewhere around here: '{0}'."
 msgstr "Un crochet ouvrant '[' est absent quelque part près d'ici: '{0} '."
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksConnectionLostText
+msgid "There is a problem with the connection to the lexicon.  Usually, this occurs when there is a problem with the FwRemoteDatabaseConnectorService.  Would you like to attempt to reestablish the connection?"
+msgstr "La connextion au lexique a un problème. Généralement, cela indique un problème avec FwRemoteDatabaseConnectorService. Voulez-vous essayer de rétablir la connexion?"
 
 # DLR
 #. /Src/FDO/Strings.resx::ksBadEnv
@@ -26901,7 +27117,7 @@ msgid "There is already a project with the same name as the one you are trying t
 msgstr "Il existe déjà un projet avec le même nom que celui que vous tentez de convertir."
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksHCInvalidWordform
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksHCInvalidWordform
 msgid "There is at least one undefined phoneme in the word '{0}'. The following phonemes were parsed: '{3}'.  The problem begins with character/diacritic number {1} – that is, in the part of the word '{2}'.  Please make sure all phonemes in the word have been defined."
 msgstr "Dans le mot '{0}', au moins un phonème n'est pas défini. Les phonèmes suivants ont été analysés: '{3}'. Le problème se trouve à partir du caractère ou diacritique numéro {1} – c'est-à-dire, dans la partie du mot '{2}'. Veilliez vérifier que tous les phonèmes du mot sont définis."
 
@@ -26932,7 +27148,9 @@ msgid "There is some kind of error somewhere around here: '{0}'.  It may be a mi
 msgstr "Il est une sorte d'erreur quelque part par ici: '{0}'. Peut-être il y a un soulignement _ absent, plusieurs soulignements, une barre oblique / absente, quelque chose au-delà d'un symbole de frontière de mot #, ou plusieurs symboles de frontière de mot au même bord."
 
 # DLR
-#. /Src/FDO/Properties/Resources.resx::kstidOfferToRestore
+#. /Src/FdoUi/FdoUiStrings.resx::kstidOfferToRestore
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksOfferToRestoreText
+#. (String used 2 times.)
 msgid "There was a problem opening the current version of the file {0}, dated {1}. Would you like to open the automatic backup, {2}, dated {3}?"
 msgstr "Un problème est survenu en ouvrant la version actuelle du fichier {0}, daté {1}. Voulez-vous ouvrir la sauvegarde automatique, {2}, datée {3}?"
 
@@ -27065,8 +27283,8 @@ msgstr "Cette fonctionalité n'est pas encore disponible."
 
 # DLR ?
 #. /Src/FDO/Strings.resx::ksDuplicateGuidsMsg2
-msgid "This guid is used more than once: {0}"
-msgstr "Ce guid est utilisé plusieurs fois: {0}"
+msgid "This GUID is used more than once: {0}"
+msgstr "Ce GUID est utilisé plusieurs fois: {0}"
 
 # DLR ?
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImportSFMInterlinNewVernac
@@ -27158,6 +27376,8 @@ msgstr "Ce volet affiche l'ensemble actuel de formats de date que se trouve dans
 
 # DLR
 #. /Src/FDO/Strings.resx::ksCantModifyTemplateInUse
+#. /Src/FdoUi/FdoUiStrings.resx::ksCantModifyTemplateInUse
+#. (String used 2 times.)
 msgid "This part of a chart template cannot be moved or deleted, because it or one of its children is in use in one or more charts (e.g., {0})."
 msgstr "On ne peut pas déplacer ou supprimer cette partie de modèle de tableau, parce qu'elle ou l'un de ses enfants est utilisé dans un ou plusieurs tableaux (par. ex. {0})."
 
@@ -27190,6 +27410,11 @@ msgstr "Ce processus prendra un bon moment.{0}{0} Voulez-vous continuer?"
 msgid "This processor uses a transducer unknown to this version of ICU. The first transducer will be substituted."
 msgstr "Ce processeur emploie un transducteur inconnu à cette version d'ICU. Le premier transducteur sera substitué."
 
+# DLR [manually copied with English typo corrected: shutdown -> shut down
+#. /Src/FwResources/FwStrings.resx::kstidDataMigrationProhibitedText
+msgid "This project cannot be migrated to a newer version. Please shut down all other applications that are currently using this project and try opening the project again."
+msgstr "Impossible de migrer ce projet à une version plus récente. Veuillez fermer toutes les autres logiciels qui utilisent actuellement ce projet et essayer de rouvrir le projet."
+
 # DLR
 #. Message shown when user attempts to restore a project that is using Send/Receive (has a local FLEx or LIFT repository)
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksBackupCantRestoreWhenUsingSRMsg
@@ -27198,7 +27423,7 @@ msgstr "Impossible de restaurer ce projet, car il est partagé via Envoyer/Recev
 
 # DLR
 #. /Src/LexText/Lexicon/LexEdStrings.resx::kProjectAlreadyHasLiftRepo
-msgid "This project has already been linked to a Lexicon (LIFT) repository. It is not possible to use Get and Merge with another Lexicon repository."
+msgid "This project has already been linked to a Lexicon (LIFT) repository. It is not possible to Get and Merge with another Lexicon repository."
 msgstr "Ce projet est déjà lié à un dépôt lexical (LIFT). Ce n'est pas possible d'utiliser 'Recevoir et fusionner' avec un autre dépôt lexical."
 
 # DLR
@@ -27312,7 +27537,7 @@ msgstr "Afficher tous les allomorphes de cette entrée."
 
 # DLR
 #. Displays in the Help/About box and the splash screen
-#. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidLicense
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::kstidLicense
 msgid "This software is licensed under the LGPL, version 2.1 or later"
 msgstr "Ce logiciel est sous licence LGPL version 2.1 ou ultérieure"
 
@@ -27350,12 +27575,6 @@ msgid "This utility cleans up the homographs numbers of lexical entries. It pres
 msgstr "Cet utilitaire remet en ordre les chiffres homographes des entrées lexicales. Il préserve l'ordre relatif des homographes en cours. De cette marière, vous ne perdrez pas l'ordre que vous avez établi."
 
 # DLR
-#. Help text for Force Rechecking Word Breaks utility dialog item.
-#. /Src/LexText/Interlinear/ITextStrings.resx::ksClearParseIsCurrentDoes
-msgid "This utility clears an internal flag that FLEx uses to track whether a text's analysis is up-to-date. The effect will be that each text is reparsed into words the next time this information is needed. Work you have done analyzing texts will not be affected, except possibly where word alignment is actually wrong. You may see a longer delay than usual the next time you want a concordance."
-msgstr "Cet utilitaire réinitialisera un indicateur interne qui est utilisé par FLEx pour noter si l'analyse d'un texte est à jour. Chaque texte sera réanalysé en mots la prochaine fois que cette information est nécessaire. Vos travaux de l'analyse de textes ne seront pas touchés, sauf peut-être là où l'alignement des mots est vraiment en erreur. On peut voir un délai plus long que d'habitude la prochaine fois qu'on demande une concordance."
-
-# DLR
 #. Help information for the Merge Duplicate Analyses item in Tools/Utilities.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeAnalysesAttemptsTo
 msgid "This utility finds groups of analyses that have the same word category and morphological analysis. It merges such groups into a single analysis. It keeps all the glosses, except that if some glosses are duplicates (in all writing systems) such groups will also be merged. Analyzed texts which use any of the merged analyses will be made to use the merged one."
@@ -27364,13 +27583,24 @@ msgstr "Cet outil trouvera des analyses ayant la même catégorie de mot et la m
 # DLR
 #. Help information for the Merge Wordform option in Utilities.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeWordformsAttemptsTo
-msgid "This utility finds groups of wordforms that have the same text form in all writing systems (though possibly some may be missing some alternatives). It merges such groups into a single wordform. It keeps all the analyses, which may result in some duplicate anlyses to sort out using the Word Analyses tool. Spelling status will be set to Correct if any of the old wordforms is Correct, otherwise Incorrect if any old form is Incorrect; otherwise it stays Undecided."
+msgid "This utility finds groups of Wordforms that have the same text form in all writing systems (though possibly some may be missing some alternatives). It merges such groups into a single wordform. It keeps all the analyses, which may result in some duplicate analyses to sort out using the Word Analyses tool. Spelling status will be set to Correct if any of the old wordforms is Correct, and to Incorrect if any old form is Incorrect; otherwise it stays Undecided."
 msgstr "Cet utilitaire cherchera des groupes de formes de mot qui ont la même forme de texte dans tous les systèmes d'écriture (mais peut-être certaines manquent certaines alternatives). Il fusionne chaque tel groupe dans une seule forme de mot. Il garde toutes les analyses, qui peut produire les analyses en double à résoudre avec l'affichage Analyses de mot. Le statut d'orthographe sera Correcte si une des formes de mot originales était Correcte, Incorrecte si une des formes de mot originales était Incorrecte, ou autrement Pas décidé."
+
+# DLR tokenization => alignment?
+#. Help text for Force Rechecking Word Breaks utility dialog item.
+#. /Src/LexText/Interlinear/ITextStrings.resx::ksClearParseIsCurrentDoes
+msgid "This utility is for fixing incorrect word alignment (division of text into words and spaces). This utility will clear the flag that FLEx uses to determine if a parse is current. It should not affect the work you have done in analyzing texts other than repairing broken tokenization but it may update unconfirmed parser analyses."
+msgstr "Cet utilitaire est conçu pour réparer l'alignement incorrect de mots. Un bogue dans certaines versions de FLEx 7 pourrait provoquer cette situation lorsqu'on utilise 'Changer l'orthographe'. Cet utilitaire effacera l'indication utilisée par FLEx pour déterminer si une analyse est à jour. Il ne devrait pas affecter votre travail d'analyse de textes sauf réparer l'alignment incorrect, mais il peut actualiser les analyses non confirmées de l'Analyseur."
 
 # DLR (was "approved/dissapproved près d'un être humain")
 #. /|strings-en.xml::/Linguistics/Morphology/RemoveParserAnalyses/WhatDescription|
-msgid "This utility removes all parser approved analyses from the system. It does not remove analyses that are approved/disapproved of by a human being, however. "
-msgstr "Cet utilitaire enlève du système toutes les analyses approuvées par l'Analyseur. Cependant elle n'enlève pas les analyses qui étaient approuvées ou désapprouvées par un être humain. "
+msgid "This utility removes all parser approved analyses from the system. It does not remove analyses that are approved/disapproved of by a human user, however. "
+msgstr "Cet utilitaire enlève du système toutes les analyses approuvées par l'Analyseur. Cependant il n'enlève pas les analyses qui étaient approuvées ou désapprouvées par un être humain. "
+
+# DLR ?
+#. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhatIsSetPartOfSpeechGUIDsToGold
+msgid "This utility will make the Part of Speech GUIDs for the project match the GOLD standard."
+msgstr "Cet utilitaire fera correspondre les GUIDs des parties du discours du projet au standard GOLD."
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksShowingSemanticClassification
 msgid "This view shows semantic domains that have been used to classify senses, each listing the related senses. You can optionally show all semantic domains, even those that have not been used for any senses."
@@ -27497,8 +27727,8 @@ msgstr "L'heure de l'événement"
 msgid "Tip:"
 msgstr "Astuce:"
 
-#. Userview label
 #. field name for Data Notebook records
+#. Userview label
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Parts/CellarParts.xml::/PartInventory/bin/part[@id="StText-Detail-TitleAllWs"]/slice/@label
@@ -27509,7 +27739,7 @@ msgstr "Astuce:"
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksTitle
 #. /Src/FwResources/FwStrings.resx::kstidTitle
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksTitle
-#. (String used 12 times.)
+#. (String used 13 times.)
 msgid "Title"
 msgstr "Titre"
 
@@ -27930,7 +28160,7 @@ msgid "Trying to load {0}. Your installation may be corrupt."
 msgstr "Essayer de charger {0}. Peut-être votre installation est endommagée."
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksTraceWordformX
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksTraceWordformX
 msgid "Trying Wordform {0}"
 msgstr "Essai de forme de mot {0}"
 
@@ -28109,6 +28339,16 @@ msgstr "Impossible de restaurer le projet à partir de ce fichier de sauvegarde,
 msgid "Unable to restore."
 msgstr "Impossible de restaurer."
 
+# DLR ?crash?
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::ksCannotWriteWritingSystemInfo
+msgid "Unable to save some writing system settings because access to {0} is not authorized. This may cause unexpected behavior, and may be indicative of a wider problem with access permissions that could cause program crashes."
+msgstr "Impossible d'enregistrer certains paramètres du système d'écriture parce qu'accès à {0} n'est pas autorisé. Cela peut provoquer un fonctionnement inattendu et peut indiquer un problème de permissions plus large qui peut arrêter le logiciel."
+
+# DLR (distant v. à distance)?
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksFindServersError
+msgid "Unable to search for remote servers."
+msgstr "Impossible de rechercher des serveurs distants."
+
 # DLR
 #. Error message if user clicks link in About box to open the System Monitor in Linux, but the program is not able to start, probably because it isn't installed. Program name is {0}.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidUnableToStart
@@ -28149,7 +28389,7 @@ msgid "Under Development"
 msgstr "En développement"
 
 # DLR
-#. /Src/FDO/Strings.resx::ksColorUnderline
+#. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksColorUnderline
 msgid "{0} Underline"
 msgstr "Soulignement en {0}"
 
@@ -28177,8 +28417,8 @@ msgstr "Ann&uler"
 msgid "_Undo"
 msgstr "Ann_uler"
 
-#. Tool tip for Undo toolbar/menu item
 #. Tool tip for Undo toolbar button
+#. Tool tip for Undo toolbar/menu item
 #. /Src/FwResources/FwStrings.resx::kstidEditUndoToolTip
 #. /Src/FwResources/FwTMStrings.resx::kstidUndoToolTip
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFocusBox_btnUndoChanges
@@ -29073,7 +29313,7 @@ msgid "UNKNOWN (DO NOT TRANSLATE)"
 msgstr "UNKNOWN (DO NOT TRANSLATE)"
 
 #  CFr contexte
-#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksUnknownAllomorph
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUnknownAllomorph
 msgid "Unknown Allomorph!"
 msgstr "Allomorphe inconnu!"
 
@@ -29082,7 +29322,7 @@ msgid "unknown category"
 msgstr "Catégorie inconnue"
 
 # @ DLR ? or Autonyme?
-#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksUnknownCitationForm
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUnknownCitationForm
 msgid "Unknown CitationForm!"
 msgstr "Forme de citation inconnue!"
 
@@ -29095,7 +29335,7 @@ msgstr "<Forme complexe inconnue>"
 msgid "Unknown error({0})."
 msgstr "Erreur inconnue({0})."
 
-#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksUnknownGloss
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUnknownGloss
 msgid "Unknown Gloss!"
 msgstr "Glose inconnue!"
 
@@ -29104,12 +29344,12 @@ msgstr "Glose inconnue!"
 msgid "unknown morph type"
 msgstr "type de morph inconnu"
 
-#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksUnknownMorpheme
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUnknownMorpheme
 msgid "Unknown Morpheme!"
 msgstr "Morphème inconnu!"
 
 # DLR
-#. /Src/LexText/ParserUI/ParserUIStrings.resx::ksUnknownNaturalClass
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUnknownNaturalClass
 msgid "Unknown Natural Class!"
 msgstr "Classe naturelle inconnue!"
 
@@ -29280,7 +29520,7 @@ msgid "Updates"
 msgstr "Mises à jour"
 
 # DLR
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksUpdatingGrammarAndLexicon
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUpdatingGrammarAndLexicon
 msgid "Updating Grammar and Lexicon"
 msgstr "Actualisation de la grammaire et du lexique"
 
@@ -29288,7 +29528,7 @@ msgstr "Actualisation de la grammaire et du lexique"
 msgid "Updating the display"
 msgstr "Actualisation de l'affichage"
 
-#. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksUpdateX
+#. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUpdateX
 msgid "Updating: {0}"
 msgstr "Actualisation: {0}"
 
@@ -29374,8 +29614,16 @@ msgstr "Utiliser des expressions &régulières"
 msgid "Use regular expressions"
 msgstr "Utiliser des expressions régulières"
 
+# DLR ?
+#. Label shown in the Tools:Utilities dialog for the POS GUID utility.
+#. /Src/LexText/Lexicon/LexEdStrings.resx::GoldEticGuidFixer_Label
+msgid "Use standard Part of Speech GUIDs"
+msgstr "Utiliser des GUIDs standards des parties du discours"
+
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::radio_Overwrite.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::radio_Overwrite.Text
+#. /Src/FwParatextLexiconPlugin/FilesToRestoreAreOlder.resx::radio_Overwrite.Text
+#. (String used 2 times.)
 msgid "Use the older files from the backup."
 msgstr "Utiliser les anciens fichiers de la sauvegarde."
 
@@ -29398,7 +29646,7 @@ msgstr "À utiliser lorsque vous trouver (dans Concordance de liste de mots, par
 # DLR
 #. Help text for Force Rechecking Word Breaks utility dialog item.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUseClearParseIsCurrentWhen
-msgid "Use this when you suspect the program does not have its analysis of texts aligned with the text. One thing that could cause this was using the Change Spelling dialog in FLEx 7.0 through 7.2.2. One symptom is an incorrect Word List Concordance, where what is highlighted for an occurrence is not the right word."
+msgid "Use this when you suspect the program does not have its analysis of texts aligned with the text. One thing that could cause this was using the Change Spelling command in FLEx 7.0 through 7.2.2. One symptom is an incorrect Word List Concordance, where what is highlighted for an occurrence is not the selected word."
 msgstr "À utiliser lorsque vous pensez que le logiciel n'a pas bien aligné ses analyses de texte avec le texte. Cela peut arriver en utilisant le dialogue Changer l'orthographe dans FLEx version 7.0 à 7.2.2. Un symptôme est un résultat incorrect de Concordance de liste de mots, où ce qui est mis en surbrillance pour une occurrence n'est pas le mot en question."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksDeleteEntriesSensesWhen
@@ -29471,8 +29719,8 @@ msgstr "Avis d'utilitsateur"
 msgid "User Properties"
 msgstr "Propriétés de l'utilisateur"
 
-#. Text tip for user properties menu item
 #. This is the text for the user properties menu on the tools menu.
+#. Text tip for user properties menu item
 #. /Src/FwResources/FwStrings.resx::kstidUserPropertiesMenuName
 #. /Src/FwResources/FwTMStrings.resx::kstidUserPropertiesItemName
 #. (String used 2 times.)
@@ -29495,8 +29743,8 @@ msgstr "Utilisateurs:"
 
 # DLR
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::label2.Text
-msgid "Using this tool, you can import the baseline of texts as well as any free-form text annotations such as free translations, if texts have been marked up with standard format markers. After importing, you will need to re-insert any morpheme breaks, and redo other aspects of interlinearization."
-msgstr "Grâce à cet outil, vous pouvez importer la ligne de base de textes ainsi que toute note de forme libre, telle que des traductions libres, si le texte contient les balises de Format Standard. Après l'importation vous devez refaire la séparation de morphèmes et d'autres aspects de l'interlinéarisation."
+msgid "Using this tool, you can import the Baseline of texts as well as any free-form text annotations (such as free translations or notes), if the texts have been marked up with standard format markers. After importing, you will need to re-insert any morpheme breaks, and redo other aspects of interlinearization."
+msgstr "Grâce à cet outil, vous pouvez importer la ligne de base de textes ainsi que toute note de forme libre (telle que des traductions libres), si le texte contient les balises de Format Standard. Après l'importation vous devez refaire la séparation de morphèmes et d'autres aspects de l'interlinéarisation."
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksUtilities
 #. /Src/FwCoreDlgs/UtilityDlg.resx::label1.Text
@@ -29668,7 +29916,7 @@ msgid "Verify the encoding converters used for the writing systems in {0}."
 msgstr "Vérifier les convertisseurs d'encodage utilisés pour les systèmes d'écriture dans {0}."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksVernacular
-#. /Src/FwResources/FwStrings.resx::kstidVernacular
+#. /Src/FDO/Strings.resx::ksVernacular
 #. /Src/xWorks/xWorksStrings.resx::ksVernacular
 #. (String used 3 times.)
 msgid "vernacular"
@@ -29710,12 +29958,12 @@ msgid "&Version:"
 msgstr "&Version :"
 
 #. Displays in the Help/About box and the splash screen
-#. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidFwVersionFmt
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::kstidMajorVersionFmt
 msgid "Version: {0}"
 msgstr "version: {0}"
 
 #. Displays in the Help/About box and the splash screen
-#. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidAppVersionFmt
+#. /Src/Common/CoreImpl/CoreImplStrings.resx::kstidAppVersionFmt
 msgid "Version: {0}  {1}  {2}"
 msgstr "version: {0} {1} {2}"
 
@@ -29747,8 +29995,8 @@ msgstr "&Affichage"
 msgid "_View"
 msgstr "Afficha_ge"
 
-#. This is the view category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the view category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the view category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwStrings.resx::kstidViewCategory
 #. /Src/FwResources/FwTMStrings.resx::kstidViewCategory
 #. (String used 2 times.)
@@ -29839,23 +30087,25 @@ msgid "wanted → want -ed"
 msgstr "wanted → want -ed"
 
 #. Title for warning message box
-#. Message box caption
-#. heading for message box
-#. used for dialog caption when project name has non-Ascii characters
-#. used by DeleteCustomList
 #.
 #. Caption for warning message box
 #.
-#. Used as dialog box caption
+#. used by DeleteCustomList
+#. heading for message box
+#. Used for dialog caption when project name has non-ASCII characters
 #. message box caption
+#. used for dialog caption when project name has non-Ascii characters
+#. Message box caption
+#. Used as dialog box caption
 #. /Src/Common/Controls/Widgets/Strings.resx::ksWarning
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksWarning
 #. /Src/Common/CoreImpl/CoreImplStrings.resx::ksWarning
 #. /Src/Common/Framework/FrameworkStrings.resx::kstidWarning
 #. /Src/Common/SimpleRootSite/Properties/Resources.resx::ksWarning
-#. /Src/FDO/Strings.resx::ksWarning
+#. /Src/FdoUi/FdoUiStrings.resx::ksWarningCaption
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidWarning
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksWarning
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksWarningCaption
 #. /Src/FwResources/FwStrings.resx::kstidWarning
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksWarning
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksWarning
@@ -29864,7 +30114,7 @@ msgstr "wanted → want -ed"
 #. /Src/MigrateSqlDbs/Properties/Resources.resx::ksWarning
 #. /Src/Utilities/XMLUtils/XmlUtilsStrings.resx::ksWarning
 #. /Src/xWorks/xWorksStrings.resx::ksWarning
-#. (String used 17 times.)
+#. (String used 18 times.)
 msgid "Warning"
 msgstr "Avertissement"
 
@@ -30227,14 +30477,14 @@ msgstr "quand une ligne commence avec des espaces"
 msgid "When I start {0}, always open the last edited project automatically."
 msgstr "Lorsque je lance {0}, toujours ouvrir automatiquement le projet le plus récemment modifié."
 
-# DLR
+# DLR (moved \n to fit dialog display area)
 #. /Src/LexText/LexTextControls/LexOptionsDlg.resx::m_autoOpenCheckBox.Text
 msgid ""
 "When I start Language Explorer,\n"
 "always open the last edited project automatically"
 msgstr ""
-"Lorsque je lance Language Explorer,\n"
-"toujours ouvrir automatiquement le projet le plus récemment modifié"
+"Lorsque je lance Language Explorer, toujours ouvrir\n"
+"automatiquement le projet le plus récemment modifié"
 
 # DLR
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidFindRepVariableWs
@@ -30247,7 +30497,7 @@ msgid "When to use:"
 msgstr "Quand utiliser:"
 
 # DLR
-#. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhichIsComponent
+#. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksWhichIsComponent
 msgid "Which item is really a component?"
 msgstr "Quel élément est en réalité un composant?"
 
@@ -30503,7 +30753,7 @@ msgid "Would you like FieldWorks to remember the settings next time you try impo
 msgstr "Aimeriez-vous que FieldWorks se rappelle des paramètres pour la prochaine fois que vous essayerez d'importer?"
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::labelQuestion.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::labelQuestion.Text
 msgid "Would you like FieldWorks to restore the linked files within the project folder?"
 msgstr "Voulez-vous que FieldWorks restaure les fichiers liés dans le dossier du projet?"
 
@@ -30513,7 +30763,9 @@ msgid "Would you like to attempt to reconnect? Selecting \"No\" will cause the l
 msgstr "Voulez-vous tenter de rétablir la connexion? Choisir \"Non\" causera la perte du travail depuis le dernier sauvegarde."
 
 # DLR
-#. /Src/FDO/DomainServices/BackupRestore/FilesToRestoreAreOlder.resx::label_Question.Text
+#. /Src/FdoUi/Dialogs/FilesToRestoreAreOlder.resx::label_Question.Text
+#. /Src/FwParatextLexiconPlugin/FilesToRestoreAreOlder.resx::label_Question.Text
+#. (String used 2 times.)
 msgid "Would you like to keep the newer files in the folder or replace them with the older ones from the backup?"
 msgstr "Voulez-vous garder les fichiers plus récents dans le dossier ou les remplacer par les plus anciens de la sauvegarde?"
 
@@ -30784,8 +31036,8 @@ msgstr "Oui"
 
 #. /Language Explorer/Configuration/Words/reusableBrowseControlConfiguration.xml::/reusableControls/control/columns/column/choice/otherwise/span/lit
 #. /Src/Common/FieldWorks/MoveProjectsDlg.resx::m_btnYes.Text
-#. /Src/FDO/DomainServices/BackupRestore/RestoreLinkedFilesToProjectsFolder.resx::radio_Yes.Text
-#. /Src/FDO/Infrastructure/Impl/ConnectionLostDlg.resx::m_btnYes.Text
+#. /Src/FdoUi/Dialogs/ConnectionLostDlg.resx::m_btnYes.Text
+#. /Src/FdoUi/Dialogs/RestoreLinkedFilesToProjectsFolder.resx::radio_Yes.Text
 #. /Src/FwCoreDlgs/WarningNotUsingDefaultLinkedFilesLocation.resx::btn_OK.Text
 #. /Src/LexText/Interlinear/CreateAllomorphTypeMismatchDlg.resx::m_btnYes.Text
 #. /Src/LexText/LexTextDll/RestoreDefaultsDlg.resx::m_btnYes.Text
@@ -30806,7 +31058,7 @@ msgid "You are about to delete {0} lexical entries. Do you want to continue?"
 msgstr "Vous êtes sur le point de supprimer {0} entrées lexicales. Voulez-vous continuer?"
 
 # DLR (changed from "Vous êtes sur le point de supprimer l'élément suivant:")
-#. /Src/FdoUi/ConfirmDeleteObjectDlg.resx::label1.Text
+#. /Src/FdoUi/Dialogs/ConfirmDeleteObjectDlg.resx::label1.Text
 msgid "You are deleting the following item:"
 msgstr "Vous êtes en train de supprimer cet élément:"
 
@@ -30886,13 +31138,13 @@ msgstr "On ne peut pas changer le code complet \"{0}\" du système d'écriture d
 
 # DLR
 #. {0} is (one) text that prevents the delete.
-#. /Src/FDO/Strings.resx::ksCantDeleteMarkupTagInUse
+#. /Src/FdoUi/FdoUiStrings.resx::ksCantDeleteMarkupTagInUse
 msgid "You cannot delete a Text Markup tag when there are texts using the tag. One such text using this tag is {0}."
 msgstr "On ne peut pas supprimer une étiquette de texte quand il y a des textes qui utilisent l'étiquette. {0} est un texte qui utilise cette étiquette."
 
 # DLR
 #. {0} is (one) text that prevents the delete.
-#. /Src/FDO/Strings.resx::ksCantDeleteMarkupTypeInUse
+#. /Src/FdoUi/FdoUiStrings.resx::ksCantDeleteMarkupTypeInUse
 msgid "You cannot delete a Text Markup type when there are texts using its tags. One such text using this type of tag is {0}."
 msgstr "On ne peut pas supprimer un type d'étiquette de texte quand il y a des textes qui utilisent ses étiquettes. {0} est un texte qui utilise ce type d'étiquette."
 
@@ -30940,7 +31192,7 @@ msgid "You cannot use 'Undo' to cancel the effect of this utility. You would nee
 msgstr "Vous ne pouvez pas utiliser 'Annuler' pour défaire l'action de cet utilitaire. Il faut sauvegarder ce projet avant de lancer cet utilitaire afin de pouvoir la restaurer si les résultats ne sont pas acceptables."
 
 # DLR (was 'Défaire')
-#. /Src/LexText/Lexicon/LexEdStrings.resx::ksCannotRedoReassignHomographs
+#. /Src/LexText/Lexicon/LexEdStrings.resx::ksGenericUtilityCannotUndo
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksCannotUndoTransducingCitForms
 #. (String used 2 times.)
 msgid "You cannot use 'Undo' to cancel the effect of this utility. You would need to go back to a previously saved version of the database."
@@ -30995,6 +31247,11 @@ msgstr "On peut ajouter les systèmes d'écriture additionnels et éditer les ex
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidCantMigrateWrongOS
 msgid "You may be able to set up a virtual machine running Windows 7 or earlier and install FieldWorks there. On Windows 7 or earlier, this dialog will allow you to download some components that can migrate your project. Unfortunately these components are not directly supported on your operating system."
 msgstr "Peut-être vous pouvez mettre en place une machine virtuelle fonctionnant sous Windows 7 ou une version antérieure et y installer FieldWorks. Sous Windows 7 ou une version antérieure, ce dialogue vous permettra de télécharger certains éléments qui peuvent migrer votre projet. Malheureusement, ces composants ne sont pas directement compatible avec votre système d'exploitation."
+
+# DLR
+#. /Src/FwParatextLexiconPlugin/Strings.resx::ksProjectExistsText2
+msgid "You may overwrite the existing project or select a different name."
+msgstr "Vous pouvez écraser le projet actuel ou sélectionner un autre nom."
 
 # DLR
 #. /Src/xWorks/xWorksStrings.resx::FirstSelectItemToDelete
@@ -31102,7 +31359,7 @@ msgstr "Vos paramètres seront enregistrés dans ce fichier pour des importation
 
 # DLR
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidSeriousProblemCaption
-msgid "Your Project Requires Technical Clean-up"
+msgid "Your Project Requires Technical Cleanup"
 msgstr "Votre project exige des corrections techniques"
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksAreaXLostItsDefaultTool
@@ -31472,13 +31729,13 @@ msgstr "Retraduction"
 msgid "Back &Translation"
 msgstr "Re&traduction"
 
+#. This is the name of the back translation toolbar as it shows up in the toolbar configuration feature
+#. Name of back translation toolbar in the customize toolbar dialog
+#. The category for back translation toolbar
 #. Appears in details column on import mapping page
 #. The tooltip for the Back Translation menu item
 #. This text will appear as a tab in the task bar.
 #. This is the back translation category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
-#. This is the name of the back translation toolbar as it shows up in the toolbar configuration feature
-#. The category for back translation toolbar
-#. Name of back translation toolbar in the customize toolbar dialog
 #. /Src/TE/TeImportExport/ScrImportComponents.resx::kstidImportWizMappingDetailBackTrans
 #. /Src/TE/TeImportExport/SFFileListBuilder.resx::tabBackTranslation.Text
 #. /Src/TE/TeResources/TeStrings.resx::kstidBackTransBarText
@@ -31636,8 +31893,8 @@ msgstr "Traduction de termes bibliques"
 msgid "&Biblical Terms"
 msgstr "Termes &bibliques"
 
-#. The tooltip for the Biblical Terms menu item
 #. This is the name of the biblical terms toolbar as it shows up in the toolbar configuration feature
+#. The tooltip for the Biblical Terms menu item
 #. Checking--This text will appear in Sidebar, Views menu, and Information Bar
 #. /Src/TE/TeResources/TeStrings.resx::kstidKeyTermsView
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidKeytermsBarText
@@ -31646,8 +31903,8 @@ msgstr "Termes &bibliques"
 msgid "Biblical Terms"
 msgstr "Termes bibliques"
 
-#. Text for the go to book menu item
 #. The tooltip for the insert book menu item
+#. Text for the go to book menu item
 #. /Src/TE/TeDialogs/EmptyScripture.resx::btnBook.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoBookItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertBooksItemName
@@ -31946,10 +32203,10 @@ msgid "Character Style Difference"
 msgstr "Différence de style de caractère"
 
 # DLR
-#. This is the name of the checking toolbar as it shows up in the toolbar configuration feature
-#. This text will appear as a tab in the task bar.
-#. This is the checking category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
 #. This is the checking category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
+#. This is the name of the checking toolbar as it shows up in the toolbar configuration feature
+#. This is the checking category for toolbar items. This string is used in the dialog that allows users to customize their toolbars.
+#. This text will appear as a tab in the task bar.
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingBarText
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingCategory
 #. /Src/TE/TeResources/TeStrings.resx::kstidCheckingTask
@@ -32152,8 +32409,8 @@ msgid "C&onsultant"
 msgstr "C&onsultant"
 
 # DLR
-#. This text appears as a button for a filter in the Notes window.
 #. Text of filter sidebar button
+#. This text appears as a button for a filter in the Notes window.
 #. /Src/TE/NotesView/Properties/Resources.resx::kstidConsultantNoteFilter
 #. /Src/TE/TeResources/TeStrings.resx::kstidFilterConsultant
 #. (String used 2 times.)
@@ -32377,8 +32634,8 @@ msgstr "Supprimer livre"
 msgid "&Delete Footnote"
 msgstr "Supprimer la note de bas de page"
 
-#. Tooltip for the delete footnote menu item
 #. Undo/Redo text for delete footnote
+#. Tooltip for the delete footnote menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidUndoDelFootnote
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidDeleteFootnoteToolTip
 #. (String used 2 times.)
@@ -32810,8 +33067,8 @@ msgid "Export Document (RTF)"
 msgstr "Exporter document (RTF)"
 
 # DLR
-#. Tool tip for the export XML menu item
 #. message box caption
+#. Tool tip for the export XML menu item
 #. /Src/TE/TeImportExport/ExportXmlDialog.resx::$this.Text
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidExportOXES
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportXmlToolTip
@@ -33209,7 +33466,7 @@ msgid "&Footnote"
 msgstr "Note de bas de page"
 
 #. Userview label
-#. /Src/FwResources/FwStrings.resx::kstidScriptureFootnote
+#. /Src/FDO/Strings.resx::ksScriptureFootnote
 #. /Src/TE/TeResources/TeStrings.resx::kstidLabelScrBookFootnotes
 #. (String used 2 times.)
 msgid "Footnote"
@@ -33266,8 +33523,8 @@ msgstr "Police des appels de note de bas de page: "
 msgid "Footnote Paragraphs"
 msgstr "Paragraphes de notes de bas de page"
 
-#. Undo/Redo tag for footnote properties
 #. The tooltip for the footnote properties menu item
+#. Undo/Redo tag for footnote properties
 #. /Src/TE/TeResources/TeStrings.resx::kstidUndoFootnoteProperties
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidFootnotePropertiesToolTip
 #. (String used 2 times.)
@@ -33789,8 +34046,8 @@ msgid "Import Complete"
 msgstr "Importation terminée"
 
 # DLR
-#. Alternate text for the import Key Terms renderings (XML) menu item (used in the customize dialog)
 #. Tool tip for the import Key Terms renderings (XML) menu item
+#. Alternate text for the import Key Terms renderings (XML) menu item (used in the customize dialog)
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsToolTip
 #. (String used 2 times.)
@@ -33822,8 +34079,8 @@ msgid "Import Notes"
 msgstr "Importer les notes"
 
 # DLR
-#. {0} is the description read from the OXES file
 #. Description for saved version containing import; {0} is typically a file name.
+#. {0} is the description read from the OXES file
 #. /Src/TE/TeResources/TeStrings.resx::kstidOxesImportOf
 #. /Src/TE/TeResources/TeStrings.resx::kstidSavedVersionDescriptionImport
 #. (String used 2 times.)
@@ -33972,8 +34229,8 @@ msgstr "Insérer livre"
 
 # DLR
 #. undo/redo string for Insert Chapter Number
-#. Text for the insert chapter number menu item
 #. Tool tip for Insert Chapter Number toolbar button
+#. Text for the insert chapter number menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertChapterNumber
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertChapterNumberToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertChapNumToolTip
@@ -34005,8 +34262,8 @@ msgstr "Insérer un &renvoi dans une note de bas de page"
 msgid "Insert Cross-reference Footnote"
 msgstr "Insérer un renvoi dans une note de bas de page"
 
-#. Undo/Redo string for Insert General Footnote
 #. Tool tip for Footnote toolbar button
+#. Undo/Redo string for Insert General Footnote
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertFootnote
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertFootnoteToolTip
 #. (String used 2 times.)
@@ -34080,8 +34337,8 @@ msgid "Insert Response"
 msgstr "Insérer réponse"
 
 # DLR
-#. Tool tip for Insert Section toolbar button
 #. Text for the insert scripture section menu item
+#. Tool tip for Insert Section toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertSectionToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidInsertScrSectionToolTip
 #. (String used 2 times.)
@@ -34095,8 +34352,8 @@ msgid "Insert Section"
 msgstr "Insérer section"
 
 # DLR
-#. Undo/Redo string for Insert Verse Number
 #. Tool tip for Insert Single Verse Number toolbar button
+#. Undo/Redo string for Insert Verse Number
 #. Text for the insert verse number menu item
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertVerseNumber
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertVerseNumberToolTip
@@ -34181,7 +34438,7 @@ msgstr "Introduction"
 msgid "&Introduction Section"
 msgstr "Section d'introduction"
 
-#. /Src/FwResources/FwStrings.resx::kstidScriptureSectionIntroduction
+#. /Src/FDO/Strings.resx::ksScriptureSectionIntroduction
 msgid "Introduction({0})"
 msgstr "Introduction({0})"
 
@@ -34607,8 +34864,8 @@ msgid "Mark Paragraph as &Consultant Checked"
 msgstr "Indiquer paragraphe vérifié par un &consultant"
 
 # DLR
-#. The tooltip for the back translation paragraph checked toolbar button
 #. The tooltip for the back translation paragraph checked menu/toolbar item
+#. The tooltip for the back translation paragraph checked toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidBtCheckedToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBtCheckedToolTip
 #. (String used 2 times.)
@@ -34635,8 +34892,8 @@ msgid "Mark Paragraph as &Unfinished"
 msgstr "Indiquer paragraphe comme inachevé"
 
 # DLR
-#. The tooltip for the back translation unfinished paragraph toolbar button
 #. The tooltip for the back translation unfinished paragraph menu/toolbar item
+#. The tooltip for the back translation unfinished paragraph toolbar button
 #. /Src/TE/TeResources/TeStrings.resx::kstidBtUnfinishedToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBtUnfinishedToolTip
 #. (String used 2 times.)
@@ -34846,10 +35103,10 @@ msgstr "myanmar"
 msgid "Nahum"
 msgstr "Nahum"
 
-#. Tooltip for the go to first menu item
 #. Tooltip for the go to next menu item
 #. Tooltip for the go to previous menu item
 #. Tooltip for the go to last menu item
+#. Tooltip for the go to first menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoFirstToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoLastToolTip
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextToolTip
@@ -34900,9 +35157,9 @@ msgstr "Les nouvelles sections fusionnées avec succès"
 msgid "&New Testament"
 msgstr "&Nouveau Testament"
 
-#. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes in TE and Choose Texts dialog box in FLEx)
-#. the value of the header/footer text that is changed in the setup dialog for the division name
 #. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes)
+#. the value of the header/footer text that is changed in the setup dialog for the division name
+#. text for NT node in Scripture tree controls (see Save Version and Book Filter dialog boxes in TE and Choose Texts dialog box in FLEx)
 #. /Src/Common/Controls/FwControls/FwControls.resx::kstidNtNode
 #. /Src/Common/FwPrintLayoutComponents/FwPrintLayoutStrings.resx::kstidDivName
 #. /Src/TE/TeResources/TeStrings.resx::kstidNtNode
@@ -35144,8 +35401,8 @@ msgid "Open &XML for Editing Scripture..."
 msgstr "OXES (Format XML pour des Écritures)"
 
 # DLR
-#. Text for the export Key Terms renderings (XML) menu item
 #. Text for the import Key Terms renderings (XML) menu item
+#. Text for the export Key Terms renderings (XML) menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidExportKeyTermsItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidImportKeyTermsItemName
 #. (String used 2 times.)
@@ -35416,8 +35673,8 @@ msgid "Paratext Project Short Name:"
 msgstr "Nom court du projet Paratext:"
 
 # DLR
-#. Text for the paste hyperlink context menu item
 #. Text for the paste hyperlink menu item
+#. Text for the paste hyperlink context menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkCmnuItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkItemName
 #. (String used 2 times.)
@@ -35425,8 +35682,8 @@ msgid "Paste &Hyperlink"
 msgstr "Coller l'&hyperlien"
 
 # DLR
-#. Alternate text for the paste hyperlink item (used in the customize dialog).
 #. Tool tip for the paste hyperlink menu item
+#. Alternate text for the paste hyperlink item (used in the customize dialog).
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkItemNameAlt
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPasteHyperlinkToolTip
 #. (String used 2 times.)
@@ -35685,8 +35942,8 @@ msgid "Punctuation Usage"
 msgstr "Emploi de ponctuation"
 
 # DLR
-#. Scripture check name: Quotation Marks
 #. Tooltip for menu item for menu associated with editorial checks list.
+#. Scripture check name: Quotation Marks
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidName_DDCCB400F274449892C577E99C90F75C
 #. /Src/FwCoreDlgs/PunctuationDlg.resx::tpgQuotations.Text
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidQuotationMarksToolTip
@@ -36108,8 +36365,8 @@ msgstr "Défilement"
 msgid "Searching Scripture for occurrences of the word"
 msgstr "Recherche des Écritures pour des incidences du mot"
 
-#. Text for the go to next section menu item
 #. Text for the go to previous section menu item
+#. Text for the go to next section menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextSectionItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoPrevSectionItemName
 #. (String used 2 times.)
@@ -36143,8 +36400,8 @@ msgstr "Sous-titre supprimé"
 msgid "Section Heading"
 msgstr "Sous-titre"
 
-#. Text for the go to first section menu item
 #. Text for the go to last section menu item
+#. Text for the go to first section menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoFirstSectionItemName
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoLastSectionItemName
 #. (String used 2 times.)
@@ -37116,8 +37373,8 @@ msgid "Tr&anslator"
 msgstr "Tr&aducteur"
 
 # DLR context?
-#. Text of filter sidebar button
 #. This text appears as a button for a filter in the Notes window.
+#. Text of filter sidebar button
 #. /Src/TE/NotesView/Properties/Resources.resx::kstidTranslatorNoteFilter
 #. /Src/TE/TeResources/TeStrings.resx::kstidFilterTranslator
 #. (String used 2 times.)
@@ -37328,8 +37585,8 @@ msgstr "Actualiser la pagination"
 msgid "Update Picture Properties"
 msgstr "Actualiser les propriétés d'image"
 
-#. progress dialog status message with book name
 #. status text for progress dialog when updating verse bridges
+#. progress dialog status message with book name
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidFootnoteResequenceMessage
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidUpdateVerseBridgesInBook
 #. (String used 2 times.)
@@ -37711,5 +37968,29 @@ msgstr "Zacharie"
 msgid "Zephaniah"
 msgstr "Sophonie"
 
-#~ msgid "{0}. All rights reserved."
-#~ msgstr "{0}.Tous droits réservés."
+# DLR
+#~ msgid ""
+#~ "This project cannot be migrated to a newer version. Please shutdown all "
+#~ "other applications that are currently using this project and try opening "
+#~ "the project again."
+#~ msgstr ""
+#~ "Impossible de migrer ce projet à une version plus récente. Veuillez "
+#~ "fermer toutes les autres logiciels qui utilisent actuellement ce projet "
+#~ "et essayer de rouvrir le projet."
+# DLR tokenization => alignment? [Manually duplicated with revised English]
+#, fuzzy
+#~ msgid ""
+#~ "This utility is intended to be used for fixing incorrect word alignment. "
+#~ "A bug in some releases of FLEx 7 could cause this to happen when 'Change "
+#~ "Spelling' was used. This will clear the flag that FLEx uses to determine "
+#~ "if a parse is current. It should not affect the work you have done in "
+#~ "analyzing texts other than repairing broken tokenization but it may "
+#~ "update unconfirmed parser analyses."
+#~ msgstr ""
+#~ "Cet utilitaire est conçu pour réparer l'alignement incorrect de mots. Un "
+#~ "bogue dans certaines versions de FLEx 7 pourrait provoquer cette "
+#~ "situation lorsqu'on utilise 'Changer l'orthographe'. Cet utilitaire "
+#~ "effacera l'indication utilisée par FLEx pour déterminer si une analyse "
+#~ "est à jour. Il ne devrait pas affecter votre travail d'analyse de textes "
+#~ "sauf réparer l'alignment incorrect, mais il peut actualiser les analyses "
+#~ "non confirmées de l'Analyseur."
