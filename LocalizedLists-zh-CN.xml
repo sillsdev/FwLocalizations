@@ -35878,16 +35878,6 @@
 <AUni ws="zh-CN">妥协、让步、退让、忍让、容让、迁就、折衷</AUni>
 </ExampleWords>
 </CmDomainQ>
-<CmDomainQ>
-<Question>
-<AUni ws="en">(8) What words refer to when two people disagree?</AUni>
-<AUni ws="zh-CN">提到两个人意见不一致，你会怎么说？</AUni>
-</Question>
-<ExampleWords>
-<AUni ws="en">disagree, disagreement, think differently, dissent, contest (v), </AUni>
-<AUni ws="zh-CN">分歧、不一致、不统一</AUni>
-</ExampleWords>
-</CmDomainQ>
 </Questions>
 <SubPossibilities>
 <CmSemanticDomain guid="1d5c798b-0f2d-49f2-bde6-cbcf2ef8fd02">
@@ -35911,7 +35901,7 @@
 <CmDomainQ>
 <Question>
 <AUni ws="en">(1) What words refer to when two people disagree?</AUni>
-<AUni ws="zh-CN"></AUni>
+<AUni ws="zh-CN">提到两个人意见不一致，你会怎么说？</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">disagree, disagreement, think differently, dissent, dissenting, contest (v), </AUni>
@@ -82394,6 +82384,16 @@
 <Question>
 <AUni ws="en">(6) What kinds of rooms are there in a church?</AUni>
 <AUni ws="zh-CN">教堂里有些什么样的房间？</AUni>
+</Question>
+<ExampleWords>
+<AUni ws="en">foyer, sanctuary, meeting hall, worship center, baptistery, classroom, pastor's study, vestibule, belfry, choir loft, balcony</AUni>
+<AUni ws="zh-CN">门厅、圣所、祷告室、洗礼堂、讲堂、楼厅、钟楼、唱诗班楼座</AUni>
+</ExampleWords>
+</CmDomainQ>
+<CmDomainQ>
+<Question>
+<AUni ws="en">(6) What kinds of rooms are there in a religious building (church, mosque, synagogue, temple)?</AUni>
+<AUni ws="zh-CN">宗教建筑里有些什么样的房间？</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">foyer, sanctuary, meeting hall, worship center, baptistery, classroom, pastor's study, vestibule, belfry, choir loft, balcony</AUni>

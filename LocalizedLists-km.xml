@@ -35878,16 +35878,6 @@
 <AUni ws="km"></AUni>
 </ExampleWords>
 </CmDomainQ>
-<CmDomainQ>
-<Question>
-<AUni ws="en">(8) What words refer to when two people disagree?</AUni>
-<AUni ws="km"></AUni>
-</Question>
-<ExampleWords>
-<AUni ws="en">disagree, disagreement, think differently, dissent, contest (v), </AUni>
-<AUni ws="km"></AUni>
-</ExampleWords>
-</CmDomainQ>
 </Questions>
 <SubPossibilities>
 <CmSemanticDomain guid="1d5c798b-0f2d-49f2-bde6-cbcf2ef8fd02">
@@ -82392,7 +82382,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(6) What kinds of rooms are there in a church?</AUni>
+<AUni ws="en">(6) What kinds of rooms are there in a religious building (church, mosque, synagogue, temple)?</AUni>
 <AUni ws="km"></AUni>
 </Question>
 <ExampleWords>
