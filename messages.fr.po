@@ -19964,6 +19964,10 @@ msgstr "6 pt"
 msgid "Publication"
 msgstr "Publication"
 
+#. /|strings-en.xml::/AlternativeTitles/PubSettings|
+msgid "Publication Settings"
+msgstr "Paramètres de publication"
+
 #. This text will appear as a tab in the task bar.
 #. /Language Explorer/Configuration/Lists/Edit/toolConfiguration.xml::/root/tools/tool/@label
 #. (String used 2 times.)
@@ -23331,7 +23335,7 @@ msgstr "Afficher touches de &raccourci dans infos-bulle"
 # @ DLR ??
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntryRef-Detail-PrimaryLexemes"]/if/slice/@label
 msgid "Show Subentry under"
-msgstr "Afficher les sous-entrées"
+msgstr "Afficher les sous-entrées sous"
 
 # @ DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
