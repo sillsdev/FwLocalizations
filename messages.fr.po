@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.1.3\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2015-02-03T11:52:27.7123661-06:00\n"
-"PO-Revision-Date: 2015-02-03 11:54-0800\n"
+"PO-Revision-Date: 2015-02-03 19:31-0800\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
@@ -19964,9 +19964,10 @@ msgstr "6 pt"
 msgid "Publication"
 msgstr "Publication"
 
+# DLR
 #. /|strings-en.xml::/AlternativeTitles/PubSettings|
 msgid "Publication Settings"
-msgstr "Paramètres de publication"
+msgstr "Configuration de publication"
 
 #. This text will appear as a tab in the task bar.
 #. /Language Explorer/Configuration/Lists/Edit/toolConfiguration.xml::/root/tools/tool/@label
@@ -23332,10 +23333,10 @@ msgstr "Afficher le sens en concordance"
 msgid "Show &shortcut keys in tooltips"
 msgstr "Afficher touches de &raccourci dans infos-bulle"
 
-# @ DLR ??
+# DLR
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntryRef-Detail-PrimaryLexemes"]/if/slice/@label
 msgid "Show Subentry under"
-msgstr "Afficher les sous-entrées sous"
+msgstr "Afficher cette sous-entrée sous"
 
 # @ DLR ?
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
