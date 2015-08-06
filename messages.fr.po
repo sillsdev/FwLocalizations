@@ -19966,6 +19966,7 @@ msgstr "Publication"
 
 # DLR
 #. /|strings-en.xml::/AlternativeTitles/PubSettings|
+#. /Language Explorer/Configuration/Parts/LexEntryLayouts.xml::/LayoutInventory/layout["LexEntry-detail-Normal"]/part[@ref="PublicationSection"]/@label
 msgid "Publication Settings"
 msgstr "Configuration de publication"
 
