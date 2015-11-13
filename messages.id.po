@@ -4793,8 +4793,8 @@ msgid "Create a new phonological rule."
 msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::createButton.Text
-msgid "            Create a new project..."
-msgstr "            Buat sebuah proyek baru..."
+msgid " Create a new project..."
+msgstr " Buat sebuah proyek baru..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertRecord"]
 msgid "Create a new Record in your Notebook."
@@ -10015,8 +10015,8 @@ msgid "Import Standard Format anthropology data"
 msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::importButton.Text
-msgid "            Import Standard Format data into a new project..."
-msgstr "            Impor data Format Standar ke proyek baru..."
+msgid " Import Standard Format data into a new project..."
+msgstr " Impor data Format Standar ke proyek baru..."
 
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.Text
 msgid "Import Standard Format lexical data"
@@ -14792,8 +14792,8 @@ msgid "Open a New Window"
 msgstr "Buka Jendela Baru"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::openButton.Text
-msgid "            Open a project..."
-msgstr "            Buka Proyek..."
+msgid " Open a project..."
+msgstr " Buka Proyek..."
 
 #. /Src/Utilities/Reporting/ErrorReport.resx::radEmail.Text
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradEmail
@@ -16600,12 +16600,12 @@ msgid "Receive a project or lexicon from a colleague for the first time"
 msgstr "Menerima proyek atau kosakata dari rekan"
 
 #. /Src/FwCoreDlgs/ChooseLangProjectDialog.resx::m_linkOpenBridgeProject.Text
-msgid "Receive project from a colleague"
+msgid "Get project from a colleague"
 msgstr "Menerima proyek dari rekan"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::receiveButton.Text
-msgid "            Receive project from a colleague..."
-msgstr "            Menerima proyek dari seorang rekan..."
+msgid " Get project from a colleague..."
+msgstr " Menerima proyek dari seorang rekan..."
 
 #. /|strings-en.xml::/ClassNames/RnGenericRec|
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
@@ -17837,8 +17837,8 @@ msgid "Restore a Project"
 msgstr "Kembalikan Proyek"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::restoreButton.Text
-msgid "            Restore a project from a backup file..."
-msgstr "            Kembalikan proyek dari berkas cadangan..."
+msgid " Restore a project from a backup file..."
+msgstr " Kembalikan proyek dari berkas cadangan..."
 
 #. This is the text for the restore option on the file/project management menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidRestoreItemName
