@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Lists date="12/8/2011 11:53:17 PM">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Lists date="6/3/2016 8:36:08 AM">
 <List owner="LexDb" field="DomainTypes" itemClass="CmPossibility">
 <Name>
 <AUni ws="en">Academic Domains</AUni>
@@ -597,10 +597,10 @@
 <AUni ws="en">Compound</AUni>
 <AUni ws="zh-CN">复合</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">comp. of</AUni>
 <AUni ws="zh-CN">复</AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">A stem that is made up of more than one root.</Run>
@@ -609,20 +609,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">comp.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="73266a3a-48e8-4bd7-8c84-91c730340b7d">
 <Name>
 <AUni ws="en">Contraction</AUni>
 <AUni ws="zh-CN">缩略</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">contr. of</AUni>
 <AUni ws="zh-CN">缩</AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">A combination of two lexemes that are phonologically reduced.</Run>
@@ -631,20 +631,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">contr.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="98c273c4-f723-4fb0-80df-eede2204dfca">
 <Name>
 <AUni ws="en">Derivative</AUni>
 <AUni ws="zh-CN">派生</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">der. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">A stem that is made up of a root plus an affix that adds a non-inflectional component of meaning.</Run>
@@ -653,20 +653,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">der.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="b2276dec-b1a6-4d82-b121-fd114c009c59">
 <Name>
 <AUni ws="en">Idiom</AUni>
 <AUni ws="zh-CN">俗语</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">id. of</AUni>
 <AUni ws="zh-CN">俗</AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">A multi-word expression that is recognized as a semantic unit.</Run>
@@ -675,20 +675,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">id.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="35cee792-74c8-444e-a9b7-ed0461d4d3b7">
 <Name>
 <AUni ws="en">Phrasal Verb</AUni>
 <AUni ws="zh-CN">短语动词</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">ph. v. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">A combination of a lexical verb and a verbal particle that forms a single semantic and syntactic unit.</Run>
@@ -697,20 +697,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">ph. v.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="9466d126-246e-400b-8bba-0703e09bc567">
 <Name>
 <AUni ws="en">Saying</AUni>
 <AUni ws="zh-CN">谚语</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">say. of</AUni>
 <AUni ws="zh-CN">谚</AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">Any pithy phrasal expression of wisdom or truth; esp., an adage, proverb, or maxim.</Run>
@@ -719,10 +719,10 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">say.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 </Possibilities>
 </List>
@@ -108776,10 +108776,10 @@
 <AUni ws="en">Dialectal Variant</AUni>
 <AUni ws="zh-CN">方言变形</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">dial. var. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">A variant of a lexeme, characteristically used by a specific demographic subset of the language.</Run>
@@ -108788,20 +108788,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">dial. var.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="4343b1ef-b54f-4fa4-9998-271319a6d74c">
 <Name>
 <AUni ws="en">Free Variant</AUni>
 <AUni ws="zh-CN">自由变体</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">fr. var. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">If two forms are free variants, the same speaker might use either one in the same setting. The more frequent form would be considered the basic form.</Run>
@@ -108810,20 +108810,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">fr. var.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="01d4fbc1-3b0c-4f52-9163-7ab0d4f4711c">
 <Name>
 <AUni ws="en">Irregularly Inflected Form</AUni>
 <AUni ws="zh-CN">屈折变体</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">irreg. infl. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">An Irregularly Inflected Form is an inflected form of the lexeme that is different from what you would expect from the normal rules of the grammar.</Run>
@@ -108832,20 +108832,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">irreg. infl.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 <SubPossibilities>
 <LexEntryType guid="a32f1d1c-4832-46a2-9732-c2276d6547e8">
 <Name>
 <AUni ws="en">Plural</AUni>
 <AUni ws="zh-CN">复数</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">pl. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">The plural form of a noun that does not take the regular inflectional affix for plural.</Run>
@@ -108854,20 +108854,20 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">pl.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 <LexEntryType guid="837ebe72-8c1d-4864-95d9-fa313c499d78">
 <Name>
 <AUni ws="en">Past</AUni>
 <AUni ws="zh-CN">过去时</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">pst. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">The past tense form of a verb that does not take the regular inflectional affix for past tense.</Run>
@@ -108876,10 +108876,10 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">pst.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 </SubPossibilities>
 </LexEntryType>
@@ -108888,10 +108888,10 @@
 <AUni ws="en">Spelling Variant</AUni>
 <AUni ws="zh-CN">拼写变体</AUni>
 </Name>
-<Abbreviation>
+<ReverseAbbr>
 <AUni ws="en">sp. var. of</AUni>
 <AUni ws="zh-CN"></AUni>
-</Abbreviation>
+</ReverseAbbr>
 <Description>
 <AStr ws="en">
 <Run ws="en">A variant spelling of a lexeme.</Run>
@@ -108900,10 +108900,10 @@
 <Run ws="zh-CN"></Run>
 </AStr>
 </Description>
-<ReverseAbbr>
+<Abbreviation>
 <AUni ws="en">sp. var.</AUni>
 <AUni ws="zh-CN"></AUni>
-</ReverseAbbr>
+</Abbreviation>
 </LexEntryType>
 </Possibilities>
 </List>
