@@ -599,7 +599,7 @@
 </Name>
 <ReverseAbbr>
 <AUni ws="en">comp. of</AUni>
-<AUni ws="zh-CN">复</AUni>
+<AUni ws="zh-CN"></AUni>
 </ReverseAbbr>
 <Description>
 <AStr ws="en">
@@ -611,7 +611,7 @@
 </Description>
 <Abbreviation>
 <AUni ws="en">comp.</AUni>
-<AUni ws="zh-CN"></AUni>
+<AUni ws="zh-CN">复</AUni>
 </Abbreviation>
 </LexEntryType>
 <LexEntryType guid="73266a3a-48e8-4bd7-8c84-91c730340b7d">
@@ -621,7 +621,7 @@
 </Name>
 <ReverseAbbr>
 <AUni ws="en">contr. of</AUni>
-<AUni ws="zh-CN">缩</AUni>
+<AUni ws="zh-CN"></AUni>
 </ReverseAbbr>
 <Description>
 <AStr ws="en">
@@ -633,7 +633,7 @@
 </Description>
 <Abbreviation>
 <AUni ws="en">contr.</AUni>
-<AUni ws="zh-CN"></AUni>
+<AUni ws="zh-CN">缩</AUni>
 </Abbreviation>
 </LexEntryType>
 <LexEntryType guid="98c273c4-f723-4fb0-80df-eede2204dfca">
@@ -677,7 +677,7 @@
 </Description>
 <Abbreviation>
 <AUni ws="en">id.</AUni>
-<AUni ws="zh-CN"></AUni>
+<AUni ws="zh-CN">俗</AUni>
 </Abbreviation>
 </LexEntryType>
 <LexEntryType guid="35cee792-74c8-444e-a9b7-ed0461d4d3b7">
@@ -721,7 +721,7 @@
 </Description>
 <Abbreviation>
 <AUni ws="en">say.</AUni>
-<AUni ws="zh-CN"></AUni>
+<AUni ws="zh-CN">谚</AUni>
 </Abbreviation>
 </LexEntryType>
 </Possibilities>
@@ -108815,7 +108815,7 @@
 <AUni ws="zh-CN"></AUni>
 </Abbreviation>
 </LexEntryType>
-<LexEntryType guid="01d4fbc1-3b0c-4f52-9163-7ab0d4f4711c">
+<LexEntryInflType guid="01d4fbc1-3b0c-4f52-9163-7ab0d4f4711c">
 <Name>
 <AUni ws="en">Irregularly Inflected Form</AUni>
 <AUni ws="zh-CN">屈折变体</AUni>
@@ -108837,7 +108837,7 @@
 <AUni ws="zh-CN"></AUni>
 </Abbreviation>
 <SubPossibilities>
-<LexEntryType guid="a32f1d1c-4832-46a2-9732-c2276d6547e8">
+<LexEntryInflType guid="a32f1d1c-4832-46a2-9732-c2276d6547e8">
 <Name>
 <AUni ws="en">Plural</AUni>
 <AUni ws="zh-CN">复数</AUni>
@@ -108858,8 +108858,8 @@
 <AUni ws="en">pl.</AUni>
 <AUni ws="zh-CN"></AUni>
 </Abbreviation>
-</LexEntryType>
-<LexEntryType guid="837ebe72-8c1d-4864-95d9-fa313c499d78">
+</LexEntryInflType>
+<LexEntryInflType guid="837ebe72-8c1d-4864-95d9-fa313c499d78">
 <Name>
 <AUni ws="en">Past</AUni>
 <AUni ws="zh-CN">过去时</AUni>
@@ -108880,9 +108880,9 @@
 <AUni ws="en">pst.</AUni>
 <AUni ws="zh-CN"></AUni>
 </Abbreviation>
-</LexEntryType>
+</LexEntryInflType>
 </SubPossibilities>
-</LexEntryType>
+</LexEntryInflType>
 <LexEntryType guid="0c4663b3-4d9a-47af-b9a1-c8565d8112ed">
 <Name>
 <AUni ws="en">Spelling Variant</AUni>

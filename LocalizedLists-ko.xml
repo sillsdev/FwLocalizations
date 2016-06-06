@@ -122232,7 +122232,7 @@
 <AUni ws="ko"></AUni>
 </Abbreviation>
 </LexEntryType>
-<LexEntryType guid="01d4fbc1-3b0c-4f52-9163-7ab0d4f4711c">
+<LexEntryInflType guid="01d4fbc1-3b0c-4f52-9163-7ab0d4f4711c">
 <Name>
 <AUni ws="en">Irregularly Inflected Form</AUni>
 <AUni ws="ko"></AUni>
@@ -122254,7 +122254,7 @@
 <AUni ws="ko"></AUni>
 </Abbreviation>
 <SubPossibilities>
-<LexEntryType guid="a32f1d1c-4832-46a2-9732-c2276d6547e8">
+<LexEntryInflType guid="a32f1d1c-4832-46a2-9732-c2276d6547e8">
 <Name>
 <AUni ws="en">Plural</AUni>
 <AUni ws="ko"></AUni>
@@ -122275,8 +122275,8 @@
 <AUni ws="en">pl.</AUni>
 <AUni ws="ko"></AUni>
 </Abbreviation>
-</LexEntryType>
-<LexEntryType guid="837ebe72-8c1d-4864-95d9-fa313c499d78">
+</LexEntryInflType>
+<LexEntryInflType guid="837ebe72-8c1d-4864-95d9-fa313c499d78">
 <Name>
 <AUni ws="en">Past</AUni>
 <AUni ws="ko"></AUni>
@@ -122297,9 +122297,9 @@
 <AUni ws="en">pst.</AUni>
 <AUni ws="ko"></AUni>
 </Abbreviation>
-</LexEntryType>
+</LexEntryInflType>
 </SubPossibilities>
-</LexEntryType>
+</LexEntryInflType>
 <LexEntryType guid="0c4663b3-4d9a-47af-b9a1-c8565d8112ed">
 <Name>
 <AUni ws="en">Spelling Variant</AUni>
