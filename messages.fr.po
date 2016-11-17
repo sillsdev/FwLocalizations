@@ -18624,7 +18624,7 @@ msgstr "Numéroter même un sens unique"
 # DLR
 #. /Src/xWorks/xWorksStrings.resx::ksNumberSingleSubsense
 msgid "Number even a single subsense"
-msgstr "Numéroter même un sens unique"
+msgstr "Numéroter même un sous-sens unique"
 
 # @ DLR
 #. /Language Explorer/Configuration/Words/reusableBrowseControlConfiguration.xml::/reusableControls/control/columns/column/@label
