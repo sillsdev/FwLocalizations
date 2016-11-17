@@ -29529,6 +29529,11 @@ msgstr "Pour ajouter une commande à la barre d'outil selectionner la catégorie
 msgid "To apply for an account at Webonary, please visit http://www.webonary.org/."
 msgstr "Pour demander un compte sur Webonary, veuillez visiter http://www.webonary.org/."
 
+#. Text at the top of the Upload to Webonary dialog. 0 will be the URL in toApplyForWebonaryAccountLink
+#. /Src/xWorks/xWorksStrings.resx::toApplyForWebonaryAccountExplanation
+msgid "To apply for an account at Webonary, please visit {0}."
+msgstr "Pour demander un compte sur Webonary, veuillez visiter {0}."
+
 # @ DLR
 #. /|strings-en.xml::/DialogTitles/ToCategoryTitle|
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Detail-ToPartOfSpeech"]/slice/@label
