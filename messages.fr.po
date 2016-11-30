@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.3\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2016-09-27T16:54:06.2514922-05:00\n"
-"PO-Revision-Date: 2016-09-27 20:39-0800\n"
+"PO-Revision-Date: 2016-11-27 20:23-0800\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
@@ -254,7 +254,7 @@ msgid ""
 msgstr ""
 "Une erreur de programmation est survenue.\n"
 "Un message avec des instructions pour l'envoyer aux développeurs a été copié au presse-papiers.\n"
-"Coller le contenu du presse-papiers dans un courrier électronique ou un fichier texte."
+"Coller le contenu du presse-papiers dans un courriel ou un fichier texte."
 
 # DLR
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::labelStep5Description.Text
@@ -1252,7 +1252,7 @@ msgstr "adjacent avant"
 # DLR
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksAdjustedHomograph
 msgid "Adjusted homograph number in {0} from {1} to {2}"
-msgstr "Numéro homographe de l'entrée {0} ajusté de {1} à {2}"
+msgstr "Numéro d'homographe de l'entrée {0} ajusté de {1} à {2}"
 
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksAdjustingAnalysisRefObj
 msgid "Adjusting reference to missing Segment by changing analysis object guid='{0}', class='{1}', field='{2}'."
@@ -3672,7 +3672,7 @@ msgstr "Impossible de suivre le lien"
 # DLR
 #. /Src/xWorks/xWorksStrings.resx::ksErrorDisplayingPublication
 msgid "Cannot generate the display for the current publication"
-msgstr ""
+msgstr "Impossible de générer l'affichage pour la publication actuelle"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksCannotHideField
 msgid "Cannot hide field"
@@ -5414,10 +5414,10 @@ msgstr ""
 msgid "Configuration"
 msgstr "Configuration"
 
-# DLR
+# DLR ??
 #. /Src/xWorks/DictionaryConfigurationDlg.resx::$this.Text
 msgid "{0} Configuration Dialog"
-msgstr ""
+msgstr "Dialogue de configuration {0}"
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksConfigurationSettingsRestoreDlg
@@ -5529,7 +5529,7 @@ msgstr "Configurer les propriétés d'une liste."
 # DLR
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::m_linkConfigHomographNumber.Text
 msgid "Configure Style of Homograph Number..."
-msgstr "Configurer le style de numéro homographe..."
+msgstr "Configurer le style de numéro d'homographe..."
 
 # DLR
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::m_linkConfigSenseRefNumber.Text
@@ -5539,7 +5539,7 @@ msgstr "Configurer le style du numéro de référence de sens..."
 # DLR ?
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::textBox1.Text
 msgid "Configure the homograph number which is shown as part of headwords in Language Explorer."
-msgstr "Configurer le numéro homographe affiché comme partie de l'entrée dans Language Explorer."
+msgstr "Configurer le numéro d'homographe affiché comme partie de l'entrée dans Language Explorer."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksTipConfig
 msgid "Configure which columns to display"
@@ -10204,7 +10204,7 @@ msgstr "Exportation..."
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Ext. Note Discussion"
-msgstr ""
+msgstr "Discussion de note étendue"
 
 # DLR ?? shorten?
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -11629,9 +11629,10 @@ msgstr "TL "
 msgid "Full Context"
 msgstr "Contexte complet"
 
+# DLR ??
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-DefinitionAllA"]/slice/@tooltip
 msgid "Full meaning of this lexeme.  Used in the dictionary article."
-msgstr ""
+msgstr "Sens complet de ce lexème, utilisé dans l'article du dictionnaire."
 
 # DLR
 #. /Language Explorer/Configuration/Parts/CmPossibility.fwlayout::/LayoutInventory/layout["CmPerson-detail-default"]/part[@ref="NameAllVA"]/@label
@@ -12540,7 +12541,7 @@ msgstr "Appuyer sur MAJ en cliquant sur Terminer pour écrire fichiers XML Inter
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 2 times.)
 msgid "Homograph number"
-msgstr "Numéro homographe"
+msgstr "Numéro d'homographe"
 
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishHnCd"]/part[@ref="HomographNumber"]/@label
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishRootMinorPara"]/part[@ref="HomographNumber"]/@label
@@ -12553,7 +12554,7 @@ msgstr "Numéro homographe"
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::m_chkShowHomographNumInReversal.Text
 #. (String used 9 times.)
 msgid "Homograph Number"
-msgstr "Numéro homographe"
+msgstr "Numéro d'homographe"
 
 # DLR
 #. Text for How Do I item on help menu
@@ -16402,10 +16403,11 @@ msgstr "L'entrée secondaire n'apparait pas"
 msgid "Minor Entry Types:"
 msgstr "Types d'entrée secondaire:"
 
+# DLR ??
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@name
 #. (String used 2 times.)
 msgid "Minor Subentries"
-msgstr ""
+msgstr "Sous-entrées secondaires"
 
 # DLR
 #. /Src/LexText/Interlinear/CreateAllomorphTypeMismatchDlg.resx::label1.Text
@@ -18964,9 +18966,10 @@ msgstr "OK créera un texte vide"
 msgid "OK will create an empty text assigned to these genres"
 msgstr "OK créera un texte vide attribué à ces genres"
 
+# DLR ???
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhatAreCircularRefs
 msgid "Older versions of Language Explorer allowed the user to make two complex form entries claim each other as components.  This is no longer allowed, but older projects can be in this bad state."
-msgstr ""
+msgstr "Avec des versions plus anciennes de Language Explorer, l'utilisateur a pu créer deux entrées de forme complexe qui réclament l'autre comme un composant. Ce n'est plus permis, mais les projets plus anciens peuvent être dans ce mauvais état."
 
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColor2
 msgid "Olive Green,51,51,0"
@@ -21146,10 +21149,10 @@ msgstr "Publication:"
 msgid "Publications"
 msgstr "Publications"
 
-# DLR (or possibly "taille de page de la composition" as in MS Publisher)
+# DLR ??
 #. /Src/xWorks/DictionaryConfigurationDlg.resx::m_lblPubsForConfig.Text
 msgid "Publications affected by this view:"
-msgstr ""
+msgstr "Publications affectées par cet affichage:"
 
 # DLR
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexPronunciation-detail-Normal"]/part[@ref="PublishIn"]/@label
@@ -22106,7 +22109,7 @@ msgstr "Refaire Remplacer la réference"
 
 #. /Src/FDO/Strings.resx::ksRedoResetHomographs
 msgid "Redo Reset Homograph Numbers"
-msgstr "Refaire l'initialisation les homographes"
+msgstr "Refaire l'initialisation des homographes"
 
 # DLR
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksRedoCheckAll
@@ -22701,11 +22704,12 @@ msgstr "Enlever le système d'écriture d'analyse séléctionné du projet, mais
 msgid "Removes the selected vernacular writing system from the project, but not from FieldWorks. Some text may become hidden. Use the Add button to return the writing system to the project."
 msgstr "Enlever le système d'écriture vernaculaire sélectionné du projet, mais pas de FieldWorks. Quelques textes peuvent devenir cachés. Utliser le bouton Ajouter pour l'ajouter encore au projet."
 
+# DLR ??
 #. /Src/FDO/Strings.resx::ksRemovingCircularComponentLexeme
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksRemovingCircularComponentLexeme
 #. (String used 2 times.)
 msgid "Removing {0} as component lexeme for {1}"
-msgstr ""
+msgstr "Enlèvement de {0} comme lexème composant de {1}"
 
 # DLR (or Enlevant le lien vers '{0}' (class='{1}', guid='{2}', field='{3}') qui n'existe pas.)
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksRemovingLinkToNonexistingObject
@@ -22754,10 +22758,10 @@ msgstr "Enlevant LexReference qui n'a pas assez de références (Targets) (guid=
 msgid "Removing multiple ownership link '{0}' (class='{1}', guid='{2}', field='{3}')."
 msgstr "Enlevant le lien de propriétaire multiple '{0}' (class='{1}', guid='{2}', field='{3}')."
 
-# DLR
+# DLR ??
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksRemovingObjectWithBadOwner
 msgid "Removing object with nonexistent owner (invalid ownerguid='{0}', class='{1}', guid='{2}')."
-msgstr ""
+msgstr "Enlèvement d'un objet qui a un propriétaire inexistant (ownerguid='{0}', class='{1}', guid='{2}')."
 
 # DLR
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksRemovingOwnerOfEmptySequence
@@ -23545,12 +23549,12 @@ msgstr "Ligne:"
 msgid "Rows"
 msgstr "Lignes"
 
-# DLR
+# DLR ??
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["PhMetathesisRule-detail-Edit"]/part[@ref="RuleFormulaSection"]/@label
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["PhRegularRule-detail-Edit"]/part[@ref="RuleFormulaSection"]/@label
 #. (String used 2 times.)
 msgid "Rule Formula"
-msgstr ""
+msgstr "Formule du règle"
 
 # DLR
 #. /Language Explorer/Configuration/Grammar/areaConfiguration.xml::/root/commands/command/@label
@@ -23592,7 +23596,7 @@ msgstr "Voir les vidéos démo."
 # DLR
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhenToReassignHomographs
 msgid "Run this utility when the FieldWorks project has entries with duplicate or missing homograph numbers, or when there are gaps in the homograph number sequences."
-msgstr "À utiliser lorsque le projet FieldWorks a des entrées avec des chiffres d'homographe dupliqués ou manquants, ou quand il y a des sauts dans la série de chiffres d'homographe."
+msgstr "À utiliser lorsque le projet FieldWorks a des entrées avec des numéros d'homographe dupliqués ou manquants, ou quand il y a des sauts dans la série de numéros d'homographe."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhenToConvertVariants
 msgid "Run this utility when you need to convert one or more of your existing irregularly inflected form variant types to be variant types.  When a variant type is an irregularly inflected form variant type, it has extra fields such as 'Append to Gloss', 'Inflection Features', and 'Slots.'"
@@ -23870,7 +23874,7 @@ msgstr "Deuxième 'Recevoir et fusionner' impossible"
 #. /Language Explorer/DefaultConfigurations/Dictionary/Root.fwdictconfig:://ConfigurationItem/@name
 #. (String used 12 times.)
 msgid "Secondary Homograph Number"
-msgstr ""
+msgstr "Numéro d'homographe secondaire"
 
 # DLR
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoMorphType-Detail-SecondaryOrder"]/slice/@label
@@ -23882,7 +23886,7 @@ msgstr "Order secondaire"
 #. {0} is the node whose tooltip is SharesWithTheseNodes
 #. /Src/xWorks/xWorksStrings.resx::SeeAffectedNodesUnder
 msgid "See {0} for a list of affected nodes."
-msgstr ""
+msgstr "Voir {0} pour une liste des nœuds affectés."
 
 # DLR
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="Problems"]
@@ -23982,10 +23986,11 @@ msgstr "&Tout sélectionner"
 msgid "Select All"
 msgstr "Cocher tout"
 
+# DLR
 #. Hidden context menu command (Ctrl+Right Click) for selecting a node and all its children in the Configuration Dialog
 #. /Src/xWorks/xWorksStrings.resx::ConfigurationTreeControl_SelectAllChildren
 msgid "Select All Children"
-msgstr ""
+msgstr "Sélectionner tous les enfants"
 
 #. This is the status bar message for the select all menu option.
 #. /Src/FwResources/FwStrings.resx::kstidEditSelectAllMsg
@@ -24481,7 +24486,7 @@ msgstr "Types de sens"
 # DLR
 #. /|strings-en.xml::/MappingType/SenseUnidirectional|
 msgid "Sense Unidirectional"
-msgstr ""
+msgstr "Sens unidirectionnel"
 
 #. /Src/FDO/Strings.resx::ksDeleteLexSense
 msgid "Sense: {0}"
@@ -25017,7 +25022,7 @@ msgstr "Afficher ou masquer la barre d'état."
 #. /Src/xWorks/xWorksStrings.resx::ksParentSenseNumberingStyle
 #. (String used 2 times.)
 msgid "Show parent sense number"
-msgstr ""
+msgstr "Afficher le numéro de sens du parent"
 
 # @ DLR ?
 #. /Language Explorer/Configuration/Grammar/DataTreeInclude.xml::/window/commands/command/@label
@@ -29305,7 +29310,7 @@ msgstr "Cet utilitaire essayera de régler certaines erreurs dans un fichier de 
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhatIsReassignHomographs
 msgid "This utility cleans up the homographs numbers of lexical entries. It preserves the current relative order of homographs, so you won't lose any ordering you have done."
-msgstr "Cet utilitaire remet en ordre les chiffres homographes des entrées lexicales. Il préserve l'ordre relatif des homographes en cours. De cette marière, vous ne perdrez pas l'ordre que vous avez établi."
+msgstr "Cet utilitaire remet en ordre les numéros d'homographes des entrées lexicales. Il préserve l'ordre relatif des homographes actuels. De cette marière, vous ne perdrez pas l'ordre que vous avez établi."
 
 # DLR
 #. Help information for the Merge Duplicate Analyses item in Tools/Utilities.
@@ -29527,12 +29532,12 @@ msgstr "Pour ajouter une commande à la barre d'outil selectionner la catégorie
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::explanationLabel.Text
 msgid "To apply for an account at Webonary, please visit http://www.webonary.org/."
-msgstr "Pour demander un compte sur Webonary, veuillez visiter http://www.webonary.org/."
+msgstr "Pour demander un compte Webonary, veuillez visiter http://www.webonary.org/."
 
 #. Text at the top of the Upload to Webonary dialog. 0 will be the URL in toApplyForWebonaryAccountLink
 #. /Src/xWorks/xWorksStrings.resx::toApplyForWebonaryAccountExplanation
 msgid "To apply for an account at Webonary, please visit {0}."
-msgstr "Pour demander un compte sur Webonary, veuillez visiter {0}."
+msgstr "Pour demander un compte Webonary, veuillez visiter {0}."
 
 # @ DLR
 #. /|strings-en.xml::/DialogTitles/ToCategoryTitle|
@@ -31551,15 +31556,15 @@ msgstr "_Utilisateur"
 msgid "User Analyses"
 msgstr "Analyse de l'utilisateur"
 
-# DLR (was "Refaire Analyse approuvée")
+# DLR ?
 #. /Language Explorer/Configuration/Parts/WFI.fwlayout::/LayoutInventory/layout["WfiWordform-detail-Normal"]/part[@ref="HumanApprovedAnalysesSection"]/@label
 msgid "User Approved (Analyses)"
-msgstr ""
+msgstr "Approuvées par utilisateur (Analyses)"
 
-# @ DLR (changed "refusée"->"désapprouvée")
+# @ DLR ?? (test case: une cause type, un cas type, un précédent)
 #. /Language Explorer/Configuration/Parts/WFI.fwlayout::/LayoutInventory/layout["WfiWordform-detail-Normal"]/part[@ref="HumanDisapprovedAnalysesSection"]/@label
 msgid "User Disapproved (Test Case Analyses)"
-msgstr ""
+msgstr "Désapprouvées par utilisateur (Analyses de test)"
 
 #. /Src/xWorks/xWorksStrings.resx::ksUserInterface
 msgid "user interface"
@@ -31589,9 +31594,10 @@ msgstr "L'&utilisateur doit changer de mot de passe à la session suivante"
 msgid "User Opinion"
 msgstr "Avis d'utilitsateur"
 
+# DLR ??
 #. /Language Explorer/Configuration/Parts/WFI.fwlayout::/LayoutInventory/layout["WfiWordform-detail-Normal"]/part[@ref="HumanNoOpinionAnalysesSection"]/@label
 msgid "User Opinion Unknown (Analysis Candidates)"
-msgstr ""
+msgstr "Opinion d'utilisateur inconnue (Candidats d'analyse)"
 
 #. Tool tip for user properties menu item
 #. /Src/FwCoreDlgs/FwUserProperties.resx::$this.Text
@@ -40287,553 +40293,3 @@ msgstr "Sophonie"
 
 #~ msgid "al"
 #~ msgstr "al"
-
-# DLR
-#~ msgid "AllReversalSubentries"
-#~ msgstr "AllReversalSubentries"
-#~ msgid "an"
-#~ msgstr "an"
-#~ msgid "bb"
-#~ msgstr "bb"
-#~ msgid ""
-#~ "/Beginning_Tasks/Importing_Data/Import_Notebook_Data/"
-#~ "Topics_List_Import_Options.htm'"
-#~ msgstr ""
-#~ "/Beginning_Tasks/Importing_Data/Import_Notebook_Data/"
-#~ "Topics_List_Import_Options.htm'"
-#~ msgid "bs"
-#~ msgstr "bs"
-#~ msgid "cf"
-#~ msgstr "cf"
-#~ msgid "cl"
-#~ msgstr "cl"
-#~ msgid "cn"
-#~ msgstr "cn"
-# DLR ? (Paramètres régionaux complets actuels)
-#~ msgid "CurrentFullLocale"
-#~ msgstr "ParRégComplAct"
-#~ msgid "cv"
-#~ msgstr "cv"
-#~ msgid "df"
-#~ msgstr "df"
-#~ msgid "dt"
-#~ msgstr "dt"
-#~ msgid "DummyDerivedForm"
-#~ msgstr "FormeDérivéeSimulée"
-#~ msgid "DummyPersistedFormManual"
-#~ msgstr "ManuelFormePersistanteSimulée"
-#~ msgid "DummyPersistedFormWinDef"
-#~ msgstr "DummyPersistedFormWinDef"
-# @
-#~ msgid "ef"
-#~ msgstr "ef"
-#~ msgid "EMSP"
-#~ msgstr "ESP CAD"
-#~ msgid "en"
-#~ msgstr "en"
-# DLR
-#~ msgid "enn"
-#~ msgstr "enn"
-#~ msgid "ENSP"
-#~ msgstr "ESP 1/2C"
-#~ msgid "et"
-#~ msgstr "et"
-#~ msgid "F10"
-#~ msgstr "F10"
-#~ msgid "F11"
-#~ msgstr "F11"
-#~ msgid "F12"
-#~ msgstr "F12"
-#~ msgid "F2"
-#~ msgstr "F2"
-#~ msgid "F3"
-#~ msgstr "F3"
-#~ msgid "F4"
-#~ msgstr "F4"
-#~ msgid "F6"
-#~ msgstr "F6"
-#~ msgid "F7"
-#~ msgstr "F7"
-#~ msgid "F8"
-#~ msgstr "F8"
-#~ msgid "F9"
-#~ msgstr "F9"
-#~ msgid "fc"
-#~ msgstr "fc"
-#~ msgid "fef"
-#~ msgstr "fef"
-#~ msgid "fic"
-#~ msgstr "fic"
-#~ msgid "fif"
-#~ msgstr "fif"
-#~ msgid "FlexErrors@sil.org"
-#~ msgstr "FlexErrors@sil.org"
-#~ msgid "fsn"
-#~ msgstr "fsn"
-#~ msgid "FSP"
-#~ msgstr "ESP TAB"
-#~ msgid "FwMainWnd"
-#~ msgstr "FwMainWnd"
-#~ msgid "fwPanel1"
-#~ msgstr "fwPanel1"
-#~ msgid "gs"
-#~ msgstr "gs"
-#~ msgid "Help_topic_does_not_exist.htm"
-#~ msgstr "Help_topic_does_not_exist.htm"
-#~ msgid "\\Helps\\FieldWorks_Language_Explorer_Help.chm"
-#~ msgstr "\\Helps\\FieldWorks_Language_Explorer_Help.chm"
-#~ msgid "HSP"
-#~ msgstr "ESP UF"
-#~ msgid "http://downloads.sil.org/FieldWorks/appcast.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcast.xml"
-#~ msgid "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
-#~ msgid "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
-#~ msgid "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
-#~ msgstr "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
-#~ msgid "(http://www.gnu.org/licenses/lgpl-2.1.html)"
-#~ msgstr "(http://www.gnu.org/licenses/lgpl-2.1.html)"
-#~ msgid "ic"
-#~ msgstr "ic"
-#~ msgid "IDSP"
-#~ msgstr "ESP IDÉ"
-#~ msgid "if"
-#~ msgstr "if"
-#~ msgid "ip"
-#~ msgstr "ip"
-#~ msgid "is"
-#~ msgstr "is"
-# @
-#~ msgid "IsAbstract"
-#~ msgstr "EstAbstrait"
-#~ msgid "L"
-#~ msgstr "L"
-#~ msgid "labelText"
-#~ msgstr "labelText"
-#~ msgid "lblFindFormatText"
-#~ msgstr "lblFindFormatText"
-#~ msgid "lblReplaceFormatText"
-#~ msgstr "lblReplaceFormatText"
-#~ msgid "lc"
-#~ msgstr "lc"
-#~ msgid "lo"
-#~ msgstr "lo"
-#~ msgid "LRE"
-#~ msgstr "E GàD"
-#~ msgid "LRM"
-#~ msgstr "M GàD"
-#~ msgid "LSEP"
-#~ msgstr "SÉP L"
-#~ msgid "lt"
-#~ msgstr "lt"
-#~ msgid "lx"
-#~ msgstr "lx"
-#~ msgid "M"
-#~ msgstr "M"
-#~ msgid "MainEntrySubentries"
-#~ msgstr "MainEntrySubentries"
-# DLR
-#~ msgid "MainEntrySubsenses"
-#~ msgstr "MainEntrySubsenses"
-#~ msgid "MMSP"
-#~ msgstr "ESP MM"
-#~ msgid "mn"
-#~ msgstr "mn"
-# DLR
-#~ msgid "MorphSketch"
-#~ msgstr "MorpheEsq"
-#~ msgid "MQSP"
-#~ msgstr "CAD"
-#~ msgid "3/MSP"
-#~ msgstr "1/3 CAD"
-#~ msgid "4/MSP"
-#~ msgstr "1/4 CAD"
-#~ msgid "6/MSP"
-#~ msgstr "1/6 CAD"
-#~ msgid "mt"
-#~ msgstr "mt"
-#~ msgid "MVS"
-#~ msgstr "SV M"
-#~ msgid "na"
-#~ msgstr "na"
-#~ msgid "NBSP"
-#~ msgstr "ESP INS"
-#~ msgid "nd"
-#~ msgstr "nd"
-#~ msgid "ng"
-#~ msgstr "ng"
-#~ msgid "NNBSP"
-#~ msgstr "ESP IÉ"
-#~ msgid "np"
-#~ msgstr "np"
-#~ msgid "NQSP"
-#~ msgstr "1/2 CAD"
-#~ msgid "ns"
-#~ msgstr "ns"
-#~ msgid "nt"
-#~ msgstr "nt"
-#~ msgid "pa"
-#~ msgstr "pa"
-#~ msgid "PDF"
-#~ msgstr "DFD"
-#~ msgid "ph"
-#~ msgstr "ph"
-# DLR ?
-#~ msgid "PhraseTags"
-#~ msgstr "Étiquettes de locution"
-#~ msgid "?? Properties (TODO)"
-#~ msgstr "Propriétés"
-#~ msgid "ps"
-#~ msgstr "ps"
-#~ msgid "PSEP"
-#~ msgstr "SÉP P"
-#~ msgid "PSP"
-#~ msgstr "ESP PON"
-# DLR
-#~ msgid "Publish"
-#~ msgstr "Publier"
-#~ msgid "pw"
-#~ msgstr "pw"
-#~ msgid "Python"
-#~ msgstr "Python"
-# DLR
-#~ msgid "ResearchPlan"
-#~ msgstr "Plan de recherche"
-#~ msgid "rf"
-#~ msgstr "rf"
-#~ msgid "rgs"
-#~ msgstr "sgd"
-#~ msgid "rl"
-#~ msgstr "rl"
-#~ msgid "RLE"
-#~ msgstr "E DàG"
-#~ msgid "RLM"
-#~ msgstr "M DàG"
-#~ msgid "SampleDb"
-#~ msgstr "SampleDb"
-# DLR
-#~ msgid "SampleString"
-#~ msgstr "SampleString"
-# DLR?
-#~ msgid "SampleValue"
-#~ msgstr "SampleValue"
-#~ msgid "sc"
-#~ msgstr "sc"
-#~ msgid "ScientificName"
-#~ msgstr "Nom scientifique"
-#~ msgid "sd"
-#~ msgstr "sd"
-#~ msgid "sf"
-#~ msgstr "sf"
-#~ msgid "sig"
-#~ msgstr "sig"
-# @
-#~ msgid "SimpleListChooser"
-#~ msgstr "SélecteurListeSimple"
-#~ msgid "sl"
-#~ msgstr "sl"
-#~ msgid "slg"
-#~ msgstr "slg"
-#~ msgid "slgn"
-#~ msgstr "slgn"
-#~ msgid "sm"
-#~ msgstr "sm"
-#~ msgid "sn"
-#~ msgstr "sn"
-#~ msgid "so"
-#~ msgstr "so"
-#~ msgid "st"
-#~ msgstr "st"
-#~ msgid "statusStrip1"
-#~ msgstr "statusStrip1"
-# DLR:JN
-#~ msgid "Stem-based (complex forms as main entries)"
-#~ msgstr "Basé sur les bases (formes complexes comme entrées principales)"
-#~ msgid "sy"
-#~ msgstr "sy"
-#~ msgid "T"
-#~ msgstr "T"
-#~ msgid "tef"
-#~ msgstr "tef"
-#~ msgid "textBox1"
-#~ msgstr "textBox1"
-#~ msgid "textBox2"
-#~ msgstr "textBox2"
-#~ msgid "textBox3"
-#~ msgstr "textBox3"
-#~ msgid "textBox4"
-#~ msgstr "textBox4"
-#~ msgid "textBox5"
-#~ msgstr "textBox5"
-#~ msgid "textBox6"
-#~ msgstr "textBox6"
-#~ msgid "The FDOBackendProviderType is not supported."
-#~ msgstr "Le FDOBackendProviderType n'est pas soutenu."
-#~ msgid "THSP"
-#~ msgstr "ESP FIN"
-#~ msgid "tic"
-#~ msgstr "tic"
-#~ msgid "tif"
-#~ msgstr "tif"
-#~ msgid "tn"
-#~ msgstr "tn"
-#~ msgid "TODO: Basic wordform editing happens here."
-#~ msgstr "À FAIRE: édition fondamentale des formes de mot a lieu ici."
-#~ msgid "tp"
-#~ msgstr "tp"
-#~ msgid "ts"
-#~ msgstr "ts"
-#~ msgid "ty"
-#~ msgstr "ty"
-#~ msgid "U"
-#~ msgstr "U"
-#~ msgid "U+{0:X4}"
-#~ msgstr "U+{0:X4}"
-#~ msgid "uf"
-#~ msgstr "uf"
-#~ msgid ""
-#~ "User_Interface/Field_Descriptions/Lists/Time_of_Day_fields/"
-#~ "Description_field_(Time_of_Day).html"
-#~ msgstr ""
-#~ "User_Interface/Field_Descriptions/Lists/Time_of_Day_fields/"
-#~ "Description_field_(Time_of_Day).html"
-#~ msgid "vd"
-#~ msgstr "vd"
-#~ msgid "vf"
-#~ msgstr "vf"
-#~ msgid "vi"
-#~ msgstr "vi"
-#~ msgid "vs"
-#~ msgstr "vs"
-#~ msgid "$wsName"
-#~ msgstr "$wsName"
-#~ msgid "xh"
-#~ msgstr "xh"
-#~ msgid "*.xml"
-#~ msgstr "*.xml"
-#~ msgid "xt"
-#~ msgstr "xt"
-#~ msgid "xv"
-#~ msgstr "xv"
-#~ msgid "xx"
-#~ msgstr "xx"
-#~ msgid "XYZ"
-#~ msgstr "XYZ"
-#~ msgid "yr"
-#~ msgstr "an"
-#~ msgid "ZWJ"
-#~ msgstr "L SC"
-#~ msgid "ZWNJ"
-#~ msgstr "AL SC"
-#~ msgid "ZWSP"
-#~ msgstr "ESP SC"
-#~ msgid "*"
-#~ msgstr "*"
-#~ msgid ": {0}"
-#~ msgstr ": {0}"
-#~ msgid "?"
-#~ msgstr "?"
-#~ msgid "{0}  {1}"
-#~ msgstr "{0}  {1}"
-#~ msgid "0.51\""
-#~ msgstr "0.51 po"
-#~ msgid "0.98\""
-#~ msgstr "0.98 po"
-#~ msgid "10.98\""
-#~ msgstr "10.98 po"
-#~ msgid "32"
-#~ msgstr "32"
-#~ msgid "40"
-#~ msgstr "40"
-#~ msgid "777"
-#~ msgstr "777"
-#~ msgid "8.5\""
-#~ msgstr "8.5 po"
-#~ msgid "\\Helps\\FieldWorks_Translation_Editor_Help.chm"
-#~ msgstr "\\Helps\\FieldWorks_Translation_Editor_Help.chm"
-#~ msgid "TeErrors@sil.org"
-#~ msgstr "TeErrors@sil.org"
-# DLR shortened from "Choisir le système d'écriture de l'index d'inversion" because end of string truncated
-#~ msgid "Choose Reversal Index Writing System"
-#~ msgstr "Système d'écriture de l'index d'inversion"
-# DLR
-#~ msgid ""
-#~ "Choose the location and name of the LIFT export folder FLEx will use.  "
-#~ "You can make a new folder, or choose one which already contains LIFT data "
-#~ "(e.g. a WeSay project folder)"
-#~ msgstr ""
-#~ "Choisir l'emplacement et le nom du dossier d'exportation LIFT que FLEx "
-#~ "emploiera. Vous pouvez créer un nouveau dossier ou en choisir un qui "
-#~ "contient déjà des données LIFT (par exemple une dossier de projet WeSay)."
-# DLR
-#~ msgid ""
-#~ " Click 'OK' to continue with this project name or 'Cancel' to enter a "
-#~ "different name."
-#~ msgstr ""
-#~ " Cliquer sur 'OK' pour garder ce nom de projet ou sur 'Annuler' pour "
-#~ "saisir un autre nom."
-# DLR 2014-01-14 not enough room on button for " fichier"
-#~ msgid "&Copy File"
-#~ msgstr "&Copier"
-# DLR
-#~ msgid "Create Reversal Index"
-#~ msgstr "Créer l'index d'inversion"
-# DLR
-#~ msgid "Delete Reversal Index"
-#~ msgstr "Supprimer l'index d'inversion"
-#~ msgid "DelReapps"
-#~ msgstr "DelReapps"
-#~ msgid "Etymology - Form"
-#~ msgstr "Etymologie - Forme"
-#~ msgid "Ill-formed XML"
-#~ msgstr "XML mal formé."
-# DLR 2014-01-14 not enough room on button for " le fichier"
-#~ msgid "&Leave File"
-#~ msgstr "&Laisser"
-#~ msgid "MaxAnalysesToReturn"
-#~ msgstr "MaxAnalysesToReturn"
-#~ msgid "MaxInfixes"
-#~ msgstr "MaxInfixes"
-#~ msgid "MaxInterfixes"
-#~ msgstr "MaxInterfixes"
-#~ msgid "MaxNulls"
-#~ msgstr "MaxNulls"
-#~ msgid "MaxPrefixes"
-#~ msgstr "MaxPrefixes"
-# DLR:JN
-#~ msgid "MaxRoots"
-#~ msgstr "MaxRoots"
-#~ msgid "MaxSuffixes"
-#~ msgstr "MaxSuffixes"
-# DLR 2014-01-14 not enough room on button for " le fichier"
-#~ msgid "&Move File"
-#~ msgstr "Déplacer"
-#~ msgid "Move or Copy File?"
-#~ msgstr "Déplacer ou copier le fichier?"
-# DLR
-#~ msgid "NoDefaultCompounding"
-#~ msgstr "NoDefaultCompounding"
-#~ msgid "NotOnClitics"
-#~ msgstr "NotOnClitics"
-# DLR
-#~ msgid "_Reversal Indexes"
-#~ msgstr "Les index d'inve_rsion"
-# DLR
-#~ msgid ""
-#~ "The current project name contains non-ASCII characters. This currently "
-#~ "prevents use of the Send/Receive Project function.\n"
-#~ "Please use a name that only contains ASCII characters.\n"
-#~ "You may choose a different project name in FieldWorks Project Properties."
-#~ msgstr ""
-#~ "Le nom du projet actuel contient des caractères non-ASCII, qui empêche le "
-#~ "fonctionnement d'Envoyer/recevoir projet.\n"
-#~ "Veuillez utiliser un nom qui ne contient que des caractères ASCII.\n"
-#~ "Vous pouvez choisir un autre nom de projet dans Propriétés du projet "
-#~ "FieldWorks."
-#~ msgid ""
-#~ "The current project name contains one or more non-ASCII characters. This "
-#~ "currently prevents use of the Send/Receive project function.\n"
-#~ "{0} is a name that will work.\n"
-#~ "You may choose a different project name in FieldWorks Project "
-#~ "Properties.\n"
-#~ "Click 'OK' to change the name of your project and continue with Send/"
-#~ "Receive.\n"
-#~ "Click 'Cancel' to cancel Send/Receive."
-#~ msgstr ""
-#~ "Le nom du projet actuel contient des caractères non-ASCII, qui empêche le "
-#~ "fonctionnement d'Envoyer/recevoir projet.\n"
-#~ "On peut utiliser le nom {0}.\n"
-#~ "Vous pouvez choisir un autre nom de projet dans Propriétés du projet "
-#~ "FieldWorks.\n"
-#~ "Cliquer sur 'OK' pour utiliser le changement proposé du nom de project "
-#~ "puis continuer avec Envoyer/recevoir.\n"
-#~ "Cliquer sur 'Annuler' pour annuler Envoyer/recevoir."
-#~ msgid ""
-#~ "The current project name contains one or more non-ASCII characters. This "
-#~ "currently prevents use of the Send/Receive Project function.\n"
-#~ "{0} is a name that will work.\n"
-#~ "You may choose a different project name in FieldWorks Project "
-#~ "Properties.\n"
-#~ "Click 'OK' to change the name of your project and continue with Send/"
-#~ "Receive.\n"
-#~ "Click 'Cancel' to cancel Send/Receive."
-#~ msgstr ""
-#~ "Le nom du projet actuel contient des caractères non-ASCII, qui empêche le "
-#~ "fonctionnement d'Envoyer/recevoir projet.\n"
-#~ "On peut utiliser le nom {0}.\n"
-#~ "Vous pouvez choisir un autre nom de projet dans Propriétés du projet "
-#~ "FieldWorks.\n"
-#~ "Cliquer sur 'OK' pour utiliser le changement proposé du nom de project "
-#~ "puis continuer avec Envoyer/recevoir.\n"
-#~ "Cliquer sur 'Annuler' pour annuler Envoyer/recevoir."
-# DLR
-#~ msgid ""
-#~ "The phoneme {0} of affix {1} is not defined.  Please make sure all "
-#~ "phonemes in all allomorphs of all affixes have been defined."
-#~ msgstr ""
-#~ "Le phonème {0} de l'affixe {1} n'est pas défini. Veilliez vérifier que "
-#~ "tous les phonèmes de tous les allomorphes sont définis."
-# DLR
-#~ msgid ""
-#~ "The phoneme {0} of lexical entry {1} is not defined.  Please make sure "
-#~ "all phonemes in all allomorphs of all entries have been defined."
-#~ msgstr ""
-#~ "Le phonème {0} de l'entrée lexicale  {1} n'est pas défini. Veilliez "
-#~ "vérifier que tous les phonèmes de tous les allomorphes de toutes les "
-#~ "entrées sont définis."
-#~ msgid ""
-#~ "The Project name you have entered contains one or more non-ASCII "
-#~ "characters. If you use this name for your project, you will be unable to "
-#~ "use the Send/Receive project function."
-#~ msgstr ""
-#~ "Le nom de projet que vous avez saisi contient des caractères non-ASCII. "
-#~ "Si vous garder ce nom pour votre projet, il sera impossible d'utiliser le "
-#~ "fonctionnement Envoyer/recevoir projet."
-# DLR
-#~ msgid "The XML is not well-formed; you need to correct it and try again."
-#~ msgstr ""
-#~ "Le XML n'est pas bien formé; vous devez le corriger et essayer encore."
-# DLR
-#~ msgid "<Unknown Complex Form>"
-#~ msgstr "<Forme complexe inconnue>"
-# DLR
-#~ msgid "Check for _Updates..."
-#~ msgstr "Rechercher les mises à jo_ur..."
-# DLR
-#~ msgid "Get Lexicon and _Merge with this Project..."
-#~ msgstr "Obtenir un lexique et le fusionner avec ce projet..."
-# DLR
-#~ msgid "Send this Lexicon for the first time..."
-#~ msgstr "Envoyer ce lexique pour la première fois..."
-# DLR
-#~ msgid "Send this Project for the first time..."
-#~ msgstr "Envoyer ce projet pour la première fois..."
-# DLR
-#~ msgid "Send/Receive _Lexicon (with programs that use LIFT)..."
-#~ msgstr "Envoyer/recevoir _lexique (avec un logiciel qui utilise LIFT)..."
-# DLR
-#~ msgid ""
-#~ "This project cannot be migrated to a newer version. Please shutdown all "
-#~ "other applications that are currently using this project and try opening "
-#~ "the project again."
-#~ msgstr ""
-#~ "Impossible de migrer ce projet à une version plus récente. Veuillez "
-#~ "fermer toutes les autres logiciels qui utilisent actuellement ce projet "
-#~ "et essayer de rouvrir le projet."
-# DLR tokenization => alignment? [Manually duplicated with revised English]
-#~ msgid ""
-#~ "This utility is intended to be used for fixing incorrect word alignment. "
-#~ "A bug in some releases of FLEx 7 could cause this to happen when 'Change "
-#~ "Spelling' was used. This will clear the flag that FLEx uses to determine "
-#~ "if a parse is current. It should not affect the work you have done in "
-#~ "analyzing texts other than repairing broken tokenization but it may "
-#~ "update unconfirmed parser analyses."
-#~ msgstr ""
-#~ "Cet utilitaire est conçu pour réparer l'alignement incorrect de mots. Un "
-#~ "bogue dans certaines versions de FLEx 7 pourrait provoquer cette "
-#~ "situation lorsqu'on utilise 'Changer l'orthographe'. Cet utilitaire "
-#~ "effacera l'indication utilisée par FLEx pour déterminer si une analyse "
-#~ "est à jour. Il ne devrait pas affecter votre travail d'analyse de textes "
-#~ "sauf réparer l'alignment incorrect, mais il peut actualiser les analyses "
-#~ "non confirmées de l'Analyseur."
