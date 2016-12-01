@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.3\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2016-09-27T16:54:06.2514922-05:00\n"
-"PO-Revision-Date: 2016-11-27 20:23-0800\n"
+"PO-Revision-Date: 2016-11-30 20:55-0800\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "MIME-Version: 1.0\n"
@@ -424,7 +424,7 @@ msgstr "A_llomorphe"
 
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-bestAnalysisAbbrName"]/@label
 msgid "Abbr: Name (Best Analysis)"
-msgstr ""
+msgstr "Abr.: Nom (La meilleure analyse)"
 
 #. /Src/LexText/LexTextControls/LexImportWizardMarker.resx::rbAbbrAbbr.Text
 msgid "&Abbreviation"
@@ -599,7 +599,7 @@ msgstr "Abréviation - Nom"
 # DLR
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-bestAnalysisAbbr"]/@label
 msgid "Abbreviation (Best Analysis)"
-msgstr ""
+msgstr "Abréviation (La meilleure analyse)"
 
 # DLR
 #. name for SFM import field; name matches enumeration member name
@@ -3729,11 +3729,11 @@ msgstr "Impossible de trouver la date dans la valuer \"{0}\" pour un champ \\{1}
 msgid "Cannot parse the feature string"
 msgstr "Impossible d'analyser la chaîne de traits"
 
-# DLR (MS term)
+# DLR
 #. used as header for message box displaying the system error message
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksNoPlayMedia
 msgid "Cannot play media file"
-msgstr "Impossible de lire le fichier multimédia"
+msgstr "Impossible de lire le fichier média"
 
 # DLR
 #. Error message when processing an XML file to create factory styles.
@@ -4247,9 +4247,10 @@ msgstr "Cocher cette case si ce modèle produit un mot bien formé. La décocher
 msgid "Check this to use bidirectional mirroring (and red text)"
 msgstr "Cocher pour réflexion bidirectionnel (et texte rouge)"
 
+# DLR
 #. /Src/xWorks/DictionaryConfigurationManagerDlg.resx::publicationsExplanationLabel.Text
 msgid "Checked Publications are affected by the selected Configuration on the left."
-msgstr ""
+msgstr "La configuration sélectionné à gauche concerne les publications cochées ci-dessous."
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksChoices_
 msgid "Choices:"
@@ -5272,7 +5273,7 @@ msgstr "Renvois aux entrées complexes ou variantes"
 #. /Language Explorer/DefaultConfigurations/Dictionary/Lexeme.fwdictconfig:://ConfigurationItem/@name
 #. (String used 5 times.)
 msgid "Component References"
-msgstr ""
+msgstr "Références aux composants"
 
 # DLR
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -5386,27 +5387,27 @@ msgstr "Confiance:"
 # DLR ?
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced1"]/@label
 msgid "Configurable Item Layout 1"
-msgstr ""
+msgstr "Configurable Item Layout 1"
 
 # DLR ?
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced2"]/@label
 msgid "Configurable Item Layout 2"
-msgstr ""
+msgstr "Configurable Item Layout 2"
 
 # DLR ?
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced3"]/@label
 msgid "Configurable Item Layout 3"
-msgstr ""
+msgstr "Configurable Item Layout 3"
 
 # DLR ?
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced4"]/@label
 msgid "Configurable Item Layout 4"
-msgstr ""
+msgstr "Configurable Item Layout 4"
 
 # DLR ?
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced5"]/@label
 msgid "Configurable Item Layout 5"
-msgstr ""
+msgstr "Configurable Item Layout 5"
 
 # DLR
 #. A generic description of a Dictionary Configuration or a Reversal Index Configuration.
@@ -5568,10 +5569,11 @@ msgstr "_Configure les colonnes"
 msgid "Configuring fields displayed in an Edit pane."
 msgstr "Configure les champs affichés dans un volet d'édition."
 
+# DLR ?
 #. {0} is the name of this node. {1} is a list of affected nodes.
 #. /Src/xWorks/xWorksStrings.resx::SharesWithTheseNodes
 msgid "Configuring the subfields of {0} also affects:{1}."
-msgstr ""
+msgstr "La configuration des sous-champs de {0} affecte aussi:{1}."
 
 #. /Src/FwCoreDlgs/FwUserProperties.resx::lblConfirmPwd1.Text
 #. /Src/UnicodeCharEditor/Properties/Resources.resx::ksConfirm
@@ -6285,9 +6287,10 @@ msgstr " créé le: "
 msgid "created on: "
 msgstr "créé le: "
 
+# SFC: date created or modified
 #. /Language Explorer/Configuration/Parts/Notebook.fwlayout::/LayoutInventory/layout["RnGenericRec-jtview-publishRecord"]/part[@ref="HistoryConfig"]/@label
 msgid "Created/Modified"
-msgstr ""
+msgstr "Créé/Modifié le"
 
 #. /Src/FwCoreDlgs/FwNewLangProject.resx::btnOK.HelpString
 msgid "Creates a FieldWorks Project with the name you have supplied and closes this dialog box."
@@ -7331,7 +7334,7 @@ msgstr "Supprimer cette étymologie"
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/commands/command/@label
 msgid "Delete this Media Link"
-msgstr "Supprimer ce lien multimédia"
+msgstr "Supprimer ce lien média"
 
 # DLR
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
@@ -9658,7 +9661,7 @@ msgstr "Étymologie - Glose"
 # DLR
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Etymology - Language Notes"
-msgstr "Étymologie - Notes de langue"
+msgstr "Étymologie - Notes de langue source"
 
 # DLR
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -12510,10 +12513,10 @@ msgstr "&Cacher info"
 msgid "&Hide Info «"
 msgstr "&Cacher info «"
 
-# Cacher l'info grammaticale du sous-sens si elle est la même ...
+# DLR
 #. /Src/xWorks/xWorksStrings.resx::ksHideGramInfoIfSameAsParent
 msgid "Hide subsense grammatical info if same as parent"
-msgstr ""
+msgstr "Masquer l'information grammaticale du sous-sens si elle est identique à celle du parent"
 
 # DLR ?
 #. Title for Chart Template or Markup Tag list warnings
@@ -12521,9 +12524,10 @@ msgstr ""
 msgid "Hierarchical Limit"
 msgstr "Limite d'hiérarchie"
 
+# DLR ?
 #. /Src/xWorks/xWorksStrings.resx::HighlightAffectedContent
 msgid "Highlight affected content"
-msgstr ""
+msgstr "Surligner le contenu concerné"
 
 # DLR French Unicode term
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidCanComb8
@@ -13397,7 +13401,7 @@ msgstr "Info de modèle flexionnel"
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@nameSuffix
 #. (String used 5 times.)
 msgid "Inflectional Variants"
-msgstr ""
+msgstr "Variantes flexionnelles"
 
 # DLR
 #. /Src/FDO/Strings.resx::ksInflectsAnyCat
@@ -14260,9 +14264,10 @@ msgstr "Les espaces invisibles"
 msgid "IPA Symbol"
 msgstr "Symbole de l'API"
 
+# DLR ? or Forme fléchie irrég. ?
 #. /Language Explorer/Configuration/Parts/CmPossibility.fwlayout::/LayoutInventory/layout["LexEntryInflType-detail-nestedVariant"]/part[@ref="Summary"]/@label
 msgid "Irr. Inflected Form"
-msgstr ""
+msgstr "Forme fléchie irrégulière"
 
 # @ DLR ?
 #. {0} is a string containing at least two writing systems; {1} is the name of one of them. Inserting this information gives a menu item indicating that the whole string should be in that writing system. Selecting the item will make it so.
@@ -14461,10 +14466,11 @@ msgstr "Ceci contient {0} relations lexicales ou renvois."
 msgid "It contains 1 lexical relation or cross reference."
 msgstr "Ceci contient 1 relation lexicale ou renvoi."
 
+# DLR
 #. {0} is the node the user has requested to share. {3} is the field these nodes control. {2} is an existing shared node.
 #. /Src/xWorks/xWorksStrings.resx::InadvisableToShare
 msgid "It is inadvisable to share '{0}' because a shared node with the same field ({1}) already exists ({2}). No changes have been made."
-msgstr ""
+msgstr "Il est déconseillé de partager '{0}' car un nœud partagé avec le même champ ({1}) existe déjà ({2}). On n'a fait aucune modification."
 
 # @ DLR
 #. {0} is a number (for showing a numbered list).
@@ -14498,6 +14504,7 @@ msgstr "Élément"
 msgid "Item"
 msgstr "Élément"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced1"]/part[@ref="ConfigureAbbr"]/@label
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced2"]/part[@ref="ConfigureAbbr"]/@label
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced3"]/part[@ref="ConfigureAbbr"]/@label
@@ -14505,12 +14512,13 @@ msgstr "Élément"
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced5"]/part[@ref="ConfigureAbbr"]/@label
 #. (String used 5 times.)
 msgid "Item Abbreviation"
-msgstr ""
+msgstr "Abréviation d'élément"
 
 #. /Src/xWorks/xWorksStrings.resx::ItemLayout
 msgid "Item layout"
 msgstr "Disposition d'élément"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced1"]/part[@ref="ConfigureName"]/@label
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced2"]/part[@ref="ConfigureName"]/@label
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced3"]/part[@ref="ConfigureName"]/@label
@@ -14518,7 +14526,7 @@ msgstr "Disposition d'élément"
 #. /Language Explorer/Configuration/Parts/Cellar.fwlayout::/LayoutInventory/layout["CmPossibility-jtview-advanced5"]/part[@ref="ConfigureName"]/@label
 #. (String used 5 times.)
 msgid "Item Name"
-msgstr ""
+msgstr "Nom d'élément"
 
 #  ou Article?
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::label13.Text
@@ -16077,19 +16085,19 @@ msgstr "Sens (Définition)"
 msgid "Meaning (Gloss)"
 msgstr "Sens (Glose)"
 
-# DLR MS term
+# DLR
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="CmMedia-Detail-MediaFile"]/slice/@label
 msgid "Media File"
-msgstr "Fichier multimédia"
+msgstr "Fichier média"
 
-# DLR MS term
+# DLR
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Lexeme.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Root.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 50 times.)
 msgid "Media Files"
-msgstr "Fichiers multimédias"
+msgstr "Fichiers médias"
 
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["MoAdhocProhibGr-detail-Edit"]/part[@ref="MembersSection"]/@label
 msgid "Members"
@@ -19468,9 +19476,10 @@ msgstr "P&olice:"
 msgid "Overlays and interior"
 msgstr "Overlays and interior"
 
+# DLR ??
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["MoEndoCompound-detail-Edit"]/part[@ref="BlankOverrideHead"]/@label
 msgid "Override Head with:"
-msgstr ""
+msgstr "Remplacer le centre avec:"
 
 # @ DLR ???
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoEndoCompound-Detail-OverridingMsa"]/obj/@label
@@ -20506,7 +20515,7 @@ msgstr "Préparation d'interlinéaire (Étape 5)"
 #. this is the title for a progress report dialog
 #. /Src/xWorks/xWorksStrings.resx::ksPreparingPublicationDisplay
 msgid "Preparing to display the publication view"
-msgstr ""
+msgstr "Préparation de l'affichage de la publication"
 
 # DLR
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="LexEntryInflType-Detail-GlossPrependAllA"]/slice/@label
@@ -20589,15 +20598,17 @@ msgstr "Mot inachevé précédent"
 msgid "Pre&vious Match"
 msgstr "Recherche pré&cédente"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntryRef-jtview-publishRootSubEntryRefs"]/part[@ref="ComponentHeadwordsConfig"]/@label
 msgid "Primary Entry (all)"
-msgstr ""
+msgstr "Entrée primaire (toutes)"
 
+# DLR ??
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntryRef-jtview-publishRootSubEntryRefs"]/part[@ref="PrimaryHeadwordsConfig"]/@label
 msgid "Primary Entry (subentry under)"
-msgstr ""
+msgstr "Entrée primaire (sous-entrée sous)"
 
-# DLR
+# DLR ?
 #. /Language Explorer/Configuration/Parts/Reversal.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishRIELexEntryPrimaryEntries"]/part[@ref="StemMainEntryConfig"]/@label
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Lexeme.fwdictconfig:://ConfigurationItem/@name
@@ -20605,8 +20616,9 @@ msgstr ""
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 30 times.)
 msgid "Primary Entry References"
-msgstr ""
+msgstr "Références à l'entrée primaire"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/Reversal.fwlayout::/LayoutInventory/layout["LexEntryRef-jtview-publishEntryRefsForConfig"]/part[@ref="ComponentHeadwordsConfig"]/@label
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Lexeme.fwdictconfig:://ConfigurationItem/@name
@@ -20614,7 +20626,7 @@ msgstr ""
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 30 times.)
 msgid "Primary Entry(s)"
-msgstr ""
+msgstr "Entrées primaires"
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/item/parameters/clerks/clerk/sortMethods/sortMethod/@label
 #. (String used 2 times.)
@@ -21022,21 +21034,24 @@ msgstr "_Prononciation"
 msgid "Pronunciation"
 msgstr "Prononciation"
 
+# DLR or Médias ?
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Lexeme.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Root.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 50 times.)
 msgid "Pronunciation Media"
-msgstr ""
+msgstr "Média de prononciation"
 
+# DLR ?
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Pronunciation-Location"
-msgstr ""
+msgstr "Prononciation-Endroit"
 
+# DLR ?
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Pronunciation-Media File"
-msgstr ""
+msgstr "Prononciation-Fichier média"
 
 #. /|strings-en.xml::/AlternativeTitles/LexPronunciation-Plural|
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -21770,7 +21785,7 @@ msgstr "Refaire Supprimer élément dans {0}"
 # DLR
 #. /Src/xWorks/xWorksStrings.resx::ksRedoDeleteMediaLink
 msgid "Redo Delete Media Link"
-msgstr "Refaire Supprimer lien multimédia"
+msgstr "Refaire Supprimer lien média"
 
 # DLR
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksRedoDeleteParticipants
@@ -21888,7 +21903,7 @@ msgstr "Refaire Insérer traduction littérale"
 # DLR ?
 #. /Src/xWorks/xWorksStrings.resx::ksRedoInsertMedia
 msgid "Redo Insert Media"
-msgstr "Refaire Insérer multimédia"
+msgstr "Refaire Insérer média"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksRedoAddNote
 msgid "Redo insert Note"
@@ -22324,7 +22339,7 @@ msgstr "Formes complexes référencés (de sens)"
 #. /Language Explorer/DefaultConfigurations/Dictionary/Root.fwdictconfig:://ConfigurationItem/@name
 #. (String used 13 times.)
 msgid "Referenced Entries"
-msgstr ""
+msgstr "Articles référencés"
 
 # DLR
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishCdCrossRef"]/part[@ref="HeadWordRef"]/@label
@@ -22353,19 +22368,20 @@ msgstr ""
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 90 times.)
 msgid "Referenced Headword"
-msgstr ""
+msgstr "Entrée référencée"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/Reversal.fwlayout::/LayoutInventory/layout["LexSense-jtview-publishRefMainEntryForReversal"]/part[@ref="RIEHeadword"]/@label
 msgid "Referenced Headword and Sense Number"
-msgstr ""
+msgstr "Entrée et numéro de sens référencés"
 
 #. /Language Explorer/Configuration/Parts/LexSense.fwlayout::/LayoutInventory/layout["LexSense-jtview-publishStemComponentTarget"]/part[@ref="OwnerOutlinePub"]/@label
 #. /Language Explorer/Configuration/Parts/LexSense.fwlayout::/LayoutInventory/layout["LexSense-jtview-publishStemPrimaryTarget"]/part[@ref="OwnerOutlinePub"]/@label
 #. (String used 2 times.)
 msgid "Referenced Sense"
-msgstr ""
+msgstr "Sens référencé"
 
-# DLR
+# DLR ?
 #. /Language Explorer/Configuration/Parts/LexSense.fwlayout::/LayoutInventory/layout["LexSense-jtview-CrossRefPub"]/part[@ref="OwnerOutlinePub"]/@label
 #. /Language Explorer/Configuration/Parts/LexSense.fwlayout::/LayoutInventory/layout["LexSense-jtview-publishCd"]/part[@ref="RIEHeadword"]/@label
 #. /Language Explorer/Configuration/Parts/LexSense.fwlayout::/LayoutInventory/layout["LexSense-jtview-publishCdCrossRef"]/part[@ref="OwnerOutlinePub"]/@label
@@ -22388,12 +22404,14 @@ msgstr ""
 #. /Language Explorer/DefaultConfigurations/Dictionary/Root.fwdictconfig:://ConfigurationItem/@name
 #. (String used 33 times.)
 msgid "Referenced Sense Headword"
-msgstr ""
+msgstr "Entrée du sens référencé"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/LexSense.fwlayout::/LayoutInventory/layout["LexSense-jtview-publishStemRefMainEntry"]/part[@ref="OwnerOutlinePub"]/@label
 msgid "Referenced Sense Headword and Sense Number"
-msgstr ""
+msgstr "Entrée du sens référencé et numéro de sens"
 
+# DLR?
 #. /Language Explorer/Configuration/Lexicon/ReversalEntriesBulkEdit/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["CmSemanticDomain-jtview-classifiedDict"]/part[@ref="ReferringSenses"]/@label
 #. /Language Explorer/Configuration/Parts/Reversal.fwlayout::/LayoutInventory/layout["ReversalIndexEntry-jtview-publishPara"]/part[@ref="SensesConfig"]/@label
@@ -22401,7 +22419,7 @@ msgstr ""
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 6 times.)
 msgid "Referenced Senses"
-msgstr ""
+msgstr "Sens référencés"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksReferences
 #. /Src/LexText/Morphology/MGA/MGAStrings.resx::ksReferences
@@ -22419,11 +22437,11 @@ msgstr "Références dans l'affichage Dictionnaire devraient inclure (si pertine
 msgid "References in Reversal Index and Classified Dictionary should include (if significant):"
 msgstr "Références dans l'index d'inversion et dictionnaire catégorisé devraient inclure (si pertinent):"
 
-# DLR
+# DLR ??
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@name
 #. (String used 2 times.)
 msgid "References Section"
-msgstr ""
+msgstr "Section des références"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Refresh"
@@ -22646,7 +22664,7 @@ msgstr "Supprimer le style de caractère"
 # DLR ?
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksBreakCircularRefs
 msgid "Remove circular references to complex forms"
-msgstr ""
+msgstr "Enlever des références circulaires vers des formes complexes"
 
 # DLR ?
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksRemoveDependentMarkerMenuItem
@@ -22658,9 +22676,10 @@ msgstr "Supprimer le marqueur de proposition"
 msgid "Remove from existing items"
 msgstr "L'enlever des éléments existants"
 
+# DLR ?
 #. /Src/xWorks/xWorksStrings.resx::RemoveHighlighting
 msgid "Remove highlighting from affected content"
-msgstr ""
+msgstr "Enlever le surlignage du contenu concerné"
 
 # DLR
 #. /|strings-en.xml::/Linguistics/Morphology/RemoveParserAnalyses/Label|
@@ -22821,9 +22840,10 @@ msgstr "Renommer le projet FieldWorks"
 msgid "Rename Toolbar"
 msgstr "Renommer la barre d'outils"
 
+# DLR
 #. /Src/xWorks/DictionaryConfigurationManagerDlg.resx::explanationLabel.Text
 msgid "Rename, copy, and delete dictionary configurations. Choose which publications are associated with which dictionary configurations."
-msgstr ""
+msgstr "Renommer, copier et supprimer des configurations de dictionnaire. Choisir quelles publications sont associées à chaque configuration."
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidRenameButton
 msgid "&Rename..."
@@ -24743,9 +24763,10 @@ msgstr "Bref retard"
 msgid "Short Description"
 msgstr "Description brève"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-GlossAllA"]/slice/@tooltip
 msgid "Short translation equivalent for this lexeme.  Used in interlinear texts, and in the dictionary article when Definition is empty."
-msgstr ""
+msgstr "Traduction courte de ce lexème. Utilisé dans des textes interlinéaires et dans l'article du dictionnaire lorsque la définition est vide."
 
 # @ DLR: "Touche de raccourci:" truncated in 6.0
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwGeneralTab.resx::label7.Text
@@ -26283,10 +26304,10 @@ msgstr "{0} Base"
 msgid "STEM"
 msgstr "BASE"
 
-# DLR
+# DLR ???
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["MoStemAllomorph-detail-Normal"]/part[@ref="FormAllV"]/@label
 msgid "Stem Allomorph"
-msgstr ""
+msgstr "Allomorphe d'une base"
 
 # DLR:JN
 #. /|strings-en.xml::/ClassNames/MoStemMsa|
@@ -26314,12 +26335,12 @@ msgstr "Nom de base"
 msgid "Stem Name"
 msgstr "Nom de base"
 
-# DLR:JN
+# DLR ???
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["PartOfSpeech-detail-default"]/part[@ref="StemNamesSection"]/@label
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["PartOfSpeech-detail-default"]/part[@ref="StemNamesSection"]/indent/part[@ref="StemNames"]/@label
 #. (String used 2 times.)
 msgid "Stem Names"
-msgstr ""
+msgstr "Noms des bases"
 
 # DLR:JN
 #. /Src/FDO/Strings.resx::ksStemNoCatInfo
@@ -27619,9 +27640,10 @@ msgstr ""
 "\n"
 "et ici..."
 
+# DLR ??
 #. /Src/xWorks/xWorksStrings.resx::ksNoConfiguration
 msgid "The dictionary display configuration has not been set."
-msgstr ""
+msgstr "La configuration d'affichage du dictionnaire n'est pas encore définie."
 
 # DLR ?
 #. /Src/FDO/Strings.resx::ksCannotRestoreLinkedFilesToDir
@@ -28431,7 +28453,7 @@ msgstr "La représentation pour cet environnement. Voir l'Aide pour plus d'infor
 #. low priority for localizing, helpful to developers of dictionary configuration files, hopefully users will never see this.
 #. /Src/xWorks/xWorksStrings.resx::InvalidRootConfigurationNode
 msgid "The root node in your configuration is invalid. The field attribute '{0}' must match a class name."
-msgstr ""
+msgstr "The root node in your configuration is invalid. The field attribute '{0}' must match a class name."
 
 # DLR
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidEncoderNotAvailable
@@ -28485,9 +28507,10 @@ msgstr "L'objet choisi a été supprimé (peut-être par un autre utilisateur su
 msgid "The selected page size is too small to print the report. Please choose a larger size."
 msgstr "La taille de la page sélectionnée est trop petite pour imprimer le rapport. Veuillez choisir une taille plus grande."
 
+# DLR
 #. /Src/FwParatextLexiconPlugin/Strings.resx::ksProjectOpen
 msgid "The selected project is currently open in FieldWorks Language Explorer. The project must be closed in order to associate it with a ParaTExt project."
-msgstr ""
+msgstr "Le projet sélectionné est actuellement ouvert dans FieldWorks Language Explorer. On doit le fermer afin de l'associer à un projet ParaTExt."
 
 #. {0} is a filename
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksInvalidSettingsFileX
@@ -29890,9 +29913,10 @@ msgstr "Fichiers des listes traduites"
 msgid "Translation"
 msgstr "Traduction"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-ReversalEntries"]/slice/@tooltip
 msgid "Translation equivalent used in the finder list (Reversal Index)."
-msgstr ""
+msgstr "Traduction utilisée dans la liste de recherche (l'index d'inversion)."
 
 #. /|strings-en.xml::/PossibilityListItemTypeNames/TranslationTags|
 msgid "Translation Type"
@@ -30596,7 +30620,7 @@ msgstr "Annuler Supprimer élément dans {0}"
 # DLR ?
 #. /Src/xWorks/xWorksStrings.resx::ksUndoDeleteMediaLink
 msgid "Undo Delete Media Link"
-msgstr "Annuler Supprimer lien multimédia"
+msgstr "Annuler Supprimer lien média"
 
 # DLR
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksUndoDeleteParticipants
@@ -30715,7 +30739,7 @@ msgstr "Annuler Insérer traduction littérale"
 # DLR ?
 #. /Src/xWorks/xWorksStrings.resx::ksUndoInsertMedia
 msgid "Undo Insert Media"
-msgstr "Annuler Insérer multimédia"
+msgstr "Annuler Insérer média"
 
 # DLR
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUndoAddNote
@@ -31702,11 +31726,12 @@ msgstr "Valeur"
 msgid "Value #{0}"
 msgstr "Valeur #{0}"
 
+# DLR
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["FsSymFeatVal-detail-EditValue"]/part[@ref="NameAllA"]/@label
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["FsSymFeatVal-detail-PhonEditValue"]/part[@ref="NameAllA"]/@label
 #. (String used 2 times.)
 msgid "Value Name"
-msgstr ""
+msgstr "Nom"
 
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["FsClosedFeature-detail-Edit"]/part[@ref="InflectionFeaturesValuesSection"]/@label
@@ -31725,10 +31750,10 @@ msgstr "_Variante"
 msgid "Variant abbreviation:"
 msgstr "Abréviation de variante:"
 
-# DLR
+# DLR ?
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Variant Comment"
-msgstr ""
+msgstr "Commentaire sur la variante"
 
 # DLR
 #. /|strings-en.xml::/Type/Minor entry|
@@ -31822,6 +31847,7 @@ msgstr "Variante de..."
 msgid "&Variant of:"
 msgstr "&Variante de:"
 
+# DLR ?
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishPronunForCdSenseVariantRef"]/part[@ref="VariantPronunciationsConfig"]/@label
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishPronunForRootMinorSenseVariantRef"]/part[@ref="VariantPronunciationsConfig"]/@label
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishPronunForRootMinorSubSenseVariantRef"]/part[@ref="VariantPronunciationsConfig"]/@label
@@ -31843,7 +31869,7 @@ msgstr "&Variante de:"
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 51 times.)
 msgid "Variant Pronunciations"
-msgstr ""
+msgstr "Prononciations de la variant"
 
 #. /|strings-en.xml::/AlternativeTitles/variantType|
 #. /|strings-en.xml::/PossibilityListItemTypeNames/VariantEntryTypes|
@@ -32340,7 +32366,7 @@ msgstr "Attention: Élément <Link/> non valide - doit avoir au moins un attribu
 # DLR
 #. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksMissingMediaFile
 msgid "Warning: Media file \"{0}\" does not exist."
-msgstr "Attention: le fichier multimédia \"{0}\" n'existe pas."
+msgstr "Attention: le fichier média \"{0}\" n'existe pas."
 
 # DLR
 #. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksMissingBooleanVal
