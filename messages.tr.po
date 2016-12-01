@@ -5102,7 +5102,7 @@ msgstr "LIFT veri içe aktarmak için proje oluşturuyor"
 msgid "Creating a temporary copy of {0} failed.  The copy process returned error code {1} and error message {2}."
 msgstr ""
 "{0}'ın geçici kopyasını oluşturma başarısız oldu. Kopyalama süreci hata kodu "
-"{1] ve hata mesajına {2] dönüştü."
+"{1} ve hata mesajına {2} dönüştü."
 
 #. Displayed in the progress dialog box when creating a new FieldWorks project
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidCreatingWS
