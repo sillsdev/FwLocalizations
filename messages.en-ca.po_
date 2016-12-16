@@ -4850,8 +4850,8 @@ msgid "Create a new phonological rule."
 msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::createButton.Text
-msgid "            Create a new project..."
-msgstr "^1^      Create a &New Project..."
+msgid " Create a new project..."
+msgstr "^1^Create a &New Project..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertRecord"]
 msgid "Create a new Record in your Notebook."
@@ -9357,8 +9357,8 @@ msgid "Get project from a colleague"
 msgstr "^1^Get project from a colleague"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::receiveButton.Text
-msgid "            Get project from a colleague..."
-msgstr "^1^            Get project from a colleague..."
+msgid " Get project from a colleague..."
+msgstr "^1^Get project from a colleague..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
@@ -10330,8 +10330,8 @@ msgid "Import Standard Format anthropology data"
 msgstr "^4^Import Standard Format anthropology data"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::importButton.Text
-msgid "            Import Standard Format data into a new project..."
-msgstr "^2^            Import Standard Format data into a new project..."
+msgid " Import Standard Format data into a new project..."
+msgstr "^2^Import Standard Format data into a new project..."
 
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.Text
 msgid "Import Standard Format lexical data"
@@ -15179,8 +15179,8 @@ msgid "Open a New Window"
 msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::openButton.Text
-msgid "            Open a project..."
-msgstr "^1^      Open a Project..."
+msgid " Open a project..."
+msgstr "^1^Open a Project..."
 
 #. /Src/Utilities/Reporting/ErrorReport.resx::radEmail.Text
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradEmail
@@ -18292,8 +18292,8 @@ msgid "Restore a Project"
 msgstr "^1^Restore a Project"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::restoreButton.Text
-msgid "            Restore a project from a backup file..."
-msgstr "^1^            Restore a project from a backup file..."
+msgid " Restore a project from a backup file..."
+msgstr "^1^Restore a project from a backup file..."
 
 #. This is the text for the restore option on the file/project management menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidRestoreItemName

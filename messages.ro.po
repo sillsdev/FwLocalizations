@@ -4860,8 +4860,8 @@ msgid "Create a new phonological rule."
 msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::createButton.Text
-msgid "            Create a new project..."
-msgstr "            Gukora umushinga mushya..."
+msgid " Create a new project..."
+msgstr " Gukora umushinga mushya..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertRecord"]
 msgid "Create a new Record in your Notebook."
@@ -9327,8 +9327,8 @@ msgid "Get project from a colleague"
 msgstr "Kwakira umushinga uvuye kuri mugenzi bawe"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::receiveButton.Text
-msgid "            Get project from a colleague..."
-msgstr "            Kwakira umushinga uwuvanye kuri bagenzi bawe..."
+msgid " Get project from a colleague..."
+msgstr " Kwakira umushinga uwuvanye kuri bagenzi bawe..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
@@ -10298,7 +10298,7 @@ msgid "Import Standard Format anthropology data"
 msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::importButton.Text
-msgid "            Import Standard Format data into a new project..."
+msgid " Import Standard Format data into a new project..."
 msgstr ""
 
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::$this.Text
@@ -15119,8 +15119,8 @@ msgid "Open a New Window"
 msgstr ""
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::openButton.Text
-msgid "            Open a project..."
-msgstr "            Gufungura umushinga..."
+msgid " Open a project..."
+msgstr " Gufungura umushinga..."
 
 #. /Src/Utilities/Reporting/ErrorReport.resx::radEmail.Text
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradEmail
@@ -18210,7 +18210,7 @@ msgid "Restore a Project"
 msgstr "Gusubizaho umushinga"
 
 #. /Src/Common/FieldWorks/WelcomeToFieldWorksDlg.resx::restoreButton.Text
-msgid "            Restore a project from a backup file..."
+msgid " Restore a project from a backup file..."
 msgstr ""
 
 #. This is the text for the restore option on the file/project management menu.
