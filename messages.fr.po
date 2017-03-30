@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.3\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2017-03-29 19:09-0500\n"
-"PO-Revision-Date: 2017-03-29 18:00-0800\n"
+"PO-Revision-Date: 2017-03-29 20:45-0800\n"
 "Last-Translator: David Rowe <david_rowe@sil.org>\n"
 "Language-Team: French <David_Rowe@sil.org>\n"
 "Language: fr\n"
@@ -4940,7 +4940,7 @@ msgstr "Valeur de code:"
 
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidoutsideRange
 msgid "Codepoint is not a valid 21-bit Unicode code point ranging from 0 through 10FFFF."
-msgstr ""
+msgstr "Point de code n'est pas un point de code Unicode valide (21 bit) entre 0 et 10FFFF."
 
 # DLR
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidlongCodepoint
@@ -9419,7 +9419,7 @@ msgstr "Erreur de convertisseur de l'ancienne génération ICU"
 #. Error added to the first of the import information after a user selects a Reversal Index view when we're expecting a Dictionary view, or vice versa.
 #. /Src/xWorks/xWorksStrings.resx::DictionaryConfigurationMismatch
 msgid "Error! The file contains a {0} view."
-msgstr ""
+msgstr "Erreur! Le fichier contient un affichage {0}."
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ks1Error
 msgid "1 Error:"
@@ -24047,7 +24047,7 @@ msgstr "Choisir le fichier de configuration pour cette importation"
 
 #. /Src/xWorks/DictionaryConfigurationManagerDlg.resx::publicationsExplanationLabel.Text
 msgid "Select the publications that will use the highlighted view on the left."
-msgstr ""
+msgstr "Sélectionner les publications qui utiliseront l'affichage surligné à gauche."
 
 # @ DLR ??
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksAdvDlgMainPostText
@@ -31343,7 +31343,7 @@ msgstr "À utiliser lorsque vous trouver (dans Concordance de liste de mots, par
 #. Help text for Force Rechecking Word Breaks utility dialog item.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUseClearParseIsCurrentWhen
 msgid "Use this when you suspect the program does not have its analysis of texts aligned with the text. One thing that could cause this was using the Change Spelling command in FLEx 7.0 through 7.2.2. One symptom is an incorrect Word List Concordance, where what is highlighted for an occurrence is not the selected word."
-msgstr "À utiliser lorsque vous pensez que le logiciel n'a pas bien aligné ses analyses de texte avec le texte. Cela peut arriver en utilisant le dialogue Changer l'orthographe dans FLEx version 7.0 à 7.2.2. Un symptôme est un résultat incorrect de Concordance de liste de mots, où ce qui est mis en surbrillance pour une occurrence n'est pas le mot en question."
+msgstr "À utiliser lorsque vous pensez que le logiciel n'a pas bien aligné ses analyses de texte avec le texte. Cela peut arriver en utilisant le dialogue Changer l'orthographe dans FLEx version 7.0 à 7.2.2. Un symptôme est un résultat incorrect de Concordance de liste de mots, où ce qui est surligné pour une occurrence n'est pas le mot en question."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksDeleteEntriesSensesWhen
 msgid "Use this when you want to have a lexicon that is limited to entries and senses that are used in one or more filtered interlinear texts."
@@ -31909,7 +31909,7 @@ msgstr "Affichage:"
 
 #. /Src/xWorks/DictionaryConfigurationManagerDlg.resx::explanationLabel.Text
 msgid "Views can be duplicated to create custom views, reset to original defaults, associated with publications, or imported and exported."
-msgstr ""
+msgstr "Les affichages peuvent être dupliqués pour créer des affichages personnalisés, réinitialisés aux valeurs d'origine, associés aux publications, importés ou exportés."
 
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColor22
 msgid "Violet,128,0,128"
@@ -32012,7 +32012,7 @@ msgstr "Avertissement!"
 #. Warning added to the end of the import information after a user selects a zip file.
 #. /Src/xWorks/xWorksStrings.resx::DictionaryConfigurationDictionaryConfigurationUser_StyleOverwriteWarning
 msgid "Warning! The styles for this project will be overwritten by the import."
-msgstr ""
+msgstr "Attention! Les styles de ce projet seront écrasés par l'importation."
 
 # DLR
 #. /Src/FDO/Strings.resx::ksWarningDelAnalysis
@@ -39411,7 +39411,7 @@ msgstr "Langue de l'interface:"
 #. MessageBox prompt used in Compare and Merge dialog box
 #. /Src/TE/TeResources/TeStrings.resx::kstidConfirmUseThisVersion
 msgid "Using this version will cause the highlighted text in the current version to be deleted. Are you sure you want to do this?"
-msgstr "Choisir cette version supprimera le texte en surbrillance dans la version actuelle. Êtes-vous sûr de vouloir le faire?"
+msgstr "Choisir cette version supprimera le texte surligné dans la version actuelle. Êtes-vous sûr de vouloir le faire?"
 
 # DLR
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::lblScriptRegionVariant.Text
