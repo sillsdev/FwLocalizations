@@ -23247,8 +23247,8 @@ msgid "To Category"
 msgstr "Ke Kategori"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
-msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
-msgstr "Untuk membuat pembaikan lilit, setiap pilihan yang tidak kosong daripada bentuk tersebut mestilah mempunyai dua morfem yang dipisahkan oleh satu jarak atau tempoh(-tempoh)."
+msgid "To create a circumfix, every non-blank alternative of the Lexeme Form must have two morphemes separated by a space or period(s)."
+msgstr "Untuk membuat pembaikan lilit, setiap pilihan yang tidak kosong daripada bentuk leksem tersebut mestilah mempunyai dua morfem yang dipisahkan oleh satu jarak atau tempoh(-tempoh)."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/para/lit
 msgid "To edit the template table: right-click on STEM, on a slot name, or on a morpheme."

@@ -23663,7 +23663,7 @@ msgid "To Category"
 msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
-msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
+msgid "To create a circumfix, every non-blank alternative of the Lexeme Form must have two morphemes separated by a space or period(s)."
 msgstr ""
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/para/lit

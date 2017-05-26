@@ -23171,8 +23171,8 @@ msgid "To Category"
 msgstr "В категорию"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
-msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
-msgstr "Для создания циркумфикса любая непустая альтернатива формы должна иметь две морфемы, разделённые пробелом или точкой(точками)."
+msgid "To create a circumfix, every non-blank alternative of the Lexeme Form must have two morphemes separated by a space or period(s)."
+msgstr "Для создания циркумфикса любая непустая альтернатива Форма лексемы должна иметь две морфемы, разделённые пробелом или точкой(точками)."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/para/lit
 msgid "To edit the template table: right-click on STEM, on a slot name, or on a morpheme."

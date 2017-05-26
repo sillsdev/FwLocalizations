@@ -28400,7 +28400,7 @@ msgid ""
 "This Lexeme Form contains several morphemes. Add the fields for me to "
 "specify the components and type of complex form."
 msgstr ""
-"Esta Forma de lexema contiene diversos morfemas. Añada los campos para que "
+"Esta Forma de Lexema contiene diversos morfemas. Añada los campos para que "
 "pueda especificar los componentes y tipo de forma compleja."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdDataTree-Insert-VariantSpec"]
@@ -29045,11 +29045,11 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
 msgid ""
-"To create a circumfix, every non-blank alternative of the form must have two "
+"To create a circumfix, every non-blank alternative of the Lexeme Form must have two "
 "morphemes separated by a space or period(s)."
 msgstr ""
-"Para crear un circunfijo, todas las alternativas que no están en blanco de "
-"la forma debe tener dos morfemas separados por un espacio o punto(s)."
+"Para crear un circunfijo, todas las alternativas de la Forma de Lexema "
+"que no están en blanco debe tener dos morfemas separados por un espacio o punto(s)."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/if/para/lit
 #. (String used 2 times.)

@@ -24476,8 +24476,8 @@ msgid "To close this Scripture, click here:"
 msgstr "Para fechar esta Escritura, clique aqui:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
-msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
-msgstr "Para criar um circunfixo, cada alternativa não-branco da forma deve ter dois morfemas separados por espaço(s) ou ponto(s) final(ais)."
+msgid "To create a circumfix, every non-blank alternative of the Lexeme Form must have two morphemes separated by a space or period(s)."
+msgstr "Para criar um circunfixo, cada alternativa não-branco da forma de lexema deve ter dois morfemas separados por espaço(s) ou ponto(s) final(ais)."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/para/lit
 msgid "To edit the template table: right-click on STEM, on a slot name, or on a morpheme."

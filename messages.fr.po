@@ -29377,8 +29377,8 @@ msgstr "Pour remettre l'emplacement des fichiers liés à l'emplacement par déf
 
 # DLR
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
-msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
-msgstr "Pour créer un circumfixe, chaque alternative de la forme qui n'est pas vide doit avoir deux morphèmes séparés par une espace ou un point."
+msgid "To create a circumfix, every non-blank alternative of the Lexeme Form must have two morphemes separated by a space or period(s)."
+msgstr "Pour créer un circumfixe, chaque alternative de la forme de lexème qui n'est pas vide doit avoir deux morphèmes séparés par une espace ou un point."
 
 # @ DLR:JN
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/if/para/lit

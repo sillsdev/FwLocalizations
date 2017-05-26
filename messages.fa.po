@@ -27574,7 +27574,7 @@ msgid "To close this Scripture, click here:"
 msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
-msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
+msgid "To create a circumfix, every non-blank alternative of the Lexeme Form must have two morphemes separated by a space or period(s)."
 msgstr "جهت ایجاد وند دو قسمتی(وندی است که در پیش و پس بن واژه قرار می‌گیرد.)، هر گزینه‌ای خالی باید دو تکواژی دارا باشد که توسط فاصله خالی و یا نقطه (نقطه‌ها) جدا شود."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/para/lit
