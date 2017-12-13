@@ -19727,7 +19727,7 @@ msgid ""
 "\n"
 "{1}"
 msgstr ""
-"Por favor envíe este informe a {0} con este subjeto exacto:\n"
+"Por favor envíe este informe a {0} con un asunto apropriado:\n"
 "\n"
 "{1}"
 
@@ -19746,7 +19746,7 @@ msgid ""
 "\n"
 "{2}"
 msgstr ""
-"Por favor envíe este informe a {0} con este subjeto exacto:  {1}\n"
+"Por favor envíe este informe a {0} con este asunto exacto:  {1}\n"
 "\n"
 "{2}"
 
@@ -27142,7 +27142,7 @@ msgstr ""
 msgid ""
 "The import process has detected some entries in which the field markers were "
 "not ordered as expected. (Refer to the list below to see which entries are "
-"affected.)"
+"affected.) The links will open Zedit in the original SFM file at the location of interest. It only works in Internet Explorer. To use it, when the page opens, at the bottom of the browser, it displays, "Internet Explorer restricted this webpage from running scripts or ActiveX controls". Click "Allow blocked content". After the first link is clicked, the following dialog will come up, "An ActiveX control on this page might be unsafe to interact with other parts of the page. Do you want to allow this interaction?" Click "Yes" and the links will then work anywhere on the page."
 msgstr ""
 
 #. {0} and {1} are bits of HTML that make the text between them "active"
@@ -28400,7 +28400,7 @@ msgid ""
 "This Lexeme Form contains several morphemes. Add the fields for me to "
 "specify the components and type of complex form."
 msgstr ""
-"Esta Forma de lexema contiene diversos morfemas. Añada los campos para que "
+"Esta Forma de Lexema contiene diversos morfemas. Añada los campos para que "
 "pueda especificar los componentes y tipo de forma compleja."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdDataTree-Insert-VariantSpec"]
@@ -29045,11 +29045,11 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
 msgid ""
-"To create a circumfix, every non-blank alternative of the form must have two "
+"To create a circumfix, every non-blank alternative of the Lexeme Form must have two "
 "morphemes separated by a space or period(s)."
 msgstr ""
-"Para crear un circunfijo, todas las alternativas que no están en blanco de "
-"la forma debe tener dos morfemas separados por un espacio o punto(s)."
+"Para crear un circunfijo, todas las alternativas de la Forma de Lexema "
+"que no están en blanco debe tener dos morfemas separados por un espacio o punto(s)."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/if/para/lit
 #. (String used 2 times.)

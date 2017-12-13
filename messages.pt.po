@@ -23419,7 +23419,7 @@ msgid "The help topic is not available for topic: {0}"
 msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksMisorderedMarkers
-msgid "The import process has detected some entries in which the field markers were not ordered as expected. (Refer to the list below to see which entries are affected.)"
+msgid "The import process has detected some entries in which the field markers were not ordered as expected. (Refer to the list below to see which entries are affected.) The links will open Zedit in the original SFM file at the location of interest. It only works in Internet Explorer. To use it, when the page opens, at the bottom of the browser, it displays, "Internet Explorer restricted this webpage from running scripts or ActiveX controls". Click "Allow blocked content". After the first link is clicked, the following dialog will come up, "An ActiveX control on this page might be unsafe to interact with other parts of the page. Do you want to allow this interaction?" Click "Yes" and the links will then work anywhere on the page."
 msgstr ""
 
 #. {0} and {1} are bits of HTML that make the text between them "active"
@@ -24476,8 +24476,8 @@ msgid "To close this Scripture, click here:"
 msgstr "Para fechar esta Escritura, clique aqui:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksCompleteCircumfix
-msgid "To create a circumfix, every non-blank alternative of the form must have two morphemes separated by a space or period(s)."
-msgstr "Para criar um circunfixo, cada alternativa não-branco da forma deve ter dois morfemas separados por espaço(s) ou ponto(s) final(ais)."
+msgid "To create a circumfix, every non-blank alternative of the Lexeme Form must have two morphemes separated by a space or period(s)."
+msgstr "Para criar um circunfixo, cada alternativa não-branco da forma de lexema deve ter dois morfemas separados por espaço(s) ou ponto(s) final(ais)."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Jt-SpecialNote"]/para/lit
 msgid "To edit the template table: right-click on STEM, on a slot name, or on a morpheme."
