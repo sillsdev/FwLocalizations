@@ -11630,6 +11630,9 @@ msgstr "Sistemas globales de escritura han cambiado"
 msgid "Gloss"
 msgstr "Glosa"
 
+msgid "Gloss "
+msgstr "Glosar"
+
 #. /Language Explorer/DefaultConfigurations/Dictionary/Hybrid.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Lexeme.fwdictconfig:://ConfigurationItem/@name
 #. /Language Explorer/DefaultConfigurations/Dictionary/Root.fwdictconfig:://ConfigurationItem/@name
