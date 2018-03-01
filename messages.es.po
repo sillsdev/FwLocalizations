@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.3\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2017-03-30 16:21-0500\n"
-"PO-Revision-Date: 2018-02-28 19:11-0600\n"
+"PO-Revision-Date: 2018-02-28 19:54-0600\n"
 "Last-Translator: FLEx Localization <FLEx_Localization@sil.org>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -49,7 +49,7 @@ msgstr ""
 "\n"
 "Para proteger sus datos, el programa necesita cerrarse.\n"
 "\n"
-"Ud. debería ser capaz de reiniciar normalmente"
+"Ud. debería ser capaz de reiniciar normalmente."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksCannotAccessEC
 msgid ""
@@ -76,7 +76,7 @@ msgstr "Una {0}"
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksBrowseNeedsAColumn
 msgid "A browse view must have at least one column."
-msgstr "Una vista examinar debe tener por lo menos una columna. navegar por la vista"
+msgstr "Una vista examinar debe tener por lo menos una columna."
 
 #. Error message when paste is disallowed
 #. /Src/FwResources/FwStrings.resx::kstidFootnoteCallerAlreadyInBt
@@ -326,7 +326,7 @@ msgstr "Una nota especial sobre dónde obtener información sobre cómo introduc
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidDecompCompatsub
 #. (String used 2 times.)
 msgid "A subscript form"
-msgstr "Una forma de subíndice."
+msgstr "Una forma de subíndice"
 
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidDecompCompatsuper
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidDecompCompatsuper
@@ -693,9 +693,8 @@ msgstr "Cuenta"
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoInflAffixTemplate-Detail-Active"]/slice/@label
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="PhSegmentRule-Detail-Active"]/slice/@label
 #. (String used 7 times.)
-#, fuzzy
 msgid "Active"
-msgstr "Añadir las palabras marcadas como escritas correctamente al diccionario ortográfico activo."
+msgstr "Activo"
 
 # No entiendo que es "Actual" en inglés PP
 # BB: I think it is a command, but I'm not sure.
@@ -1126,7 +1125,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/AddNewUserDlg.resx::$this.Text
 msgid "Adding a New User"
-msgstr "Añadiendo un Nuevo Usuario."
+msgstr "Añadiendo un nuevo usuario"
 
 #. Used in Archive with RAMP dialog box
 #. /Src/FwResources/FwStrings.resx::kstidAddingFwProject
@@ -1311,7 +1310,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/DataNotebook/TextFieldOptions.resx::m_chkAfterBlankLine.Text
 msgid "after any blank line"
-msgstr "Después de cualquier línea en blanco."
+msgstr "después de cualquier línea en blanco"
 
 #. /Src/FwCoreDlgs/MissingOldFieldWorksDlg.resx::m_labelAfterDownload.Text
 msgid "After downloading and installing whatever is needed, click Retry in this dialog box."
@@ -1660,7 +1659,7 @@ msgstr "Una entrada que tiene componentes no puede tener tipo de morfema \"radic
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidERTexts
 #. (String used 2 times.)
 msgid "An error has occurred"
-msgstr "Ocurrió un error."
+msgstr "Ocurrió un error"
 
 #. Parameter will be the text of the error from the printer driver
 #. /Src/Common/SimpleRootSite/Properties/Resources.resx::kstidPrintingException
@@ -1839,12 +1838,12 @@ msgstr ""
 #. Part of message displayed in Upload to Webonary dialog to inform user about what data will be uploaded. Will be inserted into the PublicationEntriesLabel string. 0 is a number. 1 is the name of a language or a reversal index configuration name. This string will be used in cases where there is just one reversal index configuration to report the count for.
 #. /Src/xWorks/xWorksStrings.resx::ReversalEntries_Only
 msgid " and {0} {1} reversal entries"
-msgstr " y {0} {1} entradas inversas."
+msgstr " y {0} entradas inversas de {1}"
 
 #. Part of message displayed in Upload to Webonary dialog to inform user about what data will be uploaded. Will be inserted into the PublicationEntriesLabel string. 0 is a number. 1 is the name of a language or a reversal index configuration (view) name. This string will be used in cases where there are more than one reversal index configuration to report the count for, and this is the last one.
 #. /Src/xWorks/xWorksStrings.resx::ReversalEntries_Last
 msgid ", and {0} {1} reversal entries"
-msgstr ", y {0} {1} entradas inversas"
+msgstr ", y {0} entradas inversas de {1}"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksIncludesAndRestoreDlg
 msgid " and {0}."
@@ -1917,7 +1916,7 @@ msgstr "Categoría antropológica"
 #. field name for Data Notebook records
 #. /Src/FwResources/FwStrings.resx::kstidAnthroCodes
 msgid "Anthropology Codes"
-msgstr "Códigos antropológicos."
+msgstr "Códigos antropológicos"
 
 #. Used in the list of file types in file open dialogs
 #. /Src/FwResources/FwStrings.resx::kstidShoeboxAnthropologyDatabase
@@ -1992,7 +1991,7 @@ msgstr "{0} Cualquier carácter"
 #. {0} is a number (for showing a numbered list).
 #. /Src/FDO/Strings.resx::ksDelWfGlossUsedXTimes
 msgid "{0}. Any texts that use it will need more analysis work, as it is used {1} times in your texts."
-msgstr "{0}. Cualquier texto que utilice esto necesitará más trabajo de análisis, ya que se usa {1} vez en sus textos"
+msgstr "{0}. Cualquier texto que utilice esto necesitará más trabajo de análisis, ya que se usa {1} vez en sus textos."
 
 #. {0} is a number (for showing a numbered list).
 #. /Src/FDO/Strings.resx::ksDelWfGlossUsedOnce
@@ -2007,7 +2006,7 @@ msgstr ""
 #. {0} is a number (for showing a numbered list).
 #. /Src/FDO/Strings.resx::ksDelAnalysisUsedOnce
 msgid "{0}. Any texts that used it will need more analysis work, as it is being used 1 time in your texts."
-msgstr "{0}. Cualquier texto usado necesitará más trabajo de análisis, ya que se usa 1 vez en sus textos"
+msgstr "{0}. Cualquier texto usado necesitará más trabajo de análisis, ya que se usa 1 vez en sus textos."
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksComplexConcInflFeatAny
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksAny
@@ -2023,7 +2022,7 @@ msgstr "Dondequiera"
 
 #. /|strings-en.xml::/Linguistics/Morphology/Adjacency/Anywhere|
 msgid "anywhere around"
-msgstr "En cualquier lugar alrededor"
+msgstr "en cualquier lugar alrededor"
 
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="LexEntryInflType-Detail-GlossAppendAllA"]/slice/@label
 msgid "Append to Gloss"
@@ -2070,7 +2069,7 @@ msgstr "Aplicar estilo"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Apply Style..."
-msgstr "_Aplicar estilo"
+msgstr "_Aplicar estilo..."
 
 #. This is the text for the Apply Style menu on the format menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidApplyStyleItemName
@@ -2124,7 +2123,7 @@ msgstr "Aprueba el análisis sugerido y continúa con la siguiente palabra."
 # Para ingles: No sería un punto en vez de coma?. El punto coincide con la traducción anterior y siguiente PP
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdMoveFocusBoxLeft"]
 msgid "Approve the suggested analysis and move to the word on the left,"
-msgstr "Aprueba el análisis sugerido y continúa con la palabra a la izquierda."
+msgstr "Aprueba el análisis sugerido y continúa con la palabra a la izquierda,"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdMoveFocusBoxRight"]
 msgid "Approve the suggested analysis and move to the word on the right."
@@ -2132,7 +2131,7 @@ msgstr "Aprueba el análisis sugerido y continúa con la palabra a la derecha."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdApprove"]
 msgid "Approve the suggested analysis and stay on this word"
-msgstr "Aprueba el análisis sugerido y permanece en esta palabra."
+msgstr "Aprueba el análisis sugerido y permanece en esta palabra"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdApproveForWholeTextAndMoveNext"]
 msgid "Approve the suggested analysis throughout this text, and move to the next word."
@@ -2159,7 +2158,7 @@ msgstr "Número arábigo"
 
 #. /Src/FwCoreDlgs/ArchiveWithRamp.resx::$this.Text
 msgid "Archive With RAMP"
-msgstr "Archivar con RAMP de ILV..."
+msgstr "Archivar con RAMP"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Archive with RAMP (SIL)..."
@@ -2498,7 +2497,7 @@ msgstr "Recomendación para respaldar"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_gbBackupProperties.Text
 msgid "Backup version to restore"
-msgstr "Versión del respaldo para restaurar:"
+msgstr "Versión del respaldo para restaurar"
 
 #. /Src/FwCoreDlgs/MergeWritingSystemDlg.resx::m_backupButton.Text
 msgid "&Backup..."
@@ -3288,7 +3287,7 @@ msgstr "Cancelar"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::CancelDeleteWS
 msgid "Cancel Delete Writing System"
-msgstr "No se puede cancelar el sistema de escribir"
+msgstr "Cancelar eliminar el sistema de escribir"
 
 #. /Src/FwCoreDlgs/DuplicateProjectFoundDlg.resx::btnCancel.Text
 msgid "Cancel\n"
@@ -3959,7 +3958,7 @@ msgstr "&Elegir un proyecto"
 
 #. /Src/xWorks/DictionaryConfigurationManagerDlg.resx::configurationsExplanationLabel.Text
 msgid "Choose a view to modify."
-msgstr "Elija vista para configurar:"
+msgstr "Elija vista para configurar."
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksChooseAllomorph
 msgid "Choose Allomorph"
@@ -4434,11 +4433,11 @@ msgstr "Haga clic para saltar a {0}."
 #. Message displayed in Upload to Webonary dialog to inform user about what data will be uploaded. 0 will be a number. 1 will be either blank or a combination of ReversalEntries, ReversalEntries_Last, and ReversalEntries_Only
 #. /Src/xWorks/xWorksStrings.resx::PublicationEntriesLabel
 msgid "Clicking Submit will send {0} dictionary entries{1} to Webonary."
-msgstr ""
+msgstr "Al hacer clic en \"Enviar,\" se enviarán {0} entradas del diccionario{1} a Webonary."
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::howManyPubsAlertLabel.Text
 msgid "Clicking Submit will send {0} entries and {1} reversal entries to Webonary."
-msgstr ""
+msgstr "Al hacer clic en \"Enviar,\" se enviarán {0} entradas y (1) entradas inversas de {1} a Webonary."
 
 #. /Src/FDO/Strings.resx::ksAllProjectsMustDisconnectCaption
 msgid "Clients connected to shared projects."
@@ -5486,9 +5485,8 @@ msgid "Create a new anthropology category."
 msgstr "Crea una nueva categoría antropológica."
 
 #. /Src/FwCoreDlgs/ArchiveWithRamp.resx::m_rbNewBackup.Text
-#, fuzzy
 msgid "Create a new backup file"
-msgstr "Crea un nuevo tipo de rasgo."
+msgstr "Crear un nuevo archivo del respaldo"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertGenericMajorEntry"]
 msgid "Create a new entry and add it to the lexicon."
@@ -7604,7 +7602,7 @@ msgstr "Editar lista de Restricciones"
 
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-UsageTypes"]/slice/chooserInfo/chooserLink/@label
 msgid "Edit the list of Usages."
-msgstr "Editar la lista de usos"
+msgstr "Editar la lista de usos."
 
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPerson-Detail-PlaceOfBirth"]/slice/chooserInfo/chooserLink/@label
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPerson-Detail-PlacesOfResidence"]/slice/chooserInfo/chooserLink/@label
@@ -8207,7 +8205,7 @@ msgstr "Se detectó un error al intentar abrir el archivo: "
 
 #. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksErrorEncountered
 msgid "error encountered"
-msgstr "Error encontrado"
+msgstr "error encontrado"
 
 #. Message displayed if an error occurred during "Send/Receive Lexicon" while the export of the LIFT data was going on.
 #.
@@ -8261,9 +8259,8 @@ msgstr ""
 
 #. message for log file
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::DuplicateId0InOptions
-#, fuzzy
 msgid "Error in Mapping File: Duplicate Id {0} in 'options' section"
-msgstr "Error en archivo de asignación: valor '{0}' 'lang' desconocido en la sección 'inFieldMarkers'."
+msgstr "Error en archivo de asignación: valor '{0}' duplicado en la sección 'opciones'."
 
 #. message for log file
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::DuplicateSettingsFoundForFwSilOrg
@@ -8520,7 +8517,7 @@ msgstr "Error restaurando desde el respaldo de FieldWorks 6.0 (o anterior)"
 #. Displayed when we catch an exception from InstallLanguage.exe
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidErrorSavingWs
 msgid "Error saving writing system"
-msgstr "Error al salvar el sistema de escritura."
+msgstr "Error al salvar el sistema de escritura"
 
 #. caption for message box
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksErrorShowingReport
@@ -8608,11 +8605,11 @@ msgstr "Código Ethnologue"
 
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::label3.Text
 msgid "Ethnologue code:"
-msgstr "Código Ethnologue"
+msgstr "Código Ethnologue:"
 
 #. /Src/Common/Controls/FwControls/LanguageSetup.resx::lblCurrentEthCode.Text
 msgid "Ethnologue Code:"
-msgstr "Código Ethnologue"
+msgstr "Código Ethnologue:"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksWSPropEthnologueEntryFor
 msgid "Ethnologue entry for {0}"
@@ -8941,14 +8938,14 @@ msgstr "Ejemplos de cómo usar los rasgos de clasificación."
 
 #. /|strings-en.xml::/PossibilityListItemTypeNames/ProdRestrict|
 msgid "Exception \"Feature\""
-msgstr "\"Rasgo\" para excepciónes"
+msgstr "\"Rasgo\" para excepciones"
 
 #. /|strings-en.xml::/AlternativeTitles/ProdRestrict-Plural|
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/@label
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoStemMsa-Detail-ProdRestrict"]/slice/@label
 #. (String used 3 times.)
 msgid "Exception \"Features\""
-msgstr "\"Rasgos\" para excepciónes"
+msgstr "\"Rasgos\" para excepciones"
 
 #. /Language Explorer/Configuration/Grammar/areaConfiguration.xml::/root/commands/command/@label
 msgid "_Exception Feature..."
@@ -8976,7 +8973,7 @@ msgstr "\"Rasgos\" para excepciónes"
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 msgid "Exception 'Features'"
-msgstr "'Rasgos' para excepciónes"
+msgstr "'Rasgos' para excepciones"
 
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::Exception0
 msgid "Exception: {0}"
@@ -9200,8 +9197,9 @@ msgid "External Materials:"
 msgstr "Materiales Externos:"
 
 #. /Src/MigrateSqlDbs/FWVersionTooOld.resx::$this.Text
+#, fuzzy
 msgid "Extra Requirements for Project Migration"
-msgstr "Requerimientos extra para la migración de proyecto."
+msgstr "Requerimientos extra para la migración de proyecto"
 
 #. Message used during import from 6.0
 #. /Src/FDO/Strings.resx::ksExtractingFromZip
@@ -9711,7 +9709,7 @@ msgstr "El archivo no es un respaldo válido de FieldWorks:"
 #. Error message when the user attempts to load a file as a FW project when it isn't.
 #. /Src/FDO/Properties/Resources.resx::kstidInvalidFieldWorksXMLFile
 msgid "File is not a valid FieldWorks project file."
-msgstr "El archivo no es un archivo de proyecto válido de FieldWorks:"
+msgstr "El archivo no es un archivo de proyecto válido de FieldWorks."
 
 #. /Src/FwCoreDlgs/PicturePropertiesDialog.resx::m_grpFileLocOptions.Text
 msgid "File Location Options"
@@ -9805,7 +9803,7 @@ msgstr "Buscar una entrada inversa."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdGoToWfiWordform"]
 msgid "Find a wordform."
-msgstr "Buscar una Palabra Entera"
+msgstr "Buscar una Palabra Entera."
 
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksFindAndFixErrors
 msgid "Find and fix errors in a FieldWorks data (XML) file."
@@ -10054,7 +10052,7 @@ msgstr "Finalizar sin importar. Útil para crear todos los archivos phaseXoutput
 
 #. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksFinished
 msgid "finished"
-msgstr "Terminado"
+msgstr "terminado"
 
 #. Displayed in a dialog box when a replace all has finished.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidReplaceAllDone
@@ -11512,7 +11510,7 @@ msgstr "Soy incapaz de enviar esta información."
 #. Localized string corresponding to the Image control type.
 #. /Src/Common/SimpleRootSite/Properties/Resources.resx::ksImage
 msgid "image"
-msgstr "Imagen"
+msgstr "imagen"
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidImageTextAlwaysPopupMenu
 msgid "Image and Text (Always)"
@@ -12685,7 +12683,7 @@ msgstr "Archivo inválido"
 #. caption for message box (message is a thrown error string)
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksInvalidForm
 msgid "Invalid Form"
-msgstr "Forma inválida."
+msgstr "Forma inválida"
 
 #. /Src/FDO/Strings.resx::ksInvalidForm0Leading1Trailing2
 msgid "Invalid form ({0}) marked with leading '{1}' and trailing '{2}'."
@@ -13766,7 +13764,7 @@ msgstr ""
 #. button label
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ks_Link
 msgid "&Link"
-msgstr "&Enlace."
+msgstr "&Enlace"
 
 #. /Src/LexText/LexTextControls/LinkEntryOrSenseDlg.resx::$this.Text
 msgid "Link Entry Or Sense"
@@ -14250,7 +14248,7 @@ msgstr "Administrar vistas"
 
 #. /Src/xWorks/DictionaryConfigurationDlg.resx::m_buttonManageConfigurations.Text
 msgid "&Manage Views..."
-msgstr "&Administrar vistas"
+msgstr "&Administrar vistas..."
 
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::tabManual.Text
 msgid "Manual Entry"
@@ -14813,7 +14811,7 @@ msgstr ""
 #. /Src/LexText/Morphology/MGA/MGADialog.resx::buttonModify.Text
 #. (String used 13 times.)
 msgid "&Modify..."
-msgstr "&Modificar"
+msgstr "&Modificar..."
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::m_btnModifyAnalWs.Text
 msgid "M&odify..."
@@ -14850,7 +14848,7 @@ msgstr "Más botones"
 
 #. /Src/Common/Controls/FwControls/ColorPickerStrings.resx::kstidMoreColors
 msgid "&More Colors..."
-msgstr "&Más colores"
+msgstr "&Más colores..."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksMoreColumns
 msgid "More Column Choices..."
@@ -15565,7 +15563,7 @@ msgstr "Opciones del panel de navegación"
 #. /Src/XCore/SilSidePane/SilSidePane.resx::NavPaneOptions
 #. (String used 2 times.)
 msgid "Na&vigation Pane Options..."
-msgstr "Opciones del panel de nave&gación"
+msgstr "Opciones del panel de nave&gación..."
 
 #. /Src/FDO/Strings.resx::ksAlloConstraintFailure
 msgid "Need to have at least one \"Other Allomorph(s)\" and one \"Key Allomorph\""
@@ -16031,7 +16029,7 @@ msgstr "Sin filtro"
 
 #. /Src/FDO/Strings.resx::ksNoForm
 msgid "no form available"
-msgstr "Ninguna forma disponible"
+msgstr "ninguna forma disponible"
 
 #. /|strings-en.xml::/EmptyTitles/No-Genres|
 msgid "No Genres"
@@ -16435,7 +16433,7 @@ msgstr "no es igual a"
 
 #. /Src/FDO/Strings.resx::ksNotEvalYet
 msgid "not evaluated yet"
-msgstr "No evaluado aún"
+msgstr "no evaluado aún"
 
 #. Error message caption
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidConverterNotComplete
@@ -17020,7 +17018,7 @@ msgstr ""
 #. /Src/Common/Controls/XMLViews/SimpleDateMatchDlg.resx::m_typeCombo.Items2
 #, fuzzy
 msgid "on or before"
-msgstr "&Antes:"
+msgstr "el o antes del:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksOnOrBeforeLine
 msgid "{0} - On or before line {1}"
@@ -17106,7 +17104,7 @@ msgstr " Abrir un proyecto..."
 
 #. /Src/Utilities/Reporting/ErrorReport.resx::radEmail.Text
 msgid "&Open an email containing this message using the default email client"
-msgstr "&Abrir un correo electrónico que contengan este mensaje usando el cliente de correo electrónico predeterminado."
+msgstr "&Abrir un correo electrónico que contengan este mensaje usando el cliente de correo electrónico predeterminado"
 
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradEmail
 msgid "&Open an email containing this message using the default email client."
@@ -17695,7 +17693,7 @@ msgstr "Contraseña"
 
 #. /Src/FwCoreDlgs/FwUserProperties.resx::lblPassword.Text
 msgid "&Password:"
-msgstr "&Contraseña"
+msgstr "&Contraseña:"
 
 #. /Src/FwCoreDlgs/FwUserProperties.resx::lblConfirmPwd2.Text
 msgid "Pass&word:"
@@ -17775,7 +17773,7 @@ msgstr "Nota personal"
 
 #. /Language Explorer/Configuration/Parts/Notebook.fwlayout::/LayoutInventory/layout["StText-jtview-publishRnPersonalNotes"]/part[@ref="RnPersonalNotesConfig"]/@before
 msgid "Personal Notes:"
-msgstr "Notas personales"
+msgstr "Notas personales:"
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidPersonalizedMenusAndToolbarsLabel
 msgid "Personalized Menus and Toolbars"
@@ -20206,7 +20204,7 @@ msgstr " relación."
 # acá no estoy segura si mantener parser o analizador
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdReloadParser"]
 msgid "Reload the Parser information."
-msgstr "Recargar la información del analizador"
+msgstr "Recargar la información del analizador."
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@tooltip
 msgid "Reloads data from the Grammar and Lexicon, so the parser uses your latest changes."
@@ -20524,7 +20522,7 @@ msgstr "Reportar un problema"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Report a Problem..."
-msgstr "_Reportar un problema_"
+msgstr "_Reportar un problema..."
 
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 msgid "Representation"
@@ -20813,7 +20811,7 @@ msgstr "Categoría inversa"
 #. Part of message displayed in Upload to Webonary dialog to inform user about what data will be uploaded. Will be inserted into the PublicationEntriesLabel string. 0 is a number. 1 is the name of a language or a reversal index configuration (view) name. This string will be used in cases where there are more than one reversal index configuration to report the count for, and this is not the last one.
 #. /Src/xWorks/xWorksStrings.resx::ReversalEntries
 msgid ", {0} {1} reversal entries"
-msgstr ", {0} {1} entradas inversas"
+msgstr ", {0} entradas inversas de {1}"
 
 #. /|strings-en.xml::/AlternativeTitles/ReversalIndexEntry-Plural|
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-ReversalEntries"]/slice/@label
@@ -23761,7 +23759,7 @@ msgstr "Subelementos"
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::publishButton.Text
 msgid "Submit"
-msgstr ""
+msgstr "Enviar"
 
 #. /Language Explorer/Configuration/Notebook/areaConfiguration.xml::/root/commands/command/@label
 msgid "Subrecord"
@@ -26364,7 +26362,7 @@ msgstr "Barras de herramientas"
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidToolbarsLabel
 msgid "Toolb&ars:"
-msgstr "Barras de &herramientas"
+msgstr "Barras de &herramientas:"
 
 #. Used in the Browse for Language File filter accessed from the Valid Characters dialog box
 #. /Src/FwResources/FwStrings.resx::kstidToolboxLanguageFiles
@@ -26767,7 +26765,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksErrorCreatingBackupDirCaption
 msgid "Unable to Create Backup Folder"
-msgstr "No puede crear una carpeta de respaldo."
+msgstr "No puede crear una carpeta de respaldo"
 
 #. Message shown on the Unable to Open Project dialog box when the cache cannot be initialized.
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidCacheInitFailure
@@ -27681,7 +27679,7 @@ msgstr "¡Glosa desconocida!"
 
 #. /|strings-en.xml::/DialogStrings/NoMorphType|
 msgid "unknown morph type"
-msgstr "Tipo de morfema desconocido"
+msgstr "tipo de morfema desconocido"
 
 #. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUnknownMorpheme
 msgid "Unknown Morpheme!"
@@ -28009,7 +28007,7 @@ msgstr ""
 #. Suffix to add onto a user-defined style in case a new factory style name conflicts with an existing user style.
 #. /Src/FwResources/FwStrings.resx::kstidUserStyleSuffix
 msgid "_User"
-msgstr "_Usuario."
+msgstr "_Usuario"
 
 #. /Language Explorer/Configuration/Words/Analyses/toolConfiguration.xml::/root/tools/tool/control/parameters/include/overrides/column/@label
 #. /Language Explorer/Configuration/Words/reusableBrowseControlConfiguration.xml::/reusableControls/control/columns/column/@label
@@ -28495,7 +28493,7 @@ msgstr "Ver los espacios invisibles de ancho cero en este texto."
 
 #. /Src/xWorks/LiftExportMessageDlg.resx::m_linkWeSay.Text
 msgid "View the WeSay \"Share With FLEx\" page."
-msgstr "Ver la página \"Compartir con FLEx\" en WeSay"
+msgstr "Ver la página \"Compartir con FLEx\" en WeSay."
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::configurationLabel.Text
 msgid "View:"
@@ -29095,9 +29093,8 @@ msgid "Words related by semantic domain to {0}:"
 msgstr "Palabras relacionadas con dominio semántico a {0}:"
 
 #. /Src/Common/Controls/FwControls/ProgressDialogWorkingOn.resx::m_LabelWorkingOnPrompt.Text
-#, fuzzy
 msgid "Working on:"
-msgstr "Este proyecto no se puede restaurar, porque está siendo compartido con Enviar/Recibir. El intento de restaurar un proyecto que se comparte con Enviar/Recibir podría ocasionar la pérdida de datos para todos los que trabajan en el proyecto. Si desea ver el contenido de esta copia de seguridad, se puede restaurar con un nombre diferente."
+msgstr ""
 
 #. message for message box
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksAskRememberImportSettings
@@ -29269,7 +29266,7 @@ msgstr "Escribiendo la copia de {0} como XML de FieldWorks 6.0 falló. El proces
 
 #. /Src/FDO/Strings.resx::ksWritingTempCopyAsFw60XML
 msgid "Writing the temporary copy of {0} as FieldWorks 6.0 XML"
-msgstr "Escribiendo la copia temporal de {0} como XML de FieldWorks 6.0."
+msgstr "Escribiendo la copia temporal de {0} como XML de FieldWorks 6.0"
 
 #. /Src/FDO/Strings.resx::ksWritingTempCopyAsFw60XMLFailed
 msgid "Writing the temporary copy of {0} as FieldWorks 6.0 XML failed.  The conversion process returned error code {1} and error message {2}."
