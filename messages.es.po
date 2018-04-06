@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.3.12\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2018-03-15 12:49-0500\n"
-"PO-Revision-Date: 2018-03-15 13:07-0500\n"
+"PO-Revision-Date: 2018-04-06 14:32-0500\n"
 "Last-Translator: FLEx Localization <FLEx_Localization@sil.org>\n"
 "Language-Team: Spanish\n"
 "Language: es\n"
@@ -16,6 +16,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "X-Poedit-Bookmarks: -1,-1,-1,-1,-1,-1,-1,5651,-1,-1\n"
 "X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Crowdin-Project: flex-interface\n"
+"X-Crowdin-Language: es-ES\n"
+"X-Crowdin-File: messages.es.0301P.po\n"
 
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidDiscardChangesConfirm
 msgid ""
@@ -246,7 +250,7 @@ msgstr "Un nombre corto para este compuesto endocéntrico."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="InflClassName"]
 msgid "A short name for this inflection class."
-msgstr "Un nombre corto para esta clase de flexion."
+msgstr "Un nombre corto para esta clase de flexión."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="SlotName"]
 msgid "A short name for this inflectional affix slot."
@@ -510,7 +514,7 @@ msgstr "Acerca de"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_About FLEx Bridge..."
-msgstr "Acerca de FLEx Bridge..."
+msgstr "_Acerca de FLEx Bridge..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_About Language Explorer..."
@@ -593,7 +597,7 @@ msgstr "d.C."
 
 #. /|strings-en.xml::/AlternativeTitles/MoAdhocProhib-Plural|
 msgid "Ad hoc Co-occurrence Prevention Rules"
-msgstr "Reglas para prevenir la concurrencia ad hoc (de grupos especiales)"
+msgstr "Reglas ad hoc para prevenir la concurrencia (de grupos especiales)"
 
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Ad hoc Rules"
@@ -670,7 +674,7 @@ msgstr "Añadir un componente..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdAddCustomList"]
 msgid "Add a custom list."
-msgstr "Añadir una lista personalizada."
+msgstr "Añade una lista personalizada."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertClosedFeature"]
 msgid "Add a feature."
@@ -699,7 +703,7 @@ msgstr "Añade un rasgo fonológico."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertPicture"]
 msgid "Add a picture to this entry."
-msgstr "Añade un dibujo a esta entrada."
+msgstr "Añade un imagen a esta entrada."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdDataTree-Insert-Pronunciation"]
 msgid "Add a pronunciation field to this entry."
@@ -784,7 +788,7 @@ msgstr "Añadir un análisis aprobado..."
 #. /Src/UnicodeCharEditor/Properties/Resources.resx::kstidAddPuaTitle
 #. (String used 2 times.)
 msgid "Add Custom Character"
-msgstr "Añadir el carácter personalizado"
+msgstr "Añadir un carácter personalizado"
 
 #. /Src/LexText/LexTextControls/LexImportWizardMarker.resx::btnAddCustomField.Text
 msgid "Add Custom &field..."
@@ -856,7 +860,7 @@ msgstr "Añadir o reemplazar"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblAddOrReplace.Text
 msgid "Add or Replace Notebook Records"
-msgstr "Añadir o reemplazar los registros del cuaderno"
+msgstr "Añadir o reemplazar algunos registros del cuaderno"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksPhonologicalFeatureCatalogTitle
 #. /Src/LexText/LexTextControls/MasterListDlg.resx::$this.Text
@@ -882,7 +886,7 @@ msgstr "Añadir referencia ({0})"
 #. Tense Aspect Mood
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksTamMenuItem
 msgid "Add TAM Marker"
-msgstr "Agregar marcador TAM"
+msgstr "Añadir marcador TAM"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdAddToLexicon"]
 msgid "Add the current word to the lexicon (if it is a vernacular word)."
@@ -998,7 +1002,7 @@ msgstr "Añadiendo un nuevo usuario"
 #. Used in Archive with RAMP dialog box
 #. /Src/FwResources/FwStrings.resx::kstidAddingFwProject
 msgid "Adding FieldWorks project"
-msgstr "Agregando un &Proyecto de FieldWorks"
+msgstr "Agregando un proyecto de FieldWorks"
 
 #. Used in Backup Progress dialog.
 #. /Src/FDO/Strings.resx::ksBackupStatusMessage
@@ -1103,7 +1107,7 @@ msgstr "Espacio para afijo {0}"
 
 #. /|strings-en.xml::/DialogTitles/AffixSlotOrCategory|
 msgid "Affix Slot or Category"
-msgstr "Espacio para afijos o categoría"
+msgstr "Espacio para afijo o categoría"
 
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["PartOfSpeech-detail-default"]/part[@ref="AffixSlotsSection"]/@label
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["PartOfSpeech-detail-default"]/part[@ref="AffixSlotsSection"]/indent/part[@ref="AffixSlots"]/@label
@@ -1438,7 +1442,7 @@ msgstr "{0} (ya existente)"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksAlreadyExists
 msgid "{0} already exists.  Do you want to overwrite it?"
-msgstr "{0} Ya existe. ¿Desea sobrescribirlo?"
+msgstr "{0} ya existe. ¿Desea sobrescribirlo?"
 
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::AlreadyInUnicode
 msgid "<Already in Unicode>"
@@ -1448,7 +1452,7 @@ msgstr "<Ya está en Unicode>"
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksAlsoEmptyComplexFormInfo
 #. (String used 2 times.)
 msgid "Also removing empty Complex Form Info from {0}"
-msgstr "También eliminando información de forma compleja de {0}"
+msgstr "También eliminando información vacía de forma compleja de {0}"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label11.Text
 msgid "Also, keep linked files in one location so that they are all included in the backup files when you back up the project."
@@ -1470,14 +1474,12 @@ msgid "Alternatively, you can load the sort specification of a similar writing s
 msgstr "Alternativamente, puede cargar el orden de clasificación de un sistema de escritura similar:"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksDeleteEntriesSensesWarning
-msgid ""
-"Always back up your project before using this. This will delete all of your entries and senses if you have not done any interlinearization, and can delete a large number if you have done minimal interlinearization. It cannot be undone. It will warn you "
-"about the number of entries that will be deleted and give you a chance to stop without deletions."
+msgid "Always back up your project before using this. This will delete all of your entries and senses if you have not done any interlinearization, and can delete a large number if you have done minimal interlinearization. It cannot be undone. It will warn you about the number of entries that will be deleted and give you a chance to stop without deletions."
 msgstr ""
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidFullMenusCheckbox
 msgid "&Always show full menus"
-msgstr "Siempre muestra menús completos"
+msgstr "&Siempre muestra menús completos"
 
 #. menu item
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
@@ -1552,7 +1554,7 @@ msgstr "Ocurrió un error tratando de iniciar las películas. Podría tratar de 
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksErrorMigratingProjects
 msgid "An error occurred trying to migrate existing projects from an older version of FieldWorks:"
-msgstr "Ocurrió un error al tratar de migrar los proyectos existentes de una versión anterior de FieldWorks:"
+msgstr "Se produjo un error al intentar migrar los proyectos existentes desde una versión anterior de FieldWorks:"
 
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksExportErrorMsg
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksExportErrorMsg
@@ -1658,7 +1660,7 @@ msgstr "Sistema de escritura de &análisis"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label9.Text
 msgid "Analysis &Writing Systems"
-msgstr "Sistema de escritura de análisis"
+msgstr "Sistemas de &escritura de análisis"
 
 #. /Src/LexText/Interlinear/InterlinMaster.resx::m_tpInterlinear.Text
 msgid "Analyze"
@@ -1703,17 +1705,11 @@ msgstr "Definición de anotación"
 
 #. Message reporting a bug when a second instance of FieldWorks tries to check whether another one is open on the same project.
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidFieldWorksDidNotRespond
-msgid ""
-"Another instance of FieldWorks appears to be running, but did not respond properly to a request from this one. This is a bug; please report it to FlexErrors@sil.org. We recommend that you shut down all FieldWorks applications and try again. If you still "
-"get this message, restart your computer. (Experts may also try to recover by killing any FieldWorks processes using TaskManager.) Do you want to Retry now?"
-msgstr ""
-"Otra instancia de FieldWorks parece estar en uso, pero no respondió adecuadamente a una petición de éste. Esto es un error, por favor repórtelo a FlexErrors@sil.org. Le recomendamos que cierre todas las aplicaciones de FieldWorks y vuelva a intentarlo. "
-"Si sigue recibiendo este mensaje, reinicie la computadora. (Un usuario experto puede tratar de recuperarlo matando cualquier proceso de FieldWorks mediante el Administrador de Tareas.) ¿Quiere volver a intentarlo ahora?"
+msgid "Another instance of FieldWorks appears to be running, but did not respond properly to a request from this one. This is a bug; please report it to FlexErrors@sil.org. We recommend that you shut down all FieldWorks applications and try again. If you still get this message, restart your computer. (Experts may also try to recover by killing any FieldWorks processes using TaskManager.) Do you want to Retry now?"
+msgstr "Otro ejemplo de FieldWorks parece estar funcionando, pero no respondieron adecuadamente a una solicitud de esta. Esto es un error; por favor informe a FlexErrors@sil.org. Le recomendamos que cierre todas las aplicaciones de FieldWorks e inténtelo de nuevo. Si sigue obteniendo este mensaje, reinicie el equipo. (Expertos pueden también tratar de recuperar al matar a cualquier proceso de FieldWorks utilizando el administrador de tareas.) ¿Quiere intentarlo ahora?"
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidFieldWorksRespondedNotSure
-msgid ""
-"Another instance of FieldWorks appears to be starting up at the same time as this one, and things have gotten confused. We recommend letting one project open fully before you try to open another one. If you get this message repeatedly or when not trying "
-"to open two projects at once, you may have encountered a bug; please report it. It may help to restart your computer."
+msgid "Another instance of FieldWorks appears to be starting up at the same time as this one, and things have gotten confused. We recommend letting one project open fully before you try to open another one. If you get this message repeatedly or when not trying to open two projects at once, you may have encountered a bug; please report it. It may help to restart your computer."
 msgstr ""
 "Otra instancia de FieldWorks parece estar iniciando al mismo tiempo que esta, y las cosas se han confundido. Recomendamos abrir por completo un proyecto antes de abrir otro. Si aparece este mensaje repetidas veces o cuando no está tratando de abrir dos "
 "proyectos a la vez, usted podría haber encontrado un error; por favor repórtelo. Podría servir reiniciar su computadora."
@@ -1842,12 +1838,12 @@ msgstr "{0} Cualquier carácter"
 #. {0} is a number (for showing a numbered list).
 #. /Src/FDO/Strings.resx::ksDelWfGlossUsedXTimes
 msgid "{0}. Any texts that use it will need more analysis work, as it is used {1} times in your texts."
-msgstr "{0}. Cualquier texto que utilice esto necesitará más trabajo de análisis, ya que se usa {1} vez en sus textos."
+msgstr "{0}. Hay que analizar de nuevo cualquier texto que lo ocupa. Este término se ocupa {1} veces en sus textos."
 
 #. {0} is a number (for showing a numbered list).
 #. /Src/FDO/Strings.resx::ksDelWfGlossUsedOnce
 msgid "{0}. Any texts that use it will need more analysis work, as it is used 1 time in your texts."
-msgstr "{0}. Los textos que lo utilizan necesitan más trabajo de análisis, ya que se utiliza una vez en sus textos."
+msgstr "{0}. Hay que analizar de nuevo cualquier texto que lo ocupa. Este término se ocupa 1 vez en sus textos."
 
 #. {0} is a number (for showing a numbered list). {1} is the count (a number).
 #. /Src/FDO/Strings.resx::ksDelAnalysisUsedXTimes
@@ -1869,7 +1865,7 @@ msgstr "<Cualquier>"
 #. /Src/LexText/Interlinear/ConcordanceControl.resx::m_rbtnAnywhere.Text
 #. (String used 2 times.)
 msgid "&Anywhere"
-msgstr "Dondequiera"
+msgstr "&Dondequiera"
 
 #. /|strings-en.xml::/Linguistics/Morphology/Adjacency/Anywhere|
 msgid "anywhere around"
@@ -2096,7 +2092,7 @@ msgstr "Al menos"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMustHaveBaseline
 msgid "At least one field must be specified as containing Baseline text"
-msgstr "Al menos un campo se debe especificar como que contiene el texto básico"
+msgstr "Al menos un campo se debe especificar que contiene el texto básico"
 
 #. used by DeleteCustomList
 #. /Src/xWorks/xWorksStrings.resx::ksReferencedPossibility
@@ -2231,7 +2227,7 @@ msgstr "Respaldar un proyecto de FieldWorks."
 
 #. /Src/FwCoreDlgs/BackupRestore/OverwriteExistingProject.resx::m_checkbox_BackupFirst.Text
 msgid "&Back up existing project before restoring"
-msgstr "&Respalde el proyecto existente antes de restaurarlo"
+msgstr "&Respalde el proyecto existente antes de restaurar"
 
 #. Tool tip for backup/restore toolbar/menu item
 #. /Src/FwResources/FwTMStrings.resx::kstidBackupToolTip
@@ -2260,7 +2256,7 @@ msgstr "&Respaldar este proyecto..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Back up this Project..."
-msgstr "Respaldar este proyecto..."
+msgstr "_Respaldar este proyecto..."
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksProjectBackedUpOn
 msgid "Backed up on {0} at {1}"
@@ -2284,7 +2280,7 @@ msgstr "El fondo es {0}"
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::m_lblBackground.Text
 #. (String used 2 times.)
 msgid "Bac&kground:"
-msgstr "Fondo:"
+msgstr "Fon&do:"
 
 #. Used in Backup Progress dialog.
 #. /Src/FDO/Strings.resx::ksBackupProgressCaption
@@ -2311,10 +2307,10 @@ msgid ""
 "\n"
 "To restore from this backup, install version {1} of FieldWorks.\n"
 msgstr ""
-"Respaldo contiene una versión del proyecto que se creó utilizando una versión más reciente de FieldWorks:\n"
+"En el respaldo de este proyecto hay una versión que se creó con una versión más recién de FieldWorks:\n"
 "{0}\n"
 "\n"
-"Para restaurar este respaldo, instale versión {1} de FieldWorks.\n"
+"Antes de restaurar el proyecto ocupando este respaldo, hay que instalar versión {1} de FieldWorks.\n"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::label2.Text
 msgid "Backup file:"
@@ -2406,12 +2402,12 @@ msgstr "Asegúrese de configurar todos los tres campos abajo."
 #. Used in Dictionary view warning dialogs.
 #. /Src/xWorks/xWorksStrings.resx::ksEntryNotPublishedReason
 msgid "because it is currently set not to be published at all in this publication"
-msgstr "porque está configurado para no ser publicado en absoluto en esta publicación"
+msgstr "porque la configuración de esta entrada indica que no va a ser publicado"
 
 #. Used in Dictionary view warning dialogs.
 #. /Src/xWorks/xWorksStrings.resx::ksMainNotShownReason
 msgid "because it is currently set not to be shown with a main entry in this publication"
-msgstr "porque está configurado, no se muestra con una entrada principal en esta publicación"
+msgstr "porque la configuración indica que no se muestra esto con la entrada principal"
 
 #. Used in Dictionary view warning dialogs.
 #. /Src/xWorks/xWorksStrings.resx::ksMinorNotShownReason
@@ -2499,13 +2495,13 @@ msgstr "{0}. Siendo usado 1 vez en sus clases naturales."
 
 #. /Src/xWorks/xWorksStrings.resx::ksBestAnalysis
 msgid "best analysis"
-msgstr "idoma de preferencia para el análisis"
+msgstr "idioma de preferencia para el análisis"
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksBestAnal
 #. /Src/FwResources/FwStrings.resx::kstidBestAnal
 #. (String used 2 times.)
 msgid "Best Analysis"
-msgstr "Idoma de preferencia para el análisis"
+msgstr "Idioma de preferencia para el análisis"
 
 #. /Src/xWorks/xWorksStrings.resx::ksBestAnalOrVern
 msgid "best analysis or vernacular"
@@ -2565,7 +2561,7 @@ msgstr "Entre:"
 #. /Language Explorer/DefaultConfigurations/ReversalIndex/AllReversalIndexes.fwdictconfig:://ConfigurationItem/@name
 #. (String used 21 times.)
 msgid "Bibliographic Source"
-msgstr "Fuente Bibliografica"
+msgstr "Fuente Bibliográfica"
 
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishRootMinorPara"]/part[@ref="BibliographyPub"]/@label
 #. /Language Explorer/Configuration/Parts/LexEntry.fwlayout::/LayoutInventory/layout["LexEntry-jtview-publishRootPara"]/part[@ref="BibliographyPub"]/@label
@@ -2922,15 +2918,10 @@ msgstr "botón"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksRemovingEnWsMsg
 msgid ""
-"By removing the English writing system, some of your List items, may show \"***\" instead of their normal contents. For this reason, it is strongly recommended that you keep the English writing system active in your project. However, if you choose to "
-"remove English now and encounter problems viewing your List items, you may add English back at any time using the Add button.\n"
+"By removing the English writing system, some of your List items, may show \"***\" instead of their normal contents. For this reason, it is strongly recommended that you keep the English writing system active in your project. However, if you choose to remove English now and encounter problems viewing your List items, you may add English back at any time using the Add button.\n"
 "\n"
 "Do you want to remove English now?"
-msgstr ""
-"Al eliminar el sistema de escritura inglés, algunos de sus elementos de la lista, puede mostrar \"***\" en lugar de sus contenidos normales. Por esta razón, se recomienda encarecidamente que se mantenga el sistema de escritura inglés activo en su "
-"proyecto. Sin embargo, si usted decide eliminar inglés ahora y encuentra problemas para ver sus elementos de la lista, puede añadir inglés nuevamente en cualquier momento utilizando el botón Añadir.\n"
-"\n"
-"¿Quieres eliminar inglés ahora?"
+msgstr "Si se quita el sistema de escritura de inglés, algunos de los elementos de la lista, puede aparecer como \"***\" en lugar de su contenido normal. Por esta razón, se recomienda que mantenga el sistema de escritura de inglés activa en el proyecto. Sin embargo, si usted decide quitar el inglés ahora y después se ve que hay elementos de la lista con problemas, se puede agregar inglés en cualquier momento por medio del botón Agregar. ¿Desea eliminar el inglés ahora?"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwFontAttributes.resx::label18.Text
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::label7.Text
@@ -3154,7 +3145,7 @@ msgstr "No se puede seguir el enlace"
 
 #. /Src/xWorks/xWorksStrings.resx::ksErrorDisplayingPublication
 msgid "Cannot generate the display for the current publication"
-msgstr ""
+msgstr "No se puede generar la vista para la publicación actual"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksCannotHideField
 msgid "Cannot hide field"
@@ -3838,9 +3829,7 @@ msgstr "Elija nuevos rasgos flexivos desde el siguiente catálogo. Los rasgos fl
 #. /Src/LexText/LexTextControls/MasterListDlg.resx::label1.Text
 #. /Src/LexText/LexTextControls/MasterPhonologicalFeatureListDlg.resx::label1.Text
 #. (String used 2 times.)
-msgid ""
-"Choose one or more new phonological features from the following Catalog. Note that all features are binary (i.e. have two values: + and -).  The phonological features you choose will be added to the list of phonological features for this FieldWorks "
-"Project."
+msgid "Choose one or more new phonological features from the following Catalog. Note that all features are binary (i.e. have two values: + and -).  The phonological features you choose will be added to the list of phonological features for this FieldWorks Project."
 msgstr ""
 "Elija uno o más nuevos rasgos fonológicos del siguiente catálogo. Tenga en cuenta que todos los rasgos son binarios (es decir, tienen dos valores: + y -). Los rasgos fonológicos que elija serán añadidos a la lista de rasgos fonológicos para este "
 "proyecto FieldWorks."
@@ -3912,7 +3901,7 @@ msgstr "Elegir textos..."
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::publicationGroupBox.Text
 msgid "Choose the content you want to send to Webonary"
-msgstr ""
+msgstr "Elija el contento que desea mandar a Webonary"
 
 #. /Src/LexText/LexTextControls/DataNotebook/ImportEncCvtrDlg.resx::m_lblDescription.Text
 msgid "Choose the encoding converter for the {0} writing system data."
@@ -4227,7 +4216,7 @@ msgstr "Al hacer clic en \"Enviar,\" se enviarán {0} entradas del diccionario{1
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::howManyPubsAlertLabel.Text
 msgid "Clicking Submit will send {0} entries and {1} reversal entries to Webonary."
-msgstr "Al hacer clic en \"Enviar,\" se enviarán {0} entradas y (1) entradas inversas de {1} a Webonary."
+msgstr "Al hacer clic en \"Enviar,\" se enviarán {0} entradas y {1} entradas del inverso a Webonary."
 
 #. /Src/FDO/Strings.resx::ksAllProjectsMustDisconnectCaption
 msgid "Clients connected to shared projects."
@@ -4778,15 +4767,15 @@ msgstr "Configurar el panel examinar actual."
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_linkConfigureHomograph.Text
 #. (String used 3 times.)
 msgid "Configure Headword Numbers"
-msgstr "Configurar números de palabra principal"
+msgstr "Configurar números de palabras principales"
 
 #. /Src/xWorks/DictionaryDetailsView/ButtonOverPanel.resx::button.Text
 msgid "Configure &Headword Numbers..."
-msgstr "Configurar números de &palabra principal..."
+msgstr "Configurar números de &palabras principales..."
 
 #. /Src/xWorks/xWorksStrings.resx::ConfigureReferencedHeadwordsTooltip
 msgid "Configure homograph numbers on all headwords and sense numbers on headwords in cross references"
-msgstr "Configurar los números homógrados que son mostrados como parte de todas las palabras principales, y de las palabras principales en referencias, en Language Explorer."
+msgstr "Configurar los números de homógrafos en todas las palabras principales y los números de acepción en palabras principales en las remisiones"
 
 #. /Src/LexText/Interlinear/ConfigureInterlinDialog.resx::$this.Text
 msgid "Configure Interlinear Lines"
@@ -4826,10 +4815,13 @@ msgid ""
 "• entry headwords\n"
 "• references to entries and senses"
 msgstr ""
+"Configurar los números de homógrafos y los números de acepción que aparecen en:\n"
+"•  palabras principales\n"
+"•  remisiones a entradas y acepciones"
 
 #. /Src/LexText/LexTextControls/ConfigureHomographDlg.resx::textBox1.Text
 msgid "Configure the homograph number which is shown as part of headwords in Language Explorer."
-msgstr "Configurar los números homógrados que son mostrados como parte de las palabras principales en Language Explorer."
+msgstr "Configurar los números de homógrafos que se muestran en palabras principales en Language Explorer."
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksTipConfig
 msgid "Configure which columns to display"
@@ -4930,9 +4922,7 @@ msgid "Contents Determined at Runtime"
 msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksWhyHowContinueImport
-msgid ""
-"2) Continue the import process, then validate that the affected entries are ordered properly. You can do this by opening your project in Language Explorer and looking up each of the entries listed below. Check to see that fields each have the proper "
-"information."
+msgid "2) Continue the import process, then validate that the affected entries are ordered properly. You can do this by opening your project in Language Explorer and looking up each of the entries listed below. Check to see that fields each have the proper information."
 msgstr ""
 "2) Continúe el proceso de importación, después, comprobar que las entradas afectadas están ordenadas correctamente. Ud. puede hacer esto mediante la apertura de su proyecto en Language Explorer y observando cada una de las indicaciones que figuran a "
 "continuación. Compruebe que cada uno de los campos tiene la información adecuada."
@@ -5113,7 +5103,7 @@ msgstr "Copiar los contenidos del campo de fuente hasta el campo de destino"
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidradSelf
 #. (String used 2 times.)
 msgid "&Copy this information to the clipboard and I will paste it into an email message myself."
-msgstr "Copie esta información en el portapapeles y yo la pegaré en un mensaje de correo electrónico."
+msgstr "&Copiar esta información al portapapeles y lo pegaré en un mensaje electrónico mi mismo."
 
 #. /Src/FwCoreDlgs/PicturePropertiesDialog.resx::m_rbCopy.Text
 msgid "&Copy to Linked Files folder"
@@ -6147,7 +6137,7 @@ msgstr "Definiciones"
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::btnDeleteCharMapping.Text
 #. (String used 15 times.)
 msgid "&Delete"
-msgstr "Eliminar"
+msgstr "&Eliminar"
 
 #. for Undo
 #. action on a tree view item
@@ -7014,7 +7004,7 @@ msgstr "¿Desea continuar?"
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksDoYouWantToMigrate
 msgid "Do you want to migrate existing projects from an older version of FieldWorks?"
-msgstr "¿Quieres actualizar los proyectos existentes desde una versión anterior de FieldWorks?"
+msgstr "¿Desea migrar proyectos existentes desde una versión anterior de FieldWorks?"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidOverwriteRules
 msgid "Do you want to overwrite the existing collation rules (sorting)?"
@@ -8457,9 +8447,7 @@ msgid "{0} Exactly n times"
 msgstr "{0} Exactamente n veces"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksWhyExaminePreview
-msgid ""
-"1) Examine the preview of how the affected entries will be changed and decide whether to continue the import or to abort it.  If you abort, you may want to go back to the original SFM file and reorder fields in the affected entries yourself.  You may "
-"also want to revise import settings such as mappings."
+msgid "1) Examine the preview of how the affected entries will be changed and decide whether to continue the import or to abort it.  If you abort, you may want to go back to the original SFM file and reorder fields in the affected entries yourself.  You may also want to revise import settings such as mappings."
 msgstr ""
 "1) Examine la vista previa de cómo las entradas afectadas serán cambiadas y decida si continuar con la importación o cancelarla. Si la cancela, es posible que desee volver al archivo original de SFM y reordenar los campos en las entradas afectadas si "
 "mismo. Ud. también puede querer revisar la configuración de importación, tales como las asignaciones."
@@ -8612,8 +8600,7 @@ msgid ""
 "Goal:\n"
 "I want to be able to interlinearize texts faster without having to make choices that I think the program should be able to guess if it considered surrounding words.\n"
 "\n"
-"Suggestion: Add a field to Word Analyses view in which a regular expression can be specified. If the pattern matches the context in which the word appears, that analysis will be chosen as a suggestion. The pattern should include a special marker for "
-"where the word itself must appear."
+"Suggestion: Add a field to Word Analyses view in which a regular expression can be specified. If the pattern matches the context in which the word appears, that analysis will be chosen as a suggestion. The pattern should include a special marker for where the word itself must appear."
 msgstr ""
 "Ejemplo:\n"
 "Por favor, hacer sugerencias interlineales prestando atención al contexto\n"
@@ -9182,9 +9169,7 @@ msgstr ""
 
 #. Must contain {0} which is a project name
 #. /Src/FDO/Properties/Resources.resx::kstidLockFileLocked
-msgid ""
-"FieldWorks cannot open the project {0} because another program is using it. Please close the other program and try again. Note: this can sometimes occur when there appears to be no other program using the file. The simplest way to fix this is to log off "
-"and on again. Other options are discussed in Help."
+msgid "FieldWorks cannot open the project {0} because another program is using it. Please close the other program and try again. Note: this can sometimes occur when there appears to be no other program using the file. The simplest way to fix this is to log off and on again. Other options are discussed in Help."
 msgstr ""
 "FieldWorks no puede abrir el proyecto {0} porque otro programa lo está utilizando. Por favor, cierre el otro programa y vuelva a intentarlo. Nota: a veces el mensaje puede aparecer cuando aparentemente no hay ningún otro programa usando el archivo. La "
 "forma más sencilla de solucionar este problema es cerrar la sesión y volver a abrirla. Otras opciones se discuten en Ayuda (en inglés)."
@@ -9215,9 +9200,7 @@ msgstr ""
 "{1}"
 
 #. /Src/FdoUi/Dialogs/ConflictingSaveDlg.resx::label1.Text
-msgid ""
-"FieldWorks cannot save your changes, because they conflict with changes made by another user in a way that FieldWorks cannot resolve. You will not be able to save changes until you Refresh your display so that you are starting your edits from the state "
-"that has been saved by other users. You may choose to Refresh at once, or you may wish to delay, perhaps in order to copy your most recent work to the clipboard."
+msgid "FieldWorks cannot save your changes, because they conflict with changes made by another user in a way that FieldWorks cannot resolve. You will not be able to save changes until you Refresh your display so that you are starting your edits from the state that has been saved by other users. You may choose to Refresh at once, or you may wish to delay, perhaps in order to copy your most recent work to the clipboard."
 msgstr ""
 "FieldWorks no puede guardar los cambios, porque entran en conflicto con los cambios realizados por otro usuario. Usted no podrá guardar los cambios hasta que actualice la pantalla de modo que está haciendo sus ediciones desde el estado que ha sido "
 "guardado por otros usuarios. Usted puede actualizar inmediatamente, o puede esperar, tal vez con el fin de copiar su trabajo más reciente al portapapeles."
@@ -9261,15 +9244,11 @@ msgstr ""
 
 #. Used in Linux version if the user forgets to log out and back in after a new install.
 #. /Src/FwResources/FwStrings.resx::ksNeedToJoinFwGroup
-msgid ""
-"FieldWorks has encountered a problem setting up the writing systems. It may be that you need to first log out and then back in. If that doesn't fix it, you can also try asking an administrator to add you to the fieldworks group by using the command: $ "
-"sudo adduser 'yourusername' fieldworks"
+msgid "FieldWorks has encountered a problem setting up the writing systems. It may be that you need to first log out and then back in. If that doesn't fix it, you can also try asking an administrator to add you to the fieldworks group by using the command: $ sudo adduser 'yourusername' fieldworks"
 msgstr ""
 
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstIdCantDoDictExists
-msgid ""
-"FieldWorks has unexpectedly timed out trying to determine whether the spelling dictionary {0} exists. FieldWorks will assume there is no such dictionary, which may affect spell-checking. If you think this dictionary should exist, we recommend restarting "
-"your computer. If you see this message regularly, please report it as a bug."
+msgid "FieldWorks has unexpectedly timed out trying to determine whether the spelling dictionary {0} exists. FieldWorks will assume there is no such dictionary, which may affect spell-checking. If you think this dictionary should exist, we recommend restarting your computer. If you see this message regularly, please report it as a bug."
 msgstr ""
 "FieldWorks inesperadamente ha agotado el tiempo tratando de determinar si el diccionario ortográfico {0} existe. FieldWorks asumirá que no existe tal diccionario, lo cual podrá afectar la revisión ortográfica. Si usted piensa que el diccionario de veras "
 "existe, le recomendamos reiniciar su computadora. Si ve este mensaje regularmente, por favor repórtelo como un error."
@@ -9291,8 +9270,7 @@ msgstr ""
 msgid ""
 "FieldWorks is unable to start because some necessary Registry keys are missing or inaccessible. There should be a registry entry {0}.\n"
 "\n"
-"We have sometimes seen cases where installing other software leaves the machine in a state where non-administrators cannot access these registry entries. If this is your problem, there is a possible workaround. Try a right click on the icon that you use "
-"to start FieldWorks and choose the option 'Run as Administrator' from the context menu. See whether that helps. It may be that it is now necessary for you to use that option every time you start FLEx.\n"
+"We have sometimes seen cases where installing other software leaves the machine in a state where non-administrators cannot access these registry entries. If this is your problem, there is a possible workaround. Try a right click on the icon that you use to start FieldWorks and choose the option 'Run as Administrator' from the context menu. See whether that helps. It may be that it is now necessary for you to use that option every time you start FLEx.\n"
 "\n"
 "We don't know why this happens. If you have any idea what recently changed on your computer to cause it, please pass this on to the developers."
 msgstr ""
@@ -9302,25 +9280,19 @@ msgid "FieldWorks Language Explorer"
 msgstr "Language Explorer FieldWorks"
 
 #. /Src/UnicodeCharEditor/Properties/Resources.resx::ksCloseFieldWorksToInstall
-msgid ""
-"FieldWorks needs to install some extra information for the character data which is being used for the first time.  Just while this is being done, other FieldWorks programs need to be closed because at least one file ({0}) is in use by another FieldWorks "
-"program.  Please stop all FieldWorks programs other than your current program, then click \"Retry\" to try again."
+msgid "FieldWorks needs to install some extra information for the character data which is being used for the first time.  Just while this is being done, other FieldWorks programs need to be closed because at least one file ({0}) is in use by another FieldWorks program.  Please stop all FieldWorks programs other than your current program, then click \"Retry\" to try again."
 msgstr ""
 "FieldWorks necesita instalar información adicional para los datos de carácter que se están utilizando por primera vez. Mientras esto se hace, otros programas de FieldWorks deben ser cerrados porque, por lo menos, un archivo ({0}) está en uso por otro "
 "programa de FieldWorks. Para volver a intentarlo, cierre todos los programas de FieldWorks que no sean su programa actual y, a continuación, haga clic en \"Reintentar\"."
 
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::labelStep5Description.Text
-msgid ""
-"FieldWorks needs to know which standard format marker(s) begin a group of related fields. Select at least one marker for each group. By selecting more than one marker, a new group will be started for any of these markers that have already occurred in "
-"the current group. A checked marker can only occur once in a given group. Click Help for examples."
+msgid "FieldWorks needs to know which standard format marker(s) begin a group of related fields. Select at least one marker for each group. By selecting more than one marker, a new group will be started for any of these markers that have already occurred in the current group. A checked marker can only occur once in a given group. Click Help for examples."
 msgstr ""
 "FieldWorks necesita saber cúal marcador(es) de Formato Estándar da comienzo a un grupo de campos relacionados. Seleccione al menos un marcador para cada grupo. Al seleccionar más de un marcador, un nuevo grupo se pondrá en marcha por cualquiera de estos "
 "marcadores que ya se han ocurrido en el grupo actual. Un marcador marcado sólo puede ocurrir una vez en un grupo dado. Haga clic en Ayuda para ver ejemplos."
 
 #. /Src/UnicodeCharEditor/Properties/Resources.resx::ksCloseFieldWorksForRestore
-msgid ""
-"FieldWorks needs to restore some character data.  Just while this is being done, other FieldWorks programs need to be closed because at least one file ({0}) is in use by another FieldWorks program.  Please stop all FieldWorks programs other than your "
-"current program, then click \"Retry\" to try again."
+msgid "FieldWorks needs to restore some character data.  Just while this is being done, other FieldWorks programs need to be closed because at least one file ({0}) is in use by another FieldWorks program.  Please stop all FieldWorks programs other than your current program, then click \"Retry\" to try again."
 msgstr ""
 "FieldWorks necesita restaurar algunos datos de caracteres. Mientras esto se hace, otros programas de FieldWorks deben ser cerrados porque, por lo menos, un archivo ({0}) está en uso por otro programa de FieldWorks. Para volver a intentarlo, cierre todos "
 "los programas de FieldWorks que no sean su programa actual y, a continuación, haga clic en \"Reintentar\"."
@@ -9329,8 +9301,7 @@ msgstr ""
 msgid ""
 "FieldWorks now provides a way for you to specify for each writing system which characters are found in words (word-forming) and which characters are not found in words (punctuation, symbols, spacing).\n"
 "\n"
-"Before using Text or Concordance tools, we recommend you add word-forming characters so that Language Explorer does not change where it thinks the word boundaries are in your texts. If you use apostrophes, hyphens, zero-width characters, or superscript "
-"numbers within words, these should be added and specified as word-forming.\n"
+"Before using Text or Concordance tools, we recommend you add word-forming characters so that Language Explorer does not change where it thinks the word boundaries are in your texts. If you use apostrophes, hyphens, zero-width characters, or superscript numbers within words, these should be added and specified as word-forming.\n"
 "\n"
 "Would you like to do this now?"
 msgstr ""
@@ -9403,31 +9374,23 @@ msgid "FieldWorks was not able to send your message automatically. Please try co
 msgstr "FieldWorks no pudo enviar su mensaje de forma automática. Por favor, intente copiar al portapapeles y enviárlo usted mismo."
 
 #. /Src/FDO/Strings.resx::ksConvertFailedNewerVersion
-msgid ""
-"FieldWorks was unable to convert the project {0} because it was created by a more recent version of FieldWorks. To convert this project, install the appropriate version of FieldWorks, and turn sharing off then on again. (Note that doing this will "
-"upgrade all your projects to the newer version.)"
+msgid "FieldWorks was unable to convert the project {0} because it was created by a more recent version of FieldWorks. To convert this project, install the appropriate version of FieldWorks, and turn sharing off then on again. (Note that doing this will upgrade all your projects to the newer version.)"
 msgstr ""
 "FieldWorks no fue capaz de convertir el proyecto {0}, ya que fue creado por una versión más reciente de FieldWorks. Para convertir este proyecto, instalar la versión adecuada de FieldWorks, y vuelva a apagarlo y encenderlo de nuevo. (Nota: Tenga en "
 "cuenta que haciendo esto se actualizarán todos los proyectos a la nueva versión.)"
 
 #. /Src/FDO/Strings.resx::ksConvertFailedDetails
-msgid ""
-"FieldWorks was unable to convert the project {0}. This is generally a bug in the program. We recommend that you restart the program as soon as you can. If possible, please zip the entire contents of the folder {1} and send it to Flex_Errors@sil.org with "
-"the message \"{2}\" and any other information you think may help. FieldWorks will continue and try to convert other projects."
+msgid "FieldWorks was unable to convert the project {0}. This is generally a bug in the program. We recommend that you restart the program as soon as you can. If possible, please zip the entire contents of the folder {1} and send it to Flex_Errors@sil.org with the message \"{2}\" and any other information you think may help. FieldWorks will continue and try to convert other projects."
 msgstr ""
 "FieldWorks no pudo convertir el proyecto {0}. Generalmente, esto es un error en el programa. Le recomendamos que reinicie el programa. Si es posible, por favor, crea un archivo zip de todo el contenido de la carpeta {1} y envíalo a Flex_Errors@sil.org "
 "con el mensaje \"{2}\" juntamente con cualquier otra información que usted considere puede ayudar. FieldWorks continuará y tratará de convertir otros proyectos."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::kProblemImportWhileMerging
-msgid ""
-"FieldWorks was unable to import the LIFT file {0} that resulted from merging remote changes. Remote changes have NOT been received into this project. This may indicate corruption of the LIFT file, or possibly a bug in Language Explorer. The following "
-"message may provide more details of what went wrong: {1}"
+msgid "FieldWorks was unable to import the LIFT file {0} that resulted from merging remote changes. Remote changes have NOT been received into this project. This may indicate corruption of the LIFT file, or possibly a bug in Language Explorer. The following message may provide more details of what went wrong: {1}"
 msgstr ""
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidAboutToConvertToNonShared
-msgid ""
-"FieldWorks will now begin converting your projects to the non-shared format. This may take some time, and requires everyone to close the shared projects they currently have open (except FieldWorks will close the current one on this computer for you and "
-"reopen it after the conversion)."
+msgid "FieldWorks will now begin converting your projects to the non-shared format. This may take some time, and requires everyone to close the shared projects they currently have open (except FieldWorks will close the current one on this computer for you and reopen it after the conversion)."
 msgstr ""
 "FieldWorks comenzará ahora a convertir sus proyectos al formato no compartido. Esto puede llevar algún tiempo, y requiere que todos cierren los proyectos comunes que tienen abiertos (excepto que FieldWorks cerrará el proyecto actual en esta computadora "
 "y lo abrirá de nuevo después de la conversión)."
@@ -9935,17 +9898,13 @@ msgid "FLEx Import failure"
 msgstr "La importación de FLEx falló"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::kBasicImportFailureMessage
-msgid ""
-"FLEx was not able to do the initial import. FLEx Bridge will protect its shared LIFT data from loss by requiring a retry of the initial import, until it is successful. Retry attempts will start with the next LIFT Send/Receive attempt. Sorry for the "
-"inconvenience, but a new version of FLEx will likely be required in order to continue using LIFT Send/Receive."
+msgid "FLEx was not able to do the initial import. FLEx Bridge will protect its shared LIFT data from loss by requiring a retry of the initial import, until it is successful. Retry attempts will start with the next LIFT Send/Receive attempt. Sorry for the inconvenience, but a new version of FLEx will likely be required in order to continue using LIFT Send/Receive."
 msgstr ""
 "FLEx no pudo hacer la importación inicial. FLEx Bridge protegerá sus datos compartidos de LIFT de pérdida al requerir un reintento de la importación inicial, hasta que lo consiga. Se reintentará con el siguiente intento de Enviar/Recibir de LIFT. "
 "Disculpe la molestia, pero es probable que se requiera una nueva versión de FLEx con el fin de seguir utilizando LIFT Enviar/Recibir."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::kFlexStandardImportFailureMessage
-msgid ""
-"FLEx was not able to import the changes received. FLEx Bridge will protect its shared LIFT data from loss by requiring a retry of the import, until it is successful. Retry attempts will start with the next LIFT Send/Receive attempt. Sorry for the "
-"inconvenience, but a new version of FLEx will likely be required in order to continue using LIFT Send/Receive."
+msgid "FLEx was not able to import the changes received. FLEx Bridge will protect its shared LIFT data from loss by requiring a retry of the import, until it is successful. Retry attempts will start with the next LIFT Send/Receive attempt. Sorry for the inconvenience, but a new version of FLEx will likely be required in order to continue using LIFT Send/Receive."
 msgstr ""
 "FLEx no pudo importar los cambios recibidos. FLEx Bridge protegerá sus datos compartidos de LIFT de pérdida al requerir un reintento de la importación, hasta que lo consigue. Se reintentará con el siguiente intento de Enviar/Recibir de LIFT. Disculpe la "
 "molestia, pero es probable que se requiera una nueva versión de FLEx con el fin de seguir utilizando LIFT Enviar/Recibir."
@@ -10024,9 +9983,7 @@ msgstr "Fuente:"
 
 #. Displayed in label next to ICU sorting text box in Writing System Properties dialog. {0} is the carriage return and new line characters.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidIcuSortingHelp
-msgid ""
-"For each code point that is out of order, add a collation rule to specify how the code point is to be ordered. For example:{0}{0}   &N<ñ<<<Ñ{0}   &C<ch<<<Ch<<<CH{0}   &l<ll<<<Ll<<<LL{0}{0}would produce traditional Spanish collation where ñ follows n, ch "
-"follows c, and ll follows l."
+msgid "For each code point that is out of order, add a collation rule to specify how the code point is to be ordered. For example:{0}{0}   &N<ñ<<<Ñ{0}   &C<ch<<<Ch<<<CH{0}   &l<ll<<<Ll<<<LL{0}{0}would produce traditional Spanish collation where ñ follows n, ch follows c, and ll follows l."
 msgstr ""
 
 #. /Src/LexText/LexTextControls/DataNotebook/TextFieldOptions.resx::m_chkForEachLine.Text
@@ -10209,7 +10166,7 @@ msgstr "Nombre del tema original"
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksFT
 #. (String used 2 times.)
 msgid "FT "
-msgstr "FT "
+msgstr ""
 
 #. /|strings-en.xml::/AlternativeTitles/Concordance-Context|
 msgid "Full Context"
@@ -11556,7 +11513,7 @@ msgstr "En Language Explorer, utilizará una lista de categorías de antropolog�
 #. {0} may be a single project name or a list.
 #. /Src/FDO/Strings.resx::ksMustCloseProjectsToShare
 msgid "In order to continue with the conversion, you need to close the following projects: {0}"
-msgstr "Con el fin de continuar con la conversión, usted necesita cerrar los siguientes proyectos: {0}"
+msgstr "Para continuar con la conversión, debe cerrar los siguientes proyectos: {0}"
 
 #. /Language Explorer/Configuration/Parts/Morphology.fwlayout::/LayoutInventory/layout["PhPhoneme-detail-Edit"]/part[@ref="RepresentationsSection"]/@label
 msgid "In Orthography as"
@@ -11620,7 +11577,7 @@ msgstr ""
 
 #. /Src/Common/Filters/FiltersStrings.resx::ksRegexMismatchedParen
 msgid "Incorrectly nested parentheses in regular expression."
-msgstr ""
+msgstr "Paréntesis incorrectamente anidados en la expresión regular."
 
 #. Text for Increase Indent toolbar button
 #. Tool tip for Increase Indent toolbar button
@@ -12950,9 +12907,7 @@ msgid "Language Explorer has had to revert to the default column layout. Sorry f
 msgstr ""
 
 #. /Src/LexText/LexTextControls/LiftImportDlg.resx::tbOptions.Text
-msgid ""
-"Language Explorer merges the incoming data with existing entries in your database.  If there is a conflict, Language Explorer cannot guess what you would prefer.  Therefore, choose the merge setting you would like to use for this import.  Whenever there "
-"is a conflict:"
+msgid "Language Explorer merges the incoming data with existing entries in your database.  If there is a conflict, Language Explorer cannot guess what you would prefer.  Therefore, choose the merge setting you would like to use for this import.  Whenever there is a conflict:"
 msgstr ""
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
@@ -12996,7 +12951,7 @@ msgstr "Idiomas"
 #. /Src/Common/CoreImpl/Properties/Resources.resx::kstidInvalidInstallation
 #. (String used 2 times.)
 msgid "Languages data is not installed correctly. Please re-run the FieldWorks Installer and repair your installation."
-msgstr "Dato de idiomas no está instalado correctamente. Por favor, vuelva a ejecutar el instalador de FieldWorks y repare la instalación."
+msgstr "Los datos de idiomas no están instalados correctamente. Vuelva a ejecutar el instalador de FieldWorks y repare su instalación."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Last"
@@ -13865,7 +13820,7 @@ msgstr ""
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksLT
 #. (String used 2 times.)
 msgid "LT "
-msgstr "LT "
+msgstr ""
 
 #. HTML used to display instructions for users when the Send/Receive for the first time menu item is used
 #. /Src/LexText/Lexicon/LexEdStrings.resx::SendReceiveForTheFirstTimeContent
@@ -14210,10 +14165,7 @@ msgstr "Combinar análisis duplicados"
 
 #. Warning for Merge Duplicate Analyses item in Tools/Utilities.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeAnalysesWarning
-msgid ""
-"Merge Duplicate Analyses deletes all but one of the merged analyses. If other copies of this project are in use, and the deleted analyses are subsequently used in those copies to analyze texts, those confirmed analyses will be reset to defaults when "
-"that copy of the project is brought up to date with this one. Ideally, all users of the project should Send/Receive right before and again right after using this command, with the system where the command is done being the last to S/R before doing it "
-"and the first afterwards. If this is not possible, try to avoid analyzing texts in other copies of the project until a Send/Receive has been done."
+msgid "Merge Duplicate Analyses deletes all but one of the merged analyses. If other copies of this project are in use, and the deleted analyses are subsequently used in those copies to analyze texts, those confirmed analyses will be reset to defaults when that copy of the project is brought up to date with this one. Ideally, all users of the project should Send/Receive right before and again right after using this command, with the system where the command is done being the last to S/R before doing it and the first afterwards. If this is not possible, try to avoid analyzing texts in other copies of the project until a Send/Receive has been done."
 msgstr ""
 "Combinar análisis duplicados elimina todos excepto uno de los análisis combinados. Si otras copias de este proyecto están en uso, y los análisis borrados se utilizan posteriormente en esas copias de analizar textos, esos análisis confirmados serán "
 "restablecidos a los valores predeterminados cuando esa copia del proyecto se ponga al día con ésta. Lo ideal sería que todos los usuarios del proyecto hicieran enviar/recibir justo antes y justo después de utilizar este comando, con el sistema en el que "
@@ -14371,9 +14323,7 @@ msgid "Migrating the copy of {0} to FieldWorks 6.0 failed.  The migration proces
 msgstr "La migración de la copia de {0} a FieldWorks 6.0 falló. El proceso de migración registró un error con código {1} y mensaje {2}."
 
 #. /Src/FDO/Strings.resx::ksMigratingTempCopyToFw60Failed
-msgid ""
-"Migrating the temporary copy of {0} to FieldWorks 6.0 failed.  The update process returned error code {1} and error message {2}.  If you are restoring a version 2.0 or older project on Vista or Windows 7, right-click on FieldWorks and choose Run as "
-"Administrator."
+msgid "Migrating the temporary copy of {0} to FieldWorks 6.0 failed.  The update process returned error code {1} and error message {2}.  If you are restoring a version 2.0 or older project on Vista or Windows 7, right-click on FieldWorks and choose Run as Administrator."
 msgstr ""
 "La migración de la copia temporal de {0} a FieldWorks 6.0 falló. El proceso de actualización registró un error con código {1} y mensaje {2}. Si está restaurando un proyecto de versión 2.0 o anterior en Vista o Windows 7, dé clic derecho en FieldWorks y "
 "elija Ejecutar como Administrador."
@@ -14452,7 +14402,7 @@ msgstr ""
 #. caption for message box
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksMissingInformation
 msgid "Missing information"
-msgstr ""
+msgstr "Hay información que hay que insertar aquí"
 
 #. /|strings-en.xml::/Linguistics/Morphology/TryAWord/NoLexInfoForMorphsCaption|
 msgid "Missing Lexical Information"
@@ -15609,7 +15559,7 @@ msgstr "No"
 #. nonsense, but a possibility
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksNoColorUnderline
 msgid "No ({0}) Underline"
-msgstr "No ({0}) Subrayar"
+msgstr "No Subrayar ({0})"
 
 #. Format string for a message displayed when a file scan finds no tokens. First parameter is the type of tokens sought (e.g., "punctuation patterns" or "characters"). The second parameter is the filename that was scanned.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidNoTokensFoundInFile
@@ -16581,11 +16531,11 @@ msgstr ""
 #. /Src/Utilities/Reporting/ReportingStrings.resx::ks_Ok
 #. (String used 9 times.)
 msgid "&OK"
-msgstr "&OK"
+msgstr ""
 
 #. /Src/MigrateSqlDbs/ExistingProjectDlg.resx::m_btnOK.Text
 msgid "O&K"
-msgstr "O&K"
+msgstr ""
 
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_okButton.Text
 #. /Src/Common/Controls/FwControls/FilterAllTextsDialog.resx::m_btnOK.Text
@@ -16660,7 +16610,7 @@ msgstr "O&K"
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_btnOK.Text
 #. (String used 94 times.)
 msgid "OK"
-msgstr "OK"
+msgstr ""
 
 #. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::button_OK.Text
 msgid "&OK (I have the master project)"
@@ -17054,7 +17004,7 @@ msgstr "Otros:"
 #. Displayed in a message box when system/program runs out of memory.
 #. /Src/FwResources/FwStrings.resx::kstidOutOfMemory
 msgid "Out of memory."
-msgstr ""
+msgstr "Sin memoria."
 
 #. Title for msg box shown when dbVersion is newer than app version
 #. /Src/FwResources/FwStrings.resx::kstiddbeOldAppTtl
@@ -18359,9 +18309,7 @@ msgstr "Propiedades del proyecto"
 
 #. Displayed after a click on the "Share my projects" button in the project Location and Sharing dialog, typically if the user has changed the projects directory.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCantShareDiffProjectFolders
-msgid ""
-"Project sharing is not currently possible, because your projects folder ({0}) is different from the projects folder used by the sharing service ({1}). To share your projects, you must make these folders the same, then use this dialog again to turn on "
-"sharing."
+msgid "Project sharing is not currently possible, because your projects folder ({0}) is different from the projects folder used by the sharing service ({1}). To share your projects, you must make these folders the same, then use this dialog again to turn on sharing."
 msgstr ""
 "Compartición de proyectos no es posible en la actualidad, debido a su carpeta de proyectos ({0}) es diferente de la carpeta de los proyectos utilizados por el servicio de uso compartido ({1}). Para compartir sus proyectos, usted debe hacer estas "
 "carpetas la misma, a continuación, utilizar este cuadro de diálogo de nuevo para activar el uso compartido."
@@ -18784,9 +18732,7 @@ msgid "{0} records deleted and {1} records created by import"
 msgstr ""
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblHierarchyInstructions.Text
-msgid ""
-"Records in the FieldWorks Notebook support hierarchical embedding of records. If your standard format file contains hierarchy, you need to map it onto the FieldWorks Notebook's structure.  For example, mapping \"\\lnf\" onto \"Event (level 2)\" "
-"indicates that the import process should start a new sub-record whenever it encounters a \\lnf field.  (Refer to Help for more details.)"
+msgid "Records in the FieldWorks Notebook support hierarchical embedding of records. If your standard format file contains hierarchy, you need to map it onto the FieldWorks Notebook's structure.  For example, mapping \"\\lnf\" onto \"Event (level 2)\" indicates that the import process should start a new sub-record whenever it encounters a \\lnf field.  (Refer to Help for more details.)"
 msgstr ""
 "Los registros en el Cuaderno de FieldWorks apoyan incorporación jerárquica de los registros. Si el archivo de formato estándar (SFM) contiene la jerarquía, es necesario hacer un mapa sobre la estructura del Cuaderno de FieldWorks. Por ejemplo, el mapeo "
 "\"\\lnf \" en \"Evento (nivel 2)\" indica que el proceso de importación debe comenzar un nuevo sub-registro cada vez que encuentra un campo \\lnf. (Consulte la Ayuda para obtener más detalles (solo en inglés).)"
@@ -19790,7 +19736,7 @@ msgstr "Recarga los datos desde la gramatica y el léxico, para que el analizado
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::rememberPasswordCheckbox.Text
 msgid "Remember password"
-msgstr ""
+msgstr "Recordar contraseña"
 
 #. field name for Data Notebook records
 #. /Src/FwResources/FwStrings.resx::kstidReminders
@@ -20669,15 +20615,11 @@ msgid "Run this utility when the FieldWorks project has entries with duplicate o
 msgstr "Ejecutar esta utilidad cuando el proyecto en FieldWorks tenga entradas con números homógrafos duplicados o faltantes, o cuando existan vacios en las secuencias de números homógrafos."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhenToConvertVariants
-msgid ""
-"Run this utility when you need to convert one or more of your existing irregularly inflected form variant types to be variant types.  When a variant type is an irregularly inflected form variant type, it has extra fields such as 'Append to Gloss', "
-"'Inflection Features', and 'Slots.'"
+msgid "Run this utility when you need to convert one or more of your existing irregularly inflected form variant types to be variant types.  When a variant type is an irregularly inflected form variant type, it has extra fields such as 'Append to Gloss', 'Inflection Features', and 'Slots.'"
 msgstr ""
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksWhenToConvertIrregularlyInflectedFormVariants
-msgid ""
-"Run this utility when you need to convert one or more of your existing variant types to be irregularly inflected form variant types.  When a variant type is an irregularly inflected form variant type, it has extra fields such as 'Append to Gloss', "
-"'Inflection Features', and 'Slots.'"
+msgid "Run this utility when you need to convert one or more of your existing variant types to be irregularly inflected form variant types.  When a variant type is an irregularly inflected form variant type, it has extra fields such as 'Append to Gloss', 'Inflection Features', and 'Slots.'"
 msgstr ""
 
 #. /|strings-en.xml::/Linguistics/Morphology/RemoveParserAnalyses/WhenDescription|
@@ -22044,7 +21986,7 @@ msgstr "Texto de una sola línea"
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::siteNameLabel.Text
 msgid "Site URL:"
-msgstr ""
+msgstr "URL del sitio:"
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidSysMnuSize
 msgid "Size"
@@ -22182,9 +22124,7 @@ msgstr "Algunos de los archivos seleccionados ({0}) podrían no ser válidos par
 
 #. the two arguments are either ksAffixes and ksStems, which may be swapped
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksMorphTypeChangesSlow
-msgid ""
-"Some of the selected items are being changed from {0} to {1}. Different kinds of information are stored for affixes and stems, so such changes could lose some details you have recorded about the items. Also, the change may take a long time. If many "
-"changes are of this type, you may notice a LONG pause at about 80% complete."
+msgid "Some of the selected items are being changed from {0} to {1}. Different kinds of information are stored for affixes and stems, so such changes could lose some details you have recorded about the items. Also, the change may take a long time. If many changes are of this type, you may notice a LONG pause at about 80% complete."
 msgstr ""
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksSomeOptionsAreDisabledBecause_
@@ -23623,7 +23563,7 @@ msgstr "Verde azulado,0,128,128"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Technical Notes on _Interlinear Import..."
-msgstr ""
+msgstr "Technical Notes on _Interlinear Import..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Technical Notes on _SFM Database Import..."
@@ -23635,11 +23575,11 @@ msgstr "Technical Notes on _Writing Systems..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Technical Notes on FieldWorks Send-_Receive..."
-msgstr ""
+msgstr "Technical Notes on FieldWorks Send-_Receive..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Technical Notes on Lin_guaLinks Import..."
-msgstr ""
+msgstr "Technical Notes on Lin_guaLinks Import..."
 
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrTecTec
 msgid "TECkit (compiled TEC file)"
@@ -23863,9 +23803,7 @@ msgid "That project already exists. You'll need to choose a different name in Pr
 msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidCantCreateDuplicateWs
-msgid ""
-"The \"{0}\" writing system already exists. To distinguish the new writing system you are creating from \"{0}\", add script, region and/or variant information.{1}{1}Alternatively, remove this new writing system and use the existing writing system, "
-"\"{0}\", if it meets your needs."
+msgid "The \"{0}\" writing system already exists. To distinguish the new writing system you are creating from \"{0}\", add script, region and/or variant information.{1}{1}Alternatively, remove this new writing system and use the existing writing system, \"{0}\", if it meets your needs."
 msgstr ""
 "El sistema de escritura \"{0}\" ya existe. Para distinguir el nuevo sistema de escritura que está creando de \"{0}\", añadir escritura, región y/o información de variante.{1}{1}Alternativamente, elimine este nuevo sistema de escritura y utilice el "
 "sistema de escritura existente, \"{0}\", si se ajusta a sus necesidades."
@@ -23955,9 +23893,7 @@ msgid "The application was not able to follow that link. This can happen if you 
 msgstr ""
 
 #. /Src/Common/FieldWorks/Properties/Resources.resx::ksChangeProjectLocationFailedDetails
-msgid ""
-"The attempt to change the location of the projects folder has failed. This is usually because you do not have administrator privileges in this account (or you answered 'no' when asked whether it was OK to make changes to your machine). Because the "
-"project folder location affects all users of this computer, administrator privilege is required to change it."
+msgid "The attempt to change the location of the projects folder has failed. This is usually because you do not have administrator privileges in this account (or you answered 'no' when asked whether it was OK to make changes to your machine). Because the project folder location affects all users of this computer, administrator privilege is required to change it."
 msgstr ""
 
 #. /Src/FDO/Strings.resx::ksBackupXMLFileTooOld
@@ -24019,9 +23955,7 @@ msgid "The contents of the input file ({0}) have changed. It will now be re-load
 msgstr ""
 
 #. /Src/Common/FieldWorks/ShareProjectsFolderDlg.resx::m_tbMessage.Text
-msgid ""
-"The conversion of your projects to the shared format is now complete. To complete the sharing of your projects, you need to set the folder (and subfolders) where your projects are stored to be readable and writable by the other people who will work on "
-"your data. "
+msgid "The conversion of your projects to the shared format is now complete. To complete the sharing of your projects, you need to set the folder (and subfolders) where your projects are stored to be readable and writable by the other people who will work on your data. "
 msgstr ""
 "La conversión de sus proyectos al formato compartido ha terminado. Para completar el proceso de compartir sus proyectos y permitir que otras personas puedan modificar sus datos, es necesario configurar para leer y editar la carpeta (y subcarpetas) donde "
 "sus proyectos están guardados. "
@@ -24056,34 +23990,27 @@ msgid ""
 "The custom field name \"{0}\" includes punctuation characters. This may cause export to fail or make the exported file difficult for other programs to use. We recommend that you rename your custom field and then do the export again.\n"
 "Do you want to continue with the export?"
 msgstr ""
-"El nombre del campo personalizado \"{0}\" incluye caracteres de puntuación. Esto puede causar que la exportación falle o hacer que el archivo exportado sea difícil de usar para otros programas. Le recomendamos que cambie el nombre de su campo "
-"personalizado y luego intente la exportación de nuevo.\n"
-"¿Quieres continuar con la exportación?"
+"El nombre de campo personalizado \"{0}\" incluye caracteres de puntuación. Esto puede provocar que la exportación falle o hacerlo difícil de utilizar por otros programas. Recomendamos que renombre el archivo personalizado y luego haga la exportación nuevamente.\n"
+"¿Desea continuar con la exportación?"
 
 #. /Src/Common/SimpleRootSite/Properties/Resources.resx::ksCutFailed
 msgid "The cut operation could not be completed. This might be because some parts of what is selected cannot be edited. If this happens unexpectedly please report it as a bug. Please pass on this message: {0}."
 msgstr "La operación de corte no se pudo completar. Esto podría deberse a que algunas partes de lo que se ha seleccionado no se pueden editar. Si esto ocurre inesperadamente favor repórtelo como un error. Por favor transmitir este mensaje: {0}"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksNLPFolderDoesNotExist
-msgid ""
-"The Database folder ({0}) could not be found. If you have renamed this folder, you need to tell FieldWorks the new location. If you have moved this folder to a removable drive, you may need to connect the drive, or tell FieldWorks the new location if "
-"the system has assigned a different drive letter to it. Otherwise, this may be a sign of a corrupt FieldWorks installation; please reinstall FieldWorks or consult your system administrator. Do you want to change the Database folder now?"
+msgid "The Database folder ({0}) could not be found. If you have renamed this folder, you need to tell FieldWorks the new location. If you have moved this folder to a removable drive, you may need to connect the drive, or tell FieldWorks the new location if the system has assigned a different drive letter to it. Otherwise, this may be a sign of a corrupt FieldWorks installation; please reinstall FieldWorks or consult your system administrator. Do you want to change the Database folder now?"
 msgstr ""
 
 #. Warning issued instead of showing the New FieldWorks Project dialog box if the database folder is compressed. {0} is the path of the folder.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksNLPFolderCompressed
-msgid ""
-"The Database folder ({0}) is compressed. A new project cannot be created unless the folder is decompressed. To fix this problem, close down this application and any other open FieldWorks applications. When you next launch a FieldWorks application, there "
-"will be an opportunity to fix the folder automatically."
+msgid "The Database folder ({0}) is compressed. A new project cannot be created unless the folder is decompressed. To fix this problem, close down this application and any other open FieldWorks applications. When you next launch a FieldWorks application, there will be an opportunity to fix the folder automatically."
 msgstr ""
 "La carpeta de base de datos ({0}) está comprimida. Un nuevo proyecto no se puede crear a menos que la carpeta se descomprime. Para solucionar este problema, cierre esta aplicación y cualquier otra aplicación de FieldWorks abierta. La próxima vez que "
 "inicie una aplicación de FieldWorks, habrá una oportunidad de arreglar la carpeta automáticamente."
 
 #. Warning issued instead of showing the New FieldWorks Project dialog box if the database folder is encrypted. {0} is the path of the folder.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksNLPFolderEncrypted
-msgid ""
-"The Database folder ({0}) is encrypted. A new project cannot be created unless the folder is decrypted. To fix this problem, close down this application and any other open FieldWorks applications. When you next launch a FieldWorks application, there "
-"will be an opportunity to fix the folder automatically."
+msgid "The Database folder ({0}) is encrypted. A new project cannot be created unless the folder is decrypted. To fix this problem, close down this application and any other open FieldWorks applications. When you next launch a FieldWorks application, there will be an opportunity to fix the folder automatically."
 msgstr ""
 "La carpeta de base de datos ({0}) está encriptado. No se puede crear un nuevo proyecto al menos que la carpeta sea desencriptado. Para solucionar este problema, cierre esta aplicación y cualquier otra aplicación de FieldWorks. La próxima vez que inicie "
 "una aplicación, existirá la oportunidad de arreglar la carpeta automáticamente."
@@ -24103,7 +24030,7 @@ msgstr "La vista del diccionario no ha sido establecido."
 
 #. /Src/FDO/Strings.resx::ksCannotRestoreLinkedFilesToDir
 msgid "The directory {0} could not be created to receive this project's linked media files."
-msgstr "El directorio {0} no se ha podido crear para recibir archivos multimedia enlazados a este proyecto."
+msgstr "El directorio {0} no puede ser creado para recibir los archivos multimedia vinculados de este proyecto."
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidErrorAccessingEncConverters
 msgid ""
@@ -24161,8 +24088,7 @@ msgid "The environment, infix position, and some grammatical information will be
 msgstr "¡El ambiente, posición del infijo, y alguna información gramatical se perderán! ¿Quiere continuar?"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="InfixPosition"]
-msgid ""
-"The environments describing where the infix may occur with respect to the stem.  Testers: Please see section 3.3 of the Conceptual Introduction document for how to key an infix position environment.  (A review of section 3.1.3 might also prove helpful.)"
+msgid "The environments describing where the infix may occur with respect to the stem.  Testers: Please see section 3.3 of the Conceptual Introduction document for how to key an infix position environment.  (A review of section 3.1.3 might also prove helpful.)"
 msgstr ""
 "Los ambientes que describen dónde el infijo puede ocurrir con respecto al tema. Probadores: Por favor, consulte la sección 3.3 del documento Conceptual Introduction (en inglés) para saber cómo teclear un ambiente de posición de infijo. (Un repaso de "
 "sección 3.1.3 también podría resultar útil.)"
@@ -24186,11 +24112,11 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksOverwriteDetails
 msgid "The file {0} already exists. Do you want to overwrite it?"
-msgstr ""
+msgstr "El archivo ya existe. ¿Desea sobrescribirlo?"
 
 #. /Src/FDO/Strings.resx::ksCannotRestoreBackup
 msgid "The file {0} cannot be overwritten because Windows thinks it is in use. It will not be updated to match the backup."
-msgstr ""
+msgstr "El archivo {0} no se puede sobreescribir porque Windows piensa que está en uso. No será actualizado para que coincida con la copia de seguridad."
 
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrMapFileNotFound
 msgid "The file specifying the conversion does not exist"
@@ -24213,9 +24139,7 @@ msgid "The filter is being turned off so that you can see the new text."
 msgstr "El filtro está siendo desactivada para que pueda ver el nuevo texto."
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidFindMystery
-msgid ""
-"The 'Find' operation failed. We've observed this before and the reasons are mysterious. If you can get it to happen repeatedly, please send the FieldWorks developers a copy of your database and the string you were searching for and tell us where the "
-"search started. Usually, the problem goes away if you just try again. That should be safe. "
+msgid "The 'Find' operation failed. We've observed this before and the reasons are mysterious. If you can get it to happen repeatedly, please send the FieldWorks developers a copy of your database and the string you were searching for and tell us where the search started. Usually, the problem goes away if you just try again. That should be safe. "
 msgstr ""
 
 #. /Src/FwCoreDlgs/AddConverterDlgStrings.resx::kstidFindReplaceWarningMsg
@@ -24467,17 +24391,12 @@ msgid "The homograph numbers are currently based on {0}. Do you want to update t
 msgstr "Los números de homógrafos se basan actualmente en {0}. ¿Desea actualizar los números de homógrafos que basarse en el actual sistema de escritura vernácula predeterminado, {1}?"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksMisorderedMarkers
-msgid ""
-"The import process has detected some entries in which the field markers were not ordered as expected. (Refer to the list below to see which entries are affected.) The links will open Zedit in the original SFM file at the location of interest. It only "
-"works in Internet Explorer. To use it, when the page opens, at the bottom of the browser, it displays, \"Internet Explorer restricted this webpage from running scripts or ActiveX controls\". Click \"Allow blocked content\". After the first link is "
-"clicked, the following dialog will come up, \"An ActiveX control on this page might be unsafe to interact with other parts of the page. Do you want to allow this interaction?\" Click \"Yes\" and the links will then work anywhere on the page."
+msgid "The import process has detected some entries in which the field markers were not ordered as expected. (Refer to the list below to see which entries are affected.) The links will open Zedit in the original SFM file at the location of interest. It only works in Internet Explorer. To use it, when the page opens, at the bottom of the browser, it displays, \"Internet Explorer restricted this webpage from running scripts or ActiveX controls\". Click \"Allow blocked content\". After the first link is clicked, the following dialog will come up, \"An ActiveX control on this page might be unsafe to interact with other parts of the page. Do you want to allow this interaction?\" Click \"Yes\" and the links will then work anywhere on the page."
 msgstr ""
 
 #. {0} and {1} are bits of HTML that make the text between them "active"
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksClickToPreviewAssumptions
-msgid ""
-"The import process has made some assumptions and attempted to reorder information properly.  If you continue to import, these assumptions and actions will be applied.  To preview how the import process will rearrange fields in the affected entries {0}"
-"Click Here{1}."
+msgid "The import process has made some assumptions and attempted to reorder information properly.  If you continue to import, these assumptions and actions will be applied.  To preview how the import process will rearrange fields in the affected entries {0}Click Here{1}."
 msgstr ""
 
 #. /|strings-en.xml::/DialogStrings/ChangeMorphTypeLoseInfixLocGramInfo|
@@ -25029,9 +24948,7 @@ msgstr "El sistema de escritura {0} y todo el texto en el sistema de escritura y
 
 #. Error message. {0} might be a code like "fr" and {1} a bad ID, typically a short string like "frn[".
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidInvalidDictId
-msgid ""
-" The writing system {0} specifies an invalid spelling dictionary ({1}). Valid spelling dictionary IDs must only contain ASCII alphanumeric characters or underline. Spell checking will not work for this writing system until you correct this in the "
-"Writing System Properties dialog."
+msgid " The writing system {0} specifies an invalid spelling dictionary ({1}). Valid spelling dictionary IDs must only contain ASCII alphanumeric characters or underline. Spell checking will not work for this writing system until you correct this in the Writing System Properties dialog."
 msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidErrorInstallingWS
@@ -25146,9 +25063,7 @@ msgid "There is already a project with the same name as the one you are trying t
 msgstr "Ya existe un proyecto con el mismo nombre del proyecto que está intentando convertir."
 
 #. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksHCInvalidWordform
-msgid ""
-"There is at least one undefined phoneme in the word '{0}'. The following phonemes were parsed: '{3}'.  The problem begins with character/diacritic number {1} – that is, in the part of the word '{2}'.  Please make sure all phonemes in the word have been "
-"defined."
+msgid "There is at least one undefined phoneme in the word '{0}'. The following phonemes were parsed: '{3}'.  The problem begins with character/diacritic number {1} – that is, in the part of the word '{2}'.  Please make sure all phonemes in the word have been defined."
 msgstr ""
 "Existe por lo menos un fonema no definido en la palabra '{0}'. Los siguientes fonemas fueron analizadas: '{3}'. El problema comienza con el carácter/diacrítica número {1} – es decir, en la parte de la palabra '{2}'. Por favor, asegúrese de que se han "
 "definido todos los fonemas de la palabra."
@@ -25261,7 +25176,7 @@ msgstr "Estas opciones de configuración afectan la vista de {0} actual:{1}{2}"
 #. {0} is a vernacular word
 #. /Src/FdoUi/FdoUiStrings.resx::ksLexicallyRelatedWords
 msgid "These words are lexically related to {0}:"
-msgstr ""
+msgstr "Estas palabras está léxicamente relacionadas con {0}:"
 
 #. Menu Command: {0} is the special regular expression metacharacter(s)
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksREThirdCapture
@@ -25275,7 +25190,7 @@ msgstr "Este alomorfo puede adjuntarse a los temas cuyos clases de inflexión se
 #. Hello. My name is Inigo Montoya. You killed my father. Prepare to die
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidFieldWorksErrorExitInfo
 msgid "This application must exit."
-msgstr ""
+msgstr "Esta aplicación debe salir."
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksWhenToTransduceCitForms
 msgid "This can be used to convert Citation Forms into another writing system."
@@ -25290,9 +25205,7 @@ msgid "This dialog helps you create a new FieldWorks project, into which you can
 msgstr "Este diálogo le ayudará a crear un nuevo proyecto de FieldWorks, dentro del cual podrá ingresar los datos usando las aplicaciones de FieldWorks."
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksChartTemplateWarning
-msgid ""
-"This discourse analysis tool has columns preset for SVO languages. If you need to change that order, edit the list called \"Text Constituent Chart Templates\". The columns are the 3rd level list items. Note that once you have charted some text, you "
-"cannot reorder the columns without first clearing the chart."
+msgid "This discourse analysis tool has columns preset for SVO languages. If you need to change that order, edit the list called \"Text Constituent Chart Templates\". The columns are the 3rd level list items. Note that once you have charted some text, you cannot reorder the columns without first clearing the chart."
 msgstr ""
 "La herramienta de análisis de discurso tiene columnas listas para idiomas SVO. Si necesita cambiar el orden, edite la lista llamada \"Plantillas para tabla de texto\". Las columnas están en el 3er nivel de elementos en la lista. Si cambia las columnas "
 "después de haber elaborado la tabla, necesitará reelaborar sus primeras tablas."
@@ -25327,11 +25240,7 @@ msgid "THIS IS A TEST!"
 msgstr "¡ESTO ES UNA PRUEBA!"
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksDemoOfUsingPython
-msgid ""
-"This is a trivial demonstration of using Python to generate the contents of a field. It is extremely limited.  It grabs the default vernacular alternative of the citation form of every entry, runs it through a Python script that you supply, and then "
-"places the output in a different writing system alternative of the citation form. It is currently implemented in a very inefficient way; it actually runs the Python script once for every entry in the database. This utility will run the Python script "
-"found at (your FieldWorks install directory)\\Language Explorer\\UserScripts\\TransduceCitationForms.py (the supplied sample script will add a Spanish alternative consisting of the default alternative, but with the case of each letter swapped.) Python "
-"must be part of your 'PATH' system variable."
+msgid "This is a trivial demonstration of using Python to generate the contents of a field. It is extremely limited.  It grabs the default vernacular alternative of the citation form of every entry, runs it through a Python script that you supply, and then places the output in a different writing system alternative of the citation form. It is currently implemented in a very inefficient way; it actually runs the Python script once for every entry in the database. This utility will run the Python script found at (your FieldWorks install directory)\\Language Explorer\\UserScripts\\TransduceCitationForms.py (the supplied sample script will add a Spanish alternative consisting of the default alternative, but with the case of each letter swapped.) Python must be part of your 'PATH' system variable."
 msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="DateCreated"]
@@ -25452,8 +25361,7 @@ msgstr "Este proyecto se encuentra en el formato que permite compartir en una re
 
 #. /Src/xWorks/xWorksStrings.resx::kstCustomFieldSendReceive
 msgid ""
-"This project is set up for Send/Receive Project (with other FLEx users). If there are already other users in your team, it is VERY important to coordinate custom field changes. FLEx currently has only limited ability to Send/Receive custom field "
-"changes. It is possible to get into a situation where some team members cannot merge their changes and must Get the project again.\n"
+"This project is set up for Send/Receive Project (with other FLEx users). If there are already other users in your team, it is VERY important to coordinate custom field changes. FLEx currently has only limited ability to Send/Receive custom field changes. It is possible to get into a situation where some team members cannot merge their changes and must Get the project again.\n"
 "\n"
 "Recommended procedure:\n"
 "\n"
@@ -25554,18 +25462,14 @@ msgstr "Esta utilidad limpia los números homógrafos de las entradas léxicas. 
 
 #. Help information for the Merge Duplicate Analyses item in Tools/Utilities.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeAnalysesAttemptsTo
-msgid ""
-"This utility finds groups of analyses that have the same word category and morphological analysis. It merges such groups into a single analysis. It keeps all the glosses, except that if some glosses are duplicates (in all writing systems) such groups "
-"will also be merged. Analyzed texts which use any of the merged analyses will be made to use the merged one."
+msgid "This utility finds groups of analyses that have the same word category and morphological analysis. It merges such groups into a single analysis. It keeps all the glosses, except that if some glosses are duplicates (in all writing systems) such groups will also be merged. Analyzed texts which use any of the merged analyses will be made to use the merged one."
 msgstr ""
 "Esta utilidad encuentra grupos de análisis que tienen la misma categoría de palabra y el análisis morfológico. Combina estos grupos en un solo análisis. Mantiene todas las glosas, excepto si algunas glosas son duplicados (en todos los sistemas de "
 "escritura), también se combinarán estos grupos. Los textos analizados que utilizan cualquiera de los análisis combinados estarán preparados para utilizar la combinada."
 
 #. Help information for the Merge Wordform option in Utilities.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksMergeWordformsAttemptsTo
-msgid ""
-"This utility finds groups of Wordforms that have the same text form in all writing systems (though possibly some may be missing some alternatives). It merges such groups into a single wordform. It keeps all the analyses, which may result in some "
-"duplicate analyses to sort out using the Word Analyses tool. Spelling status will be set to Correct if any of the old wordforms is Correct, and to Incorrect if any old form is Incorrect; otherwise it stays Undecided."
+msgid "This utility finds groups of Wordforms that have the same text form in all writing systems (though possibly some may be missing some alternatives). It merges such groups into a single wordform. It keeps all the analyses, which may result in some duplicate analyses to sort out using the Word Analyses tool. Spelling status will be set to Correct if any of the old wordforms is Correct, and to Incorrect if any old form is Incorrect; otherwise it stays Undecided."
 msgstr ""
 "Esta utilidad busca grupos de formas de palabras que tienen la misma forma de texto en todos los sistemas de escritura (aunque posiblemente en algunos puedan faltar algunas alternativas). Combina estos grupos en una sola forma de la palabra. Mantiene "
 "todos los análisis, lo que puede resultar en algunos análisis duplicados por resolver utilizando la herramienta Análisis de Word. El estado de ortografía se establecerá en Correcto si alguno de las viejas formas de la palabra es Correcta, y se "
@@ -25573,9 +25477,7 @@ msgstr ""
 
 #. Help text for Force Rechecking Word Breaks utility dialog item.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksClearParseIsCurrentDoes
-msgid ""
-"This utility is for fixing incorrect word alignment (division of text into words and spaces). This utility will clear the flag that FLEx uses to determine if a parse is current. It should not affect the work you have done in analyzing texts other than "
-"repairing broken tokenization but it may update unconfirmed parser analyses."
+msgid "This utility is for fixing incorrect word alignment (division of text into words and spaces). This utility will clear the flag that FLEx uses to determine if a parse is current. It should not affect the work you have done in analyzing texts other than repairing broken tokenization but it may update unconfirmed parser analyses."
 msgstr ""
 
 #. /|strings-en.xml::/Linguistics/Morphology/RemoveParserAnalyses/WhatDescription|
@@ -25759,7 +25661,7 @@ msgstr ""
 #. Text at the top of the Upload to Webonary dialog. 0 will be the URL in toApplyForWebonaryAccountLink
 #. /Src/xWorks/xWorksStrings.resx::toApplyForWebonaryAccountExplanation
 msgid "To apply for an account at Webonary, please visit {0}."
-msgstr ""
+msgstr "Para pedir una cuenta en Webonary.org, favor de visitar {0}."
 
 #. /|strings-en.xml::/DialogTitles/ToCategoryTitle|
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoDerivAffMsa-Detail-ToPartOfSpeech"]/slice/@label
@@ -26179,11 +26081,11 @@ msgstr "&Probarla"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksTryIfProgramGoesPoof
 msgid "Try this tool if Language Explorer disappears or produces a \"FieldWorks has stopped working\" dialog when you try to view the Dictionary."
-msgstr ""
+msgstr "Pruebe esta herramienta si Language Explorer desaparece o sí se muestra el mensaje \"FieldWorks ha dejado de funcionar\" cuando intenta ver el Diccionario."
 
 #. /Src/Common/UIAdapterInterfaces/UIAdapterInterfacesStrings.resx::ksCannotLoadX
 msgid "Trying to load {0}. Your installation may be corrupt."
-msgstr ""
+msgstr "Intentando cargar {0}. Su instalación puede estar corrupta."
 
 #. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksTraceWordformX
 msgid "Trying Wordform {0}"
@@ -26327,7 +26229,7 @@ msgstr "No puede modificar las ubicaciones del proyecto."
 #. caption for message box
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::UnableToOpenOutputFile
 msgid "Unable to open Output file..."
-msgstr ""
+msgstr "No se puede abrir el archivo de salida..."
 
 #. Caption for Unable to Open Project dialog box
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidUnableToOpenProjectCaption
@@ -27363,7 +27265,7 @@ msgstr "Actualizando la gramática y el léxico"
 
 #. /Src/xWorks/xWorksStrings.resx::UpdatingTheDisplay
 msgid "Updating the display"
-msgstr ""
+msgstr "Actualizando la pantalla"
 
 #. /Src/LexText/ParserCore/ParserCoreStrings.resx::ksUpdateX
 msgid "Updating: {0}"
@@ -27387,7 +27289,7 @@ msgstr "Cargar a _Webonary..."
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::$this.Text
 msgid "Upload to Webonary"
-msgstr "Cargar a _Webonary"
+msgstr "Cargar a Webonary"
 
 #. /Src/UnicodeCharEditor/CharEditorWindow.resx::m_hdrUpper.Text
 msgid "Uppercase"
@@ -27494,9 +27396,7 @@ msgid "Use this when a project is throwing exceptions such as \"Key 62c22e20-8d8
 msgstr "Utilice esta opción cuando un proyecto presenta excepciones tales como \"Clave 62c22e20-8d8a-42bf-a54c-e21529284f2d no se encuentra en el mapa de identidad ... \", y sospecha que los datos se han corrompido de alguna manera."
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUseMergeAnalysesWhen
-msgid ""
-"Use this when you discover (e.g., in Word Analyses) that you have more than one copy of the same analysis of the same wordform. It is especially helpful when you have many instances of this, for example, as a result of merging work done in multiple "
-"places."
+msgid "Use this when you discover (e.g., in Word Analyses) that you have more than one copy of the same analysis of the same wordform. It is especially helpful when you have many instances of this, for example, as a result of merging work done in multiple places."
 msgstr ""
 "Utilice esta opción cuando descubre (p.ej., en el Análisis de Palabras) que tiene más de una copia del mismo análisis de la misma forma de palabra. Es especialmente útil cuando se tiene muchos casos como este, por ejemplo, como resultado de la "
 "combinación de trabajo realizado en múltiples lugares."
@@ -27508,9 +27408,7 @@ msgstr "Utilice esta opción cuando se descubre (p. ej., en la concordancia de l
 
 #. Help text for Force Rechecking Word Breaks utility dialog item.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksUseClearParseIsCurrentWhen
-msgid ""
-"Use this when you suspect the program does not have its analysis of texts aligned with the text. One thing that could cause this was using the Change Spelling command in FLEx 7.0 through 7.2.2. One symptom is an incorrect Word List Concordance, where "
-"what is highlighted for an occurrence is not the selected word."
+msgid "Use this when you suspect the program does not have its analysis of texts aligned with the text. One thing that could cause this was using the Change Spelling command in FLEx 7.0 through 7.2.2. One symptom is an incorrect Word List Concordance, where what is highlighted for an occurrence is not the selected word."
 msgstr ""
 "Utilice esta opción cuando sospecha que el programa no tiene su análisis de textos alineados con el texto. Una causa posible es que usted estaba usando el comando Cambiar Ortografía en Flex 7.0 a 7.2.2. Un síntoma es una concordancia de lista de "
 "palabras incorrecta, donde lo que está resaltado para una ocurrencia no es la palabra seleccionada."
@@ -27621,9 +27519,7 @@ msgid ""
 msgstr ""
 
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::label2.Text
-msgid ""
-"Using this tool, you can import the Baseline of texts as well as any free-form text annotations (such as free translations or notes), if the texts have been marked up with standard format markers. After importing, you will need to re-insert any morpheme "
-"breaks, and redo other aspects of interlinearization."
+msgid "Using this tool, you can import the Baseline of texts as well as any free-form text annotations (such as free translations or notes), if the texts have been marked up with standard format markers. After importing, you will need to re-insert any morpheme breaks, and redo other aspects of interlinearization."
 msgstr ""
 "Utilizando esta herramienta, puede importar la línea de base de los textos así como las anotaciones de texto de forma libre (como traducciones libres o notas), si los textos se han marcado con marcadores de formato estándar. Después de importar, tendrá "
 "que volver a insertar saltos de morfemas, y rehacer otros aspectos de interlinearización."
@@ -28125,7 +28021,7 @@ msgstr "¡Atención!"
 #. Warning added to the end of the import information after a user selects a zip file.
 #. /Src/xWorks/xWorksStrings.resx::DictionaryConfigurationDictionaryConfigurationUser_StyleOverwriteWarning
 msgid "Warning! The styles for this project will be overwritten by the import."
-msgstr ""
+msgstr "¡Advertencia! Los estilos de este proyecto serán sobreescritos por la importación."
 
 #. /Src/FDO/Strings.resx::ksWarningDelAnalysis
 msgid "Warning, once you delete this analysis, the following problems may arise:"
@@ -28220,7 +28116,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksWSWarnWhenMergingWritingSystems
 msgid "Warning: You are about to merge two writing systems. If you have done interlinear analysis in both writing systems, the analyses in one of those writing systems will be lost. Do you wish to continue?"
-msgstr ""
+msgstr "¡Advertencia! Está a punto de fusionar dos sistemas de escritura. Si tiene un análisis interlineal en ambos sistemas de escritura, los análisis en uno de estos sistemas de escritura se perderán. ¿Desea continuar?"
 
 #. Displayed at bottom of PUA Character dialog when showing an existing user-defined character.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidOverwriteUserCode
@@ -28596,7 +28492,7 @@ msgstr "Sistema de Escritura ya existe"
 #. Heading for the character grid tooltip when the character it represents cannot be rendered by the font.
 #. /Src/Common/Controls/FwControls/Properties/Resources.resx::kstidChrGridMissingGlyphHdg
 msgid "Writing system font cannot render this character"
-msgstr ""
+msgstr "La fuente del sistema no puede representar este caracter"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksWsNewFromExisting
 msgid "&Writing System for {0}..."
@@ -28724,7 +28620,7 @@ msgstr ""
 #. file type
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksXmlSettings
 msgid "XML settings"
-msgstr ""
+msgstr "Ajustes XML"
 
 #. /Src/LexText/LexTextControls/LexImportWizardMarker.resx::m_lblInstances.Text
 msgid "XXXXX instances"
@@ -28829,9 +28725,7 @@ msgid "You can add other language options by running the installer, using Modify
 msgstr "Puede añadir otras opciones de idioma ejecutando el instalador, utilizando Modificar y elegiendo instalar paquetes de idiomas. Consulte la ayuda para obtener más detalles."
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblOverviewDetails.Text
-msgid ""
-"You can control how much detail you wish to deal with.  You may start by specifying a few fields to import in order to get a quick look at how the FieldWorks Data Notebook works, and then come back later and specify more and more fields.  This Import "
-"Procedure is designed to allow you to refine the process iteratively until you are finally satisfied with the result."
+msgid "You can control how much detail you wish to deal with.  You may start by specifying a few fields to import in order to get a quick look at how the FieldWorks Data Notebook works, and then come back later and specify more and more fields.  This Import Procedure is designed to allow you to refine the process iteratively until you are finally satisfied with the result."
 msgstr ""
 "Puede controlar la cantidad de detalles con que desea tratar. Puede comenzar por especificar algunos campos para la importación con el fin de obtener un rápido vistazo a cómo funciona el Fieldwork Data Notebook, después, volver más tarde y especificar "
 "más y más campos. Este procedimiento de importación se ha diseñado para que pueda perfeccionar el proceso de forma iterativa hasta que finalmente quede satisfecho con el resultado."
@@ -28919,7 +28813,7 @@ msgstr ""
 #. Error message when writing a registry setting for "local machine" fails.
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::ksRegChangeFailed
 msgid "You do not have permission to change the setting \"{0}\". Administrator privileges are required to make changes affecting all users of this computer."
-msgstr ""
+msgstr "No tiene permisos para cambiar la configuración \"{0}\". Se requiere privilegios de administrador para hacer cambios que afecten a todos los usuarios de esta computadora."
 
 #. /Src/Common/FieldWorks/MoveProjectsDlg.resx::m_tbMessage.Text
 msgid "You have changed the location of project data folders. We recommend you move your current projects to the new location. Would you like FieldWorks to do this for you now?"
@@ -28953,9 +28847,7 @@ msgid "You may add additional writing systems and edit existing ones in the Proj
 msgstr "Puede añadir otros sistemas de escritura y editar los ya existentes en el cuadro de diálogo Propiedades del Proyecto."
 
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidCantMigrateWrongOS
-msgid ""
-"You may be able to set up a virtual machine running Windows 7 or earlier and install FieldWorks there. On Windows 7 or earlier, this dialog will allow you to download some components that can migrate your project. Unfortunately these components are not "
-"directly supported on your operating system."
+msgid "You may be able to set up a virtual machine running Windows 7 or earlier and install FieldWorks there. On Windows 7 or earlier, this dialog will allow you to download some components that can migrate your project. Unfortunately these components are not directly supported on your operating system."
 msgstr ""
 
 #. /Src/FwParatextLexiconPlugin/Strings.resx::ksProjectExistsText2
@@ -28989,7 +28881,7 @@ msgstr "Debe proveer un nombre para el procesador"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksMustSelectOne
 msgid "You must select one to create."
-msgstr ""
+msgstr "Debe seleccionar uno para crear."
 
 #. Message for message box that is displayed when user tries to access the writing system properties dialog while connected to a project not on this computer.
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidMultiUserCantEditWs
@@ -29005,9 +28897,7 @@ msgstr ""
 "disponible para que elija."
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksCreatingCustomGramCategory
-msgid ""
-"You will now be taken to a new, custom grammatical category. Enter at least the name and abbreviation for the new category. Then, click the \"Back\" button on the toolbar to return to where you were working. The new category will then be available for "
-"you to choose."
+msgid "You will now be taken to a new, custom grammatical category. Enter at least the name and abbreviation for the new category. Then, click the \"Back\" button on the toolbar to return to where you were working. The new category will then be available for you to choose."
 msgstr ""
 "Ahora se le llevará a una nueva categoría gramatical personalizada. Introduzca al menos el nombre y abreviatura para la nueva categoría. A continuación, haga clic en el botón \"Anterior\" en la barra de herramientas para volver a donde estaba "
 "trabajando. La nueva categoría estará disponible para que usted elija."
@@ -29019,9 +28909,8 @@ msgid ""
 "Altered comment: {0}\n"
 "Full comment: {1}"
 msgstr ""
-"Su comentario contiene algunos caracteres que no pueden ser utilizados en el nombre de un respaldo. El comentario en el nombre del archivo será un poco diferente a la que guarda en el respaldo. Como resultado, este respaldo reemplazará una copía "
-"anterior\n"
-"Comentario modificado: {0} \n"
+"Su comentario contiene algunos caracteres que no pueden ser usados en el nombre de la copia de seguridad. El comentario en el nombre del archivo será ligeramente diferente al guardado dentro del archivo de respaldo. Como resultado, esta copia de seguridad sobreescribirá la anterior.\n"
+"Comentario alterado: {0}\n"
 "Comentario completo: {1}"
 
 #. Note that some characters can't be included because illegal; it may also be that they can't be included because they would make the name too long.
@@ -29031,8 +28920,8 @@ msgid ""
 "Altered comment: {0}\n"
 "Full comment: {1}"
 msgstr ""
-"Su comentario contiene algunos caracteres que no pueden ser utilizados en el nombre de un respaldo. El comentario en el nombre del archivo será un poco diferente a la que guarda en el respaldo. \n"
-"Comentario modificado: {0} \n"
+"Su comentario contiene algunos caracteres que no pueden ser usados en el nombre de la copia de seguridad. El comentario en el nombre del archivo será ligeramente diferente al guardado dentro del archivo de respaldo. Como resultado, esta copia de seguridad sobreescribirá la anterior.\n"
+"Comentario alterado: {0}\n"
 "Comentario completo: {1}"
 
 #. /Src/LexText/LexTextControls/DataNotebook/ListRefFieldOptions.resx::columnHeader1.Text
@@ -29078,7 +28967,7 @@ msgstr "La lista de vistas acaba de cambiarse.  Debe cerrar y abrir este cuadro 
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::webonaryPasswordTextbox.ToolTip
 msgid "Your password on the Webonary site"
-msgstr ""
+msgstr "Su contraseña en el sitio Webonary."
 
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidSeriousProblemCaption
 msgid "Your Project Requires Technical Cleanup"
@@ -29090,7 +28979,7 @@ msgstr ""
 
 #. /Src/xWorks/UploadToWebonaryDlg.resx::webonaryUsernameTextbox.ToolTip
 msgid "Your username on the Webonary site"
-msgstr ""
+msgstr "Su nombre de usuario en el sitio Webonary"
 
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidzeroCodepoint
 msgid "Zero is not a valid code point"
