@@ -14477,12 +14477,12 @@ msgid "Justify"
 msgstr "Justifier"
 
 #. /Src/FwCoreDlgs/FwHelpAbout.resx::edtAvailableDiskSpace.Text
-msgid "{0} KB Free on {1}"
-msgstr "{0} Ko libre sur {1}"
+msgid "{0:n1} GB free out of {1:n0} GB on {2}"
+msgstr "{0} Go libre de {1:n0} Go sur {2}"
 
 #. /Src/FwCoreDlgs/FwHelpAbout.resx::edtAvailableMemory.Text
-msgid "{0} KB out of {1} KB"
-msgstr "{0} Ko de {1} Ko"
+msgid "{0:n0} MB out of {1:n0} MB"
+msgstr "{0:n0} Mo de {1:n0} Mo"
 
 # DLR
 #. /Src/LexText/Morphology/MEStrings.resx::ksKeepMultiMorphemicAnalyses
