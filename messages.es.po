@@ -1471,7 +1471,7 @@ msgstr "{0} Alternación"
 
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_sortRulesLoadLabel.Text
 msgid "Alternatively, you can load the sort specification of a similar writing system:"
-msgstr "Alternativamente, puede cargar el orden de clasificación de un sistema de escritura similar:"
+msgstr "Alternativamente, puede cargar el orden ya establecido de un sistema de escritura similar:"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksDeleteEntriesSensesWarning
 msgid "Always back up your project before using this. This will delete all of your entries and senses if you have not done any interlinearization, and can delete a large number if you have done minimal interlinearization. It cannot be undone. It will warn you about the number of entries that will be deleted and give you a chance to stop without deletions."
@@ -8664,7 +8664,8 @@ msgstr "Ejemplos de filtración."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoSort"]
 msgid "Examples of using sorting features."
-msgstr "Ejemplos de cómo usar los rasgos de clasificación."
+msgstr "Ejemplos que muestran diferentes posibilidades para ordenar."
+#. REVIEW (Hasso) 2019.05: is this still used anywhere?
 
 #. /|strings-en.xml::/PossibilityListItemTypeNames/ProdRestrict|
 msgid "Exception \"Feature\""
@@ -9231,8 +9232,7 @@ msgstr "FieldWorks ha detectado un error con los convertidores de legado ICU.{0}
 #. /Src/xWorks/xWorksStrings.resx::ksInvalidFieldInFilterOrSorter
 msgid "FieldWorks has detected that an unknown field (possibly a custom field you have just deleted) is being used to filter or sort this view. Filtering and sorting will be disabled until you select a new filter or sort sequence."
 msgstr ""
-"FieldWorks ha detectado que un campo desconocido (probablemente un campo personalizado que usted borró) se utiliza para filtrar o ordenar esta vista. La filtración y la clasificación se desactivará hasta que usted seleccione un nuevo filtro u ordene de "
-"secuencia."
+"FieldWorks ha detectado que un campo desconocido (probablemente un campo personalizado que usted acaba de borrar) se está utilizando para filtrar u ordenar esta vista. La opción para filtrar y ordenar estará desactivada hasta que haya seleccionado un nuevo filtro o secuencia de orden."
 
 #. /Src/FdoUi/FdoUiStrings.resx::ksDuplicateWordformsMsg
 msgid ""
@@ -17964,7 +17964,7 @@ msgstr "Preparando para mostrar la vista de publicación"
 
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="LexEntryInflType-Detail-GlossPrependAllA"]/slice/@label
 msgid "Prepend to Gloss"
-msgstr "Anteponer a glosa de palabra"
+msgstr "Anteponer a la glosa"
 
 #. Prompt displayed in empty free translations.
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksEmptyFreeTransPrompt
@@ -22268,7 +22268,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::label4.Text
 msgid "&Sort order:"
-msgstr "&Orden de clasificación:"
+msgstr "&Orden:"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::SortReversalSubentries_Label
 msgid "Sort Reversal Subentries"
@@ -22277,7 +22277,7 @@ msgstr ""
 #. message box caption
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksSortSpecError
 msgid "Sort Specification Error"
-msgstr "Error de orden de clasificación"
+msgstr "Error de Especificación de Orden"
 
 #. /Src/xWorks/xWorksStrings.resx::SortedBy
 msgid "Sorted by {0}"
@@ -22293,14 +22293,15 @@ msgstr "Ordenadas desde el final"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Sorting"
-msgstr "_Clasificación"
+msgstr "_Ordenar"
+#. TODO (Hasso) 2019.04: verify Alt-O is available in this context
 
 #. Label used in progress bar
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::tpSorting.Text
 #. /Src/xWorks/xWorksStrings.resx::ksSorting
 #. (String used 2 times.)
 msgid "Sorting"
-msgstr "Clasificación"
+msgstr "Ordenar"
 
 #. Used in the list of file types in file open dialogs
 #. /Src/FwResources/FwStrings.resx::kstidAllAudio
