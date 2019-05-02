@@ -1999,7 +1999,7 @@ msgstr "Archivar con RAMP"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Archive with RAMP (SIL)..."
-msgstr "_Archivar con RAMP de ILV..."
+msgstr "A_rchivar con RAMP de ILV..."
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksAreYouSureAddZtoX
 msgid "Are you sure you want to add the {0} allomorph ({1}) to this entry?"
@@ -2252,11 +2252,11 @@ msgstr "Respaldar este proyecto"
 #. This is the text for the backup option on the file/project management menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidBackupItemName
 msgid "&Back up this Project..."
-msgstr "&Respaldar este proyecto..."
+msgstr "Respaldar este &proyecto..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "_Back up this Project..."
-msgstr "_Respaldar este proyecto..."
+msgstr "Respaldar este _proyecto..."
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksProjectBackedUpOn
 msgid "Backed up on {0} at {1}"
@@ -10795,7 +10795,7 @@ msgstr "&Ayuda"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
 msgid "_Help"
-msgstr "_Ayuda"
+msgstr "A_yuda"
 
 #. /Src/LexText/Interlinear/ConcordanceControl.resx::m_btnHelp.Text
 msgid "He&lp"
@@ -17120,7 +17120,7 @@ msgstr "Configuración de pág&ina..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 msgid "Page Setup..."
-msgstr "Configuración de página..."
+msgstr "C_onfiguración de página..."
 
 #. This is the text that is shown in the zoom combobox when the zoom is the page width
 #. /Src/FwResources/FwStrings.resx::kstidPageWidth
@@ -18237,7 +18237,7 @@ msgstr "Movimiento prohibido"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
 msgid "Project _Management"
-msgstr "_Administración de proyectos"
+msgstr "A_dministración de proyectos"
 
 #. /Src/FwCoreDlgs/DuplicateProjectFoundDlg.resx::$this.Text
 #. /Src/FwParatextLexiconPlugin/ProjectExistsForm.resx::$this.Text
@@ -18291,7 +18291,7 @@ msgstr "Ubicaciones del proyecto y Compartiendo..."
 #. /Src/FwResources/FwTMStrings.resx::kstidProjManagementItemName
 #. (String used 2 times.)
 msgid "Project &Management"
-msgstr "&Administración de proyectos"
+msgstr "A&dministración de proyectos"
 
 #. Tooltip for Project management toolbar/menu item
 #. /Src/FwResources/FwTMStrings.resx::kstidProjManagementToolTip
@@ -20177,7 +20177,7 @@ msgstr "&Reiniciar..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/menu/@label
 msgid "_Resources"
-msgstr "_Recursos"
+msgstr "R_ecursos"
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidSysMnuRestore
 #. (String used 2 times.)
@@ -21226,7 +21226,7 @@ msgstr "Enviar estadísticas de uso a los desarrolladores de FLEx."
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
 msgid "_Send/Receive"
-msgstr "_Enviar/Recibir"
+msgstr "E_nviar/Recibir"
 
 #. /Src/LexText/Lexicon/FLExBridgeFirstSendReceiveInstructionsDlg.resx::$this.Text
 msgid "Send/Receive"
@@ -28252,7 +28252,7 @@ msgstr "&Ventana"
 
 #. /Language Explorer/Configuration/Main.xml::/window/menubar/menu/@label
 msgid "_Window"
-msgstr "_Ventana"
+msgstr "Ven_tana"
 
 #. This is the window category for toolbar/menu items. This string is used in the dialog that allows users to customize their toolbars.
 #. /Src/FwResources/FwTMStrings.resx::kstidWindowCategory
