@@ -1,0 +1,7110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+
+Click OK to continue making changes, or click Cancel to discard the changes to this converter.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0}
+
+Click OK để tiếp tục làm thay đổi, hoặc nhấp vào Huỷ để loại bỏ những thay đổi để chuyển đổi này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+
+Click OK to continue making changes.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0}
+
+Click OK để tiếp tục thực hiện thay đổi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+	
+Export failed.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0}
+	
+Xuất khẩu không thành công.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>
+
+For Vista, you need to run the application as administrator for project renaming to work.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>
+
+Đối với Vista, bạn cần phải chạy các ứng dụng như quản trị viên cho dự án đổi tên để làm việc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>
+
+In order to protect your data, the FieldWorks program needs to close.
+
+You should be able to restart it normally.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>
+
+Để bảo vệ dữ liệu của bạn, chương trình FieldWorks nhu cầu để đóng \ n.
+Bạn sẽ có thể khởi động lại bình thường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+	
+The FieldWorks software is not installed correctly. 
+Please close FieldWorks Translation Editor, and then insert your FieldWorks CD and repair your installation.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0}
+	
+Các phần mềm FieldWorks không được cài đặt đúng cách. 
+Hãy đóng Editor dịch FieldWorks, và sau đó chèn đĩa CD FieldWorks và sửa chữa các cài đặt của bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+Cannot access encoding converters, possibly due to insufficient access privilege.
+You may want to consult a system administrator.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0}
+Không thể truy cập chuyển đổi mã hóa, có thể là do không đủ quyền truy cập.
+Bạn có thể muốn tham khảo ý kiến một quản trị hệ thống.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Beginning Marker is required.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một Marker Bắt đầu là bắt buộc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A browse view must have at least one column.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một trình duyệt xem phải có ít nhất một cột.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A category which is a subtype of the main category. (These are also listed in the Record List view.)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một thể loại mà là một phân nhóm của thể loại chính. (Đây cũng được liệt kê trong danh sách xem Record.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A CJK squared font variant</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một biến thể font CJK bình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Code Page has not been specified.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một Trang Mã đã không được chỉ định.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Converter Mapping File has not been specified.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một chuyển đổi bản đồ Tập tin chưa được xác định.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Converter Name has not been specified.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một Tên Converter đã không được chỉ định.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A converter with the specified name already exists. Do you want to replace it?</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một chuyển đổi với tên chỉ định đã tồn tại. Bạn có muốn thay thế nó?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A deleted object</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một đối tượng bị xóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A discourse chart template can only have three levels (template, column group, and column).</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mẫu biểu đồ thuyết chỉ có thể có ba cấp độ (mẫu, nhóm cột, và cột).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A final presentation form (Arabic)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một hình thức trình bày cuối cùng (tiếng Ả Rập)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A folder or file path cannot contain any of the following characters:
+{0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một thư mục hoặc đường dẫn tập tin không thể chứa bất kỳ các ký tự sau:
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A font variant (e.g. a blackletter form)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một biến thể font (ví dụ: một hình thức Blackletter)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description for this group of ad hoc rules; e.g. explaining what they have in common.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mô tả đầy đủ hơn cho nhóm quảng cáo quy định đặc biệt, ví dụ như giải thích những gì họ có chung.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description for this inflection class.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mô tả đầy đủ hơn cho lớp này uốn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description for this inflectional affix slot.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mô tả đầy đủ hơn cho vùng này đóng biến tố.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this category.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mô tả đầy đủ hơn về thể loại này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this headed compound.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mô tả đầy đủ hơn của hợp chất này đứng đầu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this natural class.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mô tả đầy đủ hơn của lớp này tự nhiên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A phonological rule is using a feature variable for feature {0}, but there is no corresponding feature variable in the environment.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một nguyên tắc âm vị học là sử dụng một biến tính năng cho tính năng {0}, nhưng không có tính năng tương ứng biến trong môi trường.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A programming error has occurred.
+A message with instructions on how to send it to the developers has been copied to the clipboard.
+Paste the contents of the clipboard into a new email message or text file.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một lỗi lập trình đã xảy ra.
+Một thông báo với các hướng dẫn về cách gửi cho các nhà phát triển đã được sao chép vào clipboard.
+Dán nội dung clipboard vào một tin nhắn email mới hoặc tập tin văn bản.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A report will be opened in your web browser.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một báo cáo sẽ được mở ra trong trình duyệt web của bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Text Markup Tag List can only have two levels (list type and tags).</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một Text Markup Tag Danh sách chỉ có thể có hai mức (danh sách các loại và các thẻ).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A_llomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>T_ha hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbr: Name (Best Analysis)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Viết tắt: Tên (nhất Phân tích)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Viết tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Viết tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbreviation (Best Analysis)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Viết tắc (Phân tích tốt nhất)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Abbreviation:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Viết tắc:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abort</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bỏ ngang</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_About Language Explorer...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Giới Explorer Ngôn ngữ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About SIL FieldWorks {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Giới FieldWorks SIL {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About the selected export method:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Giới thiệu về phương pháp xuất khẩu được lựa chọn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Academic Domain</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Học Vùng định Nghĩa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Academic Domains</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Học Vùng định Nghĩa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ad hoc Co-occurrence Prevention Rules</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đặc biệt và hợp tác phòng chống sự xuất hiện Nội quy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ad hoc Rules</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Quy tắc đặc biệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>   &amp;Add   </seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>   &amp;Thêm   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Thêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>T&amp;hêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add &gt;&gt;</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Thêm &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm một loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a new category.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm một thể loại mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a subcategory...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm một tiểu thể loại...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm Tha hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add allomorph to lexical entry?</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm tha hình để nhập cảnh từ vựng?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add allomorph to similar entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm tha hình để nhập cảnh tương tự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Allomorph...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm Tha hình...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add an obligatory slot to {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm một khe cắm thẻ bắt buộc để {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add an optional slot to [Category]</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm một khe cắm tùy chọn để [Chuyên mục]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add an optional slot to {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm một khe cắm tùy chọn cho {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add another Variant Info section</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm một biến thể phần Thông tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Approved Analysis...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm phân tích được phê duyệt ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Custom &amp;field...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm Custom &amp;trường ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add from Catalog</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm từ Danh mục </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Inflection Feature from Catalog</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm uốn tính từ Danh mục </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Inflection Features from Catalog</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm uốn tính năng từ Danh mục </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add inflectional affix(es) to XXX</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm đóng biến tố (các) để XXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add information about your text in this tab.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm thông tin về văn bản của bạn trong tab này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add language mapping</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm ngôn ngữ lập bản đồ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add New Sense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm Nghĩa mới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add New Sense For {0} ...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm cảm giác mới cho {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>    Add New Sense...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>    Thêm cảm giác mới ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Reference</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm tham khảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Reference ({0})</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm tham khảo ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to existing items</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm vào mục hiện tại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to Spelling Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm vào Từ điển chính tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add Variant</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Thêm biến thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Word Gloss</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm Word Gloss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Word to Spelling Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm Word cho Từ điển chính tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add words marked as correctly spelled to the active spelling dictionary.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm từ đánh dấu là chính xác đánh vần cho hoạt động từ điển chính tả.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Words to Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm từ để Từ Vựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> &amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg> &amp;Thêm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Thêm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A&amp;dd...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>T&amp;hêm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add/Modify Language Mapping</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thêm/Sửa đổi Ngôn ngữ bản đồ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nâng cao ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tha hình Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hình thức Phu tố </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix found on {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố hàng vào ngày {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix in {0} slot which inflects {1}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố trong {0} khe mà biến cách {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix in {0} slots which inflects {1}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố trong {0} khe mà biến cách {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Slot</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Khe Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix slot {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Khe Phu tố {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Slot or Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Khe Phu tố hoặc loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Slots</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Khe Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Template</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dán bản Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Templates</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dán bản Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix &amp;Type:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố &amp;loại:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which attaches to any category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố mà gắn vào thể loại nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which changes the meaning of {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố mà thay đổi ý nghĩa của {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which changes the meaning of any category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố mà thay đổi ý nghĩa của thể loại nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which converts {0} to {1}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố chuyển đổi {0} đến {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which converts {0} to any category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố chuyển đổi {0} vào thể loại nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which converts any category to {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố chuyển đổi bất kỳ loại cho {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which inflects {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố mà biến cách {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which inflects any category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phu tố mà biến cách bất kỳ thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After providing word glosses, you can chart your texts.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sau khi cung cấp nhũ từ, bạn có thể sơ đồ văn bản của bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Aft&amp;er:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>S&amp;au:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sau khi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alias</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kAlias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>all analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>tất cả các phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả Phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis and Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả Phân tích và tiếng mẹ đẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis then all Vernacular Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả các phân tích sau đó tất cả các hệ thống viết tiếng mẹ đẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả các phân tích hệ thống Viết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All checked items</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả các mục kiểm tra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A&amp;ll Data</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>T&amp;ất cả Dữ liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>all vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>tất cả các ngôn ngữ địa phương</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả tiếng mẹ đẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular and Analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả tiếng mẹ đẻ và Phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular then all Analysis Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả tiếng mẹ đẻ thì tất cả các hệ thống phân tích Viết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tất cả hệ thống viết tiếng mẹ đẻ  </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>tha hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tha hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Allomorph of...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tha hình của...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Allomorph:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tha hình:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Allomorphs</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tha hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Already in Unicode&gt;</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&lt;Đã có trong Unicode&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternate Forms</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay thế hình thức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Always visible</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Luôn luôn hiển thị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An empty paragraph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một đoạn trống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An entry that has components cannot have a morph type of root, since by definition a root is indivisible. Would you like Language Explorer to delete the references to components in this entry?</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Một mục đó có các thành phần không thể có một loại biến của người chủ, vì theo định nghĩa gốc là chia. Bạn có muốn Ngôn ngữ Explorer để xóa các tài liệu tham khảo với các thành phần trong mục này?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyses</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis </seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis Candidate </seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích ứng cử viên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Analysis language writing system</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Phân tích hệ thống ngôn ngữ viết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis languages are the languages for notes, back translations, glosses, definitions, analyses, etc. Select, or define, a default analysis language writing system.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích ngôn ngữ là ngôn ngữ để ghi chú, trở lại bản dịch, nhũ, định nghĩa, phân tích, vv. Chọn, hoặc xác định, phân tích hệ thống ngôn ngữ mặc định bằng văn bản.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>analysis or vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>phân tích hoặc mẹ đẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis Usage</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích sử dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Analysis Writing System</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Viết phân tích hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis &amp;Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Viết &amp;phân tích hệ thống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Analyze</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyze</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyze the morphemes in the words of the text.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích hình vị trong các từ của văn bản.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annotation Definition</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chú thích danh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology _Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhân chủng học _Thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Categories</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhân chủng học Thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhân chủng học Thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhân chủng học Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Notes</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhân chủng học Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bất kỳ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any checked item</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bất kỳ mục kiểm tra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any of...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bất kỳ ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Any&gt;</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&lt;Bất kỳ&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Anywhere</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Ở bất cứ đâu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Append, separated by:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nối, cách nhau bằng:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Áp dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chấp thuận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve _Throughout this Text</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phê duyệt _Trong suốt phê duyệt văn bản này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve and _Jump to Next Incomplete</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phê duyệt và _Bước tới tiếp không hoàn chỉnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve and _Stay</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phê duyệt và _ở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Approve and Move Next</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Phê duyệt và Chuyển Tiếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Approve suggestion and</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Chấp thuận đề nghị và</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve the suggested analysis, and jump to the next word with a suggested or incomplete analysis.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phê duyệt đề nghị phân tích, và nhảy đến từ tiếp theo với một phân tích đề xuất hoặc không đầy đủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Areas</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Khu vực</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As I add new word glosses, create lexical entries.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Khi tôi thêm nhũ từ mới, tạo mục từ vựng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉ định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign Analysis...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉ định phân tích ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At &amp;end</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Khi &amp;kết thúc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At least</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ít nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At &amp;start</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tại &amp;bắt đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At s&amp;tart</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>lúc b&amp;ắt đầu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attaches to any category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Gắn với bất kỳ thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attaches to Categories</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Gắn với hạng mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attaches to Categor&amp;y:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Gắn với loạ&amp;i:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributes</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thuộc tính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributes </seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thuộc tính</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available Data for {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Available Dữ liệu for {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>= Available for Bulk Editing</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>= Có cho chỉnh sửa số lượng lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt; &amp;Back</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&lt; &amp;Quay lại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Quay lại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back to concorded item...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trở lại sự thích hợp mục ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Backup and Restore...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Sao lưu và khôi phục ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Backup and Restore...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Sao lưu và khôi phục...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup or restore a FieldWorks project.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sao lưu hoặc khôi phục lại một dự án FieldWorks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup Recommendation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sao lưu Khuyến nghị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup the FieldWorks project before importing.  Then, if you are not satisified with the results of the import, you can restore the backup to undo the import.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sao lưu dự án FieldWorks trước khi nhập khẩu. Sau đó, nếu bạn không Satisified với kết quả của nhập khẩu, bạn có thể khôi phục lại dự phòng để hoàn tác nhập khẩu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Backup...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Sao lưu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sao lưu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>base</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>cơ sở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Baseline</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cơ bản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Before:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Trước khi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trước khi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>phân tích tốt nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích tốt nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best analysis or vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>phân tích tốt nhất hoặc mẹ đẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Analysis or Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích tốt nhất hoặc mẹ đẻ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>tiếng mẹ đẻ tốt nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tiếng mẹ đẻ tốt nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best vernacular or analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>tiếng mẹ đẻ hoặc phân tích tốt nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Vernacular or Analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tiếng mẹ đẻ hoặc phân tích tốt nhất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>between</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>giữa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Between:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Giữa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tài liệu tham khảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography (Entry)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tài liệu tham khảo (Mục tự)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography (Sense)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tài liệu tham khảo (Nghĩa)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Binary Compound Rule</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hợp chất nhị phân Rule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Biographical Information</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kThông tin tiểu sử</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blackbird → {0}black{1} {0}bird{1}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>blackbird → {0}black{1} {0}bird{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blackbird → black bird</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>blackbird → black bird</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Blanks</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Bold</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Đậm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đậm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Border</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Biên giới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Border ({0})</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Biên giới ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Borders</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Biên giới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bound stem</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>ràng buộc gốc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Bound Stem</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0} Ràng buộc gốc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Break Characters</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bẻ gảy Nhân vật</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Break phrase into words</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Bẻ gảy cụm từ vào từ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Break phrase into words</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bẻ gảy cụm từ vào từ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse for an Analysis Data File from Ample</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trình duyệt cho một phân tích dữ liệu tin từ Ample</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse for file.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Duyệt các tập tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Duyệt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Duyệt...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk _Edit (copy)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉnh sửa _hàng loạt (bản sao)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Copy</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bản sao số lượng lớn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit (c_lick copy)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉnh sửa số lượng lớn (_kích vào bản sao)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Bulk Edit (list choice)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Chỉnh sửa số lượng lớn (danh sách lựa chọn)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Entries</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉnh sửa hàng loạt mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Operation:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉnh sửa hàng loạt hoạt động:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Reversal Entries</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉnh sửa hàng loạt mục đảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Spelling Status.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tình trạng hàng loạt Chỉnh sửa chính tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Wordforms</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉnh sửa hàng loạt Wordforms</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Replace</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay thế hàng loạt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Replace Setup</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay thế hàng loạt thiết lập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>B&amp;ullet</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đ&amp;ầu dòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullet and Number &amp;Font...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dấu đầu dòng và Số &amp;Phông...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulleted</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Gạch đầu dòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đầu dòng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets and Numbering</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dấu đầu dòng và Số</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By removing the English writing system, some of your topics list items, may show "***" instead of their normal contents. For this reason, it is strongly recommended that you keep the English writing system active in your project. However, if you choose to remove English now and encounter problems viewing your topics list items, you may add English back at any time using the Add button.
+
+Do you want to remove English now?</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bằng cách loại bỏ các hệ thống chữ viết tiếng Anh, một số các mặt hàng chủ đề danh sách của bạn, có thể hiển thị \ "*** " thay vì nội dung bình thường của họ. Vì lý do này, rất khuyên bạn nên giữ các văn bản tiếng Anh hệ thống hoạt động trong dự án của bạn. Tuy nhiên, nếu bạn chọn để loại bỏ tiếng Anh hiện nay và gặp phải vấn đề xem danh sách các chủ đề của bạn, bạn có thể thêm tiếng Anh trở lại bất cứ lúc nào bằng cách sử dụng nút Thêm \ n.\ NBạn có muốn loại bỏ tiếng Anh bây giờ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} can be configured in more detail.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0} có thể được cấu hình cụ thể hơn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Huỷ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C&amp;ancel</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>H&amp;ủy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Huỷ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel
+</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Huỷ
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categories (or Parts of Speech)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hạng mục (hoặc bộ phận của lời nói)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categories Browse</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hạng mục Duyệt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cate&amp;gories:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thể &amp;loại:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Categorized entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Phân loại mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categorized Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân loại mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>thể loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category (or Part of Speech)...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thể loại (hoặc một phần của lời nói) ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category Description</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thể loại mô tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category Edit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chuyên mục Soạn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category Info.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thể loại Thông tin.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>thể loại...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categor&amp;y:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thể Lọa&amp;i:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Caution: if this baseline writing system is different from the last baseline writing system you used, click the Help button and carefully follow the instructions to avoid producing duplicate wordforms and lexical entries in your data.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chú ý: nếu văn bản hệ thống đường cơ sở này là khác nhau từ các cơ sở văn bản mới nhất hệ thống bạn sử dụng, nhấn vào nút Help Trợ và cẩn thận theo hướng dẫn để tránh trùng lặp wordforms sản xuất và các mục từ vựng trong dữ liệu của bạn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cautions:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cảnh cáo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change each occurrence of a pattern to the replacement text</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi mỗi sự xuất hiện của mô hình để các văn bản thay thế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change HC Parser Parameters</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi thông số Parser HC</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change multiple occurrences</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi xảy ra nhiều</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Optionality of XXX Slot</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi nối tùy chọn của Khe XXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change spelling</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi chính tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Spelling of Multiple Occurences.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi chính tả của các lần xuất hiện nhiều.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Spelling of Multiple Occurrences</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi chính tả của các lần xuất hiện nhiều.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Spelling...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi chính tả...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change To:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi Để:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change XAmple Parser Parameters</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi thông số Parser XAmple</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C&amp;hanges to Category:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>T&amp;hay đổi thể loại:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changing spelling</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thay đổi chính tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character mapping</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ký tự lập bản đồ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Character Style</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Ký tự kiểu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Style</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ký tự kiểu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Character style :</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Ký tự kiểu :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Style:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ký tự kiểu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check All</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn tất cả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choices:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lựa chọn:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose a grammatical category (Part of Speech) from the following Catalog. The category you choose will be added to the list of categories for this FieldWorks Project.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn một thể loại ngữ pháp (Một phần của lời nói) từ các Danh mục sau đây. Các thể loại mà bạn chọn sẽ được thêm vào danh sách các loại cho dự án này FieldWorks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose a new inflection feature from the following Catalog. The inflection feature you choose will be added to the list of Inflection features for this FieldWorks Project.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn một tính năng uốn mới từ Danh mục sau đây. Các tính năng uốn bạn chọn sẽ được thêm vào danh sách các tính năng uốn cho dự án này FieldWorks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn Tha hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Confidence Level</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn Cấp niềm tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Inflectional Affixes</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn biến cách Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Morpheme and Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Choose hình vị and Grammatical Info.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Morpheme Type</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn Loại Hình vị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Natural Class</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn loại tự nhiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose new inflection features from the following catalog. The inflection features you choose will be added to the list of Inflection features for this FieldWorks project.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn tính năng uốn mới từ các cửa hàng sau đây. Các tính năng mà bạn chọn sẽ được thêm vào danh sách các tính năng uốn cho dự án này FieldWorks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose one or more new phonological features from the following Catalog. Note that all features are binary (i.e. have two values: + and -).  The phonological features you choose will be added to the list of phonological features for this FieldWorks Project.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Choose one or more new phonological features from the following Danh mục. Note that all features are binary (i.e. have two values: + and -).  The phonological features you choose will be added to the list of phonological features for this FieldWorks Project.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Sense Status</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn Trạng thái Nghĩa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Slot</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn Khe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Sound or Movie File</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn Sound hay Movie File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the default fonts to use for data in this writing system. It is fine to use the same font more than once.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn các font chữ mặc định để sử dụng cho dữ liệu trong hệ thống chữ viết. Nó là tốt để sử dụng cùng một phông chữ nhiều hơn một lần.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ch&amp;oose...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ch&amp;ọn...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chọn...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Chooser</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0} Cai chọn lọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Chosen Name:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Chọn Tên:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Citation form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trích dẫn mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Citation Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trích dẫn mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Citation Form:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trích dẫn mẫu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classified Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ điển phân loại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classified Senses</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân loại giác quan</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xoá </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear Chart from here on</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xoá biểu đồ từ đây về</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Copy</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn Sao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Finish to complete setting up the new writing system, or Back if you need to alter any selections.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn Kết thúc để hoàn tất thiết lập hệ thống văn bản mới, hoặc Quay lại nếu bạn cần phải thay đổi bất kỳ lựa chọn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Help to learn about parser parameters.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn Trợ giúp để tìm hiểu về các thông số phân tích cú pháp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select a segment which belongs to this natural class.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn vào đây để chọn một phân đoạn thuộc lớp này tự nhiên.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select any environments which constrain when the linker may appear.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn vào đây để chọn bất kỳ môi trường mà hạn chế khi các mối liên kết có thể xuất hiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select from a list of inflection classes.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn vào đây để lựa chọn từ một danh sách các lớp uốn.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select from a list of morpheme types.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn vào đây để lựa chọn từ một danh sách các loại hình vị.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select from phonetic environments you have used in the past.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấn vào đây để lựa chọn từ các môi trường phát âm bạn đã sử dụng trong quá khứ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on any word to copy it to the target field</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhắp chuột vào bất kỳ từ nào để sao chép nó vào các lĩnh vực mục tiêu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the View Preview Results button to see the full list of results.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhấp chuột vào nút Xem trước kết quả Xem để xem danh sách đầy đủ các kết quả.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clitic of unknown category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Clitic của thể loại không rõ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Close</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đóng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Column</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cột</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Column Options</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tùy chọn cột</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Column:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cột:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Columns</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cột</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Columns...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Cột...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Comment</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Bình luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bình luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comments</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bình luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complete</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hoàn thành</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mẫu phức tạp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form references: Complex Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mẫu phức tạp tham khảo: Mẫu phức tạp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form Type</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Loại mẫu phức tạp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form Type:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Loại mẫu phức tạp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form Types</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Loại mẫu phức tạp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Forms</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mẫu phức tạp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Forms (of Entry)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hình thức phức tạp (trong Mục tự)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Forms (of Sense)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hình thức phức tạp (trong Nghĩa )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex or Variant Entry References</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phức tạp hoặc các biến thể nhập liệu tham khảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Component References</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hợp phần Tài liệu tham khảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Components</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thành phần</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compound Rule</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Quy tắc hợp chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compound Rules</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Quy tắc hợp chất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>concordance</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>sự thích hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concordance</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>sự thích hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2. Concordance of selected analysis. Select the word occurrences to which you want to assign a different analysis.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>2. Sự thích hợp phân tích lựa chọn. Chọn xuất hiện từ mà bạn muốn chỉ định một phân tích khác nhau.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concordance Results</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Kết quả sự thích hợp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(concorded item)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>(mục thích hợp)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concorded on {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thích hợp vào {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Condition</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Điều kiện</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confidence</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sự tự tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confidence Level</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cấp tự tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confidence Levels</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mức độ tự tin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cấu hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure {0} View</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cấu hình {0} Xem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure Columns...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cấu hình cột ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Configure...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Cấu hình...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cấu hình...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xác nhận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm and move next</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xác nhận và di chuyển tiếp theo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contains Data(%)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Contains Dữ liệu(%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Copy</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Sao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Copy</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Sao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sao</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy the contents of the source field to the target field</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sao chép nội dung của các lĩnh vực nguồn cho các lĩnh vực mục tiêu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Copy-and-paste Data...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Copy-and-paste Dữ liệu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Create</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tạo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tạo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new project</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tạo một dự án mới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Affix Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dán Tạo Mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Create Entry...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tạo mục...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create New Entry...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tạo mục mới...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create New Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tạo thông tin về ngữ pháp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create New Lexical Relation...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tạo quan hệ từ vựng ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Reversal Index</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tạo chỉ mục đảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Stem Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tạo mẫu gốc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Create...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tạo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creation Date</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ngày Sáng tạo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cross References</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tài liệu tham khảo chéo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl-click a check box to include all subitems</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ctrl-bấm một hộp kiểm tra để bao gồm tất cả subitems</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cu_t</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>C_ắt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current Columns</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cột hiện tại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom _Fields...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trường tùy _chỉnh ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Field &amp;Name:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trường tùy chỉnh &amp;Tên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Fields</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trường tùy chỉnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Custom Fields:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Trường tùy chỉnh:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cu&amp;t</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cắ&amp;t</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cắt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CV Pattern</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>CV mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CV Patterns</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>CV mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CVPattern</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>CVMẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Data</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Dữ liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dữ liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data Access</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dữ liệu Access</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dữ liệu Mục tự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data excluded from import</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dữ liệu excluded from import</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Created</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ngày được tạo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Created:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ngày được tạo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Modified</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ngày thay đổi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>default</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>mặc định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mặc định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default Analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích mặc định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default Backup Path</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đường dẫn bản lưu mặc định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tiếng mẹ đẻ mặc định</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Define New...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Định nghĩa mới ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>D&amp;efine New...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đ&amp;ịnh nghĩa mới ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Definition</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Định nghĩa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Definition (or Gloss)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Định nghĩa (hoặc bóng)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Delete</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Xóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Affix Slot</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Khe Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Affix Template</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa  Mẫu Phu tố</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Tha hình</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Allomorph Rule</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa quy tắc Tha hình </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Analysis...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa phân tích ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Disapproved Analysis...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bị từ chối xóa phân tích ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Etymology</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xoá Từ nguyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Example</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Ví dụ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Fieldworks Project</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Dự án Fieldworks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete FieldWorks Project</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Dự án Fieldworks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Delete FieldWorks Project...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Xóa Dự án Fieldworks...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Free Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa miễn phí dịch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Gloss...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Gloss ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa thông tin về ngữ pháp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Grapheme</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Chữ cái</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Literal Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa dịch từng chữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete &amp;Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xoá &amp;Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xoá Lưu ý</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Picture</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa ảnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Question</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Câu hỏi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Delete Record...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Xóa bản ghi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Relation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa quan hệ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Reversal Index</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xoá Danh mục đảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete selected {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa lựa chọn {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Stem Name</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Tên gốc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete subitem and its subitems</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa subitem và subitems của nó</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete the checked items (rows) from the database</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa các mục kiểm tra (hàng) từ cơ sở dữ liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete the contents of the specified column for all selected rows</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa nội dung của các cột được chỉ định cho tất cả các hàng đã chọn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete this category and any Subcategories</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa mục này và bất kỳ mục phân nhóm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete this entry and any Subentries</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa mục này và bất kỳ Subentries</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete This Media Link</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa phương tiện liên kết này </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete This Pronunciation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa phát âm này</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete this record.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa hồ sơ này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete this Sense and any SubSenses</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Sense này và bất kỳ SubSenses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa dịch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete Wordform...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa Wordform...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Delete...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Xóa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Delete...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Xóa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xóa:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Demote</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cho xuống</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Derivational</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dẫn xuất</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mô tả</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Description:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Mô tả:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>D&amp;escription:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>M&amp;ô tả:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>De&amp;scription:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mô &amp;tả:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mô tả:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thông tin chi tiết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ điển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dictionary Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ điển Entry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Direction</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hướng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Disapprove</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Không chấp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discourse Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lưu ý luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discourse Notes</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lưu ý luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Discussion</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thảo luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Display if data present</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hiển thị nếu dữ liệu hiện tại</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do nothing</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Không làm gì</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Do you want to continue with the deletion?</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bạn có muốn tiếp tục với xóa không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Don't show this again.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Không hiển thị này nữa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Draft View</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Draft Xem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>E_xit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>R_a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Sửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Edit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Sửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa Thông tin về ngữ pháp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Morph Breaks...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa Morph Breaks...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Edit Parser Parameters...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Sửa Parser Parameters...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Reference Set Details</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa Reference Set Details</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit slots for {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa slots for {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Spelling Status...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa Spelling Status...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Complex Form Types</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Complex Form Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Entry Types</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Entry Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Environments</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Environments</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Exception "Features"</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Exception "Features"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Features</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Features</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Genres</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Genres</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the list of Restrictions</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the list of Restrictions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Natural Classes</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Natural Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Sense Status list</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Sense Status list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Sense Types</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Sense Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Status list</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Status list</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit the Variant Types</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa the Variant Types</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit this wordform</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa this wordform</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Sửa...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kEducation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Education Level</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kEducation Level</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Education Levels</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kEducation Levels</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;empty&gt;</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&lt;trống&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Empty&gt;</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&lt;Trống&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>enclitic</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>từ ghép sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Enclitic</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>{0} Từ ghép sau</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Encyclopedic Info</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thông tin bách khoa toàn thư</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Encyclopedic Info.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thông tin bách khoa toàn thư.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>English</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tiếng Anh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter a descriptor that will be used to identify this language for fields and infield markers, then specify the FieldWorks writing system and encoding converter for this language.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhập mô tả sẽ được sử dụng để xác định ngôn ngữ cho các trường này và đánh dấu nội đồng, sau đó xác định hệ thống FieldWorks viết và chuyển đổi mã hóa cho các ngôn ngữ này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter any comments about what made this problem appear.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhập bất kỳ ý kiến về những gì thực hiện vấn đề này xuất hiện.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter Path and File Name of Analysis Data File</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Enter Path and File Name of Analysis Dữ liệu File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter text to search for:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhập văn bản để tìm kiếm cho:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Enter the name for this project.  For example, use the name of a language or culture.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhập tên cho dự án này. Ví dụ, sử dụng tên của một ngôn ngữ hay văn hóa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Mục tự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry Collection</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự Bộ sưu tập</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry Pair</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự đôi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry Properties</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự Tài sản</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry Sequence/scale</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự Trình tự/scale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry Tree</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mục tự cây</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry Type</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Loại hình nhập cảnh</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry Type Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Loại hình nhập cảnh Viết tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Entry...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Mục tự...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Environment</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Môi trường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Environment: {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Môi trường: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Environments</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Môi trường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Environments (Allomorph)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Môi trường (Tha hình)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error in SFM file at line {0}: Data &lt;{1}&gt; found before marker.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Error in SFM file at line {0}: Dữ liệu &lt;{1}&gt; found before marker.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Etymological Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ nguyên mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Etymology</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ nguyên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Etymology - Comment</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ nguyên - Thảo luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Etymology - Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ nguyên - Mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Etymology - Gloss</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ nguyên - Gloss</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Etymology - Source</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ nguyên - Nguồn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ví dụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example References</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ví dụ Tài liệu tham khảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example Sentences</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ví dụ câu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example Translation Types</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ví dụ các loại dịch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example Translations</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ví dụ từ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example Words</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ví dụ từ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ví dụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exclude As Headword</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Loại trừ như tựa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>E&amp;xclude Data from Import</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>E&amp;xclude Dữ liệu from Import</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>E&amp;xit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>R&amp;a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Ra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit Application</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thoát khỏi ứng dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>E&amp;xit the application</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>T&amp;hoát khỏi ứng dụng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit the program.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thoát khỏi chương trình.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Export</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Xuất chuyển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xuất chuyển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export Discourse Chart</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xuất khẩu đồ luận</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export Discourse Chart...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xuất khẩu đồ luận...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F_ormat</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>D_ạng thức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Feature</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tính năng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nữ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fi_elds</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tr_ường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Field</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Field Visibility</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hiển thị trường</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks can pre-select some settings for you if your writing system uses the International Phonetic Alphabet (IPA).</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks có thể trước khi lựa chọn một số cài đặt cho bạn nếu hệ thống của bạn bằng văn bản sử dụng chữ cái phiên âm quốc tế (IPA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks currently supports left-to-right and right-to-left writing systems.  Please select the appropriate direction:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks hiện hỗ trợ trái sang phải và trái sang phải hệ thống chữ viết. Xin vui lòng chọn hướng thích hợp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks does not recognize '{0}' as a valid user interface language ID. English will be used instead.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks không công nhận '{0}' là một ID hợp lệ người sử dụng ngôn ngữ giao diện. Tiếng Anh sẽ được sử dụng thay thế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks Language Explorer</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks Explorer Ngôn ngữ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fieldworks needs to install some extra information for the writing system ({0}) which is being used for the first time.  Just while this is being done, other FieldWorks programs need to be closed because at least one file ({1}) is in use by another FieldWorks program.  Please stop all FieldWorks programs other than your current program, then click "Retry" to try again.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Fieldworks cần phải cài đặt một số thông tin bổ sung cho hệ thống văn bản ({0}) mà đang được sử dụng lần đầu tiên. Chỉ cần trong khi điều này đang được thực hiện, các chương trình khác FieldWorks cần phải được đóng cửa vì ít nhất một tập tin ({1}) được sử dụng bởi một chương trình khác FieldWorks. Hãy dừng tất cả các chương trình FieldWorks khác với chương trình hiện tại của bạn, sau đó nhấp vào \ "khởi động lại " để thử lại.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks needs to know how to interpret your data. To change a mapping, select the marker, and then click the Modify button.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks cần biết làm thế nào để diễn giải dữ liệu của bạn. Để thay đổi một bản đồ, chọn điểm đánh dấu, và sau đó nhấn nút Modify.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks needs to know which standard format marker(s) begin a group of related fields. Select at least one marker for each group. By selecting more than one marker, a new group will be started for any of these markers that have already occurred in the current group. A checked marker can only occur once in a given group. Click Help for examples.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks cần phải biết định dạng chuẩn đánh dấu (s) bắt đầu một nhóm các lĩnh vực liên quan. Chọn ít nhất một điểm đánh dấu cho mỗi nhóm. Bằng cách chọn nhiều hơn một điểm đánh dấu, một nhóm mới sẽ được bắt đầu với một trong những dấu mốc mà đã xảy ra trong nhóm hiện nay. Một điểm đánh dấu kiểm tra chỉ có thể xảy ra một lần trong một nhóm nhất định. Click Giúp cho các ví dụ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks now provides a way for you to specify for each writing system which characters are found in words (word-forming) and which characters are not found in words (punctuation, symbols, spacing).
+
+Before using Text or Concordance tools, we recommend you add word-forming characters so that Language Explorer does not change where it thinks the word boundaries are in your texts. If you use apostrophes, hyphens, zero-width characters, or superscript numbers within words, these should be added and specified as word-forming.
+
+Would you like to do this now?</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks hiện nay cung cấp một cách để bạn xác định cho mỗi hệ thống chữ viết mà nhân vật được tìm thấy trong các từ (word-hình thành) và một số nhân vật không được tìm thấy trong từ ngữ (dấu chấm câu, biểu tượng, khoảng cách).
+
+Trước khi sử dụng văn bản hoặc sự thích hợp công cụ, chúng tôi khuyên bạn nên thêm các ký tự từ hình thành ngôn ngữ Explorer để không thay đổi nơi mà nó nghĩ rằng ranh giới của từ là trong các văn bản của bạn. Nếu bạn sử dụng dấu nháy, dấu gạch nối, ký tự số không-chiều rộng, hoặc số superscript trong lời nói, nên được bổ sung những quy định cụ thể hình thành từ.
+
+Bạn có muốn làm điều này bây giờ không?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks project has no current analysis writing systems. Setting default to English. Please check your writing systems.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>FieldWorks dự án không có phân tích hệ thống văn bản hiện hành. Thiết lập mặc định cho tiếng Anh. Hãy kiểm tra hệ thống của bạn bằng văn bản.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks Project Properties</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dự án Thuộc tính FieldWorks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Field&amp;Works Project Properties...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dự án Thuộc tính Field&amp;Works...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks Project Utilities</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dự án Tiên ích FieldWorks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_File</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Tệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tệp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File &amp; Settings</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tệp &amp; Thiết đặt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;File...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tệp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;File:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tệp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tệp:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter for items containing...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bộ lọc cho các mục chứa ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filter for...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Bộ lọc cho ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Filtered</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lọc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find and Replace</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm và Thay thế</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Example Sentence</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm câu Ví dụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find example sentence...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm câu Ví dụ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find in _Dictionary...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm trong _Từ điển...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find in Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm trong Từ điển</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find in &amp;Dictionary...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm trong &amp;Từ điển...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Lexical Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm Entry từ vựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Find lexical entry...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Tìm Entry từ vựng...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tìm tiếp theo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Ne&amp;xt</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm tiếp &amp;theo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Pre&amp;vious</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm tr&amp;ước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find previous.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm trước.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Reversal Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm Entry đảo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Find reversal entry...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Tìm Entry đảo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find the language in the Ethnologue. You may search by language name, part of a language name, country, or Ethnologue code. </seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm các ngôn ngữ trong Ethnologue. Bạn có thể tìm kiếm theo tên ngôn ngữ, một phần của một tên ngôn ngữ, quốc gia, hoặc mã Ethnologue.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find the language name in the list and click to choose it.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm tên ngôn ngữ trong danh sách và bấm vào để chọn nó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Variant</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm biến thể</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tìm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Find:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Tìm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Find:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Tìm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tìm:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Kết thúc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fi&amp;nish</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Kết &amp;thúc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finish</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Kết thúc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finished searching the document and made {0} replacements.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hoàn tất tìm kiếm tài liệu và thực hiện {0} thay thế.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finished searching the document.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hoàn tất tìm kiếm tài liệu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finished searching the document. The search item was not found.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hoàn tất tìm kiếm tài liệu. Các mục tìm kiếm không tìm thấy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First Analysis Writing System</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phân tích đầu tiên của hệ thống Viết</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_First record</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Kỷ lục đầu tiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First Vernacular Writing System</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hệ thống viết tiếng mẹ đẻ đầu tiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First Word</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lời đầu tiên</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Font:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Phông:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phông:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phông</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>For the text:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Đối với các văn bản:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Form</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mẫu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F&amp;ormat</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>D&amp;ạng thức</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dạng thức	</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Dạng thức:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chuyển tiếp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free </seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Miễn phí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Free Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Miễn phí dịch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Miễn phí dịch</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Pháp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>From Data</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>From Dữ liệu </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gender</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kGender</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gloss Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Gloss Viết tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grammar Tools</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Grammar Công cụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grammatical Category Catalog</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Grammatical Category Danh mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> Help</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg> Trợ giúp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Trợ giúp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Help</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Trợ giúp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trợ giúp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help file problem</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trợ giúp tập tin vấn đề</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help is not available for this Tab.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trợ giúp không có sẵn cho Tab này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Help...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Trợ giúp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trợ giúp...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hidden writing systems are italicized</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Thể hệ thống chữ viết được in nghiêng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I_nterlinear Data...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>I_nterlinear Dữ Liệu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Identify the language associated with the new writing system</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xác định các ngôn ngữ liên kết với hệ thống văn bản mới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the keyboard you need is not listed, click the appropriate link(s) below to set it up.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu bàn phím bạn cần không được liệt kê, hãy nhấp vào liên kết thích hợp (s) dưới đây để thiết lập nó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If the Target field is not empty</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu lĩnh vực mục tiêu là không có sản phẩm nào</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you can use the keyboard of a standard system language, choose it in the first list and leave the Keyman keyboard "None."</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu bạn có thể sử dụng bàn phím của một ngôn ngữ hệ thống tiêu chuẩn, chọn nó trong danh sách đầu tiên và để Keyman bàn phím \ "Không có. "</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you cannot find a good match, you can bring the text into an "import residue" field of the Lexical Entry or Sense. </seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu bạn không thể tìm thấy một kết hợp tốt, bạn có thể mang các chữ thành một \ "nhập khẩu dư lượng " của các Entry từ vựng hoặc Sense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you intend to use this project across a network connection, you will need to give FieldWorks a reference folder under which your external files are located.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu bạn định sử dụng dự án này trên một kết nối mạng, bạn sẽ cần phải cung cấp cho một thư mục tài liệu tham khảo FieldWorks theo đó các tập tin bên ngoài của bạn được đặt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you need to distinguish this writing system from another for the same language, provide at least one Script, Region, or Variant name that is different. Select from the lists provided or enter a new item.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu bạn cần phân biệt hệ thống chữ viết từ khác cho cùng một ngôn ngữ, cung cấp ít nhất một Script, khu vực, hoặc biến thể tên khác. Chọn từ danh sách được cung cấp hoặc nhập vào một mục mới.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you need to use Keyman, choose the Keyman keyboard in the lower list. In this case the choice in the upper list only affects what language will appear in the system Language Bar when you are using this writing system.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu bạn cần sử dụng Keyman, chọn bàn phím Keyman trong danh sách thấp hơn. Trong trường hợp này là sự lựa chọn trong danh sách trên chỉ ảnh hưởng đến ngôn ngữ sẽ xuất hiện trong hệ thống ngôn ngữ Bar khi bạn đang sử dụng hệ thống này bằng văn bản.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>If you stop importing right now, you will have successfully imported everything up to and including {0}. 
+Are you sure you want to stop importing? (Click No to continue importing.)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nếu bạn dừng nhập khẩu ngay bây giờ, bạn sẽ có tất cả mọi thứ thành công nhập khẩu lên đến và bao gồm cả {0}. 
+Bạn có chắc chắn muốn ngừng nhập khẩu? (Click No để tiếp tục nhập khẩu.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>I'm unable to send this information.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Tôi không thể gửi thông tin này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import from the FieldWorks interlinear XML export format. Currently this process imports only the baseline and free translations. It makes no changes to the lexicon.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Nhập khẩu từ các định dạng XML FieldWorks viết ở giưa hàng xuất khẩu. Hiện nay quá trình này chỉ nhập khẩu đường cơ sở và các bản dịch tự do. Nó làm cho không thay đổi từ vựng này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import LinguaLinks Data</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Import LinguaLinks Dữ liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In FieldWorks, you need to set up a writing system in order to enter data in a particular language.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trong FieldWorks, bạn cần phải thiết lập một hệ thống văn bản để nhập dữ liệu trong một ngôn ngữ cụ thể.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In Language Explorer, you will use a list of anthropology categories to catalog your entries.  Choose a starting list of anthropology categories for this project.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trong Ngôn ngữ Explorer, bạn sẽ sử dụng một danh sách các loại nhân chủng học vào cửa mục của bạn. Chọn một danh sách xuất phát của loại nhân chủng học cho dự án này.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this step, FieldWorks will do a trial run of interpreting the dictionary you are importing using the mapping you have set up. It will produce a "readiness report" (which is currently rather scary) telling you what it found.
+    
+If the results are not satisfactory, you can press "Back" and modify some settings. You may also need to edit the file you are importing. Then proceed back to this screen and generate a new readiness report. 
+
+When you are satisfied and ready to proceed with the import, click "Next".</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trong bước này, FieldWorks sẽ làm một thử nghiệm chạy các phiên dịch từ điển mà bạn đang nhập khẩu bằng cách sử dụng các bản đồ bạn đã thiết lập. Nó sẽ tạo ra một \ "sẵn sàng báo cáo " (mà hiện nay đang khá đáng sợ) nói cho bạn những gì nó tìm thấy.
+    
+Nếu kết quả không đạt yêu cầu, bạn có thể nhấn \ "Quay lại " và sửa đổi một số cài đặt. Bạn cũng có thể cần phải chỉnh sửa các file đang được nhập khẩu. Sau đó tiếp tục trở lại màn hình này và sẵn sàng tạo một báo cáo mới. 
+
+Khi bạn đã hài lòng và sẵn sàng để tiến hành nhập khẩu, nhấp \ "Tiếp theo ".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>In this tool you can change which word occurrences use which analysis.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Trong công cụ này bạn có thể thay đổi mà xuất hiện sử dụng từ đó phân tích.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indicate any markup you have used in your data to identify character styles, writing systems, or direct formatting.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chỉ ra bất kỳ đánh dấu bạn đã sử dụng trong dữ liệu của bạn để xác định phong cách nhân vật, viết hệ thống, hoặc định dạng trực tiếp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Individual Paratext Data Files</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Individual Paratext Dữ liệu Files</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inflection Features Catalog</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Inflection Features Danh mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Initializing Window...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Initializing Cửa sỗ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Chèn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Insert</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Chèn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Example</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn _Example</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Picture</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn _Picture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Pronunciation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn _Pronunciation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Sense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn _Nghĩa </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Sound or Movie</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn _Sound or Movie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Top-Level Sense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn _Top-Level Sense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Variant</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn _Variant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert {0} Relation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn {0} Relation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert {0} Relation (to this {1})</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn {0} Relation (to this {1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Insert &gt;</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Chèn &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert a new subtype in this type.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn a new subtype in this type.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert a subcategory in this anthropology category.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn a subcategory in this anthropology category.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert a subdomain in this semantic domain.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn a subdomain in this semantic domain.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert a subitem in this item.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn a subitem in this item.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert a subitem in this location.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn a subitem in this location.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert A_llomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn A_llomorph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Affix Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Affix Allomorph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Affix Process</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Affix Process</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Affix Slot</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Affix Slot</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Affix Template</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Affix Template</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Allomorph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Allomorph Rule</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Allomorph Rule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Annotation Definition</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Annotation Definition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert as Moved from</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn as Moved from</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Book</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Book</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Chapter Number</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Chapter Number</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Consultant Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Consultant Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Cross Reference</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Cross Reference</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Cross-&amp;reference Footnote</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Cross-&amp;reference Footnote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Cross-reference Footnote</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Cross-reference Footnote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Environment bar</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Environment bar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Environment slash</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Environment slash</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Etymology</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Etymology</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert external link.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn external link.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Feature Set</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Feature Set</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Feature Value</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Feature Value</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Footnote</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Footnote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Free Translation.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Free Translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &amp;General Footnote</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn &amp;General Footnote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert General Footnote</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn General Footnote</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Affix</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Grammatical Info. for Affix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Derivational Affix</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Grammatical Info. for Derivational Affix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Inflectional Affix</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Grammatical Info. for Inflectional Affix</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Stem</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Grammatical Info. for Stem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grapheme</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Grapheme</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Inflection Class</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Inflection Class</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert into new Row</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn into new Row</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Introductory Section</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Introductory Section</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Literal Translation.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Literal Translation.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Main Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Main Entry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Missing Spaces</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Missing Spaces</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Morpheme Breaks</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn hình vị Breaks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Morpheme Rule</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn hình vị Rule</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Morpheme Type</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn hình vị Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Natural Class</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Natural Class</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Nested Group</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Nested Group</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert New Testament Book</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn New Testament Book</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Note.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Note.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Old Testament Book</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Old Testament Book</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Optional Item</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Optional Item</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert options</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn options</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Picture</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Picture</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &amp;Picture...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn &amp;Picture...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Question</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Question</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Related Word</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Related Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert &amp;Response</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn &amp;Response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Response</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Response</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Reversal Subcategory</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Reversal Subcategory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Reversal Subentry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Reversal Subentry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Row Below</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Row Below</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Scripture Section</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Scripture Section</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Section</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Section</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert selected text into the {0} column.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn selected text into the {0} column.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Sense.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Nghĩa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Slot after XXX</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Slot after XXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Slot before XXX</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Slot before XXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Sound or Movie _File</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Sound or Movie _File</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Stem Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Stem Allomorph</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Stem Name</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Stem Name</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Su_bsense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Su_bsense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert subcategory</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn subcategory</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Subcategory...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Subcategory...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert subdomain</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn subdomain</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert subitem</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn subitem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Subsense (in sense)</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Subsense (in sense)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Subsense.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Subsense.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Subtype</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Subtype</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Variant</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Variant</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Verse Number</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Verse Number</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Verse Numbers Mode</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Verse Numbers Mode</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Word Boundary</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Chèn Word Boundary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interlinear Import failed. Are you sure you are importing a file in Fieldworks interlinear format? Word and Open Office docs cannot yet be imported. The following messages from the import process may be helpful:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Viết ở giưa hàng nhập khẩu không thành công. Bạn có chắc bạn đang nhập khẩu một tập tin ở định dạng viết ở giưa hàng Fieldworks? Mở tài liệu Word và Office có thể chưa được nhập khẩu. Những thông điệp sau đây từ quá trình nhập khẩu có thể hữu ích:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid Internal Constituent Chart Data</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Invalid Internal Constituent Chart Dữ liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Is a Researcher</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kIs a Researcher</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Item Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Item Viết tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Just This Data:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Just This Dữ liệu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>L_IFT Lexicon...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>L_IFT Từ Vựng...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leave the suggested analysis and move to the next word, to the same interlinear line.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Để phân tích được đề xuất và chuyển sang từ tiếp theo, đến đường cùng viết ở giưa hàng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leave the suggested analysis as a suggestion, and jump to the next word with a suggested or incomplete analysis.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Để phân tích được cho là đề nghị một, và nhảy đến từ tiếp theo với một phân tích đề xuất hoặc không đầy đủ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leave the suggested analysis as a suggestion, and move to the next word.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Để phân tích được cho là đề nghị một, và chuyển sang từ tiếp theo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leave the suggested analysis as a suggestion, and move to the word on the left.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Để phân tích được cho là đề nghị một, và di chuyển đến từ bên trái.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Leave the suggested analysis as a suggestion, and move to the word on the right.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Để phân tích được cho là đề nghị một, và di chuyển đến từ bên phải.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lexical Tools</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lexical Công cụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Từ Vựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ Vựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lexicon Edit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Từ Vựng Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_LinguaLinks Data...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_LinguaLinks Dữ liệu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>List Tools</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>List Công cụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Load Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Load Từ Vựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Morpheme</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hình vị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Morpheme Break Help</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Morpheme Break Trợ giúp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Morphemes</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hình vị</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;New Window</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;New Cử sỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_New Window</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Cử sỗ Mới</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Help</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>No Trợ giúp</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Open</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Mở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open a project</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở a project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở Project</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Mở...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Open...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Mở...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens a dialog so you can modify the features of the selected writing system.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở a dialog so you can modify the features of the selected writing system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens a menu so you can add a analysis writing system to this project.  You may select an existing writing system or define a new one.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở a menu so you can add a analysis writing system to this project.  You may select an existing writing system or define a new one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens a menu so you can add a vernacular writing system to this project.  You may select an existing writing system or define a new one.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở a menu so you can add a vernacular writing system to this project.  You may select an existing writing system or define a new one.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opens the  wizard for  creating a new writing system.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Mở the  wizard for  creating a new writing system.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Phonological Features Catalog</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Phonological Features Danh mục</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place of Birth</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kPlace of Birth</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Place of Residence</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kPlace of Residence</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kPosition</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Positions</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kPositions</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Add Component</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Thêm Component</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Add Reversal Entry to Sense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Thêm Reversal Entry to Sense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Add Text Tag</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Thêm Text Tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Add to Spelling Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Thêm to Spelling Dictionary</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert as Moved</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn as Moved</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Freeform Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Freeform Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Inflection Feature</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Inflection Feature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Lexical Reference Type</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Lexical Reference Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Link</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Literal Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Literal Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Phonological Feature</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Phonological Feature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Row</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Row</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo Insert Sense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Redo Chèn Sense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Refresh the Content of the Current View</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Refresh the Content of the Current Xem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Relation Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Relation Viết tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reverse Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Reverse Viết tắc</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Save</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Lưu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Save</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Lưu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lưu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save as:</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lưu as:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save changes?</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Lưu changes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Save...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Lưu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Short Description</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>kShort Description</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Entry in Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Show Entry in Từ Vựng</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Standard Format Lexicon...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Standard Format Từ Vựng...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The program has detected invalid data (cells out of order or not in any column) within this
+chart.  This can be caused by deleting or re-ordering columns in the template.
+
+The program will attempt to repair the links within the data.  You may need to do additional
+editing, or you may prefer to start over if the resulting chart is too different from what
+you expect.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>The program has detected invalid data (cells out of order or not in any column) within this
+chart.  This can be caused by deleting or re-ordering columns in the template.
+
+The program will attempt to repair the links within the data.  You may need to do additional
+editing, or you may prefer to start over if the resulting chart is too different from what
+you expect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Công cụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Tools</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Công cụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Types of Data</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Types of Dữ liệu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Undo</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Hòan tác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Undo</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Hòan tác</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Undo {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Hòan tác {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo add {0} to {1}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tàc thêm {0} to {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Add Marker</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Thêm Marker</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Add Reversal Entry to Sense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Thêm Reversal Entry to Sense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Add Text Tag</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Thêm Text Tag</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Approve Analysis</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Approve Analysis</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Break Phrase into Words</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Break Phrase into Words</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Bulk Edit</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Bulk Edit</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Bulk Edit Inflection Class</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Bulk Edit Inflection Class</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Bulk Edit POS</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Bulk Edit POS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Bulk Edit Reversal Entry POS</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Bulk Edit Reversal Entry POS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo change {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác change {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo change to {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác change to {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Changing Approval Status</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Changing Approval Status</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo clear chart</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác clear chart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Click Copy</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Click Copy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Create {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Create {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Create Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Create Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Create Entry</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Create Entry</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert {0}</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert as Moved</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn as Moved</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Category</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Category</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Free Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Free Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Inflection Feature</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Inflection Feature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Lexical Reference Type</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Lexical Reference Type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Link</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Link</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Literal Translation</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Literal Translation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Note</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Phonological Feature</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Phonological Feature</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Row</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Row</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo Insert Sense</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Hòan tác Chèn Sense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Xem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_View</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Xem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xem</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View Ethnologue entry for byk</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xem Ethnologue entry for byk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View Incorrect Words in Use...</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xem Incorrect Words in Use...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View Incorrectly Spelled Words in Use.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xem Incorrectly Spelled Words in Use.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View the WeSay "Share With FLEx" page.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Xem the WeSay "Share With FLEx" page.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Window</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>&amp;Cửa sỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Window</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>_Cửa sỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Window</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Cửa sỗ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Word Tools</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>Word Công cụ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You cannot use 'Undo' to cancel the effect of this utility. You would need to go back to a previously saved version of the database.</seg>
+      </tuv>
+      <tuv xml:lang="vi">
+        <seg>You cannot use 'Hoàn tác' to cancel the effect of this utility. You would need to go back to a previously saved version of the database.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

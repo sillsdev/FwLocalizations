@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>edit</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>redaktə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>&amp;Redaktə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Edit</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>_Redaktə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>Redaktə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit {0}</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>{0} redaktə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>&amp;Fayl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_File</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>_Fayl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>Fayl</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Insert</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>_əlavə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>əlavə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>_Lexicon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>Lexicon</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lexicon Edit</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>Lexicon Redaktə</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Texts</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>Mətnləri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Texts &amp;&amp; Words</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>_Mətnləri &amp;&amp; Sözlər</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Texts &amp; Words</seg>
+      </tuv>
+      <tuv xml:lang="az">
+        <seg>Mətnləri &amp; Sözlər</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

@@ -1,0 +1,5086 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A &amp;different name:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक &amp;अलग नाम:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A_llomorph</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_उपरूपिम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbr: Name (Best Analysis)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संक्षेप: नाम (उत्तम विश्लेषण)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;संक्षेप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbreviation</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संक्षेप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbreviation - Name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संक्षेप - नाम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbreviation (Best Analysis)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संक्षेप (उत्‍तम विश्लेषण)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abbreviation (of text)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संक्षेप (मूलपाठ का)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Abbreviation:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;संक्षेप:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abort</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निरस्त करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_About Language Explorer...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_लैंगवेज एक्सप्लोरर के बारे में...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About SIL FieldWorks {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एस०अइ०एल० फील्डवर्क्स के बारे में {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About the selected export method:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चुने हुए निर्यात करने के तरीके के बारे में:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About to Convert</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तित करने के लिए तैयार</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About to delete {0}.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>हटाने के विषय में {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Academic Domain</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शैक्षणिक क्षेत्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Academic Domains</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनेक शैक्षणिक क्षेत्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ad hoc Co-occurrence Prevention Rules</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तदर्थ घटना सहित बचाव नियम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ad hoc Rules</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तदर्थ नियम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add (the Notebook area will contain both old Records and newly imported data.)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना (स्मरण पुस्तक क्षेत्र में पुराने रिकॉर्ड व नव आयात जानकारी सम्मिलित होगी )</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add &gt;&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक श्रेणी जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a Complex Form...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक मिश्रित आकार जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a new category.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नई .श्रेणी जोड़ना.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a subcategory...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक उपश्रेणी जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपरुपिम जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add allomorph to lexical entry?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोष-विषयक में उपरुपिम जोड़ना?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add allomorph to similar entry</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>समतुल्य सम्मिलन में उपरुपिम जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Allomorph...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपरुपिम जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add an obligatory slot to {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>में एक आवश्यक दरार जोड़ना  {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add an optional slot to [Category]</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>में एक ऐच्छिक दरार जोड़ना[श्रेणी]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add an optional slot to {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>में एक ऐच्छिक दरार जोड़ना {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add another Variant Info section</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अन्य भिन्नरुप सूचना भाग जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Approved Analysis...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुमोदित विश्लेषण जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add from Catalog</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सूचीपत्र से जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Inflection Feature from Catalog</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सूचीपत्र से रुपान्तरण आकृति को जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Inflection Features from Catalog</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सूचीपत्र से रुपान्तरण आकृतियों को जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add inflectional affix(es) to XXX</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>में रुपान्तरण प्रत्यय (यों) को जोड़ना XXX</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add information about your text in this tab.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस पट्टी में अपने पाठ के विषय में सूचना जोड़ना.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add language mapping</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>भाषा मानचित्र जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Line</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पंक्ति जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add makes a new substitution.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना एक नया विकल्प तैयार करता है.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add &amp;networked computer:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना&amp;संपर्क-अंतर्गत कम्प्युटर:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add New Sense</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>नया दृश्य जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add New Sense for {0} ...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के लिए नए दृश्य जोड़ना {0} ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>    Add New Sense...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>    नया दृश् जोड़न...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add or edit custom fields.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रीति क्षेत्रों जोड़ना या उनका संपदन करना  .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add or replace</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना या बदले में रखना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add or Replace Notebook Records</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्मरणपुस्तक रिकॉर्ड जोड़ना या बदलना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Reference</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संदर्भ जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Reference ({0})</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संदर्भ जोड़ना ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to existing items</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्तमान चीज़ों में जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add to Spelling Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्तनी शबदकोष में जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add Variant</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;भिन्नरुप जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Word Gloss</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शब्दसंग्रह जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Word to Spelling Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्तनी शब्दकोष में शब्द जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add words marked as correctly spelled to the active spelling dictionary.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सक्रीय वर्तनी शब्दकोष में सही वर्तनी के रुप में चिन्हित शब्दों को जोड़ना.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Words to Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शब्द-सूची में शब्द जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add Writing System</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>लेखन व्यवस्था जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add writing system {0} to your FieldWorks project?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>लेखन व्यवस्था जोड़ना {0} आपके क्षेत्रकार्यों में?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> &amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg> &amp;जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A&amp;dd...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add/Modify Language Mapping</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना/भाषा मानचित्र परिवर्तन करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add:  Adds the new encoding converter to this registry.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जोड़ना:  इस रजिस्ट्री में नया कूट परिवर्तक जोड़ता है.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding files to backup...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बैकअप में फ़ाइलों को जोड़ना...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional files to back up</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बैकअप के लिए अतिरिक्त फ़ाइलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional files to restore</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पुर्वावस्था के लिए अतिरिक्त फ़ाइलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Additional information about your computer and project will be sent:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आपके कम्प्युटर व प्रोजेक्ट के विषय में अतिरिक्त सूचना भेज दी जाएगी:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उच्च श्रेणीगत</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उच्च श्रेणीगत...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपरुपिम संयुक्त करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आकार संयोजित करना करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix found on {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन पाया गया {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix in {0} slot which inflects {1}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>में संयुक्त करना {0} दरार जो रुपांतरित होती है {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix in {0} slots which inflects {1}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>में संयोजन करना {0} दरार जो रुपांतरित होती है {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Slot</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>दरार में संयोजन करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix slot {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>दरार में संयोजन करना {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Slot or Category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>दरार या श्रेणी संयोजित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Slots</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>दरारों में संयोजन करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Template</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>साँचे में संयोजन करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix Templates</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>साँचों में संयोजन करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix &amp;Type:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करना &amp;टंकण करना:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which attaches to any category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि किसी भी श्रेणी के साथ जोड़ा जा सके</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which changes the meaning of {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि उसका अर्थ बदलता हो {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which changes the meaning of any category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि किसी भी श्रेणी का बदलता हो</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which converts {0} to {1}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि परिवर्तन करता हो {0} से {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which converts {0} to any category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि परिवर्तन करता हो {0} किसी भी श्रेणी में</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which converts any category to {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि इसके प्रति किसी भी श्रेणी का परिवर्तन करता हो  {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which inflects {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि रुपांतरण करता हो {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Affix which inflects any category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजन करें जो कि किसी भी श्रेणी का रुपांतरण करता हो</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के पश्चात्</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>after any blank line</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के पश्चात् कोई भी ख़ाली रेखा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>after lines shorter than</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के पश्चात् रेखाएँ जो कि उससे छोटी हों</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After providing word glosses, you can chart your texts.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शब्दसंग्रह उपलब्ध कराने के पश्चात्, आप अपने मानचित्र को पाढ में बदल सकते हैं.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Aft&amp;er:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;के पश्चात्:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के पश्चात्:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alias</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपनाम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>all analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis and Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण विश्लेषण व मातृभाषा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis then all Vernacular Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण विश्लेषण तब संपूर्ण मातृभाषा लेखन व्यवस्था</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Analysis Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण लेखन व्यवस्थाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Entries</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण प्रविष्ठियाँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All FieldWorks backup files</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण क्षेत्रकार्य प्रतिलिपि फ़ाइलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Files</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपूर्ण फ़ाइलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Reversal Indexes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सभी विपरित विषय-सूची</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}. All rights reserved.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0}. सभी अधिकार आरक्षित हैं.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All selected items</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सभी चयनित मद</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Styles</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सब तरह की बनावट</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>all vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सभी मातृभाषा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सभी मातृभाषा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular and Analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सब मातृभाषा व विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular then all Analysis Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सब मातृभाषा तब सभी विश्लेषण लेखन व्यवस्थाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Vernacular Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सब मातृभाषी लेखन व्यवस्थाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>allomorph</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपरुपिम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपरुपिम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Allomorph of...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>का उपरुपिम...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Allomorph:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;उपरुपिम:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Allomorphs</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनेक उपरुपिम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Allow duplicate item names and abbreviations</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;प्रतिलिपि मद नाम व संक्षिप्त रुपों को अनुमति</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alphabetical Order</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्णमालानुसार क्रम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} (already exists)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} (पुर्व से अस्तित्व में)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Already in Unicode&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&lt;पुर्व से युनिकोड मे &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alternate Forms</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वैक्लपिक रुप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Alternation</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} आंशिक परिवर्थन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Always visible</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सदैव दृश्यमान</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An empty paragraph</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक रिक्त पद</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An entry that has components cannot have a morph type of root, since by definition a root is indivisible. Would you like Language Explorer to delete the references to components in this entry?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक एसी प्रविष्ठी जिसमें अवयव होते हैं उसमें उपरुपिम प्रकार की जड़ें नहीं हो सकती. चुँकि परिभाषा के द्वारा एक जड़ अविभाज्य है. क्या आप चाहेंगे कि इस प्रविष्ठी में अवयव के प्रति संदर्भों को भाषा खोजी मिटा दे?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred trying to migrate existing projects from an older version of FieldWorks:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कार्यक्षेत्रों के एक पुराने संस्करण से वर्तमान प्रोजेक्ट्स को एक जगह से दुसरी जगह स्थानांतरित करने का प्रयास करते हुए एक अशुद्धि उत्पन्न हो गई है :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error ocurred during conversion of test file.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जाँच फ़ाइल का रुपांतर करते समय एक अशुद्धि उत्पन्न हो गई है.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyses</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis Candidate </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण प्रतिभागी </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Analysis language writing system</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;विश्लेषण भाषा लेखन व्यवस्था</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis languages are the languages for notes, back translations, glosses, definitions, analyses, etc. Select, or define, a default analysis language writing system.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषन भाषाएँ टिप्पणियों, पीछे के अनुवादों, शब्द संग्रहों, परिभाषाओं, विश्लेषण, आदि की भाषाएँ हैं। चुनें, या परिभाषाषित करें, एक डिफ़ॉल्ट विश्लेषण भाषा लेखन व्यवस्था.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>analysis or vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण या मातृभाषा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis Usage</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण प्रयोग</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Analysis Writing System</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;विश्लेषण लेखन व्यवस्था</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis &amp;Writing Systems</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण &amp;लेखन व्यवस्थाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyze</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyze the morphemes in the words of the text.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पद के शब्दों में उपरुपिमों का विश्लेषण करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>व</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> and {0}.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg> व {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annotation Definition</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>टिप्पणी करते हुए परिभाषा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Another instance of FieldWorks appears to be running, but did not respond properly to a request from this one. This is a bug; please report it to FlexErrors@sil.org. We recommend that you shut down all FieldWorks applications and try again. If you still get this message, restart your computer. (Experts may also try to recover by killing any FieldWorks processes using TaskManager.) Do you want to Retry now?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शायद कार्यक्षेत्रों का अन्य प्रकार कार्यशील है, परंतु इस बार के निवेदन का यह उचित प्रतुत्तर नहीं दे रहा है. यह एक कीड़े जैसा है; कृपया इसके लिए FlexErrors@sil.org को सूचित करें. हम आपको यह सलाह देंगे कि आप सभी क्षेत्रकार्य उपयोग बंद कर दें व पुनः प्रयास करें. यदि आफको फ़िर भी यह संदेश प्राप्त होता है, अपना कम्प्युटर पुनः चालू करें. (दक्ष जन TaskManager का प्रयोग करते हुए किसी भी क्षेत्रकार्य को नष्ट करते हुए पुनः स्थिति में लाने का प्रयास कर सकते हैं) क्या आप अभी पुनः प्रयास करना चाहेंगे?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Another instance of FieldWorks appears to be starting up at the same time as this one, and things have gotten confused. We recommend letting one project open fully before you try to open another one. If you get this message repeatedly or when not trying to open two projects at once, you may have encountered a bug; please report it. It may help to restart your computer.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शायद फ़िल्डवर्क्स का अन्य प्रकार इसी के साथ ही शुरु हो गया है, और चीज़ें उलझ गई हैं. हम आपको यह सलाह देंगे कि एक परियोजना को पूरा खुलने के पश्चात् ही दूसरी फ़ाइल को ख़ोलें. यदि आपको यह संदेश निरंतर मिलता है या दो प्रोजेक्ट्स को एक साथ खोलते समय नहीं, तो इसका मतलब यह है कि आपका सामना गड़बड़ी से हुआ है; इसके बारे में कृपया सूचना दें, यह आपके कम्प्युटर को पुनः चालू करने में सहायता प्रदान करता है।</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Another location</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;अन्य स्थान निरुप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anth</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानव</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> anthro. codes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg> मानव. कोड</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>anthro. codes </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानव. कोड </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology _Category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र _श्रेणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Categories</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र श्रेणियाँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Categories: </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र श्रेणियाँ: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र श्रेणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Codes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र कोड</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Database Files</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र डेटाबेस फ़ाइलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Note</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र टिप्पणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Anthropology Notes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र टिप्पणियाँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोई भी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any of...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>में से कोई...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Any one character in the set</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} समूह में से कोई एक चरित्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Any one character not in the set</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} कोई एक चरित्र जो कि समूह में नहीं है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any selected item</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोई चयनित मद</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Any single character</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} कोई एक अकेला चरित्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}. Any texts that use it will need more analysis work, as it is used {1} times in your texts.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0}. कोई पाढ जो कि इसका प्रयोग करता है उसे इस पर अधिक विश्लेषण कार्य करना होगा, जैसा कि प्रयुक्त हुआ है, {1} बार आपके पाठ में.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}. Any texts that use it will need more analysis work, as it is used 1 time in your texts.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0}. कोई पाढ जो कि इसका प्रयोग करता है उसे इस पर अधिक विश्लेषण कार्य करना होगा, जैसा कि प्रयुक्त हुआ है, 1 बार आपके पाठ में.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;Any&gt;</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&lt;कोई भी&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Anywhere</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;कहीं भी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Append, separated by:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिशिष्ठ, के द्वारा अलग किया गया:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Applies and saves changes you have made and closes this dialog box.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आपके द्वारा प्रयुक्तियों व परिवर्तनों को सुरक्षित करता है व इस वार्ता बक्से को बंद करता है.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Apply</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस्तेमाल</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस्तेमाल</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तरीके का इस्तेमाल</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Apply Style...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तरीके का इस्तेमाल...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Appl&amp;y Style...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>व तरीके का इस्तेमाल करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वीकार करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve _Throughout this Text</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वीकार करना _संपूर्ण पाठ में</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सब को स्वीकार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve and _Jump to Next Incomplete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्‍वीकार करें व _दुसरे अपूर्ण पर जाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve and _Stay</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वीकार करें व _रुकें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Approve and Move Next</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वीकार करें व अन्य पर जाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Approve suggestion and</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सुझाव को स्वीकार करें व</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve the suggested analysis, and jump to the next word with a suggested or incomplete analysis.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सुझाए हुए विश्लेषणों को स्वीकार करें, व सुझाए हुए या अपूर्ण विश्लेषणों के साथ अन्य शब्दों पर जाएँ.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to continue?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>क्या आप निश्चित रुप से निरंतर आगे बढ़ना चाहते हैं?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Are you sure you want to delete the {0} View {1}?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>क्या आप निश्चित रुप से को मिटाना चाहते हैं {0} देखे़ं {1}?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Areas</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>क्षेत्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>As I add new word glosses, create lexical entries.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जैसा कि मैंने नए शब्दों की झलक को जोड़ा, कोष-विषयक प्रविष्ठी का निर्माण करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कार्यभार दें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign Analysis...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विश्लेषण का कार्यभार दें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At &amp;end</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तक &amp;अंत</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At least</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कम से कम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At &amp;start</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तक &amp;प्रारंभ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At s&amp;tart</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तक&amp;प्रारंभ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attaches to any category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>किसी भी श्रेणी के साथ जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attaches to Categories</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणियों के साथ जोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attaches to Categor&amp;y:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी के साथ जोड़ना:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>भाव</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributes </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>भाव </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Available Converters:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;उपलब्ध परिवर्तक:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>= Available for Bulk Editing</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>= थोक संपादन के लिए उपलब्ध</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available lines:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपलब्ध पंक्तियाँ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Available Processors:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपलब्ध संसाधित करने के यंत्र:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt; &amp;Back</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&lt; &amp;पीछे</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पीछे</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back in Sketch</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>नक्शे में पीछे</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back to concorded item...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वापस अनुक्रमणिक मद के लिए...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up a FieldWorks project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक फ़ील्डवर्क्स प्रोजेक्ड की प्रतिलिपि.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up existing project before restoring</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पुनःस्थापन से पहले वर्तमान प्रोजेक्ट की प्रतिलिपि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up FieldWorks Project</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>फ़ील्डवर्क्स प्रोजेक्ड की प्रतिलिपि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up or restore a FieldWorks project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक फ़ील्डवर्क्स प्रोजेक्ड का पुनःस्थापन या प्रतिलिपि.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up the FieldWorks project before importing.  Then, if you are not satisified with the results of the import, you can restore the backup to undo the import.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आयात करने से पहले फ़ील्डवर्क्स प्रोजेक्ड की प्रतिलिपि ले लें. तब, यदि आप प्रतिलिपि के परिणामों से संतुष्ट नही हैं, तो आप प्रतिलिपि को पुर्वस्थिति में ले लें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back up this Project</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस प्रोजेक्ट की प्रतिलिपि ले लें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Back up this Project...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस प्रोजेक्ट की प्रतिलिपि ले लें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Back up this Project...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_इस प्रोजेक्ट की प्रतिलिपि ले लें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backed up on {0} at {1}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि ली गई {0} के दिन {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Background Color</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पृष्ठभुमि का रंग</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Background is {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पृष्ठभुमि इस प्रकार है {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bac&amp;kground:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पृष्ठभुमि:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backing Up</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि लेना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Backup and Restore...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि और पुन:स्थापन...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup date:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि दिनाँक:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup file contains a version of the project which was created using a newer version of FieldWorks:
+{0}
+
+To restore from this backup, install version {1} of FieldWorks.
+</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि फ़ाइल में प्रोजेक्ट का वह संस्करण है जो कि फ़ील्डवर्स:
+ के नए संस्करण का प्रयोग करते हुए तैयार किया गया है {0}
+
+इस बेकअप से पुन:स्थापन के लिए संस्करण {1} को फ़ील्डवर्स में स्थापित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup file:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि फ़ाइल:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup location</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि स्थान निर्धारण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup or restore a FieldWorks project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि या फ़ील्डवर्स प्रोजेक्ट को पुन:स्थापित करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup Recommendation</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिपि सिफ़ारिश</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup version to restore</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पुन:स्थापन के लिए प्रतिलिपि संस्करण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Backup...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;प्रतिलिपि...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Backup...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>base</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आधार</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Based On</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पर आधारित</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Based on:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;पर आधारित:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Baseline</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आधार-रेखा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Basic Styles</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आधार शैली</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>BC</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ईसा पर्व</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>because it is currently set not to be published at all in this publication</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>क्योंकि यह वर्तमान में इस प्रकाशन पर प्रकाशित होने के लिए तैयार नहीं किया गया है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>because it is currently set not to be shown with a main entry in this publication</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>क्योंकि यह वर्तमान में इस प्रकाशन पर मुख़्य प्रविष्ठी सहित प्रदर्शित करने के लिए तैयार नहीं किया गया है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>because it is currently set not to be shown with a minor entry</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>क्योंकि यह वर्तमान में एक आंतरिक प्रविष्ठी सहित प्रदर्शित करने के लिए तैयार नहीं किया गया है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Becomes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एसा बन जाता है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पहले</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Before:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;पहले:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पहले:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Begin</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रारंभ करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Beginning marker:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;प्रारंभ मोहर:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Beginning marker:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रारंभ मोहर:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Beginning of line</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} रेखा का प्रारंभ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Begins</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रारंभ होता है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}. Being used {1} times by rules.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0}.प्रयोग में लिया गया है{1} बार नियम के अनुसार.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}. Being used {1} times in your natural classes.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0}.प्रयोग में लिया गया है {1} बार आपकी प्राकृतिक कक्षाओं में.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}. Being used 1 time by rules.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0}. प्रयोग में लिया गया है 1 बार नियमों के अनुसार.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छा विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छा विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best analysis or vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छा विश्लेषण या स्वदेशी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Analysis or Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छा विश्लेषण या स्वदेशी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छे स्वदेशी में</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Vernacular</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छे स्वदेशी में</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>best vernacular or analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छे स्वदेशी में या विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Best Vernacular or Analysis</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अच्छे स्वदेशी में या विश्लेषण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>between</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के मध्य</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Between:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के मध्य:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बाइबल-संबंधी ज्ञान</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography (Entry)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बाइबल-संबंधी ज्ञान (प्रविष्ठी)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography (Sense)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बाइबल-संबंधी ज्ञान (भाव)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Binary Compound Rule</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>दोहरा मिश्रण नियम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Biographical Information</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जीवनी -संबंधी सूचना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blackbird → {0}black{1} {0}bird{1}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कालीचिड़िया → {0}काली{1} {0}चिड़िया{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>blackbird → black bird</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कालीचिड़िया →काली चिड़िया</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Blanks</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ख़ाली स्थान</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Bold</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वीर</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वीर</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Border</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सीमा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Border ({0})</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सीमा ({0})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Borders</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सीमाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>bound stem</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विवश तना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Bound Stem</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} विवश तना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Boundary</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} घेरा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Break Characters</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चरित्र विभाजन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Break phrase into words</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वाक्यांशों को शब्दों में तोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Break phrase into words</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वाक्यांशों को शब्दों में तोड़ना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Brings up a dialog for controlling whether projects are shared and where they are stored.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक वार्तालाप लेकर आएँ जिससे कि प्रोजेक्ट को बाटाँ गया है व वे कहाँ पर भंडारित है इस पर नियंत्रण किया जा सके।</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ब्राउज़ करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse for FieldWorks Project backup file</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>फ़ील्डवर्क्स प्रोजेक्ड प्रतिलिपि फ़ाइल के लिए ब्राउज़ करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse for file.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>फ़ाइल के लिए ब्राउज़ करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse for Language File</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>भाषा फ़ाईल के लिए ब्राउज़ करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Browse...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ब्राउज़...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ब्राउज़...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk _Edit (copy)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक _संपादित (प्रतिलिपि)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Copy</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक प्रतिलिपि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit (c_lick copy)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक संपादित(क्लिक प्रतिलिपि)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Entries</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक संपादित प्रविष्ठियाँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Operation:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक संपादित संचालन:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Reversal Entries</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक संपादित परिवर्तन प्रविष्ठियाँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Spelling Status.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक संपादित उच्चारण स्थिति.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Edit Wordforms</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक संपादित शब्दरुप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Replace</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक स्थानापन्न</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Replace Setup</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>थोक स्थानापन्न सेटअप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>B&amp;ullet</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बुलेट</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullet and Number &amp;Font...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बुलेट व संख्या व फ़ोंट...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulleted</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बुलेट प्रदान कर दिया गया है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनेक बुलेट</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets and Numbering</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनेक बुलेट व संख्या</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>By removing the English writing system, some of your topics list items, may show "***" instead of their normal contents. For this reason, it is strongly recommended that you keep the English writing system active in your project. However, if you choose to remove English now and encounter problems viewing your topics list items, you may add English back at any time using the Add button.
+
+Do you want to remove English now?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अंग्रेज़ी लेखन व्यवस्था को हटाने के द्वारा आपकी कुछ शीर्षक सूची मद सामान्य विषय-वस्तु के स्थान पर "***" दिखा सकता है। इस कारण आपको सशक्त रुप से यह सलाह दी जाती है कि आप अपने प्रोजेक्ट में  अंग्रेज़ी लेखन व्यवस्था को सक्रिय रहने दें। फ़िर भी यदि आप अंग्रेज़ी को अभी हटाना चुनते हैं और अपने शीर्षक सूची मद को देखने में समस्या का सामना करते हैं तो आप किसी भी समय अंग्रेज़ी को जोड़ना बटन के द्वारा जोड़ सकते हैं 
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>B&amp;y:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के द्वारा:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} can be configured in more detail.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} और भी अधिक विवरण के साथ संयोजित कि एजा सकते हैं.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;निरस्त</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C&amp;ancel</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;निरस्त</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रद्द करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel
+</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रद्द करें
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot add Variant</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>भिन्नता को जोड़ नहीं  सकता</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot Convert</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तित नहीं कर सकता</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot create new entry</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>नई प्रविष्ठी की रचना नहीं कर सकता</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot Remove Encoder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एनकोडर को हटाया नहीं जा सकता</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot remove encoding converter because it is currently in use by a writing system.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एनकोडिंग परिवर्तक को हटाया नहीं जा सकता क्योंकि वर्तमान में यह लेखन व्यवस्था के द्वारा प्रयोग के अंतर्गत है.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot Restore</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पुन:स्थापित नहीं कर सकता</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot restore files in Linked Files folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रंखलांतर्गत फ़ाइल फौल्डर में फ़ाइलों को पुन:स्थापित नहीं कर सकता</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Caption</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपशीर्षक</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C&amp;aption:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपशीर्षक:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categories (or Parts of Speech)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणियाँ(या शब्द-भेद)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categories Browse</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी ब्राउज़</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cate&amp;gories:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणियाँ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Categorized entry</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणीगत प्रविष्ठी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categorized Entry</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणीगत प्रविष्ठी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category (or Part of Speech)...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी(या शब्द-भेद)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category Description</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी विवरण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category Edit</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी संपादन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category Info.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी सूचना.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Categor&amp;y:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Caution: if this baseline writing system is different from the last baseline writing system you used, click the Help button and carefully follow the instructions to avoid producing duplicate wordforms and lexical entries in your data.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चेतावनी: यदि यह आधाररेखा लेखन व्यवस्था पुर्व में प्रयोग में ली गई आधाररेखा लेखन व्यवस्था से भिन्न है तो सहायता बटन पर क्लिक करें तो अपने डाटा में प्रतिलिपि शब्दरो व कोष-विषयक प्रविष्ठियों से बचने के लिए सावधानी से निर्देशों का पालन करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cautions:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चेतावनियाँ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CC</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सी सी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CC Table</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सी सी सूची</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> Change Backup location? </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg> प्रतिलिपि स्थान बदलें? </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change each occurrence of a pattern to the replacement text</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिस्थापन पाठ के प्रति एक नमूने की उतपत्ति को बदलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change HC Parser Parameters</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एच सी कार्यक्रम स्थिर राशि को परिवर्तित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Multiple Occurrences of Word</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक शब्द के अनेक व्युत्पन को परिवर्तित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Multiple Occurrences...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनेक व्युत्पन को परिवर्तित करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Optionality of XXX Slot</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>XXX दरार की वैकल्पिकता में परिवर्तन करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change spelling</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अक्षर-विन्यास बदलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Spelling</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अक्षर-विन्यास बदलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change spelling of multiple occurrences.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनेक व्युतपन्नता के अक्षर-विन्यास बदलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Spelling...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अक्षर-विन्यास बदलें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change To:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>के प्रति बदलें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change XAmple Parser Parameters</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उदाहरणार्थ पार्सर स्थिर राशि बदलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बदलें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changed Linked Files root directory</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संबंधित फ़ाइल मूल डायिरेक्टरी बदल दी गई है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C&amp;hanges to Category:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणी के प्रति परिवर्तन:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Changing spelling</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शब्द-विन्यास बदलना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Codes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र कोड</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character mapping</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र ढाँचा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Character Style</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र तरीका</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Style</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र तरीका</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Character style :</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र तरीका :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Style for Content:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विषय-वस्तु के लिए पात्र तरीका:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Style:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र तरीका:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>characters</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पात्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Characters within words</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>शब्दों सहित पात्र</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Check a plugin to install it, or uncheck it to uninstall it.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इसे स्थापित करने के लिए एक पल्ग-इन ढँढें या स्थापित नहीं करने के लिए बेरोक चलने दें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choices:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चुनाव:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चुनाव करें{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose a command:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक आज्ञा का चुनाव करें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose a grammatical category (Part of Speech) from the following Catalog. The category you choose will be added to the list of categories for this FieldWorks Project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निम्नलिखित सूचीपत्र से एक वैयाकरणिक श्रेणी का चुनाव करें (शब्द-भेद)। जिस श्रेणी का आप चुनाव करेंगे वह इस फ़ील्डवर्क्स प्रोजेक्ड के लिए श्रेणी की सूची में जोड़ दी जाएगी।</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose a List of Anthropology Categories</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मानवशास्त्र श्रेणियों की एक सूची का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose A Natural Class</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक स्वाभाविक वर्ग का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose a new inflection feature from the following Catalog. The inflection feature you choose will be added to the list of Inflection features for this FieldWorks Project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निम्नलिख़ित सूचीपत्र से एक नई रुप-परिवर्तन आकृति का चुनाव करें। जिस रुप-परिवर्तन आकृति का आप चुनाव करेंगे वह इस फ़ील्डवर्क्स प्रोजेक्ड की सूची में जोड़ दी जाएगी।</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Choose a project:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक प्रोजेक्ट का चुनाव करें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Allomorph</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुपिम का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Complex Forms to display in Stem-based views</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जड़ आधारित दृष्टिकोण में प्रदर्शन के लिए मिश्रित प्रारुपों का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Confidence Level</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आत्म-विश्वास स्तर का चुनव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose dictionary view to configure:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोन्फ़िगर करने के लिए शब्दकोश दृष्टिकोण का चुनाव करें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Encoding Converter for Import</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आयात के लिए एनकोडिंग परिवर्तक का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &amp;File(s)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>फ़ाइल(लों) का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose inflection features</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुप रचना आकृतियों का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Inflection Features</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुप रचना आकृतियों का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Inflectional Affixes</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुप-रचना प्रत्ययों क चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Lexical Entry or Sense</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोष-विषयक प्रविष्ठी या भाव का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose list(s):</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सूची(यों) का चुनाव करें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Morpheme and Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुपिम व वैयाकरणिक सूचना का चयन करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Morpheme Type</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुपिम प्रकार आख चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Natural Class</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वाभाविक श्रेणी खा चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose new inflection features from the following catalog. The inflection features you choose will be added to the list of Inflection features for this FieldWorks project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निम्लिख़ित सूचीपत्र से नई रुप-रचना आकृति का चुनाव करें। जिन रुप-रचना आकृइयों का चुनाव आप इस फ़ील्डवर्क्स प्रोजेक्ड के लिए करेंगे वह इन रुप-रचना आकृतियों के लिए जोड़ दी जाएगी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose one or more new phonological features from the following Catalog. Note that all features are binary (i.e. have two values: + and -).  The phonological features you choose will be added to the list of phonological features for this FieldWorks Project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निम्नलिख़ित सूचीपत्र से एक या एक से अधिक नई स्वर-विज्ञान आकृतियों का चुनाव करें। ध्यान दें कि सभी आकृतियाँ द्विगूणीय हैं (अर्थात् जिसमें दो गुण हों +व -का)। इस फ़ील्डवर्क्स प्रोजेक्ड के लिए जिन स्वर-विज्ञान आकृतियों का चुनाव आप करते हैं वे स्वर-विज्ञान आकृति की सुची में जोड़ दी जाएगी।</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Parser</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पार्सर का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Phonological Features</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वर-विज्ञान आकृतियों काचुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Picture</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चित्र का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose &amp;Picture...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चित्र का चुनाव करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose project to fix:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निश्चति करने के लिए प्रोजेक्ट का चुनाव करें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Reversal Index Writing System</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विपरित सूचीपृष्ठ लेख़न व्यवस्था का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Slot</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>दरारौ का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Sound or Movie File</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ध्वनि या चलचित्र फ़ाइल का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Subentries to display in Root-based views</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जड़ आधारित दृष्टिकोण में प्रदर्शन के लिए उप-प्रविष्ठियों का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Texts</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पाठों का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose texts to display and use.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रदर्शन व प्रयोग के लिए पाठों का चुनाव करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Texts...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पाठों का चुनाव करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the encoding converter for the {0} writing system data.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>लेखन व्यवस्था डाटा {0} के लिए एनकोडिंग परिवर्तक का चुनाव करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the lines you wish to display and the order in which to display them. Some restrictions apply in Edit view.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उस पंक्ति का चुनाव करें जिसे आप प्रदर्शित करना चाहते हैं व वह क्रम जिसमें आप उसे प्रदर्शित करना चाहते हैं. संपादन दृश्य में कुछ प्रतिबंधों को लागू करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the phonological features you want to add to this FieldWorks project. 
+Each feature has two values (+ and -).</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उन स्वर-विज्ञान आकृतियों का चुनाव करें जिन्हें आप इस फ़ील्डवर्क्स प्रोजेक्ड में जोड़ना चाहते हैं.प्रत्येक आकृति के दो गुण हैं (+ व-)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the reversal index to configure:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोन्फ़िगर करने के लिए विपरित सूचीपृष्ठ का चुनाव करें :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose the view to configure:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोन्फ़िगर करने  के लिए दृश्य का चुनाव करें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose where to save the LIFT files</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>LIFT फ़ाइलें सुरक्षित करने के लिए स्थान का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose where to show subentry</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपप्रविष्ठी को कहाँ दिखाना है उसके लिए स्थान का चुनाव करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose writing system(s) of translated lists:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुवादित सूची की लेख़न व्यवस्था(ओं) का चुनाव करें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चुनें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Chooser</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चुनाव करने वाला {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Chosen Name:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चयनित नाम:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Citation form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उद्धरण प्रकार</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Citation Form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उद्धरण प्रकार</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Citation Form:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उद्धरण प्रकार:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classifications</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>श्रेणीबद्ध करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classified Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्गीकृत शब्दकोश</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Classified Senses</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्गीकृत ज्ञान</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>साफ़</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear All</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सब साफ़ करना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear Chart from here on</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>यहाँ से चार्ट को साफ़ के दें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clearing these flags is not undoable. We believe it is very safe, but you may wish to make a backup first. However, if things are out of alignment, the effects of leaving them that way are almost certainly worse than any effects of reparsing.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इन संकेतों को साफ़ करना अकार्य के समान है। हम यह विश्वास करते हैं कि यह सुरक्षित है परंतु आप यह चाहेंगे कि पहले एक प्रतिलिपि ले ली जाए। फ़िर भी यदि चीज़ें पंक्तिबद्ध न हों तो उन्हें उसी प्रकार से छोड़ देने का प्रभाव निश्चित रुप से रिपार्सिंग के किसी अन्य प्रभाव के समान ख़राब ही होंगे।</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Copy</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रति पर क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Finish to import the texts.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पाठों को आयात  करने के लिए समाप्त पर क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Help to learn about parser parameters.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>गणितीय स्थिर राशि पार्सर के बारे में जानने के लिए सहायता पर क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select a segment which belongs to this natural class.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस स्वाभाविक श्रेणी से संबंधित एक वृत ख़ंड का चुनाव करने के लिए यहाँ क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select any environments which constrain when the linker may appear.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>किसी भी प्रकार का एसा वातावरण जो कि संपर्ककर्ता के उपस्थित होने पर उसे रोके इसके लिए यहाँ पर क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select from a list of inflection classes.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुपांतरण श्रेणी की एक सूची से चयन करने के लिए यहाँ क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select from a list of morpheme types.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>रुपिम श्रेणियों की एक सूची से चयन करने के लिए यहाँ क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select from phonetic environments you have used in the past.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आपके द्वारा भुत काल में उपयोग में लिए गए ध्वन्यात्मक वातावरणों का चयन करने के लिए यहाँ क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select the category of the stem resulting from the attachment of this affix.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस समयोजन को जोड़ने से परिणाम के रुप में स्तंभ की श्रेणी का चयन करने के लिए यहाँ क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click Inserts Invisible Space</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अदृश्य स्थान में डालता है पर क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on any word to copy it to the target field</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>लक्षित क्षेत्र में प्रतिलिपि के लिए किसी भी शब्द पर क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click on the View Preview Results button to see the full list of results.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिणामों की पूरी सूची देखने के लिए पुर्वावलोकन परिणाम देख़ें पर क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clients connected to shared projects.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ग्राहक, साझेदार प्रोजेक्ट्स के साथ जुड़े हुए हैं</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clients connected to: {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>से ग्राहक जुड़े हुए हैं: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clitic of unknown category</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अज्ञात श्रेणी के क्लिटिक</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Close</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;बंद करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Close</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_बंद करो</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बंद करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close this project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस प्रोजेक्ट को बंद करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Closes this dialog box without saving the changes you have made in this dialog. (Changes made in nested dialog boxes are not cancelled).</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आपके द्वारा किए गए परिवर्तनों को बिना सुरक्षित किए वार्तालाप ख़ाने को बंद करता है. (स्वामित्व रखे गए वार्तालाफ ख़ानों में किए गए परिवर्तन निरस्त नहीं किए गए है).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Closes this dialog, changes are automatically saved.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस वार्तालाप को बंद करता है, परिवर्तन स्वत: ही सुरक्षित हो जाते हैं</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Closing {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बंद कर रहा है {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Code &amp;Page:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोड &amp;पृष्ठ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Column</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कॉलम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Column Options</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कॉलम विकल्प</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Columns...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कॉलम...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Comment</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>टिप्पणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>टिप्पणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comment (of text)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>टिप्पणी (पाठ के लिए)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comment will be altered in file name</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>टिप्पणी को फ़ाइल नाम में बदल दिया जाएगा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comment:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>टिप्पणी:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comments</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>टिप्पणी</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compiled TECkit</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संकलित TECकिट</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compiled TECkit Files</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संकलित TECकिट फ़ाइलें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complete</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>पूर्ण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल प्रारुप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form references: Complex Form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल प्रारुप संदर्भ: जटिल प्रारुप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form Type</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल प्रारप प्रकार</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form Type:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल प्रारुप प्रकार:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form Types</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल प्रारुप प्रकार</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Form Types:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल प्रारुप प्रकार:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Forms</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल प्रारुप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex forms shown in this field are shown as references in this component entry in Dictionary.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस कार्यक्षेत्र में दिखाए गए जटिल प्रारुप, शब्दकोश में इस आंशिक प्रविष्ठी में संदर्भ के रुप में दिखाए गए हैं.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex or Variant Entry References</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जटिल या भिन्नरुप प्रविष्ठी संदर्भ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Component References</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आंशिक संदर्भ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Components</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अंश</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compound Rule</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>यौगिक नियम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Compound Rules</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>यौगिक नियम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conclusion</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निष्कर्ष</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conclusions</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निष्कर्ष</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conclusions:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>निष्कर्ष:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>concordance</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुक्रमणिका</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concordance</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुक्रमणिका</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2. Concordance of selected analysis. Select the word occurrences to which you want to assign a different analysis.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चयनित विश्लेषण की अनुक्रमणिका. शब्दों की व्यत्तपत्ति का चयन करें जिन्हें आप एक अन्य प्रकार के विश्लेषण के प्रति सौंपना चाहेंगे.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concordance Results</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अनुक्रमणिका परिणाम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concorded on {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>को अनुक्रमणिक किए गए {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Concorder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोगक</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Condition</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्थिति</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confidence</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आत्विश्वास</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confidence Level</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आत्विश्वास स्तर</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confidence Levels</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आत्विश्वास स्तर</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confidence: </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आत्विश्वास </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configuration settings</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर सेटिंग</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Configuration settings (for example, field visibilities, columns, dictionary layout, interlinear)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगरेशन सेटिंग (उदाहरण के लिए, कार्यक्षेत्र दृश्यता, कॉलम, शब्दकोश लेआउट, अंतरापंक्ति)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configuration settings (for example, field visibilities, columns, dictionary layout, interlinear)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगरेशन सेटिंग (उदाहरण के लिए, कार्यक्षेत्र दृश्यता, कॉलम, शब्दकोश लेआउट, अंतरापंक्ति)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure {0} in {1} View...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर {0} इसमें {1} देख़े...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure {0} View</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर {0} देख़ें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure {0} View...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर {0} देख़ें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure Columns...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर कॉलम...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure Homograph Number</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>होमोग्राफ़ संख्या कोमफ़िगर करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure Interlinear Lines</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अंतरापंक्ति रेखाएँ कोनफ़िगर करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure Interlinear...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अंतरापंक्ति कोनफ़िगर करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure now...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>अभी कोनफ़िगर करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure Style of Homograph Number...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>होमोग्राफ़ संख्या के तरीके को कोनफ़िगर करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure Style of Sense Reference Number...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इन्दियबोध संदर्भ संख़्या के तरीके को कोनफ़िगर करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure the homograph number which is shown as part of headwords in Language Explorer.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उस होमोग्राफ़ संख़्या को कोनफ़िगर करें जो कि भाषा जाँचकर्ता में मुख्यशब्दों के रुप में दिखाई गई हो.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure which columns to display</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>किन कॉलम को दिखाया जाए उसे कोनफ़िगर करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Configure...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कोनफ़िगर...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Configuring columns</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कॉलम को कोइनफ़िगर कर रहा है</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सुनिश्चित</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Confirm and move next</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सुनिश्चित करे अ आगे बढ़ें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conflicting Opinions</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विरोधी मत</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Connection to the server has been lost. You may need to reconnect a network cable or make sure the server is running.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सर्वर से संपर्क टूट गया है. आपको चाहिए कि आप संपर्क तार का प्रयोग करें या यह सुनिश्चित करें कि सर्वर काम कर रहा है.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Contains Data(%)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>डाटा सम्मिलित है(%)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Content mapping</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>विषय-सूची का नक्शा बनाना</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Continue using English as the user interface language?</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपयोगकर्ता मिलन-बिंदू भाषा के रुप में निरंतर अंग्रेज़ी का ही प्रयोग करें?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conversion Error</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तन त्रुटि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conversion Failed</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तन असफ़ल</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conversion failed. Check your map file for errors.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तन असफ़ल. त्रुटियों के लिए अपनी नक्शे की फाइलों की जाँच करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conversion map error</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तन नक्शा त्रुटि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Conversion problem: {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तन समस्या: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Conversion Type:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तन प्रकार:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Convert</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Converted:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तित:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Converter</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तक</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Converter &amp;Mapping File:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तक &amp;नक्शा बनाने वाली फ़ाइलें:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Converter &amp;Name (for your reference):</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तक &amp;नाम (आपके संदर्भ के लिए):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Converter Property</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तक विशेषता</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C&amp;onverter Type:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तक प्रकार:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Converters</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>परिवर्तक</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Converts the test data into the target encoding using the selected converter.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चयनित परिवर्तक काप्रयोग करते हुए परिक्षण डाटा को कूट डाटा में परिवर्तित करता है .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Copy</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Copy</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_प्रतिलिपि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिलिपि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy _Location as Hyperlink</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_हाइपरलिंक के रुप में स्थान की प्रतिलिपि लें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy {0} of {1}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{1} की प्रतिलिपि {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy any approved analyses to the new spelling</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>किसी भी स्वीकृत विश्लेषण को नए अक्षर विन्यास में प्रतिलिपित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy of {0} ({1})</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} की प्रतिलिपि({1})</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy pictures and media files to the export folder.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>चित्रों व मिडिया फ़ाइलों को स्थानांतर फ़ोल्डर में प्रतिलिपित करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy the contents of the source field to the target field</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्त्रोत कार्यक्षेत्र की विषय-सूची को लक्षित कार्यक्षेत्र में प्रतिलिपित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Copy this information to the clipboard and I will paste it into an email message myself.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस सूचना को क्लिबिर्ड में प्रतिलिपित करें व इसे मैं स्वयं एक इ-मेल के द्वारा चिपका दूँगा.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Copy this message to the clipboard and I will paste it into an email message myself.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस सूचना को क्लिबिर्ड में प्रतिलिपित करें व इसे मैं स्वयं एक इ-मेल के द्वारा चिपका दूँगा.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Copy to Linked Files folder</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपर्क फ़ाइल फ़ोल्डर में प्रतिलिपित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Correct</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सही</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Could not connect to server. Check service is running and that any running firewalls are configured to allow connections to the service.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सर्वर से जोड़ा नहीं जा सका. जाँच करें कि सर्वर कार्य कर रहा है व किसी भी प्रकार के कार्यशील फ़ायरवॉल इस सेवा के प्रति संपर्कों को स्वीकृति देने के लिए कोनफ़िगर किए गए हों .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Could not connect to server. Check that {0} is running on the remote server and that any firewalls are configured to allow connections to it.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सर्वर से जोड़ा नहीं जा सका. जाँच करें कि {0} रिमोट सर्वर पर कार्य कर रहा है व किसी भी प्रकार के कार्यशील फ़ायरवॉल इस सेवा के प्रति संपर्कों को स्वीकृति देने के लिए कोनफ़िगर किए गए हों .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Could not contact host: {0} using port {1}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मेज़बान से संपर्क नहीं किया जा सका: {0} इस भाग का प्रयोग करते हुए {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Count</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>गिनें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Counter Evidence</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>काउंटर साक्ष्य</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Counter Evidence: </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>काउंटर साक्ष्य: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Country</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>देश</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Create</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;बनाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>बनाएँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a group of ad hoc rules.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तदर्थ नियमों के एक समूह का निर्माण करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new {0}.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नया बनाएँ {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new entry and add it to the lexicon.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नई प्रविष्ठी का निर्माण करें व इसे शब्द-सूची में जोड़ दें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new FieldWorks project.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नए फ़ील्डवर्क्स प्रोजेक्ट का निर्माण करें फ़ील्डवर्क्स प्रोजेक्ड</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new lexical entry.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नई कोशगत प्रविष्ठी का निर्माण करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new lexical relation.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नए कोशगत संबंध का निर्माण करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a &amp;New Project...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नए प्रोजेक्ट का निर्माण करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new reversal entry.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक परिवर्तित प्रविष्ठी तैयार करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create a new semantic domain.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नया अर्थगत डोमेन तैयार करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Affix Form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संयोजित प्रारुप तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Create Entry...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रविष्ठी तैयार करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Linker Form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कड़ी प्रारुप तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create my own set of anthropology categories (start with a blank list)</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>मेरी स्वयं का मानवशास्त्र श्रेणी का समूह तैयार करें (एक ख़ाली सुची के साथ शुरु करें)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create New Entry...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक नई प्रविष्ठी तैयार करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create New Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>नई वैयाकरणिक सूचना तैयार करें.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> Create new inflectional affix </seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg> एक नया मुड़ा हुआ संयोजक तैयार करें </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create New Lexical Relation...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>नया कोशगत संबंध तैयार करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Reversal</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक तबदीली तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Reversal Index</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक तबदीली विषय-सूची तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Create Shortcut on Desktop</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>डेस्कटॉप पर शार्टकट तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Create Shortcut on Desktop</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>डेस्कटॉप पर शार्टकट तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create shortcut on desktop for this project</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>इस प्रोजेक्ट के लिए डेस्कटॉप पर शार्टकट तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create Stem Form</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>एक स्तंभ प्रारुप तैयार करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Create...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तैयार करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Created/Modified</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तैयार/रुपांतरित</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating a temporary copy of {0} failed.  The copy process returned error code {1} and error message {2}.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} की एक अस्थायी प्रतिलिपि तैयार करना असफल हो गया है.  प्रतिलिपि प्रक्रिया ने त्रुटि कोड {1} व त्रुटि संदेश {2} प्रदान किया है.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating default writing systems...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>डिफ़ॉल्ट राइटिंग सिसटम्स तैयार कर रहा है...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creating window for {0} Project...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} प्रोजेक्ट के लिए विंडो तैयार करें...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creation Date</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>तैयार करने की तिथि</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cross References</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>प्रतिनिर्देश</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl+Click to jump</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>आगे जाने के लिए Ctrl+क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ctrl-click a check box to include all subitems</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सभी छोटे मदों को शामिल करने के लिए एक चेक बॉक्स पर Ctrl-क्लिक करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cu_t</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>काटें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current Columns</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्तमान कॉलम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current Language</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्तमान भाषा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current Reversal Index</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्तमान परिवर्तन विषय-सूची</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Current Writing System</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>वर्तमान राइटिंग सिस्टम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom _Fields...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम फ़ील्डस्</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Field &amp;Name:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम फ़ील्ड व नाम:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Fields</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम फ़ील्डस्</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Fields cannot be added when there is more than one connected client.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>जब एक से अधिक ग्राहक जुड़े हुए हों तो कस्टम फ़ील्डस् को जोड़ा नहीं जा सकता.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Fields cannot be added.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम फ़ील्डस् को जोड़ा नहीं जा सकता.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Custom Fields:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम फ़ील्डस्:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Styles</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम स्टाइलस्</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>कस्टम:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Data</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_डेटा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>डेटा</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>edit</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपादन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Edit</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;संपादन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Edit</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_संपादन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>संपादन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit {0}</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>{0} संपादन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F_ormat</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_स्वरूप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FieldWorks</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>FieldWorks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;फ़ाइल</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_File</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_फ़ाइल</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>फ़ाइल</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>F&amp;ormat</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वरूप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वरूप</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>स्वरूप:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Grammar</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_व्याकरण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grammar</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>व्याकरण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Insert</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_सम्मिलित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सम्मिलित करें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Language Explorer...</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_Language Explorer...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lists</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>सूचियाँ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>ठीक</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Texts &amp;&amp; Words</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_Texts &amp;&amp; शब्द</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Texts &amp; Words</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>Texts &amp; शब्द</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>The program has detected invalid data (cells out of order or not in any column) within this
+chart.  This can be caused by deleting or re-ordering columns in the template.
+
+The program will attempt to repair the links within the data.  You may need to do additional
+editing, or you may prefer to start over if the resulting chart is too different from what
+you expect.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>The program has detected invalid data (cells out of order or not in any column) within this
+chart.  This can be caused by deleting or re-ordering columns in the template.
+
+The program will attempt to repair the links within the data.  You may need to do additional
+editing, or you may prefer to start over if the resulting chart is too different from what
+you expect.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>This pane and the associated buttons allow you to search for and substitute (or delete) text.</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>This pane and the associated buttons allow you to search for and substitute (or delete) text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Tools</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;उपकरण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Tools</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_उपकरण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>उपकरण</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;View</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;देखें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_View</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>_देखें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>देखें</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>  Ed&amp;it</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>  संपादन</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv xml:lang="hi">
+        <seg>&amp;सम्मिलित करें</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

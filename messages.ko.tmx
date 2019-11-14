@@ -1,0 +1,4711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <body>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+
+Click OK to continue making changes, or click Cancel to discard the changes to this converter.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}
+
+변경을 계속하려면 '확인'을 클릭하시고 현재 변환기에 대한 변경을 취소하려면 '취소'를 클릭하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+
+Click OK to continue making changes.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}
+
+변경을 계속하려면 '확인'을 클릭하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+	
+Export failed.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}
+	
+'내보내기'가 실패했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>
+
+In order to protect your data, the FieldWorks program needs to close.
+
+You should be able to restart it normally.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>
+
+자료를 보호하기 위해 FieldWorks를 종료합니다.
+
+종료 후 다시 시작하시면 됩니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+	
+The FieldWorks software is not installed correctly. 
+Please close FieldWorks Translation Editor, and then insert your FieldWorks CD and repair your installation.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}
+	
+FieldWorks가 제대로 설치되지 않았습니다. 
+FieldWorks Translation Editor를 종료하신 다음 FieldWorks CD를 넣고 설치를 복구하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+Cannot access encoding converters, possibly due to insufficient access privilege.
+You may want to consult a system administrator.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}
+부호화 변환기에 접근할 수 없습니다. 접근 권한이 없는 것 같습니다.
+시스템 관리자에게 문의하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>"{0}
+This file will be removed from the import project"</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>"{0}
+이 파일을 가져오기 프로젝트에서 제거합니다."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Beginning Marker is required.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>시작 표시가 필요합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A browse view must have at least one column.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>열람 뷰에는 열이 하나 이상 있어야 합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A category which is a subtype of the main category. (These are also listed in the Record List view.)</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>주 카테고리의 하위 유형인 카테고리입니다.(레코드 리스트 뷰에서도 볼 수 있습니다.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Code Page has not been specified.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>코드 페이지가 지정되지 않았습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A Converter Name has not been specified.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>변환기 이름이 지정되지 않았습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A converter with the specified name already exists. Do you want to replace it?</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>지정한 이름을 가진 변환기가 이미 존재합니다. 변경하시겠습니까?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A deleted object</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>삭제된 객체</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A discourse chart template can only have three levels (template, column group, and column).</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>디스코스 차트 템플릿은 세 가지 단계만 가능합니다(템플릿, 열 그룹, 열).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A folder or file path cannot contain any of the following characters:
+{0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>폴더, 즉 파일의 경로에는 다음 문자를 사용할 수 없습니다.
+{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this category.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이 카테고리에 대한 상세한 설명.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this phoneme.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이 음운에 대한 상세한 설명.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A problem occurred processing the string '{0}': {1}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>'{0}': {1} 문자열을 처리하는 중에 문제가 발생했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A programming error has occurred.
+A message with instructions on how to send it to the developers has been copied to the clipboard.
+Paste the contents of the clipboard into a new email message or text file.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로그램 오류가 발생했습니다.
+개발자에게 보낼 메시지와 보내는 방법을 클립보드에 복사했습니다.
+이메일이나 문서 파일을 새로 작성한 다음 클립보드의 내용을 붙여넣기 하십시오.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A report will be opened in your web browser.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>웹 브라우저로 보고서를 읽습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A short name for this category.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이 카테고리에 대한 짧은 이름.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Abort</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>중단</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_About Language Explorer...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg> Language Explorer 정보(_A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About SIL FieldWorks {0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>SIL FieldWorks 정보 {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About Translation Editor</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>Translation Editor 정보</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>About Translation Editor...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>Translation Editor 정보...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Above</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Account</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>계정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>   &amp;Add   </seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>   추가(&amp;A)   </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>추가(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>추가(&amp;d)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg> 추가 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add &gt;&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>추가(&amp;A) &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a category</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>카테고리 추가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a new category.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 카테고리를 추가합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a picture to this entry.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이 표제어에 그림을 추가합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a pronunciation field to this entry.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이 표제어에 발음 필드를 추가합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a sound or movie file to the pronunciation, creating the pronunciation if necessary.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>발음 필드에 음성이나 동영상을 추가합니다. 필요한 경우 발음 필드를 생성합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a subcategory...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>하위 카테고리를 추가합니다...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add from Catalog</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>카탈로그로부터 추가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add, delete, or change styles.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스타일 추가, 삭제 또는 변경</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> &amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg> 추가(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>추가(&amp;A)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A&amp;dd...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>추가(&amp;d)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Adding a New User</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 사용자 추가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Advanced</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>고급</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>After:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>단락 뒤:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Alias</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>별칭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Left</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>왼쪽 맞춤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Align Right</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽 맞춤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>전체</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>All Files</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>모든 파일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An Ending Marker is required.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>종료 표시가 필요합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error has occured while creating a new project.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 프로젝트를 생성하는 도중 오류가 발생했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error has occured while opening project {0}: {1}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}: {1} 프로젝트를 여는 도중 오류가 발생했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error has occurred</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오류가 발생했습니다</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error has occurred during printing: {0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}을(를) 인쇄하는 도중 오류가 발생했습니다. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error has occurred during the setup required for printing.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>인쇄에 필요한 설정 도중 오류가 발생했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occured deleting project {0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0} 프로젝트 삭제 도중 오류가 발생했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred on line {0} offset {1} between the text "{2}" and "{3}".</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>텍스트 "{2}"과(와) "{3}" 사이의 행 {0} 오프셋 {1}에서 오류가 발생했습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error occurred while exporting your data.  This is probably a bug in the FieldWorks code. Details: {0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>자료를 내보내는 도중 오류가 발생했습니다. Fieldworks 프로그램의 문제인 것 같습니다. 자세한 내용: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analysis</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>분석</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Analyze</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>분석</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>and</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg> 그리고 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Annotations</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>주석</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Any</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>임의의 각도</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Appearance</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표시 형식</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>적용</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Apply Style</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스타일 적용</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Approve</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>승인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Aqua,51,204,204</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>바다색,,51,204,204</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Assign</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>지정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>At least</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>최소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributes</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>특성</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributes:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>특성:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Author:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>만든 이:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>자동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Back</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>뒤로</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Background Color</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>배경색</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Baseline</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>초기 계획</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Basic</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표준</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Before:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>앞:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Below</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>아래</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bengali</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>벵골어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bibliography</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>참고 문헌</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Black,0,0,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>검정,,0,0,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Blanks</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>필드 값 없음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Blue,0,0,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>파랑,,0,0,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bold</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>굵게</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Book</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>책</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Books</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>책</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Border</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>테두리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Borders</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>테두리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bottom</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>아래쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bottom Border</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>아래쪽 테두리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bright Green,0,255,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>밝은 녹색,,0,255,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Brown,153,51,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>밤색,,153,51,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾아보기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾아보기...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulk Replace</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>한꺼번에 바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bulleted</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글머리 기호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글머리 기호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bullets and Numbering</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글머리 기호 및 번호 매기기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Cancel</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>취소(&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>C&amp;ancel</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>취소(&amp;a)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>취소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cancel
+</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>취소
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cannot add a style with a blank name.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이름을 비운 채로 스타일을 추가할 수 없습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Caption</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>캡션</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Category</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>항목</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>CC</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>참조</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Center</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>가운데 맞춤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Centered</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>가운데 맞춤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Centimeters</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>센티미터</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Change Case...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>대/소문자 바꾸기...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>문자</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Style</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>문자 스타일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Character Style:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>문자 스타일: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Characters</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>문자 수(공백 제외)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Checking</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>검사 중</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>선택...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Clear</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>투명하게</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>종가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Close Window</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>창 닫기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Closing</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>맺음말</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>cm</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>cm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Column:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>열:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Columns</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>열</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Commands</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>명령</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Comment</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>주석</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>comments</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>메모</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complete</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>완료</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Condition</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>조건</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configure...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>구성...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Continuous</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이어서 매기기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>복사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Count</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>개수</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Country</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>국가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>만들기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Created:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>만든 날짜:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Creation Date</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>만든 날짜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사용자 지정 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사용자 지정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Customize...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사용자 지정...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>잘라내기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dark Blue,0,0,128</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>진한 파랑,,0,0,128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dark Green,0,51,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>진한 녹색,,0,51,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dark Red,128,0,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>진한 빨강,,128,0,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dark Teal,0,51,102</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>진한 청록,,0,51,102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dark Yellow,128,128,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>진한 노랑,,128,128,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Data</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>데이터(_D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>데이터</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Data Entry</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>데이터 입력</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Created</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>만든 날짜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Date Modified</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>수정한 날짜</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Decrease Indent</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>내어쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>default</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>(기본)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>영어) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default font:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>기본 글꼴:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Default Style</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>기본 스타일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Definition</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>정의</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>삭제</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Demote</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>수준 내리기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>설명</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Description:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>설명:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Details</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>자세히</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Devanagari</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>데바나가리어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사전</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Different first page</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>첫 페이지를 다르게 지정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Different odd and even</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>짝수와 홀수 페이지를 다르게 지정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Direct Formatting</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>기본값 이외의 서식</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Direction</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>방향 돌리기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>방향:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Dotted Underline</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>점선 밑줄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이중 실선</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double Spacing</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>2줄 간격</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Double Underline</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이중 밑줄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Duplicate</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>중복</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>편집 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Annotation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>주석 편집</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>편집...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Education</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>학력</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Empty</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>비어 있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>인코딩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End of Word</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>단어의 끝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>English</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>영어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entries</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표제어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>entry</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표제어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Entry</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>항목</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Environment</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>환경</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오류</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ethiopic</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>에티오피아어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exactly</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>고정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>예</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Example Sentences</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>예문</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>E&amp;xit</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>종료(&amp;x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>끝내기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit Application</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로그램 종료</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exit Language Explorer.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>Language Explorer 종료</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Export</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>내보내기(&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>내보내기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export to {0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0}(으)로 내보내기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Export...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>내보내기(&amp;E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Export...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>내보내기(_E)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exporting {0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0} 내보내기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exporting {0}...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0} 내보내기...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Exporting...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>내보내는 중...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fade</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>페이드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Failure</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오류</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Female</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>여성</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Field</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>필드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;File</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>파일(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_File</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>파일(_F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>파일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File {0}</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>{0} 파일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File not found</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>파일을 찾을 수 없습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;File:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>파일(&amp;F):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>File:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>파일:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find a lexical entry.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표제어를 찾습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find and Replace</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾기 및 바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Find entry</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표제어 찾기(_F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find example sentence...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>예문 찾기...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find in _Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사전에서 찾기(_D)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find in Dictionary</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사전에서 찾기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find in &amp;Dictionary...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사전에서 찾기(&amp;D)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Lexical Entry</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표제어 찾기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Find lexical entry...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표제어 찾기(_F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음 찾기(&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Ne&amp;xt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음 찾기(&amp;x)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find next.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>일치하는 다음 것을 찾습니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Find...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾기(&amp;F)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾기...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Find:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾기(&amp;F):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Find:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾기(_F):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>찾기:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Finish</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>완료</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First line</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>들여쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First Line Indent</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>첫 줄 들여쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First Page</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>첫 페이지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글꼴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font Color</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글꼴 색</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fo&amp;nt color:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글꼴 색(&amp;n):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Font:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글꼴(&amp;F):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Font:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글꼴: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Fonts</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글꼴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Footer:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>바닥글:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Footnote</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>각주</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Footnotes</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>각주</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Form</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>폼</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형식</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Format:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형식:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Formatting</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>서식 설정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Forward</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>전달</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free </seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>의역 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Free Translation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>의역(_F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Free Translation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>의역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>French</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프랑스어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>일반</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go Back</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>뒤로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go Forward</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>앞으로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go To Next Footnote</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음 각주로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go To Next Section</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음 구역으로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go To Previous Section</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이전 구역으로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gold,255,204,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>황금색,,255,204,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grammar</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>문법</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Green,0,128,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>녹색,,0,128,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Group</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>묶어서</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gujarati</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>구자라트어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Gurmukhi</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>굴묵키어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hanging</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위 맞춤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Header:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>머리글: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> Help</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg> 도움말</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Help</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도움말(&amp;H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Help</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도움말(_H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>He&amp;lp</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도움말(&amp;l)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Hel&amp;p</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도움말(&amp;p)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도움말(H)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help on using Language Explorer.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>Language Explorer 사용에 관한 도움말을 제공합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Help...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도움말(&amp;H)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Help...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도움말...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Ignore</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>무시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Import</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>가져오기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Importing</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>가져오기 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>in</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>의 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Inches</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>인치(in)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Increase Indent</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>들여쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indentation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>들여쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Indigo,51,51,153</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>남색,,51,51,153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Information</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>정보</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>삽입(&amp;I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Insert</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>삽입(_I)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>삽입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Example</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>예제 삽입(_E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Picture</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>그림 삽입(_P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert _Pronunciation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>발음 삽입(_P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Footnote</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>각주 삽입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Note</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>메모 삽입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Picture</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>그림 삽입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Row Below</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>아래에 행 삽입</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Interface</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>인터페이스</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Italic</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>기울임꼴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Item</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>항목</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>James</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>룡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Justified</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>양쪽 맞춤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Justify</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>양쪽 맞춤</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Kannada</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>카나다어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Keyboard</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>키보드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Khmer</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>크메르어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Label</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>레이블</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Language</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>언어 설정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lao</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>라오스어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lavender,204,153,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>연보라,,204,153,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>왼쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left Border</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>왼쪽 테두리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left-to-right</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>왼쪽에서 오른쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left-to-Right</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>왼쪽에서 오른쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Left-to-Right Embedding</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>왼쪽에서 오른쪽 포함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Less</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>간단히</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>less than</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음보다 작은 경우</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Letter</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>편지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Level</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>만추</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Light Blue,51,102,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>연한 파랑,,51,102,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Light Green,204,255,204</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>연한 녹색,,204,255,204</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Light Orange,255,153,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>연한 주황,,255,153,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Light Turquoise,204,255,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>연한 옥색,204,255,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Light Yellow,255,255,153</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>연한 노랑,,255,255,153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lime,153,204,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>라임,,153,204,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Line</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>줄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1.5 lines</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>1.5줄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lists</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>목록</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Literal Translation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>직역(_L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Literal Translation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>직역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>로드하는 중...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>장소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Location:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위치:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lowered</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>낮게</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Malayalam</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>말라얄람어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Male</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>남성</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Margins</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>여백</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mark</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표시 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>대/소문자[A/a]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Match diacritics</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>분음 부호 일치</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Maximize</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>최대화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Measurement units:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>단위:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Members</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>구성원</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Message</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>메시지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Millimeters</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>밀리미터</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>최소화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>mm</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>mm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modified:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>수정한 날짜:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modify...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>수정...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Mongolian</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>몽골어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>More...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>자세히...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Morpheme</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형태소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Morpheme Type</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형태소 유형</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Morpheme Type:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형태소 유형(&amp;M):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Morpheme Types</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형태소 유형</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Morphemes</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형태소</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move Down</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>아래로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move Here</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>여기로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move Left</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>왼쪽으로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move Right</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽으로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Move Up</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위로 이동</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Myanmar</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>미얀마어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이름</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이름: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Navigation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>탐색</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새로 설정(N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Entry</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 항목</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Fieldworks Project</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 Fieldworks 프로젝트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New FieldWorks Project</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 FieldWorks 프로젝트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;New Fieldworks Project...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 Fieldworks 프로젝트(&amp;N)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_New FieldWorks Project...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 Fieldworks 프로젝트(_N)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Page</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 페이지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>New Toolbar</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>새 도구 모음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Next</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음 레코드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>없음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No border</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>테두리 없음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No bullets or numbering</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>글머리 기호 또는 번호 없이</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>None</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>적용 안 함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&lt;None&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>&lt;없음&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Normal</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표준으로</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>not equal to</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음과 같지 않은 경우</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Note</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>메모</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>메모</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numbered</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>번호 매기기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Numbering</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>번호 매기기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>확인</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Olive Green,51,51,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>황록색,,51,51,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>on or after</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음 날짜 이후인 경우</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>on or before</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다음 날짜 이전인 경우</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>One</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>하나</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>열기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open Project</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로젝트 열기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>열기(&amp;O)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Open...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>열기(_O)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Opening</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>여는 중</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Optional</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>옵션</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Options</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>옵션</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Orange,255,102,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>주황,,255,102,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Original</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>원본</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Oriya</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오리야어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>언어2) </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>기타...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Other:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>기타:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Out of memory.</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>메모리가 부족합니다.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Overwrite</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>덮어쓰기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>페이지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page count</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>페이지 수</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page number</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>페이지 번호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page Setup</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>페이지 설정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page Setup...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>페이지 설정...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Page Width</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>페이지 너비에 맞게</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pale Blue,153,204,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>흐린 파랑,,153,204,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paragraph</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>단락</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paragraph Style</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>단락 스타일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Password</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>암호</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>붙여넣기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Person</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사람</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Personalized Menus and Toolbars</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>즐겨 쓰는 메뉴 및 도구 모음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Picture</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>그림</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pictures</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>그림</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pink,255,0,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>분홍,255,0,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Plum,153,51,102</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>진한 보라,153,51,102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Position</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위치</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preview</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>미리 보기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Preview:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>미리 보기: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Print</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>인쇄</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Print...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>인쇄(&amp;P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Print...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>인쇄(_P)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Problems</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>문제</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Process</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로세스형</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Progress</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>진행률</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project Management</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로젝트 관리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project name</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로젝트 이름</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project Name</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로젝트 이름</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project &amp;Name:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로젝트 이름(&amp;N):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project Properties</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로젝트 속성</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Project Type</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>프로젝트 유형</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects currently open:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>현재 열린 프로젝트:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Projects you can delete:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>삭제 가능한 프로젝트:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Promote</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>수준 올리기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pronunciation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>발음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Pronunciation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>발음(_P)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pronunciation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>발음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Pronunciations</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>발음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>속성</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Properties...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>속성...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>¼ pt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>¼ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>½ pt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>½ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>¾ pt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>¾ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1 pt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>1pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3 pt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>3pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6 pt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>6pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>pt</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Publications</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>발행물</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Raised</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>높게</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Random</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>임의</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Records</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>레코드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Red,255,0,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>빨강,,255,0,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다시 실행: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reference</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>참조</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>References</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>참조 사항</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Regions</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>영역</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Related Words</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>관련된 단어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Remove</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>제거</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rename Toolbar</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도구 모음 이름 바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>모두 바꾸기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Report</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>보고서</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Reset</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>초기화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Resolution:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>해상도:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Restore</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>복원</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Result</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>결과</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Retry</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>실행</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right Border</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽 테두리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-to-left</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽에서 왼쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-to-Left</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽에서 왼쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Right-to-Left Embedding</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽에서 왼쪽 포함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rose,255,153,204</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>다홍,,255,153,204</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Row:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>행: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Rows</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>행</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>저장 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Save Version</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>버전 정보 저장</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Schema</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스키마</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sea Green,51,153,102</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>해록,,51,153,102</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Search Options</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>검색 옵션</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Searching...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>검색 중...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sections</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>구역 수</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Server:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>서버:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>설정</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>설정:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Setup...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>설정...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Shortcut key:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>바로 가기 키:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표시 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show All</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>모두 표시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Errors</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오류 표시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>단일 실선</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single Spacing</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>1줄 간격</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Size</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>크기가</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sky Blue,0,204,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>하늘색,,0,204,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Slide</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>슬라이드</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Source</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>원본</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spacing</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>간격</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spacing After</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이후 간격</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spacing Before</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이전 간격</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spelling</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>맞춤법 검사</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Spelling Status</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>맞춤법 상태</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Standard</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표준</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Start Logging</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>기록 시작</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Status</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>상태</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>중지</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Strikethrough</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>취소선</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Style</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스타일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Style type:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스타일 형식:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styles</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스타일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Styles...</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스타일...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subcategory</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>하위 범주</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Subscript</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>오른쪽 아래 첨자</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Suggestion:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>추천 서식:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Superscript</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위 첨자</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Swahili</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>스와힐리어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Synchronize</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>동기화</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>(시스템 기본값)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Table</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>표 형식으로 표시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tamil</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>타밀어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tan,255,204,153</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>황갈색,,255,204,153</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Teal,0,128,128</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>청록,,0,128,128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Telugu</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>텔루구어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Template Name</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>서식 파일 이름</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Test</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>테스트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>텍스트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text Files</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>텍스트 파일</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Text Size</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>텍스트 크기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thai</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>태국어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Thumbnail</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>축소판 그림</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tibetan</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>티베트어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tip:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>팁:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Title</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>호칭</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Toggle</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>토글</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Toolbars</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도구 모음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도구 상자</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>도구</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Top</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위쪽</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Top Border</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>위쪽 테두리</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Training</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>학습</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Translation</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>변환</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Translator</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>역자</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Turquoise,0,255,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>밝은 녹색,0,255,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Two</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>둘</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>형식</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>실행 취소: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unfold</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>펼치기</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unknown</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>알 수 없음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unnamed</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이름 없음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Unspecified</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>지정 안 함</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>업데이트</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Usage</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사용 현황</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Users:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>사용자:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Utilities</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>유틸리티</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Value</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>값</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Values</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>값</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>화면 표시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Views</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>화면 표시</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Violet,128,0,128</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>보라,,128,0,128</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>경고</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Warning:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>경고:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>White,255,255,255</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>흰색,,255,255,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Whitespace</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>공백</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Window</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>창</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Word</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>단어</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yellow,255,255,0</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>노랑,,255,255,0</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>yes</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>예</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Yes</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>예(&amp;Y)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>있음</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Yes to &amp;All</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>모두 예(&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your email address:</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>이메일 주소:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Zoom</seg>
+      </tuv>
+      <tuv xml:lang="ko">
+        <seg>확대/축소</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
