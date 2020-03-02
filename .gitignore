@@ -1,4 +1,5 @@
 /l10ns
 /LCM
 /lists/**/*.xlf
+/messages.pot
 /temp
