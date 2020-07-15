@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <!DOCTYPE tmx SYSTEM "tmx14.dtd">
 <tmx version="1.4">
-  <header creationtool="Translate Toolkit" creationtoolversion="2.4.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
+  <header creationtool="Translate Toolkit" creationtoolversion="2.5.0" segtype="sentence" o-tmf="UTF-8" adminlang="en" srclang="en" datatype="PlainText"/>
   <body>
     <tu>
       <tuv xml:lang="en">
@@ -227,6 +227,30 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>A fuller description of this natural class.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibisobanuro byuzuye kuri iki cyiciro karemano.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this non-headed compound.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibisobanuro byuzuye by'iyi nyunge idafite umutwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A fuller description of this phoneme.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibisobanuro byuzuye by'iri jwishingiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>A Mapping Name has not been specified.</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -254,7 +278,23 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>A short name for this phoneme.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Izian rigufi ry'iri jwi shingiro</seg>
+        <seg>Izina rigufi ry'iri jwi shingiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A subscript form</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ifishi y'ibyiyandika hasi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>A superscript form</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ifishi y'ibyiyandika hejuru</seg>
       </tuv>
     </tu>
     <tu>
@@ -467,6 +507,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Active</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gifunguye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Actual delete</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -555,6 +603,22 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Add a Component...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kongeraho ikintu...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a custom list.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kongeraho urutonde umuntu yishyiriramo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Add a feature.</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -583,6 +647,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
       </tuv>
       <tuv xml:lang="rw">
         <seg>Kongera inyandiko nshya ku nkoranyanyandiko.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Add a picture to this entry.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ongera ishusho kuri uyu mwinjiro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -638,7 +710,7 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>Add an allomorph of an affix.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Kongeraho kakaremajambo nyabundi k'inyoneke</seg>
+        <seg>Kongeraho kakaremajambo nyabundi k'inyoneke.</seg>
       </tuv>
     </tu>
     <tu>
@@ -715,6 +787,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Add language mapping</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ongeraho ikarita kuri uru rurimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Add Line</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -751,6 +831,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
       </tuv>
       <tuv xml:lang="rw">
         <seg>Kongeraho cyangwa kunonosora imyanya yongereweho.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Add or Remove Buttons</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>&amp;Kongeraho cg Gukuraho amabuto</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,7 +942,7 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>Add writing system {0} to your FieldWorks project?</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Kongera ururimi rw'imyanikire {0} ku mushinga wawe wa Fieldworks</seg>
+        <seg>Kongera ururimi rw'imyandikire {0} ku mushinga wawe wa Fieldworks?</seg>
       </tuv>
     </tu>
     <tu>
@@ -907,6 +995,22 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Added Item</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kongeraho ingingo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} added to the {1} of {2}.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} byongerewe kuri {1} muri {2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Adding a New User</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -943,6 +1047,22 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
       </tuv>
       <tuv xml:lang="rw">
         <seg>Amafishiye y'inyongera yo gusubiza ibintu uko byahoze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adjacent after</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>byegamye inyuma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>adjacent before</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>byegamye imbere</seg>
       </tuv>
     </tu>
     <tu>
@@ -1182,7 +1302,7 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>Ali&amp;gnment:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>I&amp;terereza</seg>
+        <seg>I&amp;terereza:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1459,6 +1579,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>{0} Alternation</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} Andi mahitamo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Always visible</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -1483,10 +1611,34 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>an empty feature structure</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>igika kirimo ubusa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>An empty paragraph</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Igika kirimo ubusa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An encircled form</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imiterere izengurutse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>An error has occurred</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Habayeho ikosa</seg>
       </tuv>
     </tu>
     <tu>
@@ -1603,6 +1755,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>  and  {0} subrecords.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg> na {0} akiciro k'ibyashyizwemo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg> and {0}.</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -1611,10 +1771,18 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>_Annotation Definition</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>_Isasanura ry'igisobanuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Annotation Definition</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Igisobanuro cyo mu nyandiko ngaragazabisobanuro</seg>
+        <seg>Igisobanuro gisasanuye</seg>
       </tuv>
     </tu>
     <tu>
@@ -1902,7 +2070,7 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>As I add new word glosses, create lexical entries.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Mu gihe nongeraho amagambo asobanura, hakorwe imyinjiro nyunguramagambo</seg>
+        <seg>Mu gihe nongeraho amagambo asobanura, hakorwe imyinjiro nyunguramagambo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1999,6 +2167,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ibyitiriro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Attributes </seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibyitiriro </seg>
       </tuv>
     </tu>
     <tu>
@@ -2191,6 +2367,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ikopingoboka...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Bar Options</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Uburyo bwo guhitamo umububambiko</seg>
       </tuv>
     </tu>
     <tu>
@@ -2467,6 +2651,14 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Blank</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Harimo ubusa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Blanks</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -2702,7 +2894,7 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>Bulk Edit Operation:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Imikorere yo kunonosorera rimwe:</seg>
+        <seg>Ibinonosorerwa rimwe:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2718,7 +2910,7 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>Bulk Edit Spelling Status.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Imiterere y'imyandikire mu inonosora ku bwinshi</seg>
+        <seg>Imiterere y'imyandikire mu inonosora ku bwinshi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2758,7 +2950,7 @@ Ihangane, muri iyi mfungurarubuga, gufungura fishiye unyuze ku mpuzangingo bisho
         <seg>Bullet and Number &amp;Font...</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Utunyerezo n'Igenanimero n'Imiterere y'inyuguti</seg>
+        <seg>Utunyerezo n'Igenanimero n'Imiterere y'inyuguti...</seg>
       </tuv>
     </tu>
     <tu>
@@ -2939,6 +3131,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Cannot play media file</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ntushobora gucuranga idosiye y'amajwi n'amashusho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Cannot Restore</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -2974,7 +3174,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Cate&amp;gories:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Iby&amp;iciro</seg>
+        <seg>Iby&amp;iciro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -3022,7 +3222,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Category Info.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Amkr. ku byiciro</seg>
+        <seg>Amkr. ku byiciro.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3254,7 +3454,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Characters within words</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>inyuguti zikoreshejwe mu magambo</seg>
+        <seg>Inyuguti zikoreshejwe mu magambo</seg>
       </tuv>
     </tu>
     <tu>
@@ -3315,6 +3515,22 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Choose Confidence Level</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Hitamo urwego rw'icyizere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Feature:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Hitamo ibikiranga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Choose &amp;File(s)</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -3334,7 +3550,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Choose Morpheme and Grammatical Info.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Guhitamo ijwishingiro n'amkr. y'ikibonezamvugo</seg>
+        <seg>Guhitamo ijwishingiro n'amkr. y'ikibonezamvugo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3366,7 +3582,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Choose &amp;Picture...</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Guhitamo &amp;ishusho</seg>
+        <seg>Guhitamo &amp;ishusho...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3391,6 +3607,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Guhitamo uko bihagaze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Choose Subentries to display in Root-based views</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhitamo imyinjiro yungirije  igomba kugaragazwa mu irebereo rishingiye ku muzi</seg>
       </tuv>
     </tu>
     <tu>
@@ -3535,6 +3759,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Kanda hano utoranye mu rutonde ubwoko bw'ijwishingiro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Click here to select the default inflection class.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kanda hano uhitemo icyiciro cy'ibanze cy'icyiciro cy'ikomora.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3755,10 +3987,42 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Compiled TECkit</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>TECkit yakozwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Complete</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Kurangiza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>complex feature</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>imiterere y'urusobe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Complex Feature</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imiterere y'urusobe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Complex Feature...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>_Imiterere y'Urusobe...</seg>
       </tuv>
     </tu>
     <tu>
@@ -3902,7 +4166,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Concorded on {0}</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>cyahujije isano kuri {0}</seg>
+        <seg>Cyahujije isano kuri {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3927,6 +4191,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Urwego rw'icyizere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Configuration settings</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gutunganya imiterere</seg>
       </tuv>
     </tu>
     <tu>
@@ -4095,6 +4367,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ihindura ryanze</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Conversion Type:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>&amp;Ubwoko bw'ihindura:</seg>
       </tuv>
     </tu>
     <tu>
@@ -4275,10 +4555,18 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Create a new annotation definition.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gukora igisobanuro gishya gisasanuye.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Create a new entry and add it to the lexicon.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Gukora umwinjizo mushya unawongere ku nkoranya</seg>
+        <seg>Gukora umwinjizo mushya unawongere ku nkoranya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4318,7 +4606,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Create a new semantic domain.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Gukora icyiciro gishya nyunguramagambo</seg>
+        <seg>Gukora icyiciro gishya nyunguramagambo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4335,6 +4623,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Gukora umwinjizo mushya...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Create New Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhitamo Amkr. mashya y'ikibonezamvugo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4383,6 +4679,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Imigendekere y'ikora:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> (Ctrl-Click)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg> (Ctrl-Click)</seg>
       </tuv>
     </tu>
     <tu>
@@ -4439,6 +4743,22 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>&amp;Izina ry'umwanya wihitiyemo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Custom Fields</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imyanya wihitiyemo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Customize</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhuza n'ibyo wifuza</seg>
       </tuv>
     </tu>
     <tu>
@@ -4827,6 +5147,14 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Delete Grammatical Info.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhanagura amakr. y'ikibonezamvugo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Delete Literal Translation</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -4899,10 +5227,18 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Delete the checked items (rows) from the database</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhanagura icyatoranyijwe (umurongo) kivuye mu bubiko bw'amakurushingiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Delete the selection.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Hanagura ibyatoranyijwe</seg>
+        <seg>Hanagura ibyatoranyijwe.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5038,7 +5374,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>&amp;Description:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>&amp;Igisobanuro</seg>
+        <seg>&amp;Igisobanuro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5046,7 +5382,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>D&amp;escription:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>I&amp;gisobanuro</seg>
+        <seg>I&amp;gisobanuro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5054,7 +5390,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>De&amp;scription:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Igis&amp;obanuro</seg>
+        <seg>Igis&amp;obanuro:</seg>
       </tuv>
     </tu>
     <tu>
@@ -5206,7 +5542,7 @@ Ushaka gukuramo icyongereza aka kanya?</seg>
         <seg>Display the dictionary entry for this lexeme above the Lexicon Edit pane.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Kugaragaza umwinjiro w'inkoranya w'iyi nyunguramagambo hejuru mu idirishya ryagenewe kunoza inkoranya</seg>
+        <seg>Kugaragaza umwinjiro w'inkoranya w'iyi nyunguramagambo hejuru mu idirishya ryagenewe kunoza inkoranya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5484,7 +5820,7 @@ are recommendations about which areas to avoid editing at the same time:&lt;/p&g
         <seg>Edit Grammatical Info.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Kuboneza amkr. y'Ikibonezamvugo</seg>
+        <seg>Kuboneza amkr. y'Ikibonezamvugo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5540,7 +5876,7 @@ are recommendations about which areas to avoid editing at the same time:&lt;/p&g
         <seg>Edit the list of Usages.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Kuboneza urutonde rw'imikoreshereze</seg>
+        <seg>Kuboneza urutonde rw'imikoreshereze.</seg>
       </tuv>
     </tu>
     <tu>
@@ -5972,7 +6308,7 @@ are recommendations about which areas to avoid editing at the same time:&lt;/p&g
         <seg>Etymology - Gloss</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>inkomoko - Igisobanuro</seg>
+        <seg>Inkomoko - Igisobanuro</seg>
       </tuv>
     </tu>
     <tu>
@@ -6171,6 +6507,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Exit Application</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gusohoka muri porogaramu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Explanation of Grammatical info.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Igisobanuro cy'amakr. y'Ikibonezamvugo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Export</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -6191,6 +6543,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Kwimurira ahandi imbonerahamwe y'ikiganiro...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Export Interlinear</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gusohoramo inyandikontegane</seg>
       </tuv>
     </tu>
     <tu>
@@ -6395,6 +6755,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>FieldWorks Project Utilities</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibikorwa by'umushinga FieldWorks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;File</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -6517,6 +6885,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Find a lexical entry.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Shaka umwinjiro nkoranyandimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find a reversal entry.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Shaka umwinjiro nzibukira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Find a wordform.</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -6609,6 +6993,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Shaka ibi&amp;kurikira.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Find Object</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Shaka Ikintu</seg>
       </tuv>
     </tu>
     <tu>
@@ -6797,6 +7189,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>First Line Hanging</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Umurongo wa mbere unaganitse</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>First Line Indent</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Umurongo wa mbere wigijwe imbere gato</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>First Word</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -6817,6 +7225,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Gukosora inzira mpuza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FLExBridge</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>FLExBridge</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>FLExText file:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Inyandiko ya FLExText:</seg>
       </tuv>
     </tu>
     <tu>
@@ -7000,7 +7424,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Gathering info</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Gukusanya amkr.</seg>
+        <seg>Gukusanya amkr</seg>
       </tuv>
     </tu>
     <tu>
@@ -7269,10 +7693,42 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Grammatical Category Catalog</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ishakiro ry'amasinda y'ikibonezamvugo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Grammatical Info.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Amkr. ku Kibonezamvugo</seg>
+        <seg>Amkr. ku Kibonezamvugo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grammatical Info. (Abbr.)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Amakr. y'Ikibonezamvugo (Ihne.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Grammatical Info. (Full)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Amakr. y'Ikibonezamvugo (Yuzuye)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Grammatical info. (POS)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>_Amakr. y'Ikibonezamvugo (Bwk.mgb)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7321,6 +7777,30 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>biruta cyangwa bingana na</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Group</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Itsinda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} Grouping</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} Ishyira mu matsinda</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} (Heading)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} (umutwe)</seg>
       </tuv>
     </tu>
     <tu>
@@ -7376,7 +7856,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>&amp;Help...</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>&amp;Nkunganire</seg>
+        <seg>&amp;Nkunganire...</seg>
       </tuv>
     </tu>
     <tu>
@@ -7493,6 +7973,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>{0} (Ignored)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} (cyaretswe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>image</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -7573,6 +8061,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg> in</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg> muri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} (in FieldWorks Project)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} (mu mushinga wa FieldWorks)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Include Texts</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -7649,6 +8153,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Amakuru</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Inherited from {0})</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(Byakomotse kuri {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -7781,6 +8293,38 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Affix</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kwinjizamo Amakr. y'Ikibonezamvugo y'Inyomeke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Derivational Affix</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kwinjizamo Amakr. y'Ikibonezamvugo ku nyomeke z'ikomora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Inflectional Affix</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kwinjizamo Amakr. y'Ikibonezamvugo ku ngereka y'inyomeke</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert Grammatical Info. for Stem</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kwinjizamo Amakr. y'Ikibonezamvugo ku gicumbi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Insert Main Entry</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -7833,6 +8377,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Gucengezamo ikibazo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Insert subdomain</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gushyiramo inyunganiracyiciro</seg>
       </tuv>
     </tu>
     <tu>
@@ -7981,6 +8533,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>{0}. Is being used {1} times by major entries.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0}. Irimo ikoreshwa inshuro {1} n'umwinjiro w'ingenzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Italic</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -7997,6 +8557,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Item to delete:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Icyo guhanagura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Jan</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -8009,6 +8577,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Nyak</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Jump to Next</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>_Imukira ku bikurikira</seg>
       </tuv>
     </tu>
     <tu>
@@ -8333,10 +8909,18 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Lexeme Form is a variant</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imiterere y'umwinjizo ni impindurantego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Lexeme &amp;Form:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Imiterere y'&amp;Umwinjizo</seg>
+        <seg>Imiterere y'&amp;Umwinjizo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8369,6 +8953,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Isano nyunguamagambo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Lexical Relations</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Amasano nkoranyamagambo</seg>
       </tuv>
     </tu>
     <tu>
@@ -8456,7 +9048,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Li&amp;ne spacing:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Ugu&amp;siga umwanya hagati y'imirongo</seg>
+        <seg>Ugu&amp;siga umwanya hagati y'imirongo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8496,7 +9088,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>LinguaLinks XML file:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Ifishiye XML ya LinguaLinks</seg>
+        <seg>Ifishiye XML ya LinguaLinks:</seg>
       </tuv>
     </tu>
     <tu>
@@ -8537,6 +9129,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Amafishiye Yahujwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>List _Colleagues</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Urutonde_Abo mukorana</seg>
       </tuv>
     </tu>
     <tu>
@@ -8601,6 +9201,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ifufungurwa ry'umushinga {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Loading the initial Grammatical Categories</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ugukururiramo Ibyiciro by'Ikibonezamvugo by'ibanze</seg>
       </tuv>
     </tu>
     <tu>
@@ -8701,6 +9309,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>LT </seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>SemJkJ </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Main Entry</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -8728,7 +9344,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>4. Make the changes.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>4. Gukora impinduka</seg>
+        <seg>4. Gukora impinduka.</seg>
       </tuv>
     </tu>
     <tu>
@@ -8909,6 +9525,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Merge Grammatical Info. into...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhuriza hamwe Amakr. y'Ikibonezamvugo muri... .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Merge Report</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -9025,6 +9649,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Itariki byahinduriweho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modify this Grammatical Info...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhindura aya makr. y'Ikibonezamvugo ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Modify This Grammatical Info...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhindura aya makr. y'Ikibonezamvugo ...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9248,7 +9888,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Move Entry...</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Imura umwinjizo</seg>
+        <seg>Imura umwinjizo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -9373,6 +10013,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>"Name of List" is a required field.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>"Izina ry'urutonde" ni umwanya usabwa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Name of restored project</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Amazina y'umushinga usubizwaho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Name the project</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -9409,6 +10065,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Izina: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Nameless text)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(Inyandiko idafite izina)</seg>
       </tuv>
     </tu>
     <tu>
@@ -9637,6 +10301,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>   New word gloss</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg> Ijambo rishya ry'igisobanuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;New...</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -9701,6 +10373,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>No border</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta rugabaniro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Borders</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta mbibi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>No Categories</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -9749,6 +10437,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>No Education Levels</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta rwego rw'amashuri</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>No Entries</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -9765,10 +10461,26 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>No files</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta mafishiye</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>No Filter</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Nta shungura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Genres</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta bwoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -9793,6 +10505,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Nta hantu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No matches</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta cyo byahuje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>no morphemes</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>nta majwishingiro</seg>
       </tuv>
     </tu>
     <tu>
@@ -9837,6 +10565,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>No Publications</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta matangaza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>No Records</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -9877,6 +10613,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>(No Spelling Suggestions)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(Nta buryo bwimyandikire bwa tanzwe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>No Status</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -9897,6 +10641,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ntahatarimo ubusa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg> None</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg> Ntawe</seg>
       </tuv>
     </tu>
     <tu>
@@ -9929,6 +10681,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>(Nta na kimwe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>[none]</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>[ntacyo]</seg>
       </tuv>
     </tu>
     <tu>
@@ -10049,6 +10809,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ibyitabwaho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Nothing to Redo.)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(Nta na kimwe cyo gusubizaho.)</seg>
       </tuv>
     </tu>
     <tu>
@@ -10185,6 +10953,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg> Gufungura umushinga...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Open &amp;Lexicon</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gufungura &amp;Inkoranya</seg>
       </tuv>
     </tu>
     <tu>
@@ -10432,7 +11208,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Paragraph Break</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>gucamo ibika</seg>
+        <seg>Gucamo ibika</seg>
       </tuv>
     </tu>
     <tu>
@@ -10464,7 +11240,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Parse result</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>ibivuye mu isesengurajambo</seg>
+        <seg>Ibivuye mu isesengurajambo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10720,7 +11496,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>phonological feature</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Imiterere nyemvugo</seg>
+        <seg>imiterere nyemvugo</seg>
       </tuv>
     </tu>
     <tu>
@@ -10861,6 +11637,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Please enter a name</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Urasabwa kwinjizamo izina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please fill in the title.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Urasabwa kwinjizamo umutwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Preview</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -10889,6 +11681,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>_Ibyabanje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(Previous folder: {0})</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(Ifishiye yabanje: {0})</seg>
       </tuv>
     </tu>
     <tu>
@@ -10949,6 +11749,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Privacy</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Amakuru y'ubuzima bwite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Problem</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -10961,6 +11769,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Imbogamizi zo gukururiramo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Problem opening file</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Idokima ifungura ikibazo</seg>
       </tuv>
     </tu>
     <tu>
@@ -11080,7 +11896,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Project &amp;Name:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Izina ry'&amp;umushinga</seg>
+        <seg>Izina ry'&amp;umushinga:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11136,7 +11952,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>pronunciation</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Uko bivugwa</seg>
+        <seg>uko bivugwa</seg>
       </tuv>
     </tu>
     <tu>
@@ -11173,6 +11989,110 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg> pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg> pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}, {1} pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0}, {1} pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>0 pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>0 pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>¼ pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>¼ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>½ pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>½ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>¾ pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>¾ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1 pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>1 pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>1½ pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>1½ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>2¼ pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>2¼ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>3 pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>3 pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>4½ pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>4½ pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>6 pt</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>6 pt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Publication</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -11197,6 +12117,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Publish In (Sense)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kubitangaza muri (Igisobanuro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Punctuation Usage...</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -11205,10 +12133,34 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Punctuation, Close</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Akatuzo, gufunga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Punctuation, Dash</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Akatuzo, Akanyerezo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Punctuation, Open</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Akatuzo, gufungura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Punctuation, Other</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Akatuzo, ibindi</seg>
       </tuv>
     </tu>
     <tu>
@@ -11241,6 +12193,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Cyazamuwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Random</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gitomborejeho</seg>
       </tuv>
     </tu>
     <tu>
@@ -11313,6 +12273,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Gusubiza aho wari ugeze {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Redo create {0}</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gusubiza aho wari uvuye {0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -11400,7 +12368,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Refresh the screen.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Gusaubiza ekara ubushya</seg>
+        <seg>Gusaubiza ekara ubushya.</seg>
       </tuv>
     </tu>
     <tu>
@@ -11416,7 +12384,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Region name:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Izina</seg>
+        <seg>Izina ry'Akarere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -11725,6 +12693,22 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>&amp;Restore a Project...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gusubizaho umushinga...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>_Restore a Project...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>_Gusubizaho umushinga...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Restore Failed</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -11749,6 +12733,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Restrict...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kubuza...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Restriction</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -11761,6 +12753,38 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ibibujijwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Restrictions (Entry)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ukubuza (Umwinjiro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Restrictions (Sense)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ukubuza (Igisobanuro)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Result</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibivuyemo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>  Results:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>  Ibyavuyemo:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12325,6 +13349,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Sense Pair (e.g. Antonym)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Igisobanuro nyabibiri (urg. Imbusane)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Sense Type</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -12365,6 +13397,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Set {0}</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Itsinda {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Set criteria...</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -12401,6 +13441,46 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Gushyiraho uko ibintu birabaho (hasi no hejuru)...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Igenamiterere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings </seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Igenamiterere </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings File</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ifishiye y'igenamiterere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings Saved</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Igenamiterere ibitswe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Settings:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Igenamitere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12573,6 +13653,30 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Show these subentries below this entry in root-based dictionary views.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kugaragaza iyi myinjiro yungirije ikurikira mu misusire y'inkoranya ishingiye ku muzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show these subentries below this sense in root-based dictionary views.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kwerekana iyi myinjiro yungirije ikurikira mu misusire y'inkoranya iishingiye ku muzi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Show Unused Items</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Garagaza ibintu bitakoreshejwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>SIL FieldWorks</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -12593,6 +13697,38 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>agasharu ndyomoso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>simultaneous</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>bigendera rimwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kimwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single Character</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Inyuguti imwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single Spacing</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ugusigamo umwanya umwe</seg>
       </tuv>
     </tu>
     <tu>
@@ -12624,7 +13760,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Si&amp;ze:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>In&amp;gano</seg>
+        <seg>In&amp;gano:</seg>
       </tuv>
     </tu>
     <tu>
@@ -12641,6 +13777,54 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ubururu bwa juru,0,204,255</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>somewhere after</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>ahandi h'inyuma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>somewhere before</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>ahandi h'imbere</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry, could not launch {0}.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ihangane, ntidushoboye kugufungurira {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry, could not show {0}.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ihangane, ntidushoboye kukwereka {0}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry, that command is not available at the moment</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ihangane, iryo bwiriza ntiriboneka muri iki gihe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Sorry, that entry is not yet in the dictionary</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ihangane, uwo mwinjiro nturashyirwa mu nkoranyamagambo</seg>
       </tuv>
     </tu>
     <tu>
@@ -12920,7 +14104,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>standard format</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Imiterere yemewe</seg>
+        <seg>imiterere yemewe</seg>
       </tuv>
     </tu>
     <tu>
@@ -13112,7 +14296,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Styles</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Imiterere ya buri bice:</seg>
+        <seg>Imiterere ya buri bice</seg>
       </tuv>
     </tu>
     <tu>
@@ -13168,7 +14352,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Subsense (in sense)</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>igisobanuro nyunganizi (mu isobanura)</seg>
+        <seg>Igisobanuro nyunganizi (mu isobanura)</seg>
       </tuv>
     </tu>
     <tu>
@@ -13225,6 +14409,14 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ikimenyetso, Imibare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Symbol, Other</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ikimenyetso, Ikindi</seg>
       </tuv>
     </tu>
     <tu>
@@ -13288,7 +14480,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Te&amp;xt after:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Iny&amp;andiko inyuma</seg>
+        <seg>Iny&amp;andiko inyuma:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13304,7 +14496,7 @@ Umusaruro w'ukuri: nta kintu kibaho.</seg>
         <seg>Text &amp;before:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Inyandiko &amp;imbere</seg>
+        <seg>Inyandiko &amp;imbere:</seg>
       </tuv>
     </tu>
     <tu>
@@ -13961,6 +15153,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>(unnamed)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(kitiswe izina)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Unregistered</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -13993,10 +15193,58 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>(unspecified)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(kitafutuwe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Untested</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Bitagenzuwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(untitled)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(kidafite umutwe)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Update</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Uguhuza n'igihe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Updates</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kureba ibishya byaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Updating: {0}</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Uguhuza n'igihe: {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Upgrade Project</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Guhuza umushinga n'igihe</seg>
       </tuv>
     </tu>
     <tu>
@@ -14116,7 +15364,7 @@ you expect.</seg>
         <seg>_Utilities...</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>_Ibyagufasha</seg>
+        <seg>_Ibyagufasha...</seg>
       </tuv>
     </tu>
     <tu>
@@ -14164,7 +15412,7 @@ you expect.</seg>
         <seg>Variant abbreviation:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Impine y'impindurantego</seg>
+        <seg>Impine y'impindurantego:</seg>
       </tuv>
     </tu>
     <tu>
@@ -14297,6 +15545,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Version History</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Amateka y'ibonezanonosora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Version:</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -14341,6 +15597,14 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Irebero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>View Details</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Reba birambuye</seg>
       </tuv>
     </tu>
     <tu>
@@ -14513,6 +15777,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>With Data</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>N'amakuru shingiro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Word</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -14545,6 +15817,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Word Boundary</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imbago z'ijambo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Word Breaking</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -14556,7 +15836,7 @@ you expect.</seg>
         <seg>Word Cat.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Icyic. cy'ijambo</seg>
+        <seg>Icyic. cy'ijambo.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14597,6 +15877,14 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Amagambo y'ibisobanuro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Word Initial</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Inyuguti itangira ijambo</seg>
       </tuv>
     </tu>
     <tu>
@@ -14857,6 +16145,22 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>XML settings</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Igenamiterere ya XML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>XXXXX instances</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>XXXXX ingero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Yellow,255,255,0</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -14892,7 +16196,7 @@ you expect.</seg>
         <seg>You have launched FLEX 10 times.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Umaze gufungura FLEX inshuro 10</seg>
+        <seg>Umaze gufungura FLEX inshuro 10.</seg>
       </tuv>
     </tu>
     <tu>
@@ -14900,7 +16204,31 @@ you expect.</seg>
         <seg>You have launched FLEX 40 times.</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Umaze gufungura FLEX inshuro 40</seg>
+        <seg>Umaze gufungura FLEX inshuro 40.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>You must select one to create.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ugomba guhitamo kimwe kugira ngo uhange.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Your Data</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Amakurushingiro yawe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Zero is not a valid code point</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Zeru ntabwo ari code yemewe</seg>
       </tuv>
     </tu>
     <tu>
@@ -14909,6 +16237,26 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Impindurangano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+Error near: {1} {2} '{3}'</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0}
+Ikosa hafi: {1} {2} '{3}'</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0}
+	(Style: {1})</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0}
+	(Sitile: {1})</seg>
       </tuv>
     </tu>
     <tu>
@@ -14953,6 +16301,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Apply Filter</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gukoresha mushunguzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Are you sure that you want to delete {0}?</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -14961,10 +16317,26 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Attributes:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibyitiriro:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Author:</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Umuhimbyi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Auto</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Byikora</seg>
       </tuv>
     </tu>
     <tu>
@@ -15041,6 +16413,22 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Book Fold</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Idosiye y'ibitabo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Book ID</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>ID y'Igitabo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Book name</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -15061,6 +16449,22 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>[izina ry'igitabo]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Book Properties</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imiterere y'igitabo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Book Properties...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>&amp;Imiterere y'ibitabo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -15093,6 +16497,30 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>&amp;Ibitabo byatoranyijwe mu ishungura:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Bottom:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>&amp;Hasi:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Browse for Paratext 5</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gushakishiriza Paratext 5</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} bytes</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} bayite</seg>
       </tuv>
     </tu>
     <tu>
@@ -15321,6 +16749,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Current Version:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ibonezacapa ry'ubu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Daniel</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -15341,6 +16777,22 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Gusiba igitabo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Delete Note</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>&amp;Gusiba note</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Delete &amp;Note</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gusiba &amp;Note</seg>
       </tuv>
     </tu>
     <tu>
@@ -15425,6 +16877,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>{0} does not exist!</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>{0} ntibibaho!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Draft</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -15453,6 +16913,46 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>  Ku&amp;noza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Edit Annotation</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kuboneza isasanura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Encoding</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kubihindura kodi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End Ed&amp;it</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gusoza Ku&amp;noza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End Marker:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Akarango gasoza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>End Reference</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Iherezo ry'ikirngankomoko</seg>
       </tuv>
     </tu>
     <tu>
@@ -15737,6 +17237,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>[first reference]</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>[igishingirwaho cya mbere]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Footer:</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -15780,7 +17288,7 @@ you expect.</seg>
         <seg>F&amp;rom:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Ku&amp;va</seg>
+        <seg>Ku&amp;va:</seg>
       </tuv>
     </tu>
     <tu>
@@ -15957,6 +17465,22 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Kujya ku gice gikurikira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go to Next Section</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Jya ku kiciro gakurikira</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Go To Next Section</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Jya ku kiciro gakurikira</seg>
       </tuv>
     </tu>
     <tu>
@@ -16233,6 +17757,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Inches</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Inci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Insert</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -16337,6 +17869,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Insert Section</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Gucengezamo akiciro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Inside:</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -16349,6 +17889,22 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Imisusire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(interleaved)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(umwanya utanditsemo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>(intro only)</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>(intangiriro gusa)</seg>
       </tuv>
     </tu>
     <tu>
@@ -16385,10 +17941,34 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Invalid chapter number</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Umubare utemewe w'umutwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Invalid chapter number.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Umubare utemewe w'umutwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Isaiah</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Izayi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Isolated</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Cyashyizwe mu kato</seg>
       </tuv>
     </tu>
     <tu>
@@ -16633,6 +18213,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Loading Scripture Book Names</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Kwinjiza Amazina y'Ibitabo Bitagatifu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Luke</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -16732,7 +18320,31 @@ you expect.</seg>
         <seg>Millimeters</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>milimetero</seg>
+        <seg>Milimetero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Missing chapter marker.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Harabura akarango k'umutwe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Missing chapter number {0}</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Harabura umubare uranga umutwe {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Missing chapter numbers {0}-{1}</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Harabura imibare iranga imitwe {0}-{1}</seg>
       </tuv>
     </tu>
     <tu>
@@ -16861,6 +18473,14 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>Ibikurikira &gt;&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>No Differences Found</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Nta tandukaniro ryabonetse</seg>
       </tuv>
     </tu>
     <tu>
@@ -17057,6 +18677,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Picture Difference</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Itandukaniro ry'amashusho</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Picture Missing</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -17069,6 +18697,14 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>&amp;Ishusho...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Please enter a file name.</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Urasabwa kwinjizamo izina.</seg>
       </tuv>
     </tu>
     <tu>
@@ -17217,6 +18853,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Punctuation Patterns</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imbonerahamwe y'utwatuzi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Punctuation Usage</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -17237,6 +18881,14 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>&amp;Utwuguruzo n'utwugarizo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Quote:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ubyavuzwe n'undi:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17292,7 +18944,7 @@ you expect.</seg>
         <seg>Repeated Words</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Amagambo yasubiwemo:</seg>
+        <seg>Amagambo yasubiwemo</seg>
       </tuv>
     </tu>
     <tu>
@@ -17529,6 +19181,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Septuagint</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Sebutanti</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>&amp;Show Blank Screen</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -17549,6 +19209,30 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>&amp;Kwerekana:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>&amp;Single book:</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>&amp;Igitabo kimwe:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single &amp;file</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>I&amp;dokima imwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Single Side</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Uruhande rumwe</seg>
       </tuv>
     </tu>
     <tu>
@@ -17585,6 +19269,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Starting import...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Tangira kwinjizamo...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg> Status</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -17597,6 +19289,14 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>&amp;Imihagararire</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Stopping import...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Hagarika kwinizamo...</seg>
       </tuv>
     </tu>
     <tu>
@@ -17817,6 +19517,38 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Translation Editor Notes</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Note za Munonosora Semurandimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Translation Editor Notes...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Note za Munonosora Semurandimi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Translation Editor Style</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Imiterere ya Munonosora Semurandimi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Translation Editor...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Munonosora Semurandimi...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Tr&amp;anslator</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -17833,6 +19565,14 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>Trial Publication</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ukugerageza gutangaza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>Two</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -17845,6 +19585,14 @@ you expect.</seg>
       </tuv>
       <tuv xml:lang="rw">
         <seg>&amp;Ubwoko</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Type of Check</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ubwoko bwígenzura</seg>
       </tuv>
     </tu>
     <tu>
@@ -17921,6 +19669,38 @@ you expect.</seg>
     </tu>
     <tu>
       <tuv xml:lang="en">
+        <seg>1 unreviewed difference remaining</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>hasigaye itandukaniro 1 ritasuzumwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>{0} unreviewed differences remaining</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>hasigaye amatandukaniro {0} atasuzumwe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Updating {0}</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Ihuza n'igihe {0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
+        <seg>Updating {0}...</seg>
+      </tuv>
+      <tuv xml:lang="rw">
+        <seg>Uguhuza n'igihe {0}...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en">
         <seg>   &amp;Use This Version</seg>
       </tuv>
       <tuv xml:lang="rw">
@@ -17932,7 +19712,7 @@ you expect.</seg>
         <seg>User interface language:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>Ururimi rw'idirishya ry'ukoresha iyi porogaramu</seg>
+        <seg>Ururimi rw'idirishya ry'ukoresha iyi porogaramu:</seg>
       </tuv>
     </tu>
     <tu>
@@ -17972,7 +19752,7 @@ you expect.</seg>
         <seg>&amp;Vernacular Project:</seg>
       </tuv>
       <tuv xml:lang="rw">
-        <seg>&amp;Umushinga mu rurimi gakondo</seg>
+        <seg>&amp;Umushinga mu rurimi gakondo:</seg>
       </tuv>
     </tu>
     <tu>

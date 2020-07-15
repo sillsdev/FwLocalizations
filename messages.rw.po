@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: FieldWorks 8.0.6\n"
 "Report-Msgid-Bugs-To: FlexErrors@sil.org\n"
 "POT-Creation-Date: 2013-03-06T21:51:23.4508932-06:00\n"
-"PO-Revision-Date: 2014-09-04 13:07+0200\n"
+"PO-Revision-Date: 2020-06-01 04:35+0200\n"
 "Last-Translator: Emmanuel Habumuremyi <emmahab2008@gmail.com>\n"
 "Language-Team: FW localization in Kinyarwanda\n"
 "MIME-Version: 1.0\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: rw\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.7.0\n"
+"X-Generator: Poedit 2.3.1\n"
 "X-Project-Style: openoffice\n"
 "X-Poedit-Language: Kinyarwanda\n"
 
@@ -167,15 +167,15 @@ msgstr "Ibisobanuro byuzuye by'iyi nyunge."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="NaturalClassDescription"]
 msgid "A fuller description of this natural class."
-msgstr ""
+msgstr "Ibisobanuro byuzuye kuri iki cyiciro karemano."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="ExocentricCompoundDescription"]
 msgid "A fuller description of this non-headed compound."
-msgstr ""
+msgstr "Ibisobanuro byuzuye by'iyi nyunge idafite umutwe."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="PhonemeDescription"]
 msgid "A fuller description of this phoneme."
-msgstr ""
+msgstr "Ibisobanuro byuzuye by'iri jwishingiro."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="EnvironmentDescription"]
 msgid "A fuller description of this phonological environment."
@@ -299,7 +299,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="PhonemeName"]
 msgid "A short name for this phoneme."
-msgstr "Izian rigufi ry'iri jwi shingiro"
+msgstr "Izina rigufi ry'iri jwi shingiro."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="EnvironmentName"]
 msgid "A short name for this phonological environment."
@@ -323,13 +323,13 @@ msgstr ""
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidDecompCompatsub
 #. (String used 2 times.)
 msgid "A subscript form"
-msgstr ""
+msgstr "Ifishi y'ibyiyandika hasi"
 
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidDecompCompatsuper
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidDecompCompatsuper
 #. (String used 2 times.)
 msgid "A superscript form"
-msgstr ""
+msgstr "Ifishi y'ibyiyandika hejuru"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="TemplateTable"]
 msgid "A table representation of the inflectional affix template.  Right-click in it to edit it."
@@ -530,7 +530,7 @@ msgstr "Konte"
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="PhSegmentRule-Detail-Active"]/slice/@label
 #. (String used 7 times.)
 msgid "Active"
-msgstr ""
+msgstr "Gifunguye"
 
 #. /Src/FDO/Strings.resx::ksActualDelete
 msgid "Actual delete"
@@ -618,11 +618,11 @@ msgstr "Kongeraho imiterere y'urwunge..."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksAddAComponent
 msgid "Add a Component..."
-msgstr ""
+msgstr "Kongeraho ikintu..."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdAddCustomList"]
 msgid "Add a custom list."
-msgstr ""
+msgstr "Kongeraho urutonde umuntu yishyiriramo."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertClosedFeature"]
 msgid "Add a feature."
@@ -646,7 +646,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertPicture"]
 msgid "Add a picture to this entry."
-msgstr ""
+msgstr "Ongera ishusho kuri uyu mwinjiro."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdDataTree-Insert-Pronunciation"]
 msgid "Add a pronunciation field to this entry."
@@ -687,7 +687,7 @@ msgstr "Kongeraho akaremejambo nyabundi k'igicumbi."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertAffixAllomorph"]
 msgid "Add an allomorph of an affix."
-msgstr "Kongeraho kakaremajambo nyabundi k'inyoneke"
+msgstr "Kongeraho kakaremajambo nyabundi k'inyoneke."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdDataTree-Insert-AlternateForm"]
 msgid "Add an allomorph to this entry"
@@ -754,7 +754,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksAddLangMapping
 msgid "Add language mapping"
-msgstr ""
+msgstr "Ongeraho ikarita kuri uru rurimi"
 
 #. Used in Interlinear context menu
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksAddLine
@@ -790,7 +790,7 @@ msgstr "Kongeraho cyangwa kunonosora imyanya yongereweho."
 #. /Src/XCore/SilSidePane/SilSidePane.resx::AddOrRemoveButtons
 #. (String used 2 times.)
 msgid "&Add or Remove Buttons"
-msgstr ""
+msgstr "&Kongeraho cg Gukuraho amabuto"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::$this.StepNames6
 msgid "Add or replace"
@@ -879,7 +879,7 @@ msgstr "Kongeraho Ururimi rw'imyandikire"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksImportSFMInterlinNewWSTitle
 msgid "Add writing system {0} to your FieldWorks project?"
-msgstr "Kongera ururimi rw'imyanikire {0} ku mushinga wawe wa Fieldworks"
+msgstr "Kongera ururimi rw'imyandikire {0} ku mushinga wawe wa Fieldworks?"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdFormatStyle"]
 msgid "Add, delete, or change styles."
@@ -929,11 +929,11 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksAddedItem
 msgid "Added Item"
-msgstr ""
+msgstr "Kongeraho ingingo"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksAddedToCombinedCollection
 msgid "{0} added to the {1} of {2}."
-msgstr ""
+msgstr "{0} byongerewe kuri {1} muri {2}"
 
 #. /Src/FwCoreDlgs/AddNewUserDlg.resx::$this.Text
 msgid "Adding a New User"
@@ -969,11 +969,11 @@ msgstr ""
 
 #. /|strings-en.xml::/Linguistics/Morphology/Adjacency/Adjacent to right|
 msgid "adjacent after"
-msgstr ""
+msgstr "byegamye inyuma"
 
 #. /|strings-en.xml::/Linguistics/Morphology/Adjacency/Adjacent to left|
 msgid "adjacent before"
-msgstr ""
+msgstr "byegamye imbere"
 
 #. /Src/Utilities/FixFwDataDll/Strings.resx::ksAdjustedHomograph
 msgid "Adjusted homograph number in {0} from {1} to {2}"
@@ -1149,7 +1149,7 @@ msgstr "Kubipanga iburyo"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::label2.Text
 msgid "Ali&gnment:"
-msgstr "I&terereza"
+msgstr "I&terereza:"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::label4.Text
 msgid "A&ll"
@@ -1345,7 +1345,7 @@ msgstr "Indi miterere"
 #. Menu Command: {0} is the special regular expression metacharacter(s)
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksREAlternation
 msgid "{0} Alternation"
-msgstr ""
+msgstr "{0} Andi mahitamo"
 
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_sortRulesLoadLabel.Text
 msgid "Alternatively, you can load the sort specification of a similar writing system:"
@@ -1377,7 +1377,7 @@ msgstr "Akaremajambo nyabundi k'igicumbi cyangwa umuzi."
 
 #. /Src/FDO/Strings.resx::ksEmptyFeatureStructure
 msgid "an empty feature structure"
-msgstr ""
+msgstr "igika kirimo ubusa"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksEmptyPara
 msgid "An empty paragraph"
@@ -1388,7 +1388,7 @@ msgstr "Igika kirimo ubusa"
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidDecompCompatcircle
 #. (String used 2 times.)
 msgid "An encircled form"
-msgstr ""
+msgstr "Imiterere izengurutse"
 
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksRootNoComponentsMessage
 msgid "An entry that has components cannot have a morph type of root, since by definition a root is indivisible. Would you like Language Explorer to delete the references to components in this entry?"
@@ -1398,7 +1398,7 @@ msgstr ""
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidERTexts
 #. (String used 2 times.)
 msgid "An error has occurred"
-msgstr ""
+msgstr "Habayeho ikosa"
 
 #. Parameter will be the text of the error from the printer driver
 #. /Src/Common/SimpleRootSite/Properties/Resources.resx::kstidPrintingException
@@ -1563,7 +1563,7 @@ msgstr "na"
 
 #. /Src/FDO/Application/ApplicationServices/AppStrings.resx::ksNotebkDeleteSubRecords
 msgid "  and  {0} subrecords."
-msgstr ""
+msgstr " na {0} akiciro k'ibyashyizwemo."
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksIncludesAndRestoreDlg
 msgid " and {0}."
@@ -1571,11 +1571,11 @@ msgstr " na {0}."
 
 #. /Language Explorer/Configuration/Lists/areaConfiguration.xml::/root/commands/command/@label
 msgid "_Annotation Definition"
-msgstr ""
+msgstr "_Isasanura ry'igisobanuro"
 
 #. /|strings-en.xml::/ClassNames/CmAnnotationDefn|
 msgid "Annotation Definition"
-msgstr "Igisobanuro cyo mu nyandiko ngaragazabisobanuro"
+msgstr "Igisobanuro gisasanuye"
 
 #. Message reporting a bug when a second instance of FieldWorks tries to check whether another one is open on the same project.
 #. /Src/Common/FieldWorks/Properties/Resources.resx::kstidFieldWorksDidNotRespond
@@ -1913,7 +1913,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="ITexts_AddWordsToLexicon"]
 msgid "As I add new word glosses, create lexical entries."
-msgstr "Mu gihe nongeraho amagambo asobanura, hakorwe imyinjiro nyunguramagambo"
+msgstr "Mu gihe nongeraho amagambo asobanura, hakorwe imyinjiro nyunguramagambo."
 
 #. /Src/LexText/Morphology/ConcordanceDlg.resx::btnAssign.Text
 msgid "Assign"
@@ -1988,7 +1988,7 @@ msgstr "Ibyitiriro"
 
 #. /Src/LexText/LexTextControls/LexImportWizardCharMarkerDlg.resx::groupBox2.Text
 msgid "Attributes "
-msgstr ""
+msgstr "Ibyitiriro "
 
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_monthComboBox.Items7
 msgid "Aug"
@@ -2195,7 +2195,7 @@ msgstr ""
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidBarOptionsMenu
 msgid "Bar Options"
-msgstr ""
+msgstr "Uburyo bwo guhitamo umububambiko"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksBaselineAbbr
 msgid "base"
@@ -2473,7 +2473,7 @@ msgstr ""
 #. Used in phoneme bulk edit for assigning phonological features to phonemes; when selected, the feature will be removed from the list of features used by this phoneme.
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksRemoveThisFeature
 msgid "Blank"
-msgstr ""
+msgstr "Harimo ubusa"
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksBlanks
 msgid "Blanks"
@@ -2694,7 +2694,7 @@ msgstr "Kunonosorera rimwe imyinjiro"
 
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_bulkEditOperationLabel.Text
 msgid "Bulk Edit Operation:"
-msgstr "Imikorere yo kunonosorera rimwe:"
+msgstr "Ibinonosorerwa rimwe:"
 
 #. /Language Explorer/Configuration/Grammar/Edit/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Bulk Edit Phoneme Features"
@@ -2706,7 +2706,7 @@ msgstr "Kunonosorera rimwe myinjiro yo mu rundi rurimi"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdEditSpellingStatus"]
 msgid "Bulk Edit Spelling Status."
-msgstr "Imiterere y'imyandikire mu inonosora ku bwinshi"
+msgstr "Imiterere y'imyandikire mu inonosora ku bwinshi."
 
 #. /Language Explorer/Configuration/Words/BulkEdit/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Bulk Edit Wordforms"
@@ -2728,7 +2728,7 @@ msgstr "Utunyerezo"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_btnFont.Text
 msgid "Bullet and Number &Font..."
-msgstr "Utunyerezo n'Igenanimero n'Imiterere y'inyuguti"
+msgstr "Utunyerezo n'Igenanimero n'Imiterere y'inyuguti..."
 
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidBulleted
@@ -3012,7 +3012,7 @@ msgstr ""
 #. used as header for message box displaying the system error message
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksNoPlayMedia
 msgid "Cannot play media file"
-msgstr ""
+msgstr "Ntushobora gucuranga idosiye y'amajwi n'amashusho"
 
 #. Error message when processing an XML file to create factory styles.
 #. /Src/Common/Framework/FrameworkStrings.resx::ksCannotRedefineFactoryStyle
@@ -3135,7 +3135,7 @@ msgstr ""
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidCategoriesLabel
 msgid "Cate&gories:"
-msgstr "Iby&iciro"
+msgstr "Iby&iciro:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::kscategory
 msgid "category"
@@ -3176,7 +3176,7 @@ msgstr "Kunoza ibyiciro"
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoMorphSynAnalysis-Detail-MainEdit"]/slice/@label
 msgid "Category Info."
-msgstr "Amkr. ku byiciro"
+msgstr "Amkr. ku byiciro."
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksCategoryToMergeInto
 msgid "Category to merge into"
@@ -3407,7 +3407,7 @@ msgstr "Inyuguti"
 #. Caption for message box.
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksCharsWithinWords
 msgid "Characters within words"
-msgstr "inyuguti zikoreshejwe mu magambo"
+msgstr "Inyuguti zikoreshejwe mu magambo"
 
 #. /Src/LexText/LexTextControls/LexOptionsDlg.resx::m_labelPluginBlurb.Text
 msgid "Check a plugin to install it, or uncheck it to uninstall it."
@@ -3518,7 +3518,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPossibility-Detail-Confidence"]/slice/chooserInfo/@title
 msgid "Choose Confidence Level"
-msgstr ""
+msgstr "Hitamo urwego rw'icyizere"
 
 #. /Src/xWorks/xWorksStrings.resx::ksDictionaryView
 msgid "Choose dictionary view to configure:"
@@ -3531,7 +3531,7 @@ msgstr ""
 #. :
 #. /Src/LexText/Morphology/MEStrings.resx::ksTargetFeature
 msgid "Choose Feature:"
-msgstr ""
+msgstr "Hitamo ibikiranga:"
 
 #. /Src/LexText/ParserUI/ImportWordSetDlg.resx::btnChooseFiles.Text
 msgid "Choose &File(s)"
@@ -3565,7 +3565,7 @@ msgstr "Hitamo lisiti:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksChooseMorphAndGramInfo
 msgid "Choose Morpheme and Grammatical Info."
-msgstr "Guhitamo ijwishingiro n'amkr. y'ikibonezamvugo"
+msgstr "Guhitamo ijwishingiro n'amkr. y'ikibonezamvugo."
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoForm-Detail-MorphType"]/slice/chooserInfo/@title
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoForm-Detail-MorphTypeBasic"]/slice/chooserInfo/@title
@@ -3614,7 +3614,7 @@ msgstr "Guhitamo ishusho"
 
 #. /Src/FwCoreDlgs/PicturePropertiesDialog.resx::btnChooseFile.Text
 msgid "Choose &Picture..."
-msgstr "Guhitamo &ishusho"
+msgstr "Guhitamo &ishusho..."
 
 #. /Src/Utilities/FixFwDataDll/FixErrorsDlg.resx::label1.Text
 msgid "Choose project to fix:"
@@ -3638,7 +3638,7 @@ msgstr "Guhitamo uko bihagaze"
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksChooseSubentries
 msgid "Choose Subentries to display in Root-based views"
-msgstr ""
+msgstr "Guhitamo imyinjiro yungirije  igomba kugaragazwa mu irebereo rishingiye ku muzi"
 
 #. /Src/Common/Controls/FwControls/FilterAllTextsDialog.resx::$this.Text
 msgid "Choose Texts"
@@ -3833,7 +3833,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="DefaultInflectionClassButton"]
 msgid "Click here to select the default inflection class."
-msgstr ""
+msgstr "Kanda hano uhitemo icyiciro cy'ibanze cy'icyiciro cy'ikomora."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="MoDerivAffMsaToInflectionClassButton"]
 msgid "Click here to select the inflection (conjugation or declension) class of the stem which results after this affix attaches."
@@ -4144,7 +4144,7 @@ msgstr ""
 #. file description for file chooser combo list
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksCompiledTECKit
 msgid "Compiled TECkit"
-msgstr ""
+msgstr "TECkit yakozwe"
 
 #. Used in the list of file types in file open dialog accessed from Encoding Converters
 #. /Src/FwResources/FwStrings.resx::kstidTECkitCompiled
@@ -4161,18 +4161,18 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksComplexFeature
 msgid "complex feature"
-msgstr ""
+msgstr "imiterere y'urusobe"
 
 #. /|strings-en.xml::/ClassNames/FsComplexFeature|
 #. /|strings-en.xml::/ClassNames/FsComplexValue|
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="FsComplexFeature-Jt-Kind"]/lit
 #. (String used 3 times.)
 msgid "Complex Feature"
-msgstr ""
+msgstr "Imiterere y'urusobe"
 
 #. /Language Explorer/Configuration/Grammar/areaConfiguration.xml::/root/commands/command/@label
 msgid "_Complex Feature..."
-msgstr ""
+msgstr "_Imiterere y'Urusobe..."
 
 #. /|strings-en.xml::/Type/Subentry|
 msgid "Complex Form"
@@ -4277,7 +4277,7 @@ msgstr "Ibyavuye mu ihuzamasano"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksConcordedOn0
 msgid "Concorded on {0}"
-msgstr "cyahujije isano kuri {0}"
+msgstr "Cyahujije isano kuri {0}"
 
 #. field name for Data Notebook records
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -4300,7 +4300,7 @@ msgstr "Urwego rw'icyizere"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksConfigurationSettingsRestoreDlg
 msgid "Configuration settings"
-msgstr ""
+msgstr "Gutunganya imiterere"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_configurationSettings.Text
 msgid "&Configuration settings (for example, field visibilities, columns, dictionary layout, interlinear)"
@@ -4515,7 +4515,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/CnvtrPropertiesCtrl.resx::lblConversion.Text
 msgid "&Conversion Type:"
-msgstr ""
+msgstr "&Ubwoko bw'ihindura:"
 
 #. /Src/FwCoreDlgs/ConverterTest.resx::convertButton.Text
 msgid "&Convert"
@@ -4793,7 +4793,7 @@ msgstr "Gukora ibishya {0}."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertAnnotationDef"]
 msgid "Create a new annotation definition."
-msgstr ""
+msgstr "Gukora igisobanuro gishya gisasanuye."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertAnthroCategory"]
 msgid "Create a new anthropology category."
@@ -4801,7 +4801,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertGenericMajorEntry"]
 msgid "Create a new entry and add it to the lexicon."
-msgstr "Gukora umwinjizo mushya unawongere ku nkoranya"
+msgstr "Gukora umwinjizo mushya unawongere ku nkoranya."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertPhEnvironment"]
 msgid "Create a new environment."
@@ -4873,7 +4873,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertSemDom"]
 msgid "Create a new semantic domain."
-msgstr "Gukora icyiciro gishya nyunguramagambo"
+msgstr "Gukora icyiciro gishya nyunguramagambo."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdInsertAllomorphACP"]
 msgid "Create a rule to prevent allomorphs from co-occurring."
@@ -4922,7 +4922,7 @@ msgstr "Gukora umwinjizo mushya..."
 #. /Src/LexText/LexTextControls/MsaCreatorDlg.resx::$this.Text
 #. (String used 3 times.)
 msgid "Create New Grammatical Info."
-msgstr ""
+msgstr "Guhitamo Amkr. mashya y'ikibonezamvugo."
 
 #. /|strings-en.xml::/Linguistics/Morphology/TemplateTable/InflAffix|
 msgid " Create new inflectional affix "
@@ -5081,7 +5081,7 @@ msgstr ""
 #. String (typcially with leading space) that gets appended to one item in certain right-click menus to indicate the one that will be activated by ctrl-click.
 #. /Src/FdoUi/FdoUiStrings.resx::ksCtrlClick
 msgid " (Ctrl-Click)"
-msgstr ""
+msgstr " (Ctrl-Click)"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
@@ -5140,7 +5140,7 @@ msgstr "&Izina ry'umwanya wihitiyemo:"
 
 #. /Src/xWorks/AddCustomFieldDlg.resx::$this.Text
 msgid "Custom Fields"
-msgstr ""
+msgstr "Imyanya wihitiyemo"
 
 #. /Src/xWorks/xWorksStrings.resx::ksCustomFieldsCanNotBeAddedDueToRemoteClientsText
 msgid "Custom Fields cannot be added when there is more than one connected client."
@@ -5168,7 +5168,7 @@ msgstr ""
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidCustomizeTooltip
 #. (String used 2 times.)
 msgid "Customize"
-msgstr ""
+msgstr "Guhuza n'ibyo wifuza"
 
 #. This is the text for the customize item at the bottom of the toolbar bar menu item.
 #. /Src/FwResources/FwTMStrings.resx::kstidCustomizeToolBarsItemName
@@ -5682,7 +5682,7 @@ msgstr "Guhanagura ijambo risobanura..."
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Delete Grammatical Info."
-msgstr ""
+msgstr "Guhanagura amakr. y'ikibonezamvugo."
 
 #. /Language Explorer/Configuration/Grammar/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Delete Grapheme"
@@ -5781,7 +5781,7 @@ msgstr ""
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksDeleteDesc
 msgid "Delete the checked items (rows) from the database"
-msgstr ""
+msgstr "Guhanagura icyatoranyijwe (umurongo) kivuye mu bubiko bw'amakurushingiro"
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksDeleteDesc2
 msgid "Delete the contents of the specified column for all selected rows"
@@ -5792,7 +5792,7 @@ msgstr ""
 #. /Src/FwResources/FwTMStrings.resx::kstidDeleteMsg
 #. (String used 2 times.)
 msgid "Delete the selection."
-msgstr "Hanagura ibyatoranyijwe"
+msgstr "Hanagura ibyatoranyijwe."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdDeleteRecord"]
 msgid "Delete this {0}."
@@ -5982,15 +5982,15 @@ msgstr "Igisobanuro"
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label3.Text
 #. (String used 5 times.)
 msgid "&Description:"
-msgstr "&Igisobanuro"
+msgstr "&Igisobanuro:"
 
 #. /Src/FwCoreDlgs/FwUserProperties.resx::lblDescription.Text
 msgid "D&escription:"
-msgstr "I&gisobanuro"
+msgstr "I&gisobanuro:"
 
 #. /Src/xWorks/AddCustomFieldDlg.resx::m_descLabel.Text
 msgid "De&scription:"
-msgstr "Igis&obanuro"
+msgstr "Igis&obanuro:"
 
 #. /Src/Common/FwPrintLayoutComponents/HeaderFooterSetupDlg.resx::m_lblDescription.Text
 #. /Src/FwCoreDlgs/FwUserProperties.resx::grpDataDescription.Text
@@ -6168,7 +6168,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="Show_DictionaryPubPreview"]
 msgid "Display the dictionary entry for this lexeme above the Lexicon Edit pane."
-msgstr "Kugaragaza umwinjiro w'inkoranya w'iyi nyunguramagambo hejuru mu idirishya ryagenewe kunoza inkoranya"
+msgstr "Kugaragaza umwinjiro w'inkoranya w'iyi nyunguramagambo hejuru mu idirishya ryagenewe kunoza inkoranya."
 
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::m_DisplayImportReport.Text
 msgid "Display the final import report."
@@ -6565,7 +6565,7 @@ msgstr "Kuboneza {0}"
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksEditGrammaticalInfo
 #. (String used 2 times.)
 msgid "Edit Grammatical Info."
-msgstr "Kuboneza amkr. y'Ikibonezamvugo"
+msgstr "Kuboneza amkr. y'Ikibonezamvugo."
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksEditMorphBreaks_
 msgid "Edit Morph Breaks..."
@@ -6718,7 +6718,7 @@ msgstr "Kuboneza urutonde rw'amategeko akumira"
 
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-UsageTypes"]/slice/chooserInfo/chooserLink/@label
 msgid "Edit the list of Usages."
-msgstr "Kuboneza urutonde rw'imikoreshereze"
+msgstr "Kuboneza urutonde rw'imikoreshereze."
 
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPerson-Detail-PlaceOfBirth"]/slice/chooserInfo/chooserLink/@label
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPerson-Detail-PlacesOfResidence"]/slice/chooserInfo/chooserLink/@label
@@ -7693,7 +7693,7 @@ msgstr "Inkomoko - Imiterere"
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 2 times.)
 msgid "Etymology - Gloss"
-msgstr "inkomoko - Igisobanuro"
+msgstr "Inkomoko - Igisobanuro"
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
@@ -7940,7 +7940,7 @@ msgstr "Gusohoka"
 #. Tool tip for exit toolbar/menu item
 #. /Src/FwResources/FwTMStrings.resx::kstidExitToolTip
 msgid "Exit Application"
-msgstr ""
+msgstr "Gusohoka muri porogaramu"
 
 #. /Src/Utilities/Reporting/ErrorReport.resx::btnClose.Text
 msgid "E&xit the application"
@@ -7959,7 +7959,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdHelpDemoGramInfo"]
 msgid "Explanation of Grammatical info."
-msgstr ""
+msgstr "Igisobanuro cy'amakr. y'Ikibonezamvugo."
 
 #. Tool tip for the export menu item
 #. /Src/xWorks/ExportDialog.resx::$this.Text
@@ -7979,7 +7979,7 @@ msgstr "Kwimurira ahandi imbonerahamwe y'ikiganiro..."
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksExportInterlinear
 msgid "Export Interlinear"
-msgstr ""
+msgstr "Gusohoramo inyandikontegane"
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 msgid "_Export Interlinear..."
@@ -8436,7 +8436,7 @@ msgstr ""
 #. /Src/FwCoreDlgs/UtilityDlg.resx::$this.Text
 #. (String used 4 times.)
 msgid "FieldWorks Project Utilities"
-msgstr ""
+msgstr "Ibikorwa by'umushinga FieldWorks"
 
 #. /Src/FwResources/FwStrings.resx::kstidInvalidInstallation
 msgid "FieldWorks software is not installed correctly. Please insert your FieldWorks CD or re-run the Installer and repair your installation."
@@ -8621,7 +8621,7 @@ msgstr "Gushaka"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdGoToEntry"]
 msgid "Find a lexical entry."
-msgstr ""
+msgstr "Shaka umwinjiro nkoranyandimi."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdGoToRecord"]
 msgid "Find a Record in your Notebook."
@@ -8629,7 +8629,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdGoToReversalEntry"]
 msgid "Find a reversal entry."
-msgstr ""
+msgstr "Shaka umwinjiro nzibukira."
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdGoToWfiWordform"]
 msgid "Find a wordform."
@@ -8731,7 +8731,7 @@ msgstr "Shaka ibi&kurikira."
 
 #. /Src/LexText/LexTextControls/BaseGoDlg.resx::$this.Text
 msgid "Find Object"
-msgstr ""
+msgstr "Shaka Ikintu"
 
 #. Tool tip for find menu item
 #. /Src/FwResources/FwTMStrings.resx::kstidFindToolTip
@@ -8932,12 +8932,12 @@ msgstr "Umurongo wa mbere"
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksFirstLineHanging
 msgid "First Line Hanging"
-msgstr ""
+msgstr "Umurongo wa mbere unaganitse"
 
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksFirstLineIndent
 msgid "First Line Indent"
-msgstr ""
+msgstr "Umurongo wa mbere wigijwe imbere gato"
 
 #. /Src/xWorks/xWorksStrings.resx::FirstVernacularWs
 msgid "First Vernacular Writing System"
@@ -8986,11 +8986,11 @@ msgstr ""
 
 #. /Src/Common/Controls/FwControls/FwControls.resx::kFlexBridge
 msgid "FLExBridge"
-msgstr ""
+msgstr "FLExBridge"
 
 #. /Src/LexText/Interlinear/InterlinearImportDlg.resx::textBox1.Text
 msgid "FLExText file:"
-msgstr ""
+msgstr "Inyandiko ya FLExText:"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
@@ -9258,7 +9258,7 @@ msgstr ""
 
 #. /Src/FDO/Strings.resx::ksGatheringInfo
 msgid "Gathering info"
-msgstr "Gukusanya amkr."
+msgstr "Gukusanya amkr"
 
 #. /Language Explorer/Configuration/Parts/CmPossibilityParts.xml::/PartInventory/bin/part[@id="CmPerson-Detail-Gender"]/slice/@label
 msgid "Gender"
@@ -9490,7 +9490,7 @@ msgstr "Icyiciro cy'ikibonezamvugo"
 
 #. /Src/LexText/LexTextControls/MasterCategoryListDlg.resx::label2.Text
 msgid "Grammatical Category Catalog"
-msgstr ""
+msgstr "Ishakiro ry'amasinda y'ikibonezamvugo"
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@headerlabel
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
@@ -9500,27 +9500,27 @@ msgstr ""
 #. /Src/LexText/LexTextControls/MSAGroupBox.resx::m_groupBox.Text
 #. (String used 9 times.)
 msgid "Grammatical Info."
-msgstr "Amkr. ku Kibonezamvugo"
+msgstr "Amkr. ku Kibonezamvugo."
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 3 times.)
 msgid "Grammatical Info. (Abbr.)"
-msgstr ""
+msgstr "Amakr. y'Ikibonezamvugo (Ihne.)"
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 3 times.)
 msgid "Grammatical Info. (Full)"
-msgstr ""
+msgstr "Amakr. y'Ikibonezamvugo (Yuzuye)"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. (String used 2 times.)
 msgid "_Grammatical info. (POS)"
-msgstr ""
+msgstr "_Amakr. y'Ikibonezamvugo (Bwk.mgb)"
 
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntry-Jt-GrammaticalFunctionsSummary"]/para/lit
 msgid "Grammatical Info. Details"
@@ -9597,7 +9597,7 @@ msgstr ""
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 #. (String used 7 times.)
 msgid "Group"
-msgstr ""
+msgstr "Itsinda"
 
 #. /Language Explorer/Configuration/Grammar/areaConfiguration.xml::/root/commands/command/@label
 msgid "Group of ad hoc rules"
@@ -9610,7 +9610,7 @@ msgstr ""
 #. Menu Command: {0} is the special regular expression metacharacter(s)
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksREGrouping
 msgid "{0} Grouping"
-msgstr ""
+msgstr "{0} Ishyira mu matsinda"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="LexMajorEntryFunction"]
 msgid "Groups the possible functions of the lexical entry."
@@ -9659,7 +9659,7 @@ msgstr ""
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksSectionHeading
 #. (String used 3 times.)
 msgid "{0} (Heading)"
-msgstr ""
+msgstr "{0} (umutwe)"
 
 #. /Language Explorer/Configuration/Grammar/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/controls/parameters/guicontrol/parameters/columns/column/@label
@@ -9819,7 +9819,7 @@ msgstr ""
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ks_Help_
 #. (String used 3 times.)
 msgid "&Help..."
-msgstr "&Nkunganire"
+msgstr "&Nkunganire..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
@@ -9945,26 +9945,6 @@ msgstr "Amafishiye ya HTML"
 #. /Src/FwResources/FwStrings.resx::kstidHTML
 msgid "HTML Files"
 msgstr "Amafishiye ya HTML"
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastSeUrl
-msgid "http://downloads.sil.org/FieldWorks/appcast.xml"
-msgstr ""
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastSeBetasUrl
-msgid "http://downloads.sil.org/FieldWorks/appcastBetas.xml"
-msgstr ""
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastBteUrl
-msgid "http://downloads.sil.org/FieldWorks/appcastBTE.xml"
-msgstr ""
-
-#. Do not localize
-#. /Src/Common/CoreImpl/Properties/Resources.resx::kstidAppcastBteBetasUrl
-msgid "http://downloads.sil.org/FieldWorks/appcastBTEbetas.xml"
-msgstr ""
 
 #. field name for Data Notebook records
 #. /Language Explorer/Configuration/Notebook/browseDialogColumns.xml::/doc/browseColumns/column/@label
@@ -10129,7 +10109,7 @@ msgstr ""
 #. /Src/Utilities/SfmToXml/Sfm2XmlStrings.resx::XIgnored
 #. (String used 2 times.)
 msgid "{0} (Ignored)"
-msgstr ""
+msgstr "{0} (cyaretswe)"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksIllegalChars
 msgid "Illegal characters"
@@ -10349,7 +10329,7 @@ msgstr ""
 #. Measurement unit abbreviation for Inches (Localized string should preserve leading space if needed in formatted display.)
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidIn
 msgid " in"
-msgstr ""
+msgstr " muri"
 
 #. abbreviation for inches
 #. /|strings-en.xml::/LabelAbbreviations/Environments|
@@ -10366,7 +10346,7 @@ msgstr ""
 #. /Src/LexText/Morphology/MGA/MGAStrings.resx::ksX_InFwProject
 #. (String used 2 times.)
 msgid "{0} (in FieldWorks Project)"
-msgstr ""
+msgstr "{0} (mu mushinga wa FieldWorks)"
 
 #. /Src/FwCoreDlgs/FwNewLangProject.resx::m_lblExplainWrtSys.Text
 msgid "In FieldWorks, you need to set up a writing system in order to enter data in a particular language."
@@ -10716,7 +10696,7 @@ msgstr ""
 #. Text shown in the styles dialog font tab when a writing system has inherited font properties
 #. /Src/FwResources/FwStrings.resx::kstidStyleWsOverideInheritedFromMsg
 msgid "(Inherited from {0})"
-msgstr ""
+msgstr "(Byakomotse kuri {0})"
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksInitializingLayouts_
 msgid "Initializing Layouts..."
@@ -10938,19 +10918,19 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Insert Grammatical Info. for Affix"
-msgstr ""
+msgstr "Kwinjizamo Amakr. y'Ikibonezamvugo y'Inyomeke"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Insert Grammatical Info. for Derivational Affix"
-msgstr ""
+msgstr "Kwinjizamo Amakr. y'Ikibonezamvugo ku nyomeke z'ikomora"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Insert Grammatical Info. for Inflectional Affix"
-msgstr ""
+msgstr "Kwinjizamo Amakr. y'Ikibonezamvugo ku ngereka y'inyomeke"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Insert Grammatical Info. for Stem"
-msgstr ""
+msgstr "Kwinjizamo Amakr. y'Ikibonezamvugo ku gicumbi"
 
 #. /Language Explorer/Configuration/Grammar/DataTreeInclude.xml::/window/contextMenus/menu/item/@label
 msgid "Insert Grapheme"
@@ -11073,7 +11053,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Lists/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Insert subdomain"
-msgstr ""
+msgstr "Gushyiramo inyunganiracyiciro"
 
 #. /Language Explorer/Configuration/Lists/DataTreeInclude.xml::/window/commands/command/@label
 #. (String used 3 times.)
@@ -11323,7 +11303,7 @@ msgstr ""
 
 #. /Src/FDO/Strings.resx::ksIsUsedXTimesByEntries
 msgid "{0}. Is being used {1} times by major entries."
-msgstr ""
+msgstr "{0}. Irimo ikoreshwa inshuro {1} n'umwinjiro w'ingenzi."
 
 #. /Src/FDO/Strings.resx::ksIsUsedXTimesBySubentries
 msgid "{0}. Is being used {1} times by subentries."
@@ -11494,7 +11474,7 @@ msgstr ""
 
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::label13.Text
 msgid "Item to delete:"
-msgstr ""
+msgstr "Icyo guhanagura:"
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksRuleWordBdryNoOptsMsg
 msgid "Items cannot be inserted outside of word boundaries."
@@ -11510,7 +11490,7 @@ msgstr "Nyak"
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 msgid "_Jump to Next"
-msgstr ""
+msgstr "_Imukira ku bikurikira"
 
 #. /Src/Common/Controls/DetailControls/GenDateChooserDlg.resx::m_monthComboBox.Items5
 msgid "Jun"
@@ -12019,11 +11999,11 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/commands/command/@label
 msgid "Lexeme Form is a variant"
-msgstr ""
+msgstr "Imiterere y'umwinjizo ni impindurantego"
 
 #. /Src/LexText/LexTextControls/InsertEntryDlg.resx::m_formLabel.Text
 msgid "Lexeme &Form:"
-msgstr "Imiterere y'&Umwinjizo"
+msgstr "Imiterere y'&Umwinjizo:"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksLexicalEntries
 msgid "Lexical Entries"
@@ -12069,7 +12049,7 @@ msgstr ""
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-CurrentLexReferences"]/slice/@label
 #. (String used 4 times.)
 msgid "Lexical Relations"
-msgstr ""
+msgstr "Amasano nkoranyamagambo"
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/item/parameters/panels/listPanel/@label
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/sidebar/tab/@label
@@ -12163,7 +12143,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::label10.Text
 msgid "Li&ne spacing:"
-msgstr "Ugu&siga umwanya hagati y'imirongo"
+msgstr "Ugu&siga umwanya hagati y'imirongo:"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::m_cboLineSpacing.Items2
 msgid "1.5 lines"
@@ -12206,7 +12186,7 @@ msgstr ""
 
 #. /Src/LexText/Interlinear/LinguaLinksImportDlg.resx::label1.Text
 msgid "LinguaLinks XML file:"
-msgstr "Ifishiye XML ya LinguaLinks"
+msgstr "Ifishiye XML ya LinguaLinks:"
 
 #. button label
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ks_Link
@@ -12277,7 +12257,7 @@ msgstr ""
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. (String used 2 times.)
 msgid "List _Colleagues"
-msgstr ""
+msgstr "Urutonde_Abo mukorana"
 
 #. Label for tab in Bulk Edit for choosing items from a list
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_listChoiceTab.Text
@@ -12410,7 +12390,7 @@ msgstr "Ifufungurwa ry'umushinga {0}..."
 
 #. /Src/FDO/Properties/Resources.resx::ksLoadingPartsOfSpeech
 msgid "Loading the initial Grammatical Categories"
-msgstr ""
+msgstr "Ugukururiramo Ibyiciro by'Ikibonezamvugo by'ibanze"
 
 #. /Src/FDO/Properties/Resources.resx::ksLoadingSemanticDomains
 msgid "Loading the Semantic Domain List"
@@ -12526,7 +12506,7 @@ msgstr ""
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksLT
 #. (String used 2 times.)
 msgid "LT "
-msgstr ""
+msgstr "SemJkJ "
 
 #. /Language Explorer/Configuration/Lexicon/Dictionary/toolConfiguration.xml::/root/reusableControls/control/parameters/configureLayouts/layoutType/configure/@label
 #. /Language Explorer/Configuration/Lexicon/Dictionary/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/configureLayouts/layoutType/configure/@label
@@ -12588,7 +12568,7 @@ msgstr ""
 
 #. /Src/LexText/Morphology/ConcordanceDlg.resx::label4.Text
 msgid "4. Make the changes."
-msgstr "4. Gukora impinduka"
+msgstr "4. Gukora impinduka."
 
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksMakingHCFiles
 msgid "Making HC Files"
@@ -12852,7 +12832,7 @@ msgstr "Kunga amagambo asobanura..."
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Merge Grammatical Info. into..."
-msgstr ""
+msgstr "Guhuriza hamwe Amakr. y'Ikibonezamvugo muri... ."
 
 #. /Src/FdoUi/MergeObjectDlg.resx::$this.Text
 msgid "Merge Object"
@@ -13110,11 +13090,11 @@ msgstr ""
 
 #. /|strings-en.xml::/DetailControls/MSAReferenceComboBox/ModifyGramFunc|
 msgid "Modify this Grammatical Info..."
-msgstr ""
+msgstr "Guhindura aya makr. y'Ikibonezamvugo ..."
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksModifyThisGrammaticalInfo_
 msgid "Modify This Grammatical Info..."
-msgstr ""
+msgstr "Guhindura aya makr. y'Ikibonezamvugo ..."
 
 #. This is the status bar message for the user properties menu option.
 #. /Src/FwResources/FwStrings.resx::kstidUserPropertiesMsg
@@ -13344,7 +13324,7 @@ msgstr "&Imura umwinjizo"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Move Entry..."
-msgstr "Imura umwinjizo"
+msgstr "Imura umwinjizo..."
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "Move Example _Down"
@@ -13621,7 +13601,7 @@ msgstr "&Izina ry'urutonde:"
 
 #. /Src/xWorks/xWorksStrings.resx::ksNameReqd
 msgid "\"Name of List\" is a required field."
-msgstr ""
+msgstr "\"Izina ry'urutonde\" ni umwanya usabwa."
 
 #. /Src/LexText/ParserUI/ImportWordSetDlg.resx::label1.Text
 msgid "&Name of New Word Set:"
@@ -13629,7 +13609,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::m_gbRestoreAs.Text
 msgid "Name of restored project"
-msgstr ""
+msgstr "Amazina y'umushinga usubizwaho"
 
 #. /Src/FwCoreDlgs/FwNewLangProject.resx::m_lblProjectName.Text
 msgid "&Name the project"
@@ -13661,7 +13641,7 @@ msgstr "Izina: {0}"
 #. Default text name when exporting a text that has no name
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksNamelessText
 msgid "(Nameless text)"
-msgstr ""
+msgstr "(Inyandiko idafite izina)"
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksRuleNCOpt
 msgid "Natural Class"
@@ -13919,7 +13899,7 @@ msgstr "_Idirishya rishya"
 #. note indentation formed by leading spaces
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksNewWordGloss
 msgid "   New word gloss"
-msgstr ""
+msgstr " Ijambo rishya ry'igisobanuro"
 
 #. no leading spaces for indentation
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksNewWordGloss2
@@ -14028,7 +14008,7 @@ msgstr ""
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidNoBorder
 msgid "No border"
-msgstr ""
+msgstr "Nta rugabaniro"
 
 #. Tool tip for format/borders right border tooltip
 #. Text for format/borders right border tooltip
@@ -14037,7 +14017,7 @@ msgstr ""
 #. /Src/FwResources/FwTMStrings.resx::kstidBordersNoneToolTip
 #. (String used 3 times.)
 msgid "No Borders"
-msgstr ""
+msgstr "Nta mbibi"
 
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidNoBulletsorNumbering
@@ -14088,7 +14068,7 @@ msgstr ""
 
 #. /|strings-en.xml::/EmptyTitles/No-EducationLevels|
 msgid "No Education Levels"
-msgstr ""
+msgstr "Nta rwego rw'amashuri"
 
 #. /|strings-en.xml::/EmptyTitles/No-LexEntries|
 msgid "No Entries"
@@ -14116,7 +14096,7 @@ msgstr ""
 
 #. /Src/LexText/ParserUI/ParserUIStrings.resx::ksNoFiles
 msgid "No files"
-msgstr ""
+msgstr "Nta mafishiye"
 
 #. /Src/LexText/ParserUI/ParserUIStrings.resx::ksNoFilesToImport
 msgid "No files to import!  Please choose at least one file."
@@ -14139,7 +14119,7 @@ msgstr ""
 
 #. /|strings-en.xml::/EmptyTitles/No-Genres|
 msgid "No Genres"
-msgstr ""
+msgstr "Nta bwoko"
 
 #. Message for Invalid Installation of factory styles
 #. /Src/FwResources/FwStrings.resx::ksNoGuidOnFactoryStyle
@@ -14181,7 +14161,7 @@ msgstr "Nta hantu"
 
 #. /Src/Common/Controls/FwControls/FwControls.resx::kstidLangNotFoundCaption
 msgid "No matches"
-msgstr ""
+msgstr "Nta cyo byahuje"
 
 #. /Src/Common/Controls/FwControls/FwControls.resx::kstidLangNotFound
 msgid "No matches were found.{0}You may wish to try a different spelling or word order, or a less specific name.{0}If you are searching for countries, note that USA is used rather than United States, United Kingdom rather than UK or Britain."
@@ -14193,7 +14173,7 @@ msgstr ""
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksNoMorphemes
 msgid "no morphemes"
-msgstr ""
+msgstr "nta majwishingiro"
 
 #. /|strings-en.xml::/EmptyTitles/No-PhNCSegments|
 msgid "No Natural Classes"
@@ -14248,7 +14228,7 @@ msgstr ""
 
 #. /|strings-en.xml::/EmptyTitles/No-PublicationTypes|
 msgid "No Publications"
-msgstr ""
+msgstr "Nta matangaza"
 
 #. /|strings-en.xml::/EmptyTitles/No-RnGenericRecs|
 #. /|strings-en.xml::/Misc/No Records|
@@ -14284,7 +14264,7 @@ msgstr ""
 #. subitem for spelling corrections if none available.
 #. /Src/Common/RootSite/RootSiteStrings.resx::ksNoSuggestions
 msgid "(No Spelling Suggestions)"
-msgstr ""
+msgstr "(Nta buryo bwimyandikire bwa tanzwe)"
 
 #. /|strings-en.xml::/EmptyTitles/No-SenseStatus|
 #. /|strings-en.xml::/EmptyTitles/No-Status|
@@ -14363,7 +14343,7 @@ msgstr ""
 #. Used in keyboard control (leading space causes it to be first in a sorted list)
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstid_None
 msgid " None"
-msgstr ""
+msgstr " Ntawe"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::label3.Text
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::m_rbNone.Text
@@ -14417,7 +14397,7 @@ msgstr "(Nta na kimwe)"
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidNumTypeNONE
 #. (String used 4 times.)
 msgid "[none]"
-msgstr ""
+msgstr "[ntacyo]"
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidNone
 msgid "<None>"
@@ -14681,7 +14661,7 @@ msgstr "Ibyitabwaho"
 
 #. /Src/FDO/Strings.resx::ksNothingToRedo
 msgid "(Nothing to Redo.)"
-msgstr ""
+msgstr "(Nta na kimwe cyo gusubizaho.)"
 
 #. /Src/FDO/Strings.resx::ksNothingToUndo
 msgid "(Nothing to Undo.)"
@@ -15138,7 +15118,7 @@ msgstr ""
 
 #. /Src/FdoUi/SummaryDialogForm.resx::btnLexicon.Text
 msgid "Open &Lexicon"
-msgstr ""
+msgstr "Gufungura &Inkoranya"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::openFileDialog1_Title
 msgid "Open Lexicon Interchange FormaT File"
@@ -15562,7 +15542,7 @@ msgstr "Igika"
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksFldParagraphBreak
 #. (String used 2 times.)
 msgid "Paragraph Break"
-msgstr "gucamo ibika"
+msgstr "Gucamo ibika"
 
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidBidiClassB
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidBidiClassB
@@ -15620,7 +15600,7 @@ msgstr "Gusesengura _ijambo rigezweho"
 #. /Language Explorer/Configuration/Parts/WFIParts.xml::/PartInventory/bin/part[@id="WfiAnalysis-Detail-ParserOpinion"]/choice/where/slice/@label
 #. (String used 3 times.)
 msgid "Parse result"
-msgstr "ibivuye mu isesengurajambo"
+msgstr "Ibivuye mu isesengurajambo"
 
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksDidNotParse
 msgid "Parse was not attempted because of errors in the lexical data"
@@ -15904,7 +15884,7 @@ msgstr "Inyantego/Imiterere"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksPhonologicalFeature
 msgid "phonological feature"
-msgstr "Imiterere nyemvugo"
+msgstr "imiterere nyemvugo"
 
 #. /|strings-en.xml::/AlternativeTypeNames/Feature-Phonological|
 msgid "Phonological Feature"
@@ -16128,7 +16108,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidemptyName
 msgid "Please enter a name"
-msgstr ""
+msgstr "Urasabwa kwinjizamo izina"
 
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksEnterNumber
 msgid "Please enter a whole number"
@@ -16146,7 +16126,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksFillInTitle
 msgid "Please fill in the title."
-msgstr ""
+msgstr "Urasabwa kwinjizamo umutwe."
 
 #. used by AddListDlg
 #. /Src/xWorks/xWorksStrings.resx::ksProvideValidListName
@@ -16358,7 +16338,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksPreviousFolder
 msgid "(Previous folder: {0})"
-msgstr ""
+msgstr "(Ifishiye yabanje: {0})"
 
 #. /Language Explorer/Configuration/Words/areaConfiguration.xml::/root/commands/command/@label
 msgid "Previous Incomplete Word"
@@ -16422,7 +16402,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexOptionsDlg.resx::m_tabPrivacy.Text
 msgid "Privacy"
-msgstr ""
+msgstr "Amakuru y'ubuzima bwite"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksProblem
 msgid "Problem"
@@ -16452,7 +16432,7 @@ msgstr ""
 #. Caption for error dialog
 #. /Src/FDO/Properties/Resources.resx::kstidProblemOpeningFile
 msgid "Problem opening file"
-msgstr ""
+msgstr "Idokima ifungura ikibazo"
 
 #. /|strings-en.xml::/ClassNames/CmBaseAnnotation|
 msgid "Problem Report"
@@ -16619,7 +16599,7 @@ msgstr "Imicungire y'umushinga"
 
 #. /Src/FwCoreDlgs/FwProjPropertiesDlg.resx::label5.Text
 msgid "Project &Name:"
-msgstr "Izina ry'&umushinga"
+msgstr "Izina ry'&umushinga:"
 
 #. Text for Undo/Redo when changing project properties
 #. /Src/Common/Framework/FrameworkStrings.resx::kstidUndoRedoProjectProperties
@@ -16676,7 +16656,7 @@ msgstr "Kuzamura mu rwego"
 
 #. /Src/xWorks/xWorksStrings.resx::ksPronunciation
 msgid "pronunciation"
-msgstr "Uko bivugwa"
+msgstr "uko bivugwa"
 
 #. /Language Explorer/Configuration/Lexicon/DataTreeInclude.xml::/window/commands/command/@label
 msgid "_Pronunciation"
@@ -16705,7 +16685,7 @@ msgstr "Irangamimerere"
 #. Measurement unit abbreviation for Points (Localized string should preserve leading space if needed in formatted display.)
 #. /Src/Common/FwUtils/FwUtilsStrings.resx::kstidPt
 msgid " pt"
-msgstr ""
+msgstr " pt"
 
 #. size in "points"
 #. Used in Description on the General tab of the Style dialog box for formatting the point size of the border
@@ -16713,12 +16693,12 @@ msgstr ""
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidBorderDetailsWithoutColor
 #. (String used 2 times.)
 msgid "{0} pt"
-msgstr ""
+msgstr "{0} pt"
 
 #. Used in Description on the General tab of the Style dialog box for formatting the Color and point size of the border
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidBorderDetailsWithColor
 msgid "{0}, {1} pt"
-msgstr ""
+msgstr "{0}, {1} pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwFontAttributes.resx::m_nudPositionAmount.Text
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::m_nudAfter.Text
@@ -16726,43 +16706,43 @@ msgstr ""
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::m_nudSpacingAt.Text
 #. (String used 4 times.)
 msgid "0 pt"
-msgstr ""
+msgstr "0 pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items1
 msgid "¼ pt"
-msgstr ""
+msgstr "¼ pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items2
 msgid "½ pt"
-msgstr ""
+msgstr "½ pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items3
 msgid "¾ pt"
-msgstr ""
+msgstr "¾ pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items4
 msgid "1 pt"
-msgstr ""
+msgstr "1 pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items5
 msgid "1½ pt"
-msgstr ""
+msgstr "1½ pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items6
 msgid "2¼ pt"
-msgstr ""
+msgstr "2¼ pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items7
 msgid "3 pt"
-msgstr ""
+msgstr "3 pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items8
 msgid "4½ pt"
-msgstr ""
+msgstr "4½ pt"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBorderTab.resx::m_cboWidth.Items9
 msgid "6 pt"
-msgstr ""
+msgstr "6 pt"
 
 #. /|strings-en.xml::/PossibilityListItemTypeNames/PublicationTypes|
 msgid "Publication"
@@ -16798,7 +16778,7 @@ msgstr ""
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 2 times.)
 msgid "Publish In (Sense)"
-msgstr ""
+msgstr "Kubitangaza muri (Igisobanuro)"
 
 #. /Src/xWorks/xWorksStrings.resx::PunctInfieldNameCaption
 msgid "Punctuation in custom field name"
@@ -16812,7 +16792,7 @@ msgstr "&Imikoreshereze y'utwatuzo..."
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidGenCatPe
 #. (String used 2 times.)
 msgid "Punctuation, Close"
-msgstr ""
+msgstr "Akatuzo, gufunga"
 
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidGenCatPc
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidGenCatPc
@@ -16842,13 +16822,13 @@ msgstr ""
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidGenCatPs
 #. (String used 2 times.)
 msgid "Punctuation, Open"
-msgstr ""
+msgstr "Akatuzo, gufungura"
 
 #. /Src/Common/COMInterfaces/UcdCharacterResources.resx::kstidGenCatPo
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidGenCatPo
 #. (String used 2 times.)
 msgid "Punctuation, Other"
-msgstr ""
+msgstr "Akatuzo, ibindi"
 
 #. Heading for the valid characters list on the valid characters dialog box.
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidValidCharsOtherHdg
@@ -16896,7 +16876,7 @@ msgstr ""
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidRandomComboItem
 msgid "Random"
-msgstr ""
+msgstr "Gitomborejeho"
 
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::rbCharRange.Text
 msgid "Range of Base Characters"
@@ -17209,7 +17189,7 @@ msgstr ""
 
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksRedoCreate0
 msgid "Redo create {0}"
-msgstr ""
+msgstr "Gusubiza aho wari uvuye {0}"
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksRedoCreateCategory
 msgid "Redo Create Category"
@@ -17740,7 +17720,7 @@ msgstr "_Gusubiza ubushya"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="CmdRefresh"]
 msgid "Refresh the screen."
-msgstr "Gusaubiza ekara ubushya"
+msgstr "Gusaubiza ekara ubushya."
 
 #. /Src/Common/Filters/FiltersStrings.resx::ksRegexInvalidState
 msgid "RegexMatcher in invalid state for requested operation."
@@ -17756,7 +17736,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/RegionVariantControl.resx::m_regionNameLabel.Text
 msgid "Region name:"
-msgstr "Izina"
+msgstr "Izina ry'Akarere:"
 
 #. /Src/FwCoreDlgs/AddConverterResources.resx::kstrRegExpIcu
 msgid "Regular Expression (ICU)"
@@ -18216,13 +18196,13 @@ msgstr ""
 #. This is the text for the restore option on the file/project management menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidRestoreItemName
 msgid "&Restore a Project..."
-msgstr ""
+msgstr "Gusubizaho umushinga..."
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. (String used 2 times.)
 msgid "_Restore a Project..."
-msgstr ""
+msgstr "_Gusubizaho umushinga..."
 
 #. /Src/xWorks/XmlDocConfigureDlg.resx::m_btnRestoreDefaults.Text
 msgid "Restore defaults"
@@ -18281,7 +18261,7 @@ msgstr ""
 
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksRestrict_
 msgid "Restrict..."
-msgstr ""
+msgstr "Kubuza..."
 
 #. /|strings-en.xml::/PossibilityListItemTypeNames/Restrictions|
 msgid "Restriction"
@@ -18303,24 +18283,24 @@ msgstr "Ibibujijwe"
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 2 times.)
 msgid "Restrictions (Entry)"
-msgstr ""
+msgstr "Ukubuza (Umwinjiro)"
 
 #. /Language Explorer/Configuration/Lexicon/browseDialogColumns.xml::/doc/browseColumns/column/@label
 #. /Language Explorer/Configuration/Lexicon/RDE/toolConfiguration.xml::/root/tools/tool/control/parameters/control/parameters/control/parameters/columns/column/@label
 #. (String used 2 times.)
 msgid "Restrictions (Sense)"
-msgstr ""
+msgstr "Ukubuza (Igisobanuro)"
 
 #. /Language Explorer/Configuration/Parts/MorphologyParts.xml::/PartInventory/bin/part[@id="MoExoCompound-Detail-Result"]/if/obj/@label
 #. /Src/LexText/Morphology/MEStrings.resx::ksAffixRuleResult
 #. /Src/LexText/Morphology/MEStrings.resx::ksMetaRuleResult
 #. (String used 4 times.)
 msgid "Result"
-msgstr ""
+msgstr "Ibivuyemo"
 
 #. /Src/LexText/ParserUI/TryAWordDlg.resx::m_resultsLabel.Text
 msgid "  Results:"
-msgstr ""
+msgstr "  Ibyavuyemo:"
 
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksRetrievingGrammarAndLexicon
 msgid "Retrieving Grammar and Lexicon"
@@ -19205,7 +19185,7 @@ msgstr ""
 
 #. /|strings-en.xml::/MappingType/SensePair|
 msgid "Sense Pair (e.g. Antonym)"
-msgstr ""
+msgstr "Igisobanuro nyabibiri (urg. Imbusane)"
 
 #. /|strings-en.xml::/MappingType/SenseSequence|
 msgid "Sense Sequence/scale (e.g. calendar)"
@@ -19289,7 +19269,7 @@ msgstr ""
 
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksFieldChooserDlgTitle
 msgid "Set {0}"
-msgstr ""
+msgstr "Itsinda {0}"
 
 #. /Src/LexText/Morphology/MGA/MGADialog.resx::buttonInfo.Text
 msgid "Set at Runtime via string variables"
@@ -19374,26 +19354,26 @@ msgstr ""
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::lblSettingsTag.Text
 #. (String used 2 times.)
 msgid "Settings"
-msgstr ""
+msgstr "Igenamiterere"
 
 #. /Src/xWorks/AddCustomFieldDlg.resx::m_groupBox1.Text
 msgid "Settings "
-msgstr ""
+msgstr "Igenamiterere "
 
 #. /Src/LexText/Interlinear/InterlinearSfmImportWizard.resx::label5.Text
 msgid "Settings File"
-msgstr ""
+msgstr "Ifishiye y'igenamiterere"
 
 #. caption for message box
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksSettingsSaved
 msgid "Settings Saved"
-msgstr ""
+msgstr "Igenamiterere ibitswe"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::lblSettings.Text
 #. /Src/LexText/LexTextControls/LexImportWizard.resx::lblSettings.Text
 #. (String used 2 times.)
 msgid "Settings:"
-msgstr ""
+msgstr "Igenamitere:"
 
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_findReplaceSetupButton.Text
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_transduceSetupButton.Text
@@ -19740,11 +19720,11 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntry-Detail-Subentries"]/slice/@tooltip
 msgid "Show these subentries below this entry in root-based dictionary views."
-msgstr ""
+msgstr "Kugaragaza iyi myinjiro yungirije ikurikira mu misusire y'inkoranya ishingiye ku muzi."
 
 #. /Language Explorer/Configuration/Parts/LexSenseParts.xml::/PartInventory/bin/part[@id="LexSense-Detail-Subentries"]/slice/@tooltip
 msgid "Show these subentries below this sense in root-based dictionary views."
-msgstr ""
+msgstr "Kwerekana iyi myinjiro yungirije ikurikira mu misusire y'inkoranya iishingiye ku muzi."
 
 #. /Language Explorer/Configuration/Parts/LexEntryParts.xml::/PartInventory/bin/part[@id="LexEntry-Detail-ShowMinorEntry"]/if/slice/@tooltip
 msgid "Show this entry as a minor entry in Dictionary."
@@ -19752,7 +19732,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/contextMenus/menu/item/@label
 msgid "Show Unused Items"
-msgstr ""
+msgstr "Garagaza ibintu bitakoreshejwe"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
@@ -19853,7 +19833,7 @@ msgstr ""
 
 #. /|strings-en.xml::/Linguistics/Morphology/RuleDirection/Simultaneous|
 msgid "simultaneous"
-msgstr ""
+msgstr "bigendera rimwe"
 
 #. /Src/LexText/LexTextControls/DataNotebook/DiscardOptions.resx::m_lblDiscard.Text
 msgid ""
@@ -19864,7 +19844,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwParagraphTab.resx::m_cboLineSpacing.Items1
 msgid "Single"
-msgstr ""
+msgstr "Kimwe"
 
 #. insert explicit color
 #. /Src/FDO/Strings.resx::ksSingleColorUnderline
@@ -19873,12 +19853,12 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::rbSingleChar.Text
 msgid "Single Character"
-msgstr ""
+msgstr "Inyuguti imwe"
 
 #. Used in Description on the General tab of the Style dialog box
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::ksSingleSpacing
 msgid "Single Spacing"
-msgstr ""
+msgstr "Ugusigamo umwanya umwe"
 
 #. /Src/FDO/Strings.resx::ksSingleUnderline
 msgid "Single Underline"
@@ -19898,7 +19878,7 @@ msgstr "In&gano:"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwFontTab.resx::label12.Text
 msgid "Si&ze:"
-msgstr "In&gano"
+msgstr "In&gano:"
 
 #. /Src/MigrateSqlDbs/Properties/Resources.resx::ksSkip
 msgid "Skip"
@@ -19977,11 +19957,11 @@ msgstr ""
 
 #. /|strings-en.xml::/Linguistics/Morphology/Adjacency/Somewhere to right|
 msgid "somewhere after"
-msgstr ""
+msgstr "ahandi h'inyuma"
 
 #. /|strings-en.xml::/Linguistics/Morphology/Adjacency/Somewhere to left|
 msgid "somewhere before"
-msgstr ""
+msgstr "ahandi h'imbere"
 
 #. message for message box
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksNoAssistForDerivAffixes
@@ -19997,11 +19977,11 @@ msgstr ""
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksCannotLaunchX
 #. (String used 2 times.)
 msgid "Sorry, could not launch {0}."
-msgstr ""
+msgstr "Ihangane, ntidushoboye kugufungurira {0}."
 
 #. /Src/LexText/LexTextDll/LexTextStrings.resx::ksCannotShowX
 msgid "Sorry, could not show {0}."
-msgstr ""
+msgstr "Ihangane, ntidushoboye kukwereka {0}."
 
 #. /Src/xWorks/xWorksStrings.resx::ksCannotDeleteItem
 msgid "Sorry, FieldWorks cannot delete this item."
@@ -20056,12 +20036,12 @@ msgstr ""
 
 #. /Src/Common/Controls/DetailControls/Resources/DetailControlsStrings.resx::ksCmdUnavailable
 msgid "Sorry, that command is not available at the moment"
-msgstr ""
+msgstr "Ihangane, iryo bwiriza ntiriboneka muri iki gihe"
 
 #. Displayed in message box when Find Related Words can't find any related words
 #. /Src/FdoUi/FdoUiStrings.resx::kstidFindRelWordsNotInDict
 msgid "Sorry, that entry is not yet in the dictionary"
-msgstr ""
+msgstr "Ihangane, uwo mwinjiro nturashyirwa mu nkoranyamagambo"
 
 #. /Language Explorer/Configuration/ContextHelp.xml::/strings/item[@id="MissingHelpId"]
 msgid "Sorry, there's no help available for this item (missing id)."
@@ -20475,7 +20455,7 @@ msgstr "Yemewe"
 #. file type
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksStandardFormat
 msgid "standard format"
-msgstr "Imiterere yemewe"
+msgstr "imiterere yemewe"
 
 #. /Language Explorer/Configuration/Main.xml::/window/commands/command/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
@@ -20829,7 +20809,7 @@ msgstr "Imiterere ya buri gice:"
 #. /Src/FwResources/FwTMStrings.resx::kstidStyleToolTip
 #. (String used 5 times.)
 msgid "Styles"
-msgstr "Imiterere ya buri bice:"
+msgstr "Imiterere ya buri bice"
 
 #. This is the text for the styles menu on the format menu.
 #. /Src/FwResources/FwTMStrings.resx::kstidStyleItemName
@@ -20943,7 +20923,7 @@ msgstr ""
 
 #. /Language Explorer/Configuration/Lexicon/areaConfiguration.xml::/root/commands/command/@label
 msgid "Subsense (in sense)"
-msgstr "igisobanuro nyunganizi (mu isobanura)"
+msgstr "Igisobanuro nyunganizi (mu isobanura)"
 
 #. /Language Explorer/Configuration/Lists/areaConfiguration.xml::/root/menuAddOn/menu/item/@label
 #. /Language Explorer/Configuration/Lists/areaConfiguration.xml::/root/toolbarsAddOn/toolbar/item/@label
@@ -21093,7 +21073,7 @@ msgstr ""
 #. /Src/Utilities/BasicUtils/UcdCharacterResources.resx::kstidGenCatSo
 #. (String used 2 times.)
 msgid "Symbol, Other"
-msgstr ""
+msgstr "Ikimenyetso, Ikindi"
 
 #. /Src/FwResources/ToolBarSystemStrings.resx::kstidSystemDefaultComboItem
 msgid "System Default"
@@ -21216,7 +21196,7 @@ msgstr "Inyandiko inyuma"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::label4.Text
 msgid "Te&xt after:"
-msgstr "Iny&andiko inyuma"
+msgstr "Iny&andiko inyuma:"
 
 #. Used for bullets/numbers in Description on the General tab of the
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwCoreDlgControls.resx::kstidTextBefore
@@ -21225,7 +21205,7 @@ msgstr "Inyandiko imbere"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/FwBulletsTab.resx::label3.Text
 msgid "Text &before:"
-msgstr "Inyandiko &imbere"
+msgstr "Inyandiko &imbere:"
 
 #. /Src/LexText/LexTextControls/DataNotebook/ListRefFieldOptions.resx::m_lblTextChanges.Text
 msgid "Text changes:"
@@ -21983,7 +21963,7 @@ msgid "The homograph numbers are currently based on {0}. Do you want to update t
 msgstr ""
 
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksMisorderedMarkers
-msgid "The import process has detected some entries in which the field markers were not ordered as expected. (Refer to the list below to see which entries are affected.) The links will open Zedit in the original SFM file at the location of interest. It only works in Internet Explorer. To use it, when the page opens, at the bottom of the browser, it displays, "Internet Explorer restricted this webpage from running scripts or ActiveX controls". Click "Allow blocked content". After the first link is clicked, the following dialog will come up, "An ActiveX control on this page might be unsafe to interact with other parts of the page. Do you want to allow this interaction?" Click "Yes" and the links will then work anywhere on the page."
+msgid "The import process has detected some entries in which the field markers were not ordered as expected. (Refer to the list below to see which entries are affected.) The links will open Zedit in the original SFM file at the location of interest. It only works in Internet Explorer. To use it, when the page opens, at the bottom of the browser, it displays, \"Internet Explorer restricted this webpage from running scripts or ActiveX controls\". Click \"Allow blocked content\". After the first link is clicked, the following dialog will come up, \"An ActiveX control on this page might be unsafe to interact with other parts of the page. Do you want to allow this interaction?\" Click \"Yes\" and the links will then work anywhere on the page."
 msgstr ""
 
 #. {0} and {1} are bits of HTML that make the text between them "active"
@@ -24456,7 +24436,7 @@ msgstr "Kidafite izina"
 
 #. /Src/FDO/Strings.resx::ksUnnamed
 msgid "(unnamed)"
-msgstr ""
+msgstr "(kitiswe izina)"
 
 #. /Src/Common/Framework/FrameworkStrings.resx::ksUnknownStyleAttribute
 msgid "Unrecognized '{0}' attribute for style {1} in {2}"
@@ -24547,7 +24527,7 @@ msgstr "Bitagaragajwe"
 #. /Src/xWorks/xWorksStrings.resx::ksUnspecified
 #. (String used 9 times.)
 msgid "(unspecified)"
-msgstr ""
+msgstr "(kitafutuwe)"
 
 #. Caption for message box when unable to read an image file.
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::kstidInsertPictureReadErrorCaption
@@ -24560,12 +24540,12 @@ msgstr "Bitagenzuwe"
 
 #. /Src/FDO/Strings.resx::ksUntitled
 msgid "(untitled)"
-msgstr ""
+msgstr "(kidafite umutwe)"
 
 #. related to ParserCoreStrings.ksUpdateX
 #. /Src/LexText/ParserUI/ParserUIStrings.resx::ksUpdate
 msgid "Update"
-msgstr ""
+msgstr "Uguhuza n'igihe"
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksUpdateMonoMorphemicLexicalEntries
 msgid "Update lexical entries of mono-morphemic analyses"
@@ -24573,7 +24553,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/LexOptionsDlg.resx::m_tabUpdates.Text
 msgid "Updates"
-msgstr ""
+msgstr "Kureba ibishya byaje"
 
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksUpdatingGrammarAndLexicon
 msgid "Updating Grammar and Lexicon"
@@ -24585,7 +24565,7 @@ msgstr ""
 
 #. /Src/LexText/ParserEngine/ParserCore/ParserCoreStrings.resx::ksUpdateX
 msgid "Updating: {0}"
-msgstr ""
+msgstr "Uguhuza n'igihe: {0}"
 
 #. This is the status message for the progress dialog used when creating factory (default) styles. (Creating styles requires up to four passes. The message is for the second pass.)
 #. /Src/FwResources/FwStrings.resx::kstidUpdatingStylesStatusMsg
@@ -24597,7 +24577,7 @@ msgstr ""
 #. /Src/FwResources/FwStrings.resx::kstidOldDbVersionCaption
 #. (String used 2 times.)
 msgid "Upgrade Project"
-msgstr ""
+msgstr "Guhuza umushinga n'igihe"
 
 #. /Src/UnicodeCharEditor/CharEditorWindow.resx::m_hdrUpper.Text
 msgid "Uppercase"
@@ -24775,7 +24755,7 @@ msgstr "Ibyagufasha"
 #. /Language Explorer/Configuration/Main-long.xml::/window/commands/command/@label
 #. (String used 2 times.)
 msgid "_Utilities..."
-msgstr "_Ibyagufasha"
+msgstr "_Ibyagufasha..."
 
 #. /Src/FwCoreDlgs/ValidCharactersDlg.resx::$this.Text
 msgid "Valid Characters"
@@ -24830,7 +24810,7 @@ msgstr "_Impindurantego"
 
 #. /Src/FwCoreDlgs/FwCoreDlgControls/RegionVariantControl.resx::m_variantAbbrevLabel.Text
 msgid "Variant abbreviation:"
-msgstr "Impine y'impindurantego"
+msgstr "Impine y'impindurantego:"
 
 #. /|strings-en.xml::/Type/Minor entry|
 msgid "Variant Form"
@@ -24946,7 +24926,7 @@ msgstr ""
 #. field name for Data Notebook records
 #. /Src/FwResources/FwStrings.resx::kstidVersionHistory
 msgid "Version History"
-msgstr ""
+msgstr "Amateka y'ibonezanonosora"
 
 #. /Src/FwCoreDlgs/BackupRestore/RestoreProjectDlg.resx::label16.Text
 msgid "&Version:"
@@ -24993,7 +24973,7 @@ msgstr "Irebero"
 #. /Src/Utilities/Reporting/ReportingStrings.resx::kstidViewDetailsLink
 #. (String used 2 times.)
 msgid "View Details"
-msgstr ""
+msgstr "Reba birambuye"
 
 #. /Src/FwCoreDlgs/WritingSystemPropertiesDialog.resx::m_linkToEthnologue.Text
 msgid "View Ethnologue entry for byk"
@@ -25458,7 +25438,7 @@ msgstr "Kode y'ipaji ya Windows"
 
 #. /Src/LexText/LexTextControls/DataNotebook/NotebookImportWiz.resx::ContentMapHeader3.Text
 msgid "With Data"
-msgstr ""
+msgstr "N'amakuru shingiro"
 
 #. /Src/Common/Controls/XMLViews/BulkEditBar.resx::m_clickCopyWordButton.Text
 #. /Src/Common/Controls/XMLViews/XMLViewsStrings.resx::ksWord
@@ -25482,7 +25462,7 @@ msgstr "Amasesengura y'ijambo"
 
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksComplexConcWordBoundary
 msgid "Word Boundary"
-msgstr ""
+msgstr "Imbago z'ijambo"
 
 #. /Src/LexText/Morphology/MEStrings.resx::ksRuleWordBdryOpt
 msgid "Word Boundary (#)"
@@ -25496,7 +25476,7 @@ msgstr "Gukata ijambo"
 #. short for Word Category
 #. /Src/LexText/Interlinear/ITextStrings.resx::ksWordCat
 msgid "Word Cat."
-msgstr "Icyic. cy'ijambo"
+msgstr "Icyic. cy'ijambo."
 
 #. /Language Explorer/Configuration/Main.xml::/window/contextMenus/menu/menu/item/@label
 #. /Language Explorer/Configuration/Main-long.xml::/window/contextMenus/menu/menu/item/@label
@@ -25547,7 +25527,7 @@ msgstr "Amagambo y'ibisobanuro"
 #. Displays in Context column of Valid Patterns tab in Punctuation dialog box
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidWordInitial
 msgid "Word Initial"
-msgstr ""
+msgstr "Inyuguti itangira ijambo"
 
 #. /Language Explorer/Configuration/Words/Concordance/toolConfiguration.xml::/root/tools/tool/@label
 msgid "Word List Concordance"
@@ -25821,11 +25801,11 @@ msgstr ""
 #. file type
 #. /Src/LexText/LexTextControls/LexTextControls.resx::ksXmlSettings
 msgid "XML settings"
-msgstr ""
+msgstr "Igenamiterere ya XML"
 
 #. /Src/LexText/LexTextControls/LexImportWizardMarker.resx::m_lblInstances.Text
 msgid "XXXXX instances"
-msgstr ""
+msgstr "XXXXX ingero"
 
 #. /Src/Utilities/BasicUtils/ColorStrings.resx::kstidColor26
 msgid "Yellow,255,255,0"
@@ -26012,11 +25992,11 @@ msgstr ""
 
 #. /Src/xWorks/xWorksStrings.resx::HaveLaunchedFLEXTenTimes
 msgid "You have launched FLEX 10 times."
-msgstr "Umaze gufungura FLEX inshuro 10"
+msgstr "Umaze gufungura FLEX inshuro 10."
 
 #. /Src/xWorks/xWorksStrings.resx::HaveLaunchedFLEXFortyTimes
 msgid "You have launched FLEX 40 times."
-msgstr "Umaze gufungura FLEX inshuro 40"
+msgstr "Umaze gufungura FLEX inshuro 40."
 
 #. /Src/FwCoreDlgs/FwNewLangProject.resx::m_lblTipText.Text
 msgid "You may add additional writing systems and edit existing ones in the Project Properties dialog box."
@@ -26053,7 +26033,7 @@ msgstr ""
 
 #. /Src/LexText/Lexicon/LexEdStrings.resx::ksMustSelectOne
 msgid "You must select one to create."
-msgstr ""
+msgstr "Ugomba guhitamo kimwe kugira ngo uhange."
 
 #. Message for message box that is displayed when user tries to access the writing system properties dialog while connected to a project not on this computer.
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidMultiUserCantEditWs
@@ -26088,7 +26068,7 @@ msgstr ""
 
 #. /Src/LexText/LexTextControls/DataNotebook/ListRefFieldOptions.resx::columnHeader1.Text
 msgid "Your Data"
-msgstr ""
+msgstr "Amakurushingiro yawe"
 
 #. Warning message that appears when the text chart is displayed and there are no columns in the template.
 #. /Src/LexText/Discourse/DiscourseStrings.resx::ksNoColumns
@@ -26119,7 +26099,7 @@ msgstr ""
 
 #. /Src/FwCoreDlgs/FWCoreDlgsErrors.resx::kstidzeroCodepoint
 msgid "Zero is not a valid code point"
-msgstr ""
+msgstr "Zeru ntabwo ari code yemewe"
 
 #. Menu Command: {0} is the special regular expression metacharacter(s)
 #. /Src/FwCoreDlgs/FwCoreDlgs.resx::ksREZeroOrMore
@@ -26158,12 +26138,16 @@ msgid ""
 "{0}\n"
 "Error near: {1} {2} '{3}'"
 msgstr ""
+"{0}\n"
+"Ikosa hafi: {1} {2} '{3}'"
 
 #. /Src/TE/TeResources/TeStrings.resx::kstidBTTextNotPartOfParaDetails
 msgid ""
 "{0}\n"
 "\t(Style: {1})"
 msgstr ""
+"{0}\n"
+"\t(Sitile: {1})"
 
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidImportBadFile
 msgid ""
@@ -26306,7 +26290,7 @@ msgstr ""
 
 #. /Src/TE/TeEditorialChecks/EditorialChecksControl.resx::m_btnApplyFilter.Text
 msgid "Apply Filter"
-msgstr ""
+msgstr "Gukoresha mushunguzi"
 
 #. script language
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidArabicIndic
@@ -26335,7 +26319,7 @@ msgstr ""
 
 #. /Src/TE/TeDialogs/DraftPropertiesDialog.resx::label4.Text
 msgid "Attributes:"
-msgstr ""
+msgstr "Ibyitiriro:"
 
 #. This text will appear as a label for the Author field in the Notes window.
 #. /Src/TE/TeResources/TeStrings.resx::kstidAuthorLabel
@@ -26344,7 +26328,7 @@ msgstr "Umuhimbyi:"
 
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::fwOverrideComboBox1.Items10
 msgid "Auto"
-msgstr ""
+msgstr "Byikora"
 
 #. /Src/TE/TeImportExport/MappingDetailsCtrl.resx::chkBackTranslation.Text
 msgid "&Back Translation"
@@ -26539,12 +26523,12 @@ msgstr "Impine y'igitabo"
 
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::label13.Text
 msgid "Book Fold"
-msgstr ""
+msgstr "Idosiye y'ibitabo"
 
 #. Userview label for ScrBook.BookId and ScrBookRef.BookId
 #. /Src/TE/TeResources/TeStrings.resx::kstidLabelBookId
 msgid "Book ID"
-msgstr ""
+msgstr "ID y'Igitabo"
 
 #. /Src/TE/TeDialogs/BookPropertiesDialog.resx::label1.Text
 msgid "Book Identification:"
@@ -26579,12 +26563,12 @@ msgstr "[izina ry'igitabo]"
 #. Tooltip for the book properties menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBookPropertiesToolTip
 msgid "Book Properties"
-msgstr ""
+msgstr "Imiterere y'igitabo"
 
 #. Text for the book properties menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidBookPropertiesItemName
 msgid "&Book Properties..."
-msgstr ""
+msgstr "&Imiterere y'ibitabo..."
 
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::label26.Text
 msgid "Book start:"
@@ -26617,7 +26601,7 @@ msgstr ""
 
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::label2.Text
 msgid "&Bottom:"
-msgstr ""
+msgstr "&Hasi:"
 
 #. Userview label
 #. /Src/TE/TeResources/TeStrings.resx::kstidLabelScrBridge
@@ -26626,13 +26610,13 @@ msgstr ""
 
 #. /Src/TE/TeImportExport/ScrImportComponents.resx::kstidBrowseForPT5DlgTitle
 msgid "Browse for Paratext 5"
-msgstr ""
+msgstr "Gushakishiriza Paratext 5"
 
 #. /Src/TE/TeImportExport/ConfirmOverlappingFileReplaceDialog.resx::lblFileSize1.Text
 #. /Src/TE/TeImportExport/ConfirmOverlappingFileReplaceDialog.resx::lblFileSize2.Text
 #. (String used 2 times.)
 msgid "{0} bytes"
-msgstr ""
+msgstr "{0} bayite"
 
 #. Progress dialog message displayed when calculating differences for the diff view
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidMergeProgress
@@ -27108,7 +27092,7 @@ msgstr ""
 
 #. /Src/TE/DiffView/DiffDialog.resx::lblCurrent.Text
 msgid "Current Version:"
-msgstr ""
+msgstr "Ibonezacapa ry'ubu:"
 
 #. /Src/TE/TeDialogs/ToolsOptionsDialog.resx::rdoCustomList.Text
 #. /Src/TE/TeResources/TeStrings.resx::kstidStyleFilterCustomList
@@ -27168,12 +27152,12 @@ msgstr ""
 #. Text for the delete note context menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidDeleteNoteCmnuItemName
 msgid "&Delete Note"
-msgstr ""
+msgstr "&Gusiba note"
 
 #. Text for the delete note menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidEditDeleteNoteItemName
 msgid "Delete &Note"
-msgstr ""
+msgstr "Gusiba &Note"
 
 #. /Src/TeDll/ScrTextListSelectionForm.resx::uiDeleteSelections.Text
 msgid "Delete Saved Selections..."
@@ -27301,7 +27285,7 @@ msgstr ""
 #. {0} is supposedly a file pathname (but it's not!)
 #. /Src/TE/TeResources/TeStrings.resx::kstidImportXmlNotAFile
 msgid "{0} does not exist!"
-msgstr ""
+msgstr "{0} ntibibaho!"
 
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::rdoDoubleSide.Text
 msgid "Double Side"
@@ -27363,7 +27347,7 @@ msgstr "  Ku&noza"
 #. undo/redo text for editing a comment for an ignored scripture check inconsistency.
 #. /Src/TE/TeResources/TeStrings.resx::kstidUndoEditScrChkErrAnnotation
 msgid "Edit Annotation"
-msgstr ""
+msgstr "Kuboneza isasanura"
 
 #. Tooltip for the Editorial Checks
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidChecksEditAnnotationToolTip
@@ -27404,7 +27388,7 @@ msgstr ""
 #. /Src/TE/TeImportExport/SFFileListBuilder.resx::columnHeader9.Text
 #. (String used 3 times.)
 msgid "Encoding"
-msgstr ""
+msgstr "Kubihindura kodi"
 
 #. Error message when attempting to intialize the encoding converters.
 #. /Src/Common/ScrUtilsInterfaces/ScrUtilsStrings.resx::kstidEncConverterInitError
@@ -27431,16 +27415,16 @@ msgstr ""
 #. Diff dialog edit button text for leaving edit mode
 #. /Src/TE/TeResources/TeStrings.resx::kstidEndEdit
 msgid "End Ed&it"
-msgstr ""
+msgstr "Gusoza Ku&noza"
 
 #. /Src/TE/TeImportExport/ModifyMapping.resx::label3.Text
 msgid "End Marker:"
-msgstr ""
+msgstr "Akarango gasoza:"
 
 #. Userview label for ScrSection.VerseRefEnd
 #. /Src/TE/TeResources/TeStrings.resx::kstidLabelVerseRefEnd
 msgid "End Reference"
-msgstr ""
+msgstr "Iherezo ry'ikirngankomoko"
 
 #. /Src/TE/TeImportExport/CharacterMappingSettings.resx::lblEndMarker.Text
 msgid "&Ending Marker:"
@@ -27861,7 +27845,7 @@ msgstr ""
 #. label string for the Modify header/footer dialog
 #. /Src/Common/FwPrintLayoutComponents/FwPrintLayoutStrings.resx::kstidLabelFirstReference
 msgid "[first reference]"
-msgstr ""
+msgstr "[igishingirwaho cya mbere]"
 
 #. /Src/TE/TeEditorialChecks/CheckControl.resx::floatingToolStripMenuItem.Text
 #. /Src/TeDll/DockableUsfmBrowser.resx::floatingToolStripMenuItem.Text
@@ -27990,7 +27974,7 @@ msgstr ""
 
 #. /Src/TE/TeImportExport/ExportXmlDialog.resx::lblFrom.Text
 msgid "F&rom:"
-msgstr "Ku&va"
+msgstr "Ku&va:"
 
 #. /Src/TE/NotesView/MultipleFilterDlg.resx::lblScrFrom.Text
 msgid "From:"
@@ -28136,12 +28120,12 @@ msgstr ""
 #. Tooltip for the go to next section menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextSectionToolTip
 msgid "Go to Next Section"
-msgstr ""
+msgstr "Jya ku kiciro gakurikira"
 
 #. Alternate text for the go to next section item (used in the customize dialog).
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidGotoNextSectionItemNameAlt
 msgid "Go To Next Section"
-msgstr ""
+msgstr "Jya ku kiciro gakurikira"
 
 #. The tooltip for the back translation Next unfinished paragraph menu/toolbar item
 #. The tooltip for the back translation Next unfinished paragraph toolbar button
@@ -28488,7 +28472,7 @@ msgstr ""
 
 #. /Src/TE/TeDialogs/ToolsOptionsDialog.resx::m_cboMeasurement.Items
 msgid "Inches"
-msgstr ""
+msgstr "Inci"
 
 #. Occurs if the version number in the OXES file cannot be migrated to the current OXES version supported by TE
 #. /Src/Common/ScrUtilsInterfaces/ScrUtilsStrings.resx::kstidOxesMigrationFailed
@@ -28645,7 +28629,7 @@ msgstr ""
 #. Undo/Redo string for Insert Section
 #. /Src/TE/TeResources/TeStrings.resx::kstidInsertSection
 msgid "Insert Section"
-msgstr ""
+msgstr "Gucengezamo akiciro"
 
 #. Undo/Redo string for Insert Verse Number
 #. Text for the insert verse number menu item
@@ -28694,7 +28678,7 @@ msgstr "Imisusire"
 #. label add-on for interleaved control in exporting USFM scripture
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidExportUSFMInterleavedLabel
 msgid "(interleaved)"
-msgstr ""
+msgstr "(umwanya utanditsemo)"
 
 #. show style level
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidStyleLevelIntermediate
@@ -28704,7 +28688,7 @@ msgstr ""
 #. Text describing a book reference when the book contains only an introduction (e.g. Imported Books dialog and Saved Versions dialog)
 #. /Src/TE/TeResources/TeStrings.resx::kstidIntroOnly
 msgid "(intro only)"
-msgstr ""
+msgstr "(intangiriro gusa)"
 
 #. {0} is the 3-letter book abbreviation. {1} is the intro. section heading.
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidOxesExportIntro
@@ -28737,12 +28721,12 @@ msgstr ""
 #. Chapter/Verse check message
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::Invalid_chapter_number
 msgid "Invalid chapter number"
-msgstr ""
+msgstr "Umubare utemewe w'umutwe"
 
 #. Import error message
 #. /Src/Common/ScrUtilsInterfaces/ScrUtilsStrings.resx::kstidImportInvalidChapterNumber
 msgid "Invalid chapter number."
-msgstr ""
+msgstr "Umubare utemewe w'umutwe."
 
 #. Import error message
 #. /Src/Common/ScrUtilsInterfaces/ScrUtilsStrings.resx::kstidImportInvalidCharacterInMarker
@@ -28819,7 +28803,7 @@ msgstr "Izayi"
 #. Displays in Context column of Valid Patterns tab in Punctuation dialog box
 #. /Src/FwCoreDlgs/Properties/Resources.resx::kstidIsolated
 msgid "Isolated"
-msgstr ""
+msgstr "Cyashyizwe mu kato"
 
 #. UI Book name for scripture book 59
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidBookName59
@@ -29040,7 +29024,7 @@ msgstr ""
 #. This is the caption for the progress dialog when loading book names during a new project
 #. /Src/TE/TeResources/TeStrings.resx::kstidCreatingBookNames
 msgid "Loading Scripture Book Names"
-msgstr ""
+msgstr "Kwinjiza Amazina y'Ibitabo Bitagatifu"
 
 #. This is the caption for the progress dialog used when loading factory (default) scripture note categories.
 #. /Src/TE/TeResources/TeStrings.resx::kstidLoadingNoteCategoriesCaption
@@ -29198,7 +29182,7 @@ msgstr "Mika"
 
 #. /Src/TE/TeDialogs/ToolsOptionsDialog.resx::m_cboMeasurement.Items1
 msgid "Millimeters"
-msgstr "milimetero"
+msgstr "Milimetero"
 
 #. Text that is shown for missing back translation paragraphs in an RTF export.
 #. /Src/TE/TeResources/TeStrings.resx::kstidMissingBackTranslationText
@@ -29208,17 +29192,17 @@ msgstr ""
 #. Import error message
 #. /Src/Common/ScrUtilsInterfaces/ScrUtilsStrings.resx::kstidImportBooksNoChapters
 msgid "Missing chapter marker."
-msgstr ""
+msgstr "Harabura akarango k'umutwe."
 
 #. Chapter/Verse check message
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::Missing_chapter_number__0_
 msgid "Missing chapter number {0}"
-msgstr ""
+msgstr "Harabura umubare uranga umutwe {0}"
 
 #. Chapter/Verse check message
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::Missing_chapter_numbers__0___1_
 msgid "Missing chapter numbers {0}-{1}"
-msgstr ""
+msgstr "Harabura imibare iranga imitwe {0}-{1}"
 
 #. Quotation Marks check message
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::Missing_continuation_mark__level__0_
@@ -29419,7 +29403,7 @@ msgstr ""
 #. Caption for message box displayed when Compare/Merge option of import finds no differences
 #. /Src/TE/TeResources/TeStrings.resx::kstidNoDifferencesCaption
 msgid "No Differences Found"
-msgstr ""
+msgstr "Nta tandukaniro ryabonetse"
 
 #. Status value displayed in Imported Book dialog when there are no differences between the imported version of a book and the current version
 #. /Src/TE/TeResources/TeStrings.resx::kstidIdentical
@@ -29863,7 +29847,7 @@ msgstr "Ishusho yongereweho"
 #. Used in the diffTool window when a change was made to a picture
 #. /Src/TE/DiffView/TeDiffViewResources.resx::kstidPictureDifference
 msgid "Picture Difference"
-msgstr ""
+msgstr "Itandukaniro ry'amashusho"
 
 #. Used in the diffTool window when a picture is missing in the current
 #. /Src/TE/DiffView/TeDiffViewResources.resx::kstidPictureMissing
@@ -29883,7 +29867,7 @@ msgstr "&Ishusho..."
 #. Text for error message in USFM export dialog when file name is missing
 #. /Src/TE/TeResources/TeStrings.resx::kstidExportUSFMMissingFileName
 msgid "Please enter a file name."
-msgstr ""
+msgstr "Urasabwa kwinjizamo izina."
 
 #. /Src/TE/TeImportExport/FileNameSchemeCtrl.resx::lblPrefix.Text
 msgid "Pr&efix:"
@@ -30031,7 +30015,7 @@ msgstr ""
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPunctuationPatternsToolTip
 #. (String used 3 times.)
 msgid "Punctuation Patterns"
-msgstr ""
+msgstr "Imbonerahamwe y'utwatuzi"
 
 #. Text for context menu associated with editorial checks list.
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidPunctuationPatterns
@@ -30064,7 +30048,7 @@ msgstr "&Utwuguruzo n'utwugarizo..."
 #. This text will appear as a label for the Quote text in the Notes window.
 #. /Src/TE/TeResources/TeStrings.resx::kstidQuoteLabel
 msgid "Quote:"
-msgstr ""
+msgstr "Ubyavuzwe n'undi:"
 
 #. /Src/TE/TeDialogs/ImportedBooks.resx::colRange.Text
 msgid "Range"
@@ -30150,7 +30134,7 @@ msgstr "Ijambo ryasubiwemo"
 #. Scripture check name: Repeated Words
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::kstidName_72ABB400F274449892C577E99C90F75B
 msgid "Repeated Words"
-msgstr "Amagambo yasubiwemo:"
+msgstr "Amagambo yasubiwemo"
 
 #. /Src/TE/TeDialogs/ImportedBooks.resx::btnOverwrite.Text
 msgid "&Replace Range"
@@ -30555,7 +30539,7 @@ msgstr ""
 #. Name of versification system
 #. /Src/TE/TeResources/TeStrings.resx::kstidSeptuagintVersification
 msgid "Septuagint"
-msgstr ""
+msgstr "Sebutanti"
 
 #. /Src/TE/TeDialogs/FootnotePropertiesSelector.resx::optAlpha.Text
 msgid "Sequential:  &a, b, c, ..."
@@ -30639,15 +30623,15 @@ msgstr ""
 
 #. /Src/TE/TeImportExport/ExportXmlDialog.resx::m_rdoSingleBook.Text
 msgid "&Single book:"
-msgstr ""
+msgstr "&Igitabo kimwe:"
 
 #. /Src/TE/TeImportExport/ExportTbxDialog.resx::rdoSingleFile.Text
 msgid "Single &file"
-msgstr ""
+msgstr "I&dokima imwe"
 
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::rdoSingleSide.Text
 msgid "Single Side"
-msgstr ""
+msgstr "Uruhande rumwe"
 
 #. Message that appears in the respelling dialog when we know of occurrences of the wordform in Scripture sections not currently included in the concordance.
 #. /Src/LexText/Morphology/MEStrings.resx::ksExplainDisabledScripture
@@ -30750,7 +30734,7 @@ msgstr ""
 #. Status message in progress dialog when import is initializing
 #. /Src/TE/TeResources/TeStrings.resx::kstidImportInitializing
 msgid "Starting import..."
-msgstr ""
+msgstr "Tangira kwinjizamo..."
 
 #. /Src/TE/TeDialogs/ImportedBooks.resx::colStatus.Text
 msgid " Status"
@@ -30763,7 +30747,7 @@ msgstr "&Imihagararire"
 #. Progress bar message
 #. /Src/TE/TeResources/TeStrings.resx::kstidStoppingImport
 msgid "Stopping import..."
-msgstr ""
+msgstr "Hagarika kwinizamo..."
 
 #. The menu text for the training/student manual menu item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidTrainingStudentManual
@@ -31221,24 +31205,24 @@ msgstr ""
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidNotesHelpToolTip
 #. (String used 2 times.)
 msgid "Translation Editor Notes"
-msgstr ""
+msgstr "Note za Munonosora Semurandimi"
 
 #. Text for menu item that shows the help topic for the notes window.
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidNotesHelpItemName
 msgid "Translation Editor Notes..."
-msgstr ""
+msgstr "Note za Munonosora Semurandimi..."
 
 #. /Src/TE/TeImportExport/ImportWizard.resx::columnHeader2.Text
 #. /Src/TE/TeImportExport/ImportWizard.resx::columnHeader5.Text
 #. /Src/TE/TeImportExport/ImportWizard.resx::columnHeader8.Text
 #. (String used 3 times.)
 msgid "Translation Editor Style"
-msgstr ""
+msgstr "Imiterere ya Munonosora Semurandimi"
 
 #. The text for the Translation Editor help menu/toolbar item
 #. /Src/TE/TeResources/TeTMStrings.resx::kstidAppHelpItemName
 msgid "Translation Editor..."
-msgstr ""
+msgstr "Munonosora Semurandimi..."
 
 #. /Src/TE/TeImportExport/ImportWizard.resx::label23.Text
 msgid "&Translation Notes Project:"
@@ -31259,7 +31243,7 @@ msgstr "Impindurandimi"
 #. Scripture task--This text will appear in Sidebar, Views menu, and Information Bar
 #. /Src/TE/TeResources/TeStrings.resx::kstidTrialPublicationView
 msgid "Trial Publication"
-msgstr ""
+msgstr "Ukugerageza gutangaza"
 
 #. /Src/Common/FwPrintLayoutComponents/PageSetupDlg.resx::lblTwoCol.Text
 msgid "Two"
@@ -31281,7 +31265,7 @@ msgstr ""
 
 #. /Src/TE/TeEditorialChecks/EditorialChecksRenderingsControl.resx::m_TypeOfCheck.HeaderText
 msgid "Type of Check"
-msgstr ""
+msgstr "Ubwoko bwígenzura"
 
 #. Displayed as user prompt in an empty section head paragraph
 #. /Src/TE/TeResources/TeStrings.resx::kstidSectionHeadUserPrompt
@@ -31394,12 +31378,12 @@ msgstr "&Bitakemuwe"
 #. Status value displayed in Imported Book dialog when there is one unreviewed differences between the imported version of a book and the current version after using the Compare and Merge dialog box.
 #. /Src/TE/TeResources/TeStrings.resx::kstidOneRemainingDifference
 msgid "1 unreviewed difference remaining"
-msgstr ""
+msgstr "hasigaye itandukaniro 1 ritasuzumwe"
 
 #. Status value displayed in Imported Book dialog when there are still unreviewed differences between the imported version of a book and the current version after using the Compare and Merge dialog box.
 #. /Src/TE/TeResources/TeStrings.resx::kstidRemainingDifferences
 msgid "{0} unreviewed differences remaining"
-msgstr ""
+msgstr "hasigaye amatandukaniro {0} atasuzumwe"
 
 #. Punctuation check message
 #. /Src/FDO/DomainServices/ScrFdoResources.resx::Unspecified_use_of_punctuation_pattern
@@ -31435,12 +31419,12 @@ msgstr ""
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidUpdateVerseBridgesInBook
 #. (String used 2 times.)
 msgid "Updating {0}"
-msgstr ""
+msgstr "Ihuza n'igihe {0}"
 
 #. Progress dialog message displayed when auto-merging differences for streamlined Paratext import
 #. /Src/TE/TeResources/TeDialogStrings.resx::kstidAutoAcceptMergeProgress
 msgid "Updating {0}..."
-msgstr ""
+msgstr "Uguhuza n'igihe {0}..."
 
 #. Progress dialog message
 #. /Src/TE/TeResources/TeStrings.resx::kstidUpdateKeyTermEquivalentsProgressCaption
@@ -31499,7 +31483,7 @@ msgstr ""
 
 #. /Src/TE/TeDialogs/ToolsOptionsDialog.resx::label1.Text
 msgid "User interface language:"
-msgstr "Ururimi rw'idirishya ry'ukoresha iyi porogaramu"
+msgstr "Ururimi rw'idirishya ry'ukoresha iyi porogaramu:"
 
 #. MessageBox prompt used in Compare and Merge dialog box
 #. /Src/TE/TeResources/TeStrings.resx::kstidConfirmUseThisVersion
@@ -31531,7 +31515,7 @@ msgstr "Igisobanuro bijyanye mu rurimi gakondo nticyatanzwe"
 
 #. /Src/TE/TeImportExport/ImportWizard.resx::label25.Text
 msgid "&Vernacular Project:"
-msgstr "&Umushinga mu rurimi gakondo"
+msgstr "&Umushinga mu rurimi gakondo:"
 
 #. Used in the diffTool window when a verse was added
 #. /Src/TE/DiffView/TeDiffViewResources.resx::kstidVerseAdded
