@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Lists date="2020-08-19 2:28:46 PM">
+<Lists date="2020-10-08 4:31:30 PM">
 <List owner="LexDb" field="DomainTypes" itemClass="CmPossibility">
 <Name>
 <AUni ws="en">Academic Domains</AUni>
@@ -8477,7 +8477,7 @@
 <AUni ws="en">Morpheme Types</AUni>
 </Name>
 <Abbreviation>
-<AUni ws="en">MorphTyp</AUni>
+<AUni ws="en">Not User-Facing (do not localize)</AUni>
 </Abbreviation>
 <Possibilities>
 <MoMorphType guid="56db04bf-3d58-44cc-b292-4c8aa68538f4">
@@ -8889,7 +8889,7 @@
 <AUni ws="en">Pos</AUni>
 </Abbreviation>
 <Possibilities>
-<PartOfSpeech>
+<PartOfSpeech guid="46e4fe08-ffa0-4c8b-bf98-2c56f38904d9">
 <Name>
 <AUni ws="en">Adverb</AUni>
 </Name>
@@ -8902,7 +8902,7 @@
 </AStr>
 </Description>
 </PartOfSpeech>
-<PartOfSpeech>
+<PartOfSpeech guid="a8e41fd3-e343-4c7c-aa05-01ea3dd5cfb5">
 <Name>
 <AUni ws="en">Noun</AUni>
 </Name>
@@ -8914,8 +8914,64 @@
 <Run ws="en">A noun is a broad classification of parts of speech which include substantives and nominals.</Run>
 </AStr>
 </Description>
+<SubPossibilities>
+<PartOfSpeech guid="085360ef-166c-4324-a5c4-5f4d8eabf75a">
+<Name>
+<AUni ws="en">Nominal</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">nom</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A nominal is a part of speech whose members differ grammatically from a substantive but which functions as one.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="18b523c8-7dca-4361-93d8-6d039335f26d">
+<Name>
+<AUni ws="en">Gerund</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">ger</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A part of speech derived from a verb and used as a noun, usually restricted to non-finite forms of the verb.</Run>
+</AStr>
+</Description>
 </PartOfSpeech>
-<PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="a8d31dff-1cdd-4bc7-ab3a-befef67711c2">
+<Name>
+<AUni ws="en">Proper  Noun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">nprop</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">Proper noun, also referred to as proper names, is the class of nouns that are used to address particular persons or culturally significant personages or places. They refer to specific entities and are not usually with articles, modifiers, or possessors.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="584412e9-3a96-4251-99e2-438f1394432e">
+<Name>
+<AUni ws="en">Substantive</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">subs</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A substantive is a member of the syntactic class in which the names of physical, concrete, relatively unchanging experiences are most typically found whose members may act as subjects and objects, and most of whose members have inherently determined grammatical gender (in languages which inflect for gender).</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="a4fc78d6-7591-4fb3-8edd-82f10ae3739d">
 <Name>
 <AUni ws="en">Pro-form</AUni>
 </Name>
@@ -8928,7 +8984,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<PartOfSpeech>
+<PartOfSpeech guid="a3274cfd-225f-45fd-8851-a7b1a1e1037a">
 <Name>
 <AUni ws="en">Pronoun</AUni>
 </Name>
@@ -8940,10 +8996,144 @@
 <Run ws="en">A pronoun is a pro-form which functions like a noun and substitutes for a noun or noun phrase.</Run>
 </AStr>
 </Description>
+<SubPossibilities>
+<PartOfSpeech guid="b5d9ab85-fa93-4d6a-892b-837efb299ef7">
+<Name>
+<AUni ws="en">Indefinite pronoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">indfpro</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An indefinite pronoun is a pronoun that belongs to a class whose members indicate indefinite reference.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="2fad3a89-47d7-472a-a8cc-270e7e3e0239">
+<Name>
+<AUni ws="en">Personal pronoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">pers</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A personal pronoun is a pronoun that expresses a distinction of person deixis.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="98f5507f-bf51-43e4-8e08-e066c36c6d6e">
+<Name>
+<AUni ws="en">Emphatic pronoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">emph</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An emphatic pronoun is a personal pronoun that is used to emphasize its referent.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="64e3b502-90f5-4df0-9212-65f6e5c96c30">
+<Name>
+<AUni ws="en">Possessive pronoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">poss</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A possessive pronoun is a pronoun that expresses ownership and relationships like ownership, such as kinship, and other forms of association.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="605c54f9-a81f-4bca-8d8c-a6fb08c29676">
+<Name>
+<AUni ws="en">Reflexive pronoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">refl</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A reflexive pronoun is a pronoun that has coreference with the subject.</Run>
+</AStr>
+</Description>
 </PartOfSpeech>
 </SubPossibilities>
 </PartOfSpeech>
-<PartOfSpeech>
+<PartOfSpeech guid="d9a90c6c-3575-4937-bfaf-b3585a1954a9">
+<Name>
+<AUni ws="en">Reciprocal pronoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">recp</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A reciprocal pronoun is a pronoun that expresses a mutual feeling or action among the referents of a plural subject.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="3f9bffe2-da9b-42fa-afbd-d7ca8bca7d4a">
+<Name>
+<AUni ws="en">Relative pronoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">relpro</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A relative pronoun is a pronoun that marks a relative clause, functions grammatically within the relative clause, and is coreferential to the word modified by the relative clause.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="e5e7d0cb-36c5-497d-831c-cb614e283d7c">
+<Name>
+<AUni ws="en">Interrogative pro-form</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">interrog</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An interrogative pro-form is a pro-form that is used in questions to stand for the item questioned.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="e28bb667-fcaa-4c6e-944b-9b90683a2570">
+<Name>
+<AUni ws="en">Pro-adjective</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">pro-adj</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A pro-adjective is a pro-form that substitutes for an adjective or adjective phrase.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="d599dd69-b445-4627-a7f3-b9647abdb905">
+<Name>
+<AUni ws="en">Pro-adverb</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">pro-adv</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A pro-adverb is a pro-form that substitutes for an adverb or other expression having an adverbial function.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="86ff66f6-0774-407a-a0dc-3eeaf873daf7">
 <Name>
 <AUni ws="en">Verb</AUni>
 </Name>
@@ -8953,6 +9143,535 @@
 <Description>
 <AStr ws="en">
 <Run ws="en">A verb is a part of speech whose members typically signal events and actions; constitute, singly or in a phrase, a minimal predicate in a clause; govern the number and types of other constituents which may occur in the clause; and, in inflectional languages, may be inflected for tense, aspect, voice, modality, or agreement with other constituents in person, number, or grammatical gender.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="55f2a00e-5f07-4ace-8a44-8794ed1a38a8">
+<Name>
+<AUni ws="en">Copulative verb</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">cop</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A verb which has little independent meaning, and whose main function is to relate other elements of clause structure, especially subject and complement (e.g. "seem", "appear").</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="efadf1d3-580a-4e4b-a94c-3f1d6e59c5fc">
+<Name>
+<AUni ws="en">Ditransitive verb</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">vd</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A ditransitive verb is a verb that takes two objects.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="4459ff09-9ee0-4b50-8787-ae40fd76d3b7">
+<Name>
+<AUni ws="en">Intransitive verb</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">vi</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An intransitive verb is a verb that cannot take a direct object, and describes a property, state, or situation involving only one participant.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="54712931-442f-42d5-8634-f12bd2e310ce">
+<Name>
+<AUni ws="en">Transitive verb</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">vt</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A transitive verb is a verb that takes a direct object, and describes a relation between two participants.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="30d07580-5052-4d91-bc24-469b8b2d7df9">
+<Name>
+<AUni ws="en">Adjective</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">adj</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An adjective is a part of speech whose members modify nouns. An adjective specifies the attributes of a noun referent. Note: this is one case among many. Adjectives are a class of modifiers.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="ae115ea8-2cd7-4501-8ae7-dc638e4f17c5">
+<Name>
+<AUni ws="en">Adposition</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">adp</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An adposition is a part of speech whose members are of a closed set and occur before or after a complement composed of a noun phrase, noun, pronoun, or clause that functions as a noun phrase and forms a single structure with the complement to express its grammatical and semantic relation to another unit within a clause.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="18f1b2b8-0ce3-4889-90e9-003fed6a969f">
+<Name>
+<AUni ws="en">Postposition</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">post</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A postposition is an adposition that occurs after its complement.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="923e5aed-d84a-48b0-9b7a-331c1336864a">
+<Name>
+<AUni ws="en">Preposition</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">prep</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A preposition is an adposition that occurs before its complement.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="31616603-aadd-47af-a710-cb565fbbbd57">
+<Name>
+<AUni ws="en">Classifier</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">clf</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A classifier is a part of speech whose members express the classification of a noun.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="131209ac-b8f1-44aa-b4f0-9a983e3d5bad">
+<Name>
+<AUni ws="en">Noun classifier</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">nclf</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A noun classifier is a part of speech whose members express the classification of a noun</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="6e0682a7-efd4-43c9-b083-22c4ce245419">
+<Name>
+<AUni ws="en">Connective</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">conn</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">Also known as a conjunction, a connective is a class of parts of speech whose members syntactically link words or larger constituents, and expresses a semantic relationship between them. A conjunction is positionally fixed relative to one or more of the elements related by it, thus distinguishing it from constituents such as English conjunctive adverbs.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="75ac4332-a445-4ce8-918e-b27b04073745">
+<Name>
+<AUni ws="en">Coordinating connective</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">coordconn</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A coordinating connective is a connective that links constituents without syntactically subordinating one to the other.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="2d7a5bc6-bbc7-4be9-a036-3d046dbc65f7">
+<Name>
+<AUni ws="en">Correlative connective</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">correlconn</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A correlative connective is either of a pair of coordinating conjunctions (connectives) used in ordered fashion. Typically, one is used immediately before each member of a pair of constituents.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="09052f32-bf65-400a-8179-6a1c54ef30c9">
+<Name>
+<AUni ws="en">Subordinating connective</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">subordconn</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A subordinating connective is a connective that links constructions by making one of them a constituent of another. The subordinating conjunction typically marks the incorporated constituent.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="a0a9906d-d987-42cb-8a65-f549462b16fc">
+<Name>
+<AUni ws="en">Adverbializer</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">advlizer</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An adverbializer is a subordinating connective that links a subordinate clause to a main clause, and indicates that the subordinate clause has an 'adverbial' or interpropositional relation to the main clause, indicating purpose, condition, time, and location.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="8f7ba502-e7c9-4bc4-a881-b0cb1b630466">
+<Name>
+<AUni ws="en">Complementizer</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">comp</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A complementizer is a connective which marks a complement clause.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="c5f222a3-e1aa-4250-b196-d94f0eb0d47b">
+<Name>
+<AUni ws="en">Relativizer</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">rel</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A relativizer is a subordinating connective that links a relative clause to its head noun. It is distinguishable from a relative pronoun in that it does not have a nominal function within the relative clause.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="6df1c8ee-5530-4180-99e8-be2afab0f60d">
+<Name>
+<AUni ws="en">Determiner</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">det</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A determiner is a part of speech whose members belong to a class of noun modifiers and express the reference, including quantity, of a noun.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="af3f65de-b0d5-4243-a196-53b67bd6a4df">
+<Name>
+<AUni ws="en">Article</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">art</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An article is a member of a small class of determiners that identify a noun's definite or indefinite reference, and new or given status.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="92ab3e14-e1af-4e7f-8492-e37a1f386e3f">
+<Name>
+<AUni ws="en">Definite article</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">def</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A definite article is a part of speech whose members refer to a specific, identifiable entity (or class of entities).</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="d07c625d-ff8b-4c4e-99be-e32b2924626e">
+<Name>
+<AUni ws="en">Indefinite article</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">indf</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An indefinite article is a part of speech whose members are used to refer to an entity (or class of entities) which is not capable of specific identification.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="093264d7-06c3-42e1-bc4d-5a965ce63887">
+<Name>
+<AUni ws="en">Demonstrative</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">dem</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A demonstrative is a determiner that is used deictically to indicate a referent's spatial, temporal, or discourse location. A demonstrative functions as a modifier of a noun, or a pronoun.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="a4a759b4-5a10-4d7a-80a3-accf5bd840b1">
+<Name>
+<AUni ws="en">Quantifier</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">quant</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A quantifier is a determiner that expresses a referent's definite or indefinite number or amount. A quantifier functions as a modifier of a noun, or a pronoun.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="e680330e-2b41-4bec-b96b-514743c47cae">
+<Name>
+<AUni ws="en">Numeral</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">num</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A numeral is a part of speech whose members function most typically as adjectives or pronouns and express a number, or relation to the number, such as one of the following: quantity, sequence, frequency, fraction.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="a5311f3b-ff98-47d2-8ece-b1aca03a8bbd">
+<Name>
+<AUni ws="en">Cardinal numeral</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">cardnum</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A cardinal numeral is a numeral of the class whose members are considered basic in form, are used in counting, and are used in expressing how many objects are referred to.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="b330eb7d-f43d-4531-846e-5cd5820851ad">
+<Name>
+<AUni ws="en">Distributive numeral</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">distrnum</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A distributive numeral is a numeral which expresses a group of the number specified.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="1c030229-affa-4729-9773-878100c1fd28">
+<Name>
+<AUni ws="en">Multiplicative numeral</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">multipnum</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A multiplicative numeral is a numeral that expresses how many fold or how many times.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="3d9d43d6-527c-4e79-be00-82cf2d0fd9bd">
+<Name>
+<AUni ws="en">Ordinal numeral</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">ordnum</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An ordinal numeral is a numeral belonging to a class whose members designate positions in a sequence.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="0e652cc3-ef08-4cb1-8b73-a68ebd8e7c04">
+<Name>
+<AUni ws="en">Partitive numeral</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">partnum</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A partitive numeral is a numeral that expresses a fraction.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="6e758bbc-2b40-427d-b79f-bf14a7c96c6a">
+<Name>
+<AUni ws="en">Particle</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">prt</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A particle is a part of speech whose members do not belong to one of the main classes of words, is invariable, and typically has grammatical or pragmatic meaning.</Run>
+</AStr>
+</Description>
+<SubPossibilities>
+<PartOfSpeech guid="c6853f58-a74c-483e-9494-732002a7ab5b">
+<Name>
+<AUni ws="en">Nominal particle</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">nomprt</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A nominal particle is a member of a closed class of particles that co-occur with nouns.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="07455e91-118a-4d7d-848c-39bedd355a3d">
+<Name>
+<AUni ws="en">Question particle</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">q</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A question particle is a part of speech whose members signal a yes/no question.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="12435333-c423-43d7-acf9-6028e3d20a42">
+<Name>
+<AUni ws="en">Verbal particle</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">verbprt</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A verbal particle is a member of a closed class of particles which co-occur with some verbs to form phrasal verbs. In some languages, verbal particles are identical to certain adpositions.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+</SubPossibilities>
+</PartOfSpeech>
+<PartOfSpeech guid="25b2ef8c-d87e-4868-898c-8f5375afeeb3">
+<Name>
+<AUni ws="en">Existential marker</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">existmrkr</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An existential marker is a part of speech whose members are found in distinct clause types and which mark a referent's existence.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="cc60cb18-5067-442b-a740-d3b913b2610a">
+<Name>
+<AUni ws="en">Expletive</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">expl</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An expletive (also known as a dummy word) is a part of speech whose members have no meaning, but complete a sentence to make it grammatical.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="d32dff62-4117-4762-a887-96478406769b">
+<Name>
+<AUni ws="en">Interjection</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">interj</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An interjection is a part of speech, typically brief in form, such as one syllable or word, whose members are used most often as exclamations or parts of an exclamation. An interjection, typically expressing an emotional reaction, often with respect to an accompanying sentence, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="83fdec31-e15b-40e7-bcd2-69134c5a0fcd">
+<Name>
+<AUni ws="en">Participle</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">ptcp</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A participle refers to non-finite forms of verbs other than infinitive. In some uses it is restricted to those forms that are used as an adjective.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="f1ac9eab-5f8c-41cf-b234-e53405aaaac5">
+<Name>
+<AUni ws="en">Prenoun</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">prenoun</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An element which may be compounded to the front of a noun to signal information such as size, color, etc..</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="4e676ad2-542d-461d-9d78-1dbcb55ec456">
+<Name>
+<AUni ws="en">Preverb</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">preverb</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An element which may be compounded to the front of a verb, to signal information such as tense, direction, etc..</Run>
 </AStr>
 </Description>
 </PartOfSpeech>
