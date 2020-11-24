@@ -23,3 +23,11 @@ The authoritative list of supported languages is maintained at https://crowdin.c
   3. Merge in changes, and push the result.
 
           meld control-l10n control
+
+**Removing or adding strings**
+
+If you remove strings from FieldWorks you will need to get your system ready to run the `uploadUpdatesForTranslation` build target.
+
+1. Make sure that you have liblcm cloned locally, checked out to the right branch, and specified in your `LibraryDevelopment.properties` file.
+2. Set the `CROWDIN_API_KEY` to the version 1 Api key for the FieldWorks crowdin project.
+3. `build /t:uploadUpdatesForTranslation`
