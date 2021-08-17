@@ -1,0 +1,23 @@
+name: fetch-crowdin
+
+on:
+  push:
+    branches: [ master, develop ]
+  pull_request:
+    branches: [ master, develop ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v1
+      with:
+        dotnet-version: 2.1.x
+    - name: Install overcrowdin
+      run: dotnet tool update -g overcrowdin || dotnet tool install -g overcrowdin
+    - name: Download crowdin localizations
+      run: overcrowdin download -v -r2 -f crowdin.zip
