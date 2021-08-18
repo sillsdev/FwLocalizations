@@ -20,7 +20,15 @@ jobs:
     - name: Install overcrowdin
       run: dotnet tool update -g overcrowdin || dotnet tool install -g overcrowdin
     - name: Crowdin settings
-      run: tee crowdin.json <<<'{"project_identifier": "fieldworks", "api_key_env": "CROWDIN_API_KEY", "base_path": ".", "branch": "FieldWorks-9.0" }'
+      run: |
+        tee crowdin.json <<< '
+          {
+            \"project_identifier\": \"fieldworks\", 
+            \"api_key_env\": \"CROWDIN_API_KEY\", 
+            \"base_path\": \".\", 
+            \"branch\": \"FieldWorks-9.0\",
+          }
+        '
     - name: Download crowdin localizations
       env:
         CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
