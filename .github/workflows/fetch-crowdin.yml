@@ -55,7 +55,7 @@ jobs:
         [[ -n ${BRANCH_NAME} ]] || BRANCH_NAME=${{github.ref}}
         echo >> "${GITHUB_ENV}" "BUILD_VERSION=${BUILD_VERSION}"
         echo >> "${GITHUB_ENV}" "TAG_NAME=${TAG_NAME}"
-        echo >> "${BRANCH_NAME}" "BRANCH_NAME=${BRANCH_NAME}"
+        echo >> "${GITHUB_ENV}" "BRANCH_NAME=${BRANCH_NAME}"
     - name: Publish artifacts as Github release
       uses: ncipollo/release-action@v1.8.6
       with:
