@@ -38,11 +38,11 @@ jobs:
         overcrowdin download -v -r2 -f crowdin.zip
         mkdir artifacts
         mv crowdin.zip artifacts/
-    - name: Save artifacts
-      uses: actions/upload-artifact@v2
-      with: 
-        name: crowdin-localizations
-        path: artifacts/
+    #- name: Save artifacts
+    #  uses: actions/upload-artifact@v2
+    #  with: 
+    #    name: crowdin-localizations
+    #    path: artifacts/
     - name: Determine build version
       run: |
         set -xueo pipefail
