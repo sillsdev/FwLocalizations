@@ -34,7 +34,9 @@ jobs:
         CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
       # TODO crowdin localizations are provided for multiple branches. So fetch
       # and provide from multiple branches.
-      run: overcrowdin download -v -r2 -f crowdin.zip
+      run: |
+        overcrowdin download -v -r2 -f crowdin.zip
+        mv crowdin.zip artifacts/
     - name: Save artifacts
       uses: actions/upload-artifact@v2
       with: 
