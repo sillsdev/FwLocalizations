@@ -20,4 +20,6 @@ jobs:
     - name: Install overcrowdin
       run: dotnet tool update -g overcrowdin || dotnet tool install -g overcrowdin
     - name: Download crowdin localizations
+      env:
+        CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
       run: overcrowdin download -v -r2 -f crowdin.zip
