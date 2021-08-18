@@ -32,6 +32,8 @@ jobs:
     - name: Download crowdin localizations
       env:
         CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
+      # TODO crowdin localizations are provided for multiple branches. So fetch
+      # and provide from multiple branches.
       run: overcrowdin download -v -r2 -f crowdin.zip
     - name: Save artifacts
       uses: actions/upload-artifact@v2
@@ -41,6 +43,7 @@ jobs:
     - name: Determine build version
       run: |
         set -xueo pipefail
+        git fetch --unshallow
         BUILD_VERSION=$(git describe)
         TAG_NAME=$(git describe|perl -p -e 's/FieldWorks/v/')
         # Set BRANCH_NAME to the branch targetted by a PR, if this is a PR, or to
