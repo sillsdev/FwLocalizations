@@ -36,6 +36,7 @@ jobs:
       # and provide from multiple branches.
       run: |
         overcrowdin download -v -r2 -f crowdin.zip
+        mkdir artifacts
         mv crowdin.zip artifacts/
     - name: Save artifacts
       uses: actions/upload-artifact@v2
