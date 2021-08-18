@@ -33,3 +33,35 @@ jobs:
       env:
         CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
       run: overcrowdin download -v -r2 -f crowdin.zip
+    - name: Save artifacts
+      uses: actions/upload-artifact@v2
+      with: 
+        name: crowdin-localizations
+        path: artifacts/
+    - name: Determine build version
+      run: |
+        set -xueo pipefail
+        BUILD_VERSION=$(git describe)
+        TAG_NAME=$(git describe|perl -p -e 's/FieldWorks/v/')
+        # Set BRANCH_NAME to the branch targetted by a PR, if this is a PR, or to
+        # the name of the current branch, if this is not a PR. eg 'refs/heads/develop'.
+        BRANCH_NAME=${{github.base_ref}}
+        [[ -n ${BRANCH_NAME} ]] || BRANCH_NAME=${{github.ref}}
+        echo >> "${GITHUB_ENV}" "BUILD_VERSION=${BUILD_VERSION}"
+        echo >> "${GITHUB_ENV}" "TAG_NAME=${TAG_NAME}"
+        echo >> "${BRANCH_NAME}" "TAG_NAME=${BRANCH_NAME}"
+    - name: Publish artifacts as Github release
+      uses: ncipollo/release-action@v1.8.6
+      with:
+        artifacts: "artifacts/*"
+        prerelease: false
+        # Branch to build from
+        commit: "${{ env.BRANCH_NAME }}"
+        # Name of new tag to be created
+        tag: "${{ env.TAG_NAME }}"
+        allowUpdates: true
+        artifactErrorsFailBuild: true
+        # Name of release
+        name: "${{env.TAG_NAME}}-${{env.BRANCH_NAME}}"
+        body: "Crowdin localizations"
+        token: ${{ secrets.GITHUB_TOKEN }}
