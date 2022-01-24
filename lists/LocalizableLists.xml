@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Lists date="2020-10-08 4:31:30 PM">
+<Lists date="2022-01-24 14:46:16">
 <List owner="LexDb" field="DomainTypes" itemClass="CmPossibility">
 <Name>
 <AUni ws="en">Academic Domains</AUni>
@@ -8632,7 +8632,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">A root is the portion of a word that (i) is common to a set of derived or inflected forms, if any, when all affixes are removed, (ii) is not further analyzable into meaningful elements, being morphologically simple, and, (iii) carries the principle portion of meaning of the words in which it functions.</Run>
+<Run ws="en">A root is the portion of a word that (i) is common to a set of derived or inflected forms, if any, when all affixes are removed, (ii) is not further analyzable into meaningful elements, being morphologically simple, and, (iii) carries the principal portion of meaning of the words in which it functions.</Run>
 </AStr>
 </Description>
 </MoMorphType>
@@ -8707,7 +8707,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">A suffixing interfix is an suffix that can occur between two roots or stems.</Run>
+<Run ws="en">A suffixing interfix is a suffix that can occur between two roots or stems.</Run>
 </AStr>
 </Description>
 </MoMorphType>
@@ -71777,7 +71777,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(6) What onomatopoeic words refer to moving quickly?</AUni>
+<AUni ws="en">(6) What ideophones are used of moving quickly?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">zip, zoom, whiz, vroom, chop chop</AUni>
@@ -71824,7 +71824,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(4) What onomatopoeic words refer to moving slowly?</AUni>
+<AUni ws="en">(4) What ideophones are used of moving slowly?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">chug</AUni>
@@ -96671,20 +96671,20 @@
 </CmSemanticDomain>
 <CmSemanticDomain guid="8206415e-a915-4842-a46a-fbea64f1a0e3">
 <Name>
-<AUni ws="en">Onomatopoeic words</AUni>
+<AUni ws="en">Ideophones</AUni>
 </Name>
 <Abbreviation>
 <AUni ws="en">9.2.8</AUni>
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain to list all onomatopoeic words. If there are many onomatopoeic words in your language, it is probably not worth the trouble to list them here. The Shoebox program (and other dictionary programs) can sort your dictionary by part of speech.</Run>
+<Run ws="en">Use this domain to list all ideophones. If there are many ideophones in your language, it is probably not worth the trouble to list them here. Dictionary programs can sort your dictionary by part of speech, if needed.</Run>
 </AStr>
 </Description>
 <Questions>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(1) What onomatopoeic words are in your language?</AUni>
+<AUni ws="en">(1) What ideophones are in your language?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">knick-knack, flimflam</AUni>
