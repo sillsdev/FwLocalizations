@@ -5,6 +5,9 @@ The authoritative list of supported languages is maintained at https://crowdin.c
 - FLExInstaller/CustomComponents.wxi (multiple places)
 - FLExInstaller/CustomFeatures.wxi
 - ¿Others?
+  1. A search for “zh” in fwrepo/fw/Build and fwrepo/fw/FLExInstaller should reveal all of these lists
+  2. In other places, we build the list dynamically using something like `<LocaleDirs Include="$([System.IO.Directory]::GetDirectories(&quot;$(L10nsDirectory)&quot;))"/>` (these do not need to be updated)
+
 - Linux localization package specifications need regenerated for new localizations to be shipped:
 
   1. Checkout the latest localization files.
