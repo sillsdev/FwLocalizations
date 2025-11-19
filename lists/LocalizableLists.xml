@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Lists date="2025-11-19T20:51:44Z">
+<Lists date="2025-11-19T21:00:33Z">
 <List owner="LexDb" field="DomainTypes" itemClass="CmPossibility">
 <Name>
 <AUni ws="en">Academic Domains</AUni>
@@ -8,7 +8,7 @@
 <AUni ws="en">AcDom</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="b0add746-ea5e-11de-8c5c-0013722f8dec">
 <Name>
 <AUni ws="en">anatomy</AUni>
 </Name>
@@ -16,7 +16,7 @@
 <AUni ws="en">Anat</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b0b9c2fe-ea5e-11de-8fed-0013722f8dec">
 <Name>
 <AUni ws="en">anthropology</AUni>
 </Name>
@@ -24,7 +24,7 @@
 <AUni ws="en">Anthro</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b0c5aeac-ea5e-11de-9463-0013722f8dec">
 <Name>
 <AUni ws="en">cultural anthropology</AUni>
 </Name>
@@ -32,7 +32,7 @@
 <AUni ws="en">Cult anthro</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b0cf380a-ea5e-11de-898a-0013722f8dec">
 <Name>
 <AUni ws="en">cross cultural adaptation</AUni>
 </Name>
@@ -44,7 +44,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b0db23c2-ea5e-11de-9597-0013722f8dec">
 <Name>
 <AUni ws="en">artificial intelligence</AUni>
 </Name>
@@ -52,7 +52,7 @@
 <AUni ws="en">Artintel</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b0e70f70-ea5e-11de-9907-0013722f8dec">
 <Name>
 <AUni ws="en">computer science</AUni>
 </Name>
@@ -60,7 +60,7 @@
 <AUni ws="en">Comp sci</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b0f098ce-ea5e-11de-84f4-0013722f8dec">
 <Name>
 <AUni ws="en">education</AUni>
 </Name>
@@ -68,7 +68,7 @@
 <AUni ws="en">Ed</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b0fc847c-ea5e-11de-85e8-0013722f8dec">
 <Name>
 <AUni ws="en">graphology</AUni>
 </Name>
@@ -76,7 +76,7 @@
 <AUni ws="en">Graph</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1087034-ea5e-11de-940d-0013722f8dec">
 <Name>
 <AUni ws="en">language learning</AUni>
 </Name>
@@ -84,7 +84,7 @@
 <AUni ws="en">lang lrn</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b111f992-ea5e-11de-98c0-0013722f8dec">
 <Name>
 <AUni ws="en">legal</AUni>
 </Name>
@@ -92,7 +92,7 @@
 <AUni ws="en">Leg</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b11de540-ea5e-11de-885c-0013722f8dec">
 <Name>
 <AUni ws="en">linguistics</AUni>
 </Name>
@@ -100,7 +100,7 @@
 <AUni ws="en">Ling</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b129d0f8-ea5e-11de-89f6-0013722f8dec">
 <Name>
 <AUni ws="en">applied linguistics</AUni>
 </Name>
@@ -108,7 +108,7 @@
 <AUni ws="en">App ling</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1335a56-ea5e-11de-89ea-0013722f8dec">
 <Name>
 <AUni ws="en">comparative linguistics</AUni>
 </Name>
@@ -116,7 +116,7 @@
 <AUni ws="en">Comp ling</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b13f4604-ea5e-11de-8579-0013722f8dec">
 <Name>
 <AUni ws="en">grammar</AUni>
 </Name>
@@ -124,7 +124,7 @@
 <AUni ws="en">Gramm</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b14b31bc-ea5e-11de-8e9e-0013722f8dec">
 <Name>
 <AUni ws="en">discourse</AUni>
 </Name>
@@ -132,7 +132,7 @@
 <AUni ws="en">Disc</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b154bb10-ea5e-11de-8787-0013722f8dec">
 <Name>
 <AUni ws="en">morphology</AUni>
 </Name>
@@ -140,7 +140,7 @@
 <AUni ws="en">Morph</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b160a6c8-ea5e-11de-96ff-0013722f8dec">
 <Name>
 <AUni ws="en">syntax</AUni>
 </Name>
@@ -150,7 +150,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b16c9276-ea5e-11de-9805-0013722f8dec">
 <Name>
 <AUni ws="en">historical linguistics</AUni>
 </Name>
@@ -158,7 +158,7 @@
 <AUni ws="en">Hist ling</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1787e2e-ea5e-11de-89d9-0013722f8dec">
 <Name>
 <AUni ws="en">lexicography</AUni>
 </Name>
@@ -166,7 +166,7 @@
 <AUni ws="en">Lexicog</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b182078c-ea5e-11de-990d-0013722f8dec">
 <Name>
 <AUni ws="en">lexicology</AUni>
 </Name>
@@ -174,7 +174,7 @@
 <AUni ws="en">Lexicol</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b18df33a-ea5e-11de-94f0-0013722f8dec">
 <Name>
 <AUni ws="en">phonetics</AUni>
 </Name>
@@ -182,7 +182,7 @@
 <AUni ws="en">Phon</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b199def2-ea5e-11de-8f70-0013722f8dec">
 <Name>
 <AUni ws="en">acoustic phonetics</AUni>
 </Name>
@@ -190,7 +190,7 @@
 <AUni ws="en">Acous phon</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1a36846-ea5e-11de-9137-0013722f8dec">
 <Name>
 <AUni ws="en">articulatory phonetics</AUni>
 </Name>
@@ -200,7 +200,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1af53fe-ea5e-11de-8ec4-0013722f8dec">
 <Name>
 <AUni ws="en">phonology</AUni>
 </Name>
@@ -208,7 +208,7 @@
 <AUni ws="en">Phono</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b1bb3fac-ea5e-11de-81e4-0013722f8dec">
 <Name>
 <AUni ws="en">autosegmental phonology</AUni>
 </Name>
@@ -216,7 +216,7 @@
 <AUni ws="en">Autoseg phono</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1c4c90a-ea5e-11de-902c-0013722f8dec">
 <Name>
 <AUni ws="en">generative phonology</AUni>
 </Name>
@@ -224,7 +224,7 @@
 <AUni ws="en">Gen phono</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1d0b4c2-ea5e-11de-862b-0013722f8dec">
 <Name>
 <AUni ws="en">lexical phonology</AUni>
 </Name>
@@ -232,7 +232,7 @@
 <AUni ws="en">Lex phono</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1dca070-ea5e-11de-8613-0013722f8dec">
 <Name>
 <AUni ws="en">metrical phonology</AUni>
 </Name>
@@ -240,7 +240,7 @@
 <AUni ws="en">Met phono</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1e629ce-ea5e-11de-8550-0013722f8dec">
 <Name>
 <AUni ws="en">non-linear phonology</AUni>
 </Name>
@@ -248,7 +248,7 @@
 <AUni ws="en">Non-lin phono</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1f21586-ea5e-11de-8120-0013722f8dec">
 <Name>
 <AUni ws="en">phonemics</AUni>
 </Name>
@@ -258,7 +258,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b1fe0134-ea5e-11de-8756-0013722f8dec">
 <Name>
 <AUni ws="en">pragmatics</AUni>
 </Name>
@@ -266,7 +266,7 @@
 <AUni ws="en">Prag</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2078a92-ea5e-11de-9a1a-0013722f8dec">
 <Name>
 <AUni ws="en">semantics</AUni>
 </Name>
@@ -274,7 +274,7 @@
 <AUni ws="en">Sem</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2137640-ea5e-11de-8742-0013722f8dec">
 <Name>
 <AUni ws="en">semiotics</AUni>
 </Name>
@@ -284,7 +284,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b21f61f8-ea5e-11de-907d-0013722f8dec">
 <Name>
 <AUni ws="en">literacy</AUni>
 </Name>
@@ -292,7 +292,7 @@
 <AUni ws="en">Lit</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b228eb56-ea5e-11de-9e54-0013722f8dec">
 <Name>
 <AUni ws="en">newitem</AUni>
 </Name>
@@ -302,7 +302,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b234d704-ea5e-11de-9211-0013722f8dec">
 <Name>
 <AUni ws="en">literature</AUni>
 </Name>
@@ -310,7 +310,7 @@
 <AUni ws="en">Lit</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b240c2bc-ea5e-11de-9d83-0013722f8dec">
 <Name>
 <AUni ws="en">poetry</AUni>
 </Name>
@@ -318,7 +318,7 @@
 <AUni ws="en">Poet</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b24a4c10-ea5e-11de-9bcb-0013722f8dec">
 <Name>
 <AUni ws="en">rhetoric</AUni>
 </Name>
@@ -326,7 +326,7 @@
 <AUni ws="en">Rhet</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b25637c8-ea5e-11de-98ce-0013722f8dec">
 <Name>
 <AUni ws="en">stylistics</AUni>
 </Name>
@@ -336,7 +336,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2622376-ea5e-11de-8274-0013722f8dec">
 <Name>
 <AUni ws="en">logic</AUni>
 </Name>
@@ -344,7 +344,7 @@
 <AUni ws="en">Log</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b26bacd4-ea5e-11de-8beb-0013722f8dec">
 <Name>
 <AUni ws="en">mathematics</AUni>
 </Name>
@@ -352,7 +352,7 @@
 <AUni ws="en">Math</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b277988c-ea5e-11de-957d-0013722f8dec">
 <Name>
 <AUni ws="en">media</AUni>
 </Name>
@@ -360,7 +360,7 @@
 <AUni ws="en">Med</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b283843a-ea5e-11de-9232-0013722f8dec">
 <Name>
 <AUni ws="en">medicine</AUni>
 </Name>
@@ -368,7 +368,7 @@
 <AUni ws="en">Medi</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b28d0d98-ea5e-11de-8bcb-0013722f8dec">
 <Name>
 <AUni ws="en">philosophy</AUni>
 </Name>
@@ -376,7 +376,7 @@
 <AUni ws="en">Phil</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b298f950-ea5e-11de-8179-0013722f8dec">
 <Name>
 <AUni ws="en">psycholinguistics</AUni>
 </Name>
@@ -384,7 +384,7 @@
 <AUni ws="en">Psycholing</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2a4e4fe-ea5e-11de-96a2-0013722f8dec">
 <Name>
 <AUni ws="en">psychology</AUni>
 </Name>
@@ -392,7 +392,7 @@
 <AUni ws="en">Psycho</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2b0d0b6-ea5e-11de-8b58-0013722f8dec">
 <Name>
 <AUni ws="en">religion</AUni>
 </Name>
@@ -400,7 +400,7 @@
 <AUni ws="en">Rel</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b2ba5a0a-ea5e-11de-825a-0013722f8dec">
 <Name>
 <AUni ws="en">ritual</AUni>
 </Name>
@@ -410,7 +410,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2c645c2-ea5e-11de-8a97-0013722f8dec">
 <Name>
 <AUni ws="en">sociolinguistics</AUni>
 </Name>
@@ -418,7 +418,7 @@
 <AUni ws="en">Socio ling</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b2d23170-ea5e-11de-83d9-0013722f8dec">
 <Name>
 <AUni ws="en">applied linguistics</AUni>
 </Name>
@@ -426,7 +426,7 @@
 <AUni ws="en">App ling</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2dbbace-ea5e-11de-9923-0013722f8dec">
 <Name>
 <AUni ws="en">comparative linguistics</AUni>
 </Name>
@@ -434,7 +434,7 @@
 <AUni ws="en">Comp ling</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2e7a686-ea5e-11de-92ba-0013722f8dec">
 <Name>
 <AUni ws="en">historical linguistics</AUni>
 </Name>
@@ -442,7 +442,7 @@
 <AUni ws="en">Hist ling</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2f39234-ea5e-11de-9345-0013722f8dec">
 <Name>
 <AUni ws="en">survey</AUni>
 </Name>
@@ -452,7 +452,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b2fd1b92-ea5e-11de-8fa9-0013722f8dec">
 <Name>
 <AUni ws="en">sociology</AUni>
 </Name>
@@ -460,7 +460,7 @@
 <AUni ws="en">Socio</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b3090740-ea5e-11de-901c-0013722f8dec">
 <Name>
 <AUni ws="en">translation</AUni>
 </Name>
@@ -7765,7 +7765,7 @@
 <AUni ws="en">Conf</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="bb9f349c-ea5e-11de-9293-0013722f8dec">
 <Name>
 <AUni ws="en">High</AUni>
 </Name>
@@ -7773,7 +7773,7 @@
 <AUni ws="en">High</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bbab204a-ea5e-11de-99a0-0013722f8dec">
 <Name>
 <AUni ws="en">Medium</AUni>
 </Name>
@@ -7781,7 +7781,7 @@
 <AUni ws="en">Med</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bbb70c02-ea5e-11de-8a97-0013722f8dec">
 <Name>
 <AUni ws="en">Low</AUni>
 </Name>
@@ -7789,7 +7789,7 @@
 <AUni ws="en">Low</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bbc09560-ea5e-11de-8de5-0013722f8dec">
 <Name>
 <AUni ws="en">Unknown</AUni>
 </Name>
@@ -7817,7 +7817,7 @@
 <AUni ws="en">EdLev</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="bda22e02-ea5e-11de-9452-0013722f8dec">
 <Name>
 <AUni ws="en">No Formal</AUni>
 </Name>
@@ -7825,7 +7825,7 @@
 <AUni ws="en">No</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bdabb760-ea5e-11de-8ce8-0013722f8dec">
 <Name>
 <AUni ws="en">Primary</AUni>
 </Name>
@@ -7833,7 +7833,7 @@
 <AUni ws="en">Pri</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bdb7a30e-ea5e-11de-8919-0013722f8dec">
 <Name>
 <AUni ws="en">Junior High</AUni>
 </Name>
@@ -7841,7 +7841,7 @@
 <AUni ws="en">JrHi</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bdc38ec6-ea5e-11de-9902-0013722f8dec">
 <Name>
 <AUni ws="en">High School</AUni>
 </Name>
@@ -7849,7 +7849,7 @@
 <AUni ws="en">HS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bdcd1824-ea5e-11de-89ce-0013722f8dec">
 <Name>
 <AUni ws="en">Undergraduate</AUni>
 </Name>
@@ -7857,7 +7857,7 @@
 <AUni ws="en">UndGrad</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bdd903d2-ea5e-11de-9be6-0013722f8dec">
 <Name>
 <AUni ws="en">Graduate</AUni>
 </Name>
@@ -7865,7 +7865,7 @@
 <AUni ws="en">Grad</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bde4ef8a-ea5e-11de-8623-0013722f8dec">
 <Name>
 <AUni ws="en">Professor</AUni>
 </Name>
@@ -7883,7 +7883,7 @@
 <AUni ws="en">ExtNoteTyp</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="2f06d436-b1e0-47ae-a42e-1f7b893c5fc2">
 <Name>
 <AUni ws="en">Collocation</AUni>
 </Name>
@@ -7891,7 +7891,7 @@
 <AUni ws="en">Coll.</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="7ad06e7d-15d1-42b0-ae19-9c05b7c0b181">
 <Name>
 <AUni ws="en">Cultural</AUni>
 </Name>
@@ -7899,7 +7899,7 @@
 <AUni ws="en">Cult.</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="d3d28628-60c9-4917-8185-ba64c59f20c3">
 <Name>
 <AUni ws="en">Discourse</AUni>
 </Name>
@@ -7907,7 +7907,7 @@
 <AUni ws="en">Disc.</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="30115b33-608a-4506-9f9c-2457cab4f4a8">
 <Name>
 <AUni ws="en">Grammar</AUni>
 </Name>
@@ -7915,7 +7915,7 @@
 <AUni ws="en">Gram.</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="5dd29371-fdb0-497a-a2fb-7ca69b00ad4f">
 <Name>
 <AUni ws="en">Semantic</AUni>
 </Name>
@@ -7938,7 +7938,7 @@
 </AStr>
 </Description>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="c076f554-ea5e-11de-9793-0013722f8dec">
 <Name>
 <AUni ws="en">Monologue</AUni>
 </Name>
@@ -7951,7 +7951,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c082e102-ea5e-11de-92f2-0013722f8dec">
 <Name>
 <AUni ws="en">Narrative</AUni>
 </Name>
@@ -7964,7 +7964,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c08c6a60-ea5e-11de-9483-0013722f8dec">
 <Name>
 <AUni ws="en">History</AUni>
 </Name>
@@ -7977,7 +7977,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0985618-ea5e-11de-831e-0013722f8dec">
 <Name>
 <AUni ws="en">Fiction</AUni>
 </Name>
@@ -7990,7 +7990,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0a441c6-ea5e-11de-9275-0013722f8dec">
 <Name>
 <AUni ws="en">Traditional Narrative</AUni>
 </Name>
@@ -8003,7 +8003,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0adcb24-ea5e-11de-8861-0013722f8dec">
 <Name>
 <AUni ws="en">Prophecy</AUni>
 </Name>
@@ -8018,7 +8018,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0b9b6d2-ea5e-11de-8619-0013722f8dec">
 <Name>
 <AUni ws="en">Procedure</AUni>
 </Name>
@@ -8031,7 +8031,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c0c5a28a-ea5e-11de-906a-0013722f8dec">
 <Name>
 <AUni ws="en">Descriptive Procedure</AUni>
 </Name>
@@ -8044,7 +8044,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0cf2be8-ea5e-11de-804e-0013722f8dec">
 <Name>
 <AUni ws="en">Prescriptive Procedure</AUni>
 </Name>
@@ -8059,7 +8059,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0db1796-ea5e-11de-910f-0013722f8dec">
 <Name>
 <AUni ws="en">Behavioral Text</AUni>
 </Name>
@@ -8072,7 +8072,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c0e7034e-ea5e-11de-9cb4-0013722f8dec">
 <Name>
 <AUni ws="en">Hortatory Text</AUni>
 </Name>
@@ -8085,7 +8085,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0f08cac-ea5e-11de-9107-0013722f8dec">
 <Name>
 <AUni ws="en">Normative Text</AUni>
 </Name>
@@ -8098,7 +8098,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c0fc785a-ea5e-11de-8bdb-0013722f8dec">
 <Name>
 <AUni ws="en">Promissory Text</AUni>
 </Name>
@@ -8111,7 +8111,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1086412-ea5e-11de-88a0-0013722f8dec">
 <Name>
 <AUni ws="en">Behavioral Description</AUni>
 </Name>
@@ -8126,7 +8126,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1144fc0-ea5e-11de-97be-0013722f8dec">
 <Name>
 <AUni ws="en">Exposition</AUni>
 </Name>
@@ -8139,7 +8139,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c11dd91e-ea5e-11de-9f41-0013722f8dec">
 <Name>
 <AUni ws="en">Projection</AUni>
 </Name>
@@ -8152,7 +8152,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c129c4cc-ea5e-11de-8f6c-0013722f8dec">
 <Name>
 <AUni ws="en">Descriptive Exposition</AUni>
 </Name>
@@ -8165,7 +8165,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c135b084-ea5e-11de-8702-0013722f8dec">
 <Name>
 <AUni ws="en">Didactic Exposition</AUni>
 </Name>
@@ -8182,7 +8182,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c13f39e2-ea5e-11de-9645-0013722f8dec">
 <Name>
 <AUni ws="en">Dialogue</AUni>
 </Name>
@@ -8195,7 +8195,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c14b2590-ea5e-11de-85fc-0013722f8dec">
 <Name>
 <AUni ws="en">Conversation</AUni>
 </Name>
@@ -8208,7 +8208,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1571148-ea5e-11de-8fe4-0013722f8dec">
 <Name>
 <AUni ws="en">Verbal Conflict</AUni>
 </Name>
@@ -8221,7 +8221,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1609a9c-ea5e-11de-8247-0013722f8dec">
 <Name>
 <AUni ws="en">Negotiation</AUni>
 </Name>
@@ -8234,7 +8234,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c16c8654-ea5e-11de-867b-0013722f8dec">
 <Name>
 <AUni ws="en">Drama</AUni>
 </Name>
@@ -8249,7 +8249,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1787202-ea5e-11de-95b1-0013722f8dec">
 <Name>
 <AUni ws="en">Word List</AUni>
 </Name>
@@ -8262,7 +8262,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c181fb60-ea5e-11de-9e08-0013722f8dec">
 <Name>
 <AUni ws="en">Paradigm</AUni>
 </Name>
@@ -8275,7 +8275,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c18de718-ea5e-11de-937a-0013722f8dec">
 <Name>
 <AUni ws="en">Ill-formed Words</AUni>
 </Name>
@@ -8290,7 +8290,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c199d2c6-ea5e-11de-9810-0013722f8dec">
 <Name>
 <AUni ws="en">Metrical Category</AUni>
 </Name>
@@ -8303,7 +8303,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="d686fc68-ea5e-11de-8f7f-0013722f8dec">
 <Name>
 <AUni ws="en">Prose</AUni>
 </Name>
@@ -8316,7 +8316,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1a35c24-ea5e-11de-8988-0013722f8dec">
 <Name>
 <AUni ws="en">Poetry</AUni>
 </Name>
@@ -8351,7 +8351,7 @@
 <AUni ws="en">RefTyp</AUni>
 </Abbreviation>
 <Possibilities>
-<LexRefType>
+<LexRefType guid="b764ce50-ea5e-11de-864f-0013722f8dec">
 <Name>
 <AUni ws="en">Part</AUni>
 </Name>
@@ -8370,7 +8370,7 @@
 <AUni ws="en">wh</AUni>
 </ReverseAbbreviation>
 </LexRefType>
-<LexRefType>
+<LexRefType guid="b770ba08-ea5e-11de-9ca9-0013722f8dec">
 <Name>
 <AUni ws="en">Specific</AUni>
 </Name>
@@ -8389,7 +8389,7 @@
 <AUni ws="en">gen</AUni>
 </ReverseAbbreviation>
 </LexRefType>
-<LexRefType>
+<LexRefType guid="b77a435c-ea5e-11de-9a66-0013722f8dec">
 <Name>
 <AUni ws="en">Synonyms</AUni>
 </Name>
@@ -8402,7 +8402,7 @@
 </AStr>
 </Description>
 </LexRefType>
-<LexRefType>
+<LexRefType guid="b7862f14-ea5e-11de-8d47-0013722f8dec">
 <Name>
 <AUni ws="en">Antonym</AUni>
 </Name>
@@ -8415,7 +8415,7 @@
 </AStr>
 </Description>
 </LexRefType>
-<LexRefType>
+<LexRefType guid="b7921ac2-ea5e-11de-880d-0013722f8dec">
 <Name>
 <AUni ws="en">Calendar</AUni>
 </Name>
@@ -8428,7 +8428,7 @@
 </AStr>
 </Description>
 </LexRefType>
-<LexRefType>
+<LexRefType guid="b79ba420-ea5e-11de-8f71-0013722f8dec">
 <Name>
 <AUni ws="en">Compare</AUni>
 </Name>
@@ -8441,7 +8441,7 @@
 </AStr>
 </Description>
 </LexRefType>
-<LexRefType>
+<LexRefType guid="b7a78fd8-ea5e-11de-9ef2-0013722f8dec">
 <Name>
 <AUni ws="en">Classified Noun</AUni>
 </Name>
@@ -9685,7 +9685,7 @@
 <AUni ws="en">Part</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPerson>
+<CmPerson guid="5d543e4f-50d7-41fe-93a7-cf851c1d229e">
 <Name>
 <AUni ws="en">Default User</AUni>
 </Name>
@@ -9707,7 +9707,7 @@
 <AUni ws="en">Publications</AUni>
 </Name>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="70c0a758-5901-4884-b992-94ca31087607">
 <Name>
 <AUni ws="en">Main Dictionary</AUni>
 </Name>
@@ -9725,7 +9725,7 @@
 <AUni ws="en">Res</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="6ebc80f8-9ce0-45d9-bb49-3869591fb1ff">
 <Name>
 <AUni ws="en">No restrictions</AUni>
 </Name>
@@ -9733,7 +9733,7 @@
 <AUni ws="en">None</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bbcc810e-ea5e-11de-8a3b-0013722f8dec">
 <Name>
 <AUni ws="en">Do not publish</AUni>
 </Name>
@@ -9741,7 +9741,7 @@
 <AUni ws="en">NPub</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bbd86cc6-ea5e-11de-8964-0013722f8dec">
 <Name>
 <AUni ws="en">Case by case</AUni>
 </Name>
@@ -9749,7 +9749,7 @@
 <AUni ws="en">Case</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bbe1f61a-ea5e-11de-9640-0013722f8dec">
 <Name>
 <AUni ws="en">Unknown</AUni>
 </Name>
@@ -9767,7 +9767,7 @@
 <AUni ws="en">Role</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="bd10bf44-ea5e-11de-8980-0013722f8dec">
 <Name>
 <AUni ws="en">Accused</AUni>
 </Name>
@@ -9775,7 +9775,7 @@
 <AUni ws="en">Accsd</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd1a48a2-ea5e-11de-9ed7-0013722f8dec">
 <Name>
 <AUni ws="en">Accuser</AUni>
 </Name>
@@ -9783,7 +9783,7 @@
 <AUni ws="en">Accsr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd26345a-ea5e-11de-9973-0013722f8dec">
 <Name>
 <AUni ws="en">Arbitrator</AUni>
 </Name>
@@ -9791,7 +9791,7 @@
 <AUni ws="en">Arbtr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd322008-ea5e-11de-8390-0013722f8dec">
 <Name>
 <AUni ws="en">Audience</AUni>
 </Name>
@@ -9799,7 +9799,7 @@
 <AUni ws="en">Aud</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd3e0bc0-ea5e-11de-93b0-0013722f8dec">
 <Name>
 <AUni ws="en">Benefactor</AUni>
 </Name>
@@ -9807,7 +9807,7 @@
 <AUni ws="en">Ben</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd479514-ea5e-11de-99f8-0013722f8dec">
 <Name>
 <AUni ws="en">Eyewitness</AUni>
 </Name>
@@ -9815,7 +9815,7 @@
 <AUni ws="en">Eye</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd5380cc-ea5e-11de-8a09-0013722f8dec">
 <Name>
 <AUni ws="en">Initiator</AUni>
 </Name>
@@ -9823,7 +9823,7 @@
 <AUni ws="en">Initr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd5f6c7a-ea5e-11de-8ce5-0013722f8dec">
 <Name>
 <AUni ws="en">Mediator</AUni>
 </Name>
@@ -9831,7 +9831,7 @@
 <AUni ws="en">Mdtr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd68f5d8-ea5e-11de-9d1b-0013722f8dec">
 <Name>
 <AUni ws="en">Narrator</AUni>
 </Name>
@@ -9839,7 +9839,7 @@
 <AUni ws="en">Narrtr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd74e190-ea5e-11de-8bb1-0013722f8dec">
 <Name>
 <AUni ws="en">Reporter</AUni>
 </Name>
@@ -101933,7 +101933,7 @@
 <AUni ws="en">SenTyp</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="af3eaef8-ea5e-11de-80fd-0013722f8dec">
 <Name>
 <AUni ws="en">figurative</AUni>
 </Name>
@@ -101941,7 +101941,7 @@
 <AUni ws="en">fig</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="af48384c-ea5e-11de-9aef-0013722f8dec">
 <Name>
 <AUni ws="en">primary</AUni>
 </Name>
@@ -101959,7 +101959,7 @@
 <AUni ws="en">Stat</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="bd80cd3e-ea5e-11de-9871-0013722f8dec">
 <Name>
 <AUni ws="en">Confirmed</AUni>
 </Name>
@@ -101967,7 +101967,7 @@
 <AUni ws="en">Conf</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd8a569c-ea5e-11de-87cc-0013722f8dec">
 <Name>
 <AUni ws="en">Disproved</AUni>
 </Name>
@@ -101975,7 +101975,7 @@
 <AUni ws="en">Dis</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bd964254-ea5e-11de-8cdf-0013722f8dec">
 <Name>
 <AUni ws="en">Pending</AUni>
 </Name>
@@ -101983,7 +101983,7 @@
 <AUni ws="en">Pend</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b098623a-ea5e-11de-8126-0013722f8dec">
 <Name>
 <AUni ws="en">Tentative</AUni>
 </Name>
@@ -102001,7 +102001,7 @@
 <AUni ws="en">ChMrkrs</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="c49be68a-ea5e-11de-86fb-0013722f8dec">
 <Name>
 <AUni ws="en">TenseAspectMood</AUni>
 </Name>
@@ -102009,7 +102009,7 @@
 <AUni ws="en">TenseAspectMood</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c4a56fe8-ea5e-11de-87d8-0013722f8dec">
 <Name>
 <AUni ws="en">Direct imperative</AUni>
 </Name>
@@ -102017,7 +102017,7 @@
 <AUni ws="en">Direct imperative</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c4b15ba0-ea5e-11de-954e-0013722f8dec">
 <Name>
 <AUni ws="en">Direct imperative</AUni>
 </Name>
@@ -102025,7 +102025,7 @@
 <AUni ws="en">IMP.S</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c4bd474e-ea5e-11de-88bd-0013722f8dec">
 <Name>
 <AUni ws="en">Direct imperative</AUni>
 </Name>
@@ -102035,7 +102035,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c4c6d0ac-ea5e-11de-9ce4-0013722f8dec">
 <Name>
 <AUni ws="en">Subjunctive</AUni>
 </Name>
@@ -102043,7 +102043,7 @@
 <AUni ws="en">Subjunctive</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c4d2bc5a-ea5e-11de-98bc-0013722f8dec">
 <Name>
 <AUni ws="en">Polite command</AUni>
 </Name>
@@ -102051,7 +102051,7 @@
 <AUni ws="en">SBV</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c4dea812-ea5e-11de-9298-0013722f8dec">
 <Name>
 <AUni ws="en">Purpose</AUni>
 </Name>
@@ -102061,7 +102061,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c4e83170-ea5e-11de-8ff3-0013722f8dec">
 <Name>
 <AUni ws="en">Potential/conditional</AUni>
 </Name>
@@ -102069,7 +102069,7 @@
 <AUni ws="en">Potential/conditional</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c4f41d1e-ea5e-11de-8c69-0013722f8dec">
 <Name>
 <AUni ws="en">Potential</AUni>
 </Name>
@@ -102077,7 +102077,7 @@
 <AUni ws="en">POT</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c50008d6-ea5e-11de-8fe9-0013722f8dec">
 <Name>
 <AUni ws="en">(w/?r?) conditional</AUni>
 </Name>
@@ -102087,7 +102087,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5099234-ea5e-11de-9bc6-0013722f8dec">
 <Name>
 <AUni ws="en">Potential/conditional, contrary-to-fact</AUni>
 </Name>
@@ -102095,7 +102095,7 @@
 <AUni ws="en">Potential/conditional, contrary-to-fact</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="d69085c6-ea5e-11de-8ff2-0013722f8dec">
 <Name>
 <AUni ws="en">Potential, C.F.</AUni>
 </Name>
@@ -102103,7 +102103,7 @@
 <AUni ws="en">POT.C.F</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5157de2-ea5e-11de-8717-0013722f8dec">
 <Name>
 <AUni ws="en">(w/ng?) conditional, C.F.</AUni>
 </Name>
@@ -102111,7 +102111,7 @@
 <AUni ws="en">CND.C.F</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c521699a-ea5e-11de-9e85-0013722f8dec">
 <Name>
 <AUni ws="en">Potential, C.F. Past</AUni>
 </Name>
@@ -102119,7 +102119,7 @@
 <AUni ws="en">POT.C.F P2</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c52af2ee-ea5e-11de-82a2-0013722f8dec">
 <Name>
 <AUni ws="en">(w/ng?) conditional, C.F. Past</AUni>
 </Name>
@@ -102127,7 +102127,7 @@
 <AUni ws="en">CND C.F P2</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c536dea6-ea5e-11de-8e12-0013722f8dec">
 <Name>
 <AUni ws="en">Conditional, C.F. Past</AUni>
 </Name>
@@ -102135,7 +102135,7 @@
 <AUni ws="en">CND C.F P2</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c542ca54-ea5e-11de-9fa2-0013722f8dec">
 <Name>
 <AUni ws="en">If/when</AUni>
 </Name>
@@ -102143,7 +102143,7 @@
 <AUni ws="en">CND.RS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c54c53b2-ea5e-11de-94c6-0013722f8dec">
 <Name>
 <AUni ws="en">If/when</AUni>
 </Name>
@@ -102151,7 +102151,7 @@
 <AUni ws="en">CND.TL</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5583f6a-ea5e-11de-8747-0013722f8dec">
 <Name>
 <AUni ws="en">If/when</AUni>
 </Name>
@@ -102161,7 +102161,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5642b18-ea5e-11de-9faf-0013722f8dec">
 <Name>
 <AUni ws="en">Timeless</AUni>
 </Name>
@@ -102169,7 +102169,7 @@
 <AUni ws="en">Timeless</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c57016d0-ea5e-11de-8eaf-0013722f8dec">
 <Name>
 <AUni ws="en">Timeless</AUni>
 </Name>
@@ -102179,7 +102179,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c579a024-ea5e-11de-98e7-0013722f8dec">
 <Name>
 <AUni ws="en">Temporal sequence</AUni>
 </Name>
@@ -102187,7 +102187,7 @@
 <AUni ws="en">Temporal sequence</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c5858bdc-ea5e-11de-98cb-0013722f8dec">
 <Name>
 <AUni ws="en">Sequential</AUni>
 </Name>
@@ -102195,7 +102195,7 @@
 <AUni ws="en">SQ</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c591778a-ea5e-11de-9d45-0013722f8dec">
 <Name>
 <AUni ws="en">Subsecutive</AUni>
 </Name>
@@ -102203,7 +102203,7 @@
 <AUni ws="en">SBSC</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c59b00e8-ea5e-11de-85c7-0013722f8dec">
 <Name>
 <AUni ws="en">Subsecutive distal</AUni>
 </Name>
@@ -102213,7 +102213,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5a6eca0-ea5e-11de-99db-0013722f8dec">
 <Name>
 <AUni ws="en">Past</AUni>
 </Name>
@@ -102221,7 +102221,7 @@
 <AUni ws="en">Past</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c5b2d84e-ea5e-11de-9731-0013722f8dec">
 <Name>
 <AUni ws="en">Past, recent</AUni>
 </Name>
@@ -102229,7 +102229,7 @@
 <AUni ws="en">P1</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5bc61ac-ea5e-11de-8495-0013722f8dec">
 <Name>
 <AUni ws="en">Frustrated (RS)</AUni>
 </Name>
@@ -102237,7 +102237,7 @@
 <AUni ws="en">RS.FRUS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5c84d64-ea5e-11de-8666-0013722f8dec">
 <Name>
 <AUni ws="en">Frustrated (P1)</AUni>
 </Name>
@@ -102245,7 +102245,7 @@
 <AUni ws="en">P1.FRUS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5d43912-ea5e-11de-92d1-0013722f8dec">
 <Name>
 <AUni ws="en">Previous, progressive</AUni>
 </Name>
@@ -102253,7 +102253,7 @@
 <AUni ws="en">PREV PROG</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5ddc270-ea5e-11de-85cd-0013722f8dec">
 <Name>
 <AUni ws="en">Previous, intentional</AUni>
 </Name>
@@ -102261,7 +102261,7 @@
 <AUni ws="en">PREV INTS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5e9ae1e-ea5e-11de-8c30-0013722f8dec">
 <Name>
 <AUni ws="en">Past, before yesterday</AUni>
 </Name>
@@ -102269,7 +102269,7 @@
 <AUni ws="en">P2</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5f599d6-ea5e-11de-922d-0013722f8dec">
 <Name>
 <AUni ws="en">Past, before yest., state</AUni>
 </Name>
@@ -102277,7 +102277,7 @@
 <AUni ws="en">P2.ST</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c5ff2334-ea5e-11de-9ec7-0013722f8dec">
 <Name>
 <AUni ws="en">Past, before yest., unrealized exp.</AUni>
 </Name>
@@ -102285,7 +102285,7 @@
 <AUni ws="en">P2.ST-YET</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c60b0ee2-ea5e-11de-89a0-0013722f8dec">
 <Name>
 <AUni ws="en">Remote past</AUni>
 </Name>
@@ -102295,7 +102295,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c616fa9a-ea5e-11de-8272-0013722f8dec">
 <Name>
 <AUni ws="en">Present</AUni>
 </Name>
@@ -102303,7 +102303,7 @@
 <AUni ws="en">Present</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c62083ee-ea5e-11de-8ca8-0013722f8dec">
 <Name>
 <AUni ws="en">Progressive state</AUni>
 </Name>
@@ -102311,7 +102311,7 @@
 <AUni ws="en">PROG</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c62c6fa6-ea5e-11de-85d8-0013722f8dec">
 <Name>
 <AUni ws="en">Persistive progressive state</AUni>
 </Name>
@@ -102319,7 +102319,7 @@
 <AUni ws="en">PERS PROG</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6385b54-ea5e-11de-81ae-0013722f8dec">
 <Name>
 <AUni ws="en">New progressive state</AUni>
 </Name>
@@ -102327,7 +102327,7 @@
 <AUni ws="en">NEWLY PROG</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c641e4b2-ea5e-11de-9206-0013722f8dec">
 <Name>
 <AUni ws="en">Intentional progressive state</AUni>
 </Name>
@@ -102335,7 +102335,7 @@
 <AUni ws="en">PROG INTS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c64dd06a-ea5e-11de-97de-0013722f8dec">
 <Name>
 <AUni ws="en">Resultative state</AUni>
 </Name>
@@ -102343,7 +102343,7 @@
 <AUni ws="en">RS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c659bc18-ea5e-11de-98bc-0013722f8dec">
 <Name>
 <AUni ws="en">Unrealized expectation</AUni>
 </Name>
@@ -102353,7 +102353,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c665a7d0-ea5e-11de-9f26-0013722f8dec">
 <Name>
 <AUni ws="en">Future</AUni>
 </Name>
@@ -102361,7 +102361,7 @@
 <AUni ws="en">Future</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c66f312e-ea5e-11de-8ea0-0013722f8dec">
 <Name>
 <AUni ws="en">Immediate</AUni>
 </Name>
@@ -102369,7 +102369,7 @@
 <AUni ws="en">F1</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c67b1cdc-ea5e-11de-91c4-0013722f8dec">
 <Name>
 <AUni ws="en">Future, immediate, newly</AUni>
 </Name>
@@ -102377,7 +102377,7 @@
 <AUni ws="en">NEWLY F1</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6870894-ea5e-11de-9f2d-0013722f8dec">
 <Name>
 <AUni ws="en">Future, unmarked</AUni>
 </Name>
@@ -102385,7 +102385,7 @@
 <AUni ws="en">F2</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c69091e8-ea5e-11de-9a02-0013722f8dec">
 <Name>
 <AUni ws="en">Intentional</AUni>
 </Name>
@@ -102393,7 +102393,7 @@
 <AUni ws="en">F2</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c69c7da0-ea5e-11de-9aeb-0013722f8dec">
 <Name>
 <AUni ws="en">Future, newly</AUni>
 </Name>
@@ -102401,7 +102401,7 @@
 <AUni ws="en">NEWLY F2</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6a8694e-ea5e-11de-9d73-0013722f8dec">
 <Name>
 <AUni ws="en">Remote future</AUni>
 </Name>
@@ -102413,7 +102413,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6b1f2ac-ea5e-11de-820a-0013722f8dec">
 <Name>
 <AUni ws="en">Pronouns</AUni>
 </Name>
@@ -102421,7 +102421,7 @@
 <AUni ws="en">Pronouns</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c6bdde64-ea5e-11de-9440-0013722f8dec">
 <Name>
 <AUni ws="en">Contrastive</AUni>
 </Name>
@@ -102429,7 +102429,7 @@
 <AUni ws="en">P:Ctr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6c9ca12-ea5e-11de-9acb-0013722f8dec">
 <Name>
 <AUni ws="en">Alternative</AUni>
 </Name>
@@ -102437,7 +102437,7 @@
 <AUni ws="en">P:Alt</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6d35370-ea5e-11de-89ca-0013722f8dec">
 <Name>
 <AUni ws="en">Exclusive</AUni>
 </Name>
@@ -102445,7 +102445,7 @@
 <AUni ws="en">P:Excl</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6df3f1e-ea5e-11de-9037-0013722f8dec">
 <Name>
 <AUni ws="en">Additive</AUni>
 </Name>
@@ -102455,7 +102455,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c6eb2ad6-ea5e-11de-828c-0013722f8dec">
 <Name>
 <AUni ws="en">Demonstratives</AUni>
 </Name>
@@ -102463,7 +102463,7 @@
 <AUni ws="en">Demonstratives</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c6f4b434-ea5e-11de-921a-0013722f8dec">
 <Name>
 <AUni ws="en">Proximal Contrastive</AUni>
 </Name>
@@ -102471,7 +102471,7 @@
 <AUni ws="en">D:P.C</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c7009fe2-ea5e-11de-8474-0013722f8dec">
 <Name>
 <AUni ws="en">Proximal</AUni>
 </Name>
@@ -102479,7 +102479,7 @@
 <AUni ws="en">D:Pr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c70c8b9a-ea5e-11de-8ca8-0013722f8dec">
 <Name>
 <AUni ws="en">Nearby</AUni>
 </Name>
@@ -102487,7 +102487,7 @@
 <AUni ws="en">D:Ne</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c7187748-ea5e-11de-9619-0013722f8dec">
 <Name>
 <AUni ws="en">Distal</AUni>
 </Name>
@@ -102495,7 +102495,7 @@
 <AUni ws="en">D:Di</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c72200a6-ea5e-11de-875d-0013722f8dec">
 <Name>
 <AUni ws="en">Remote</AUni>
 </Name>
@@ -102503,7 +102503,7 @@
 <AUni ws="en">D:Re</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c72dec5e-ea5e-11de-8271-0013722f8dec">
 <Name>
 <AUni ws="en">Emphatic Proximal Contrastive</AUni>
 </Name>
@@ -102511,7 +102511,7 @@
 <AUni ws="en">D:Em.P.C</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c739d80c-ea5e-11de-82bf-0013722f8dec">
 <Name>
 <AUni ws="en">Emphatic Proximal</AUni>
 </Name>
@@ -102519,7 +102519,7 @@
 <AUni ws="en">D:Em.Pr</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c743616a-ea5e-11de-8ef5-0013722f8dec">
 <Name>
 <AUni ws="en">Emphatic Nearby</AUni>
 </Name>
@@ -102527,7 +102527,7 @@
 <AUni ws="en">D:Em.Ne</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c74f4d18-ea5e-11de-87a2-0013722f8dec">
 <Name>
 <AUni ws="en">Emphatic Distal</AUni>
 </Name>
@@ -102535,7 +102535,7 @@
 <AUni ws="en">D:Em.Di</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c75b38d0-ea5e-11de-84e0-0013722f8dec">
 <Name>
 <AUni ws="en">Emphatic Remote</AUni>
 </Name>
@@ -102543,7 +102543,7 @@
 <AUni ws="en">D:Em.Re</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c764c22e-ea5e-11de-8260-0013722f8dec">
 <Name>
 <AUni ws="en">Same.set</AUni>
 </Name>
@@ -102551,7 +102551,7 @@
 <AUni ws="en">D:SaSet</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c770addc-ea5e-11de-96e9-0013722f8dec">
 <Name>
 <AUni ws="en">Different set</AUni>
 </Name>
@@ -102571,7 +102571,7 @@
 <AUni ws="en">ConChrtTempl</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="c414012a-ea5e-11de-99fc-0013722f8dec">
 <Name>
 <AUni ws="en">Default Template</AUni>
 </Name>
@@ -102579,7 +102579,7 @@
 <AUni ws="en">def</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c41fece2-ea5e-11de-8db3-0013722f8dec">
 <Name>
 <AUni ws="en">Pre-nuclear</AUni>
 </Name>
@@ -102587,7 +102587,7 @@
 <AUni ws="en">prenuc</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c42bd890-ea5e-11de-8f25-0013722f8dec">
 <Name>
 <AUni ws="en">Outer</AUni>
 </Name>
@@ -102595,7 +102595,7 @@
 <AUni ws="en">out</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c43561ee-ea5e-11de-8cbe-0013722f8dec">
 <Name>
 <AUni ws="en">Inner</AUni>
 </Name>
@@ -102605,7 +102605,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c4414da6-ea5e-11de-8c42-0013722f8dec">
 <Name>
 <AUni ws="en">Nucleus</AUni>
 </Name>
@@ -102613,7 +102613,7 @@
 <AUni ws="en">nuc</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c44d3954-ea5e-11de-8138-0013722f8dec">
 <Name>
 <AUni ws="en">Subject</AUni>
 </Name>
@@ -102621,7 +102621,7 @@
 <AUni ws="en">subj</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c456c2b2-ea5e-11de-8b3c-0013722f8dec">
 <Name>
 <AUni ws="en">Verb</AUni>
 </Name>
@@ -102629,7 +102629,7 @@
 <AUni ws="en">v</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c462ae6a-ea5e-11de-9cc0-0013722f8dec">
 <Name>
 <AUni ws="en">Object/Complement</AUni>
 </Name>
@@ -102639,7 +102639,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c46e9a18-ea5e-11de-8016-0013722f8dec">
 <Name>
 <AUni ws="en">Post-nuclear</AUni>
 </Name>
@@ -102647,7 +102647,7 @@
 <AUni ws="en">postnuc</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c47a85d0-ea5e-11de-986c-0013722f8dec">
 <Name>
 <AUni ws="en">Inner</AUni>
 </Name>
@@ -102655,7 +102655,7 @@
 <AUni ws="en">in</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c4840f24-ea5e-11de-959e-0013722f8dec">
 <Name>
 <AUni ws="en">Outer</AUni>
 </Name>
@@ -102677,7 +102677,7 @@
 <AUni ws="en">TxtTags</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="c1bb338a-ea5e-11de-88c4-0013722f8dec">
 <Name>
 <AUni ws="en">Grammatical Relations-Functional</AUni>
 </Name>
@@ -102690,7 +102690,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c1c4bce8-ea5e-11de-9d35-0013722f8dec">
 <Name>
 <AUni ws="en">A</AUni>
 </Name>
@@ -102703,7 +102703,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1d0a896-ea5e-11de-8624-0013722f8dec">
 <Name>
 <AUni ws="en">P</AUni>
 </Name>
@@ -102716,7 +102716,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1dc944e-ea5e-11de-8ae3-0013722f8dec">
 <Name>
 <AUni ws="en">S</AUni>
 </Name>
@@ -102729,7 +102729,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1e61dac-ea5e-11de-9bc6-0013722f8dec">
 <Name>
 <AUni ws="en">Subject</AUni>
 </Name>
@@ -102742,7 +102742,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1f2095a-ea5e-11de-9609-0013722f8dec">
 <Name>
 <AUni ws="en">Direct Object</AUni>
 </Name>
@@ -102755,7 +102755,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c1fdf512-ea5e-11de-963a-0013722f8dec">
 <Name>
 <AUni ws="en">Indirect Object</AUni>
 </Name>
@@ -102768,7 +102768,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2077e66-ea5e-11de-8f4c-0013722f8dec">
 <Name>
 <AUni ws="en">Ergative</AUni>
 </Name>
@@ -102781,7 +102781,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2136a1e-ea5e-11de-8e7b-0013722f8dec">
 <Name>
 <AUni ws="en">Absolutive</AUni>
 </Name>
@@ -102794,7 +102794,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c21f55cc-ea5e-11de-9d3e-0013722f8dec">
 <Name>
 <AUni ws="en">Oblique</AUni>
 </Name>
@@ -102809,7 +102809,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c228df2a-ea5e-11de-94ec-0013722f8dec">
 <Name>
 <AUni ws="en">Syntax-Descriptive</AUni>
 </Name>
@@ -102822,7 +102822,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c234cae2-ea5e-11de-9ef4-0013722f8dec">
 <Name>
 <AUni ws="en">Adjective Phrase</AUni>
 </Name>
@@ -102835,7 +102835,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c240b690-ea5e-11de-880b-0013722f8dec">
 <Name>
 <AUni ws="en">Adverb Phrase</AUni>
 </Name>
@@ -102848,7 +102848,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c24a3fee-ea5e-11de-92f8-0013722f8dec">
 <Name>
 <AUni ws="en">Clause</AUni>
 </Name>
@@ -102861,7 +102861,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2562ba6-ea5e-11de-80c8-0013722f8dec">
 <Name>
 <AUni ws="en">Clause Chain</AUni>
 </Name>
@@ -102874,7 +102874,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2621754-ea5e-11de-91de-0013722f8dec">
 <Name>
 <AUni ws="en">Noun Phrase</AUni>
 </Name>
@@ -102887,7 +102887,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c26e030c-ea5e-11de-9df4-0013722f8dec">
 <Name>
 <AUni ws="en">Possessive Phrase</AUni>
 </Name>
@@ -102895,7 +102895,7 @@
 <AUni ws="en">PossP</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2778c60-ea5e-11de-86a4-0013722f8dec">
 <Name>
 <AUni ws="en">Postpositional Phrase</AUni>
 </Name>
@@ -102908,7 +102908,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2837818-ea5e-11de-938d-0013722f8dec">
 <Name>
 <AUni ws="en">Prepositional Phrase</AUni>
 </Name>
@@ -102921,7 +102921,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c28f63c6-ea5e-11de-9a0b-0013722f8dec">
 <Name>
 <AUni ws="en">Relative Clause</AUni>
 </Name>
@@ -102934,7 +102934,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c298ed24-ea5e-11de-874e-0013722f8dec">
 <Name>
 <AUni ws="en">Sentence</AUni>
 </Name>
@@ -102947,7 +102947,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2a4d8dc-ea5e-11de-8857-0013722f8dec">
 <Name>
 <AUni ws="en">Inflectional Phrase</AUni>
 </Name>
@@ -102960,7 +102960,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2b0c48a-ea5e-11de-9dba-0013722f8dec">
 <Name>
 <AUni ws="en">Verb Phrase</AUni>
 </Name>
@@ -102975,7 +102975,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2ba4de8-ea5e-11de-8073-0013722f8dec">
 <Name>
 <AUni ws="en">Semantics-RRG</AUni>
 </Name>
@@ -102988,7 +102988,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c2c63996-ea5e-11de-9b11-0013722f8dec">
 <Name>
 <AUni ws="en">ACTOR</AUni>
 </Name>
@@ -103001,7 +103001,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2d2254e-ea5e-11de-8432-0013722f8dec">
 <Name>
 <AUni ws="en">UNDERGOER</AUni>
 </Name>
@@ -103014,7 +103014,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2dbaeac-ea5e-11de-803c-0013722f8dec">
 <Name>
 <AUni ws="en">NON-MACROROLE</AUni>
 </Name>
@@ -103029,7 +103029,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2e79a5a-ea5e-11de-9669-0013722f8dec">
 <Name>
 <AUni ws="en">Syntax-RRG</AUni>
 </Name>
@@ -103042,7 +103042,7 @@
 </AStr>
 </Description>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="c2f38612-ea5e-11de-9124-0013722f8dec">
 <Name>
 <AUni ws="en">SENTENCE</AUni>
 </Name>
@@ -103050,7 +103050,7 @@
 <AUni ws="en">SENT</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c2fd0f70-ea5e-11de-96db-0013722f8dec">
 <Name>
 <AUni ws="en">CLAUSE</AUni>
 </Name>
@@ -103058,7 +103058,7 @@
 <AUni ws="en">CL</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c308fb1e-ea5e-11de-885b-0013722f8dec">
 <Name>
 <AUni ws="en">CORE</AUni>
 </Name>
@@ -103066,7 +103066,7 @@
 <AUni ws="en">CORE</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c314e6d6-ea5e-11de-8d43-0013722f8dec">
 <Name>
 <AUni ws="en">NUCLEUS</AUni>
 </Name>
@@ -103074,7 +103074,7 @@
 <AUni ws="en">NUC</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c31e702a-ea5e-11de-9d76-0013722f8dec">
 <Name>
 <AUni ws="en">PREDICATE</AUni>
 </Name>
@@ -103082,7 +103082,7 @@
 <AUni ws="en">PRED</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c32a5be2-ea5e-11de-8d46-0013722f8dec">
 <Name>
 <AUni ws="en">Left Detached Position</AUni>
 </Name>
@@ -103090,7 +103090,7 @@
 <AUni ws="en">LDP</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3364790-ea5e-11de-96c0-0013722f8dec">
 <Name>
 <AUni ws="en">Right Detached Position</AUni>
 </Name>
@@ -103098,7 +103098,7 @@
 <AUni ws="en">RDP</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3423348-ea5e-11de-85a0-0013722f8dec">
 <Name>
 <AUni ws="en">Pre-core slot</AUni>
 </Name>
@@ -103106,7 +103106,7 @@
 <AUni ws="en">PrCS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c34bbca6-ea5e-11de-8901-0013722f8dec">
 <Name>
 <AUni ws="en">Post-core slot</AUni>
 </Name>
@@ -103114,7 +103114,7 @@
 <AUni ws="en">PoCS</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c357a854-ea5e-11de-8a16-0013722f8dec">
 <Name>
 <AUni ws="en">PERIPHERY</AUni>
 </Name>
@@ -103122,7 +103122,7 @@
 <AUni ws="en">PERI</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c363940c-ea5e-11de-8faa-0013722f8dec">
 <Name>
 <AUni ws="en">Reference Phrase</AUni>
 </Name>
@@ -103135,7 +103135,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c36d1d60-ea5e-11de-9cd9-0013722f8dec">
 <Name>
 <AUni ws="en">Pronominal Argument</AUni>
 </Name>
@@ -103148,7 +103148,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3790918-ea5e-11de-903f-0013722f8dec">
 <Name>
 <AUni ws="en">Auxiliary</AUni>
 </Name>
@@ -103161,7 +103161,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c384f4c6-ea5e-11de-9fe7-0013722f8dec">
 <Name>
 <AUni ws="en">CORE-R</AUni>
 </Name>
@@ -103174,7 +103174,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c38e7e24-ea5e-11de-8114-0013722f8dec">
 <Name>
 <AUni ws="en">NUCLEUS-R</AUni>
 </Name>
@@ -103187,7 +103187,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c39a69dc-ea5e-11de-9467-0013722f8dec">
 <Name>
 <AUni ws="en">Reference Phrase Initial Position</AUni>
 </Name>
@@ -103195,7 +103195,7 @@
 <AUni ws="en">RPIP</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3a6558a-ea5e-11de-98c9-0013722f8dec">
 <Name>
 <AUni ws="en">Reference Phrase Final Position</AUni>
 </Name>
@@ -103203,7 +103203,7 @@
 <AUni ws="en">RPFP</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3afdee8-ea5e-11de-85b1-0013722f8dec">
 <Name>
 <AUni ws="en">PERIPHERY-R</AUni>
 </Name>
@@ -103216,7 +103216,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3bbcaa0-ea5e-11de-843e-0013722f8dec">
 <Name>
 <AUni ws="en">Modifier Phrase</AUni>
 </Name>
@@ -103224,7 +103224,7 @@
 <AUni ws="en">MP</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3c7b64e-ea5e-11de-825d-0013722f8dec">
 <Name>
 <AUni ws="en">CORE-M</AUni>
 </Name>
@@ -103237,7 +103237,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3d13fac-ea5e-11de-8141-0013722f8dec">
 <Name>
 <AUni ws="en">NUCLEUS-M</AUni>
 </Name>
@@ -103250,7 +103250,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3dd2b5a-ea5e-11de-9a4d-0013722f8dec">
 <Name>
 <AUni ws="en">Adpositional Phrase</AUni>
 </Name>
@@ -103263,7 +103263,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3e91712-ea5e-11de-8763-0013722f8dec">
 <Name>
 <AUni ws="en">CORE-P</AUni>
 </Name>
@@ -103276,7 +103276,7 @@
 </AStr>
 </Description>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="c3f2a070-ea5e-11de-8c44-0013722f8dec">
 <Name>
 <AUni ws="en">NUCLEUS-P</AUni>
 </Name>
@@ -103301,7 +103301,7 @@
 <AUni ws="en">Time</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="bdee78de-ea5e-11de-8897-0013722f8dec">
 <Name>
 <AUni ws="en">Predawn</AUni>
 </Name>
@@ -103309,7 +103309,7 @@
 <AUni ws="en">Pred</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="bdfa6496-ea5e-11de-82c0-0013722f8dec">
 <Name>
 <AUni ws="en">Morning</AUni>
 </Name>
@@ -103317,7 +103317,7 @@
 <AUni ws="en">Morn</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="be065044-ea5e-11de-8d04-0013722f8dec">
 <Name>
 <AUni ws="en">Early Morning</AUni>
 </Name>
@@ -103325,7 +103325,7 @@
 <AUni ws="en">EMorn</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="be123bfc-ea5e-11de-962f-0013722f8dec">
 <Name>
 <AUni ws="en">Late Morning</AUni>
 </Name>
@@ -103335,7 +103335,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="be1bc55a-ea5e-11de-9476-0013722f8dec">
 <Name>
 <AUni ws="en">Midday</AUni>
 </Name>
@@ -103343,7 +103343,7 @@
 <AUni ws="en">Mid</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="be27b108-ea5e-11de-9fdb-0013722f8dec">
 <Name>
 <AUni ws="en">Afternoon</AUni>
 </Name>
@@ -103351,7 +103351,7 @@
 <AUni ws="en">Aft</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="be339cc0-ea5e-11de-9108-0013722f8dec">
 <Name>
 <AUni ws="en">Early Afternoon</AUni>
 </Name>
@@ -103359,7 +103359,7 @@
 <AUni ws="en">EAft</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="be3d261e-ea5e-11de-8dc4-0013722f8dec">
 <Name>
 <AUni ws="en">Late Afternoon</AUni>
 </Name>
@@ -103369,7 +103369,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="be4911cc-ea5e-11de-8d21-0013722f8dec">
 <Name>
 <AUni ws="en">Evening</AUni>
 </Name>
@@ -103377,7 +103377,7 @@
 <AUni ws="en">Eve</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="be54fd84-ea5e-11de-86b7-0013722f8dec">
 <Name>
 <AUni ws="en">Night</AUni>
 </Name>
@@ -103385,7 +103385,7 @@
 <AUni ws="en">Night</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="be5e86d8-ea5e-11de-9b90-0013722f8dec">
 <Name>
 <AUni ws="en">Midnight</AUni>
 </Name>
@@ -103437,7 +103437,7 @@
 <AUni ws="en">Use</AUni>
 </Abbreviation>
 <Possibilities>
-<CmPossibility>
+<CmPossibility guid="af600fb2-ea5e-11de-82b5-0013722f8dec">
 <Name>
 <AUni ws="en">archaic</AUni>
 </Name>
@@ -103445,7 +103445,7 @@
 <AUni ws="en">arch</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="af699910-ea5e-11de-8d20-0013722f8dec">
 <Name>
 <AUni ws="en">colloquial</AUni>
 </Name>
@@ -103453,7 +103453,7 @@
 <AUni ws="en">col</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="af7584c8-ea5e-11de-82a4-0013722f8dec">
 <Name>
 <AUni ws="en">formal</AUni>
 </Name>
@@ -103461,7 +103461,7 @@
 <AUni ws="en">form</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="af817076-ea5e-11de-9a46-0013722f8dec">
 <Name>
 <AUni ws="en">historical</AUni>
 </Name>
@@ -103469,7 +103469,7 @@
 <AUni ws="en">hist</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="af8af9d4-ea5e-11de-932a-0013722f8dec">
 <Name>
 <AUni ws="en">honorific</AUni>
 </Name>
@@ -103477,7 +103477,7 @@
 <AUni ws="en">hon</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="af96e582-ea5e-11de-910f-0013722f8dec">
 <Name>
 <AUni ws="en">informal</AUni>
 </Name>
@@ -103485,7 +103485,7 @@
 <AUni ws="en">inform</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="afa2d13a-ea5e-11de-94da-0013722f8dec">
 <Name>
 <AUni ws="en">non-standard</AUni>
 </Name>
@@ -103493,7 +103493,7 @@
 <AUni ws="en">non std</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="afaebce8-ea5e-11de-97b5-0013722f8dec">
 <Name>
 <AUni ws="en">obsolete</AUni>
 </Name>
@@ -103501,7 +103501,7 @@
 <AUni ws="en">obso</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="afb84646-ea5e-11de-94e6-0013722f8dec">
 <Name>
 <AUni ws="en">old-fashioned</AUni>
 </Name>
@@ -103509,7 +103509,7 @@
 <AUni ws="en">oldfash</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="afc431fe-ea5e-11de-8921-0013722f8dec">
 <Name>
 <AUni ws="en">rare</AUni>
 </Name>
@@ -103517,7 +103517,7 @@
 <AUni ws="en">rare</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="afd01dac-ea5e-11de-9787-0013722f8dec">
 <Name>
 <AUni ws="en">register</AUni>
 </Name>
@@ -103525,7 +103525,7 @@
 <AUni ws="en">reg</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="afd9a70a-ea5e-11de-9e37-0013722f8dec">
 <Name>
 <AUni ws="en">basic</AUni>
 </Name>
@@ -103533,7 +103533,7 @@
 <AUni ws="en">bas reg</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="afe592c2-ea5e-11de-9d77-0013722f8dec">
 <Name>
 <AUni ws="en">high</AUni>
 </Name>
@@ -103541,7 +103541,7 @@
 <AUni ws="en">hi reg</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="aff17e70-ea5e-11de-94be-0013722f8dec">
 <Name>
 <AUni ws="en">low</AUni>
 </Name>
@@ -103549,7 +103549,7 @@
 <AUni ws="en">low reg</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="affb07ce-ea5e-11de-997d-0013722f8dec">
 <Name>
 <AUni ws="en">mid</AUni>
 </Name>
@@ -103559,7 +103559,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b006f37c-ea5e-11de-8cd8-0013722f8dec">
 <Name>
 <AUni ws="en">restrictive</AUni>
 </Name>
@@ -103567,7 +103567,7 @@
 <AUni ws="en">rest</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b012df34-ea5e-11de-833e-0013722f8dec">
 <Name>
 <AUni ws="en">animal</AUni>
 </Name>
@@ -103575,7 +103575,7 @@
 <AUni ws="en">anml</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b01c6892-ea5e-11de-9e52-0013722f8dec">
 <Name>
 <AUni ws="en">human</AUni>
 </Name>
@@ -103583,7 +103583,7 @@
 <AUni ws="en">hum</AUni>
 </Abbreviation>
 <SubPossibilities>
-<CmPossibility>
+<CmPossibility guid="b0285440-ea5e-11de-894b-0013722f8dec">
 <Name>
 <AUni ws="en">female</AUni>
 </Name>
@@ -103591,7 +103591,7 @@
 <AUni ws="en">f</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b0343ff8-ea5e-11de-9132-0013722f8dec">
 <Name>
 <AUni ws="en">male</AUni>
 </Name>
@@ -103599,7 +103599,7 @@
 <AUni ws="en">m</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b03dc94c-ea5e-11de-87b4-0013722f8dec">
 <Name>
 <AUni ws="en">same sex sibling</AUni>
 </Name>
@@ -103609,7 +103609,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b049b504-ea5e-11de-9bb7-0013722f8dec">
 <Name>
 <AUni ws="en">obscene</AUni>
 </Name>
@@ -103617,7 +103617,7 @@
 <AUni ws="en">obsc</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b055a0b2-ea5e-11de-9b16-0013722f8dec">
 <Name>
 <AUni ws="en">offensive</AUni>
 </Name>
@@ -103625,7 +103625,7 @@
 <AUni ws="en">off</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b05f2a10-ea5e-11de-8593-0013722f8dec">
 <Name>
 <AUni ws="en">taboo</AUni>
 </Name>
@@ -103635,7 +103635,7 @@
 </CmPossibility>
 </SubPossibilities>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b06b15c8-ea5e-11de-8d8b-0013722f8dec">
 <Name>
 <AUni ws="en">slang</AUni>
 </Name>
@@ -103643,7 +103643,7 @@
 <AUni ws="en">slg</AUni>
 </Abbreviation>
 </CmPossibility>
-<CmPossibility>
+<CmPossibility guid="b0770176-ea5e-11de-88f6-0013722f8dec">
 <Name>
 <AUni ws="en">traditional</AUni>
 </Name>
