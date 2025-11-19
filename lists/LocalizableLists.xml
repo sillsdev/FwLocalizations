@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Lists date="2022-01-24 14:46:16">
+<Lists date="2025-11-19T20:51:44Z">
 <List owner="LexDb" field="DomainTypes" itemClass="CmPossibility">
 <Name>
 <AUni ws="en">Academic Domains</AUni>
@@ -9543,6 +9543,58 @@
 </PartOfSpeech>
 </SubPossibilities>
 </PartOfSpeech>
+<PartOfSpeech guid="25b2ef8c-d87e-4868-898c-8f5375afeeb3">
+<Name>
+<AUni ws="en">Existential marker</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">existmrkr</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An existential marker is a part of speech whose members are found in distinct clause types and which mark a referent's existence.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="cc60cb18-5067-442b-a740-d3b913b2610a">
+<Name>
+<AUni ws="en">Expletive</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">expl</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An expletive (also known as a dummy word) is a part of speech whose members have no meaning, but complete a sentence to make it grammatical.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="d32dff62-4117-4762-a887-96478406769b">
+<Name>
+<AUni ws="en">Interjection</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">interj</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">An interjection is a part of speech, typically brief in form, such as one syllable or word, whose members are used most often as exclamations or parts of an exclamation. An interjection, typically expressing an emotional reaction, often with respect to an accompanying sentence, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
+<PartOfSpeech guid="83fdec31-e15b-40e7-bcd2-69134c5a0fcd">
+<Name>
+<AUni ws="en">Participle</AUni>
+</Name>
+<Abbreviation>
+<AUni ws="en">ptcp</AUni>
+</Abbreviation>
+<Description>
+<AStr ws="en">
+<Run ws="en">A participle refers to non-finite forms of verbs other than infinitive. In some uses it is restricted to those forms that are used as an adjective.</Run>
+</AStr>
+</Description>
+</PartOfSpeech>
 <PartOfSpeech guid="6e758bbc-2b40-427d-b79f-bf14a7c96c6a">
 <Name>
 <AUni ws="en">Particle</AUni>
@@ -9596,58 +9648,6 @@
 </Description>
 </PartOfSpeech>
 </SubPossibilities>
-</PartOfSpeech>
-<PartOfSpeech guid="25b2ef8c-d87e-4868-898c-8f5375afeeb3">
-<Name>
-<AUni ws="en">Existential marker</AUni>
-</Name>
-<Abbreviation>
-<AUni ws="en">existmrkr</AUni>
-</Abbreviation>
-<Description>
-<AStr ws="en">
-<Run ws="en">An existential marker is a part of speech whose members are found in distinct clause types and which mark a referent's existence.</Run>
-</AStr>
-</Description>
-</PartOfSpeech>
-<PartOfSpeech guid="cc60cb18-5067-442b-a740-d3b913b2610a">
-<Name>
-<AUni ws="en">Expletive</AUni>
-</Name>
-<Abbreviation>
-<AUni ws="en">expl</AUni>
-</Abbreviation>
-<Description>
-<AStr ws="en">
-<Run ws="en">An expletive (also known as a dummy word) is a part of speech whose members have no meaning, but complete a sentence to make it grammatical.</Run>
-</AStr>
-</Description>
-</PartOfSpeech>
-<PartOfSpeech guid="d32dff62-4117-4762-a887-96478406769b">
-<Name>
-<AUni ws="en">Interjection</AUni>
-</Name>
-<Abbreviation>
-<AUni ws="en">interj</AUni>
-</Abbreviation>
-<Description>
-<AStr ws="en">
-<Run ws="en">An interjection is a part of speech, typically brief in form, such as one syllable or word, whose members are used most often as exclamations or parts of an exclamation. An interjection, typically expressing an emotional reaction, often with respect to an accompanying sentence, is not syntactically related to other accompanying expressions, and may include a combination of sounds not otherwise found in the language.</Run>
-</AStr>
-</Description>
-</PartOfSpeech>
-<PartOfSpeech guid="83fdec31-e15b-40e7-bcd2-69134c5a0fcd">
-<Name>
-<AUni ws="en">Participle</AUni>
-</Name>
-<Abbreviation>
-<AUni ws="en">ptcp</AUni>
-</Abbreviation>
-<Description>
-<AStr ws="en">
-<Run ws="en">A participle refers to non-finite forms of verbs other than infinitive. In some uses it is restricted to those forms that are used as an adjective.</Run>
-</AStr>
-</Description>
 </PartOfSpeech>
 <PartOfSpeech guid="f1ac9eab-5f8c-41cf-b234-e53405aaaac5">
 <Name>
@@ -102573,7 +102573,7 @@
 <Possibilities>
 <CmPossibility>
 <Name>
-<AUni ws="en">Default</AUni>
+<AUni ws="en">Default Template</AUni>
 </Name>
 <Abbreviation>
 <AUni ws="en">def</AUni>
