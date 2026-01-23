@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+requirements.txt
+venv/
+
+# Data files
+*.csv
+*.log
+*.po
+*.po_*
+*.resx
+*.txt
+*.xlf
+*.xliff
