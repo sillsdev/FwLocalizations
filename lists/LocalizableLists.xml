@@ -15640,7 +15640,7 @@
 <AUni ws="en">(2) What are the parts of the head?</AUni>
 </Question>
 <ExampleWords>
-<AUni ws="en">head, ear, eye, nose, muzzle, maw, snout, trunk (of an elephant), proboscis, mouth, tooth, fang , tusk, tongue, neck, horn, antler, dewlap</AUni>
+<AUni ws="en">head, ear, eye, nose, muzzle, maw, snout, trunk (of an elephant), proboscis, mouth, tooth, fang, tusk, tongue, neck, horn, antler, dewlap</AUni>
 </ExampleWords>
 </CmDomainQ>
 <CmDomainQ>
@@ -22906,7 +22906,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to pain</Run>
+<Run ws="en">Use this domain for words related to pain.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -26001,7 +26001,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to old age and older persons?</Run>
+<Run ws="en">Use this domain for words related to old age and older persons.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -28016,7 +28016,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(3) What words refer to not being able to think well? </AUni>
+<AUni ws="en">(3) What words refer to not being able to think well?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">derangement, idiocy, imbecility, insanity, lunacy, madness, senility, stupidity</AUni>
@@ -37905,7 +37905,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words referring to admitting something--saying that you have done wrong, or that your beliefs were wrong</Run>
+<Run ws="en">Use this domain for words referring to admitting something--saying that you have done wrong, or that your beliefs were wrong.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -47432,7 +47432,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for general words referring to prosperity and trouble</Run>
+<Run ws="en">Use this domain for general words referring to prosperity and trouble.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -50240,7 +50240,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to the countryside--the area away from a city</Run>
+<Run ws="en">Use this domain for words related to the countryside--the area away from a city.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -54168,7 +54168,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words related to sacred writings. You should include words referring to the holy books of all religions .</Run>
+<Run ws="en">Use this domain for words related to sacred writings. You should include words referring to the holy books of all religions.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -70305,7 +70305,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(2) What words refer to money given to a person for betraying or murdering someone.</AUni>
+<AUni ws="en">(2) What words refer to money given to a person for betraying or murdering someone?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">murder money, blood money, cursed money</AUni>
@@ -71212,7 +71212,7 @@
 <Questions>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(1) What words refer to moving a part of your body forward or out? </AUni>
+<AUni ws="en">(1) What words refer to moving a part of your body forward or out?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">extend, hold out, put out, stick out, stretch</AUni>
@@ -74849,7 +74849,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for verbs for catching something that is thrown or dropped</Run>
+<Run ws="en">Use this domain for verbs for catching something that is thrown or dropped.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -76163,7 +76163,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words referring to preventing someone or something from moving</Run>
+<Run ws="en">Use this domain for words referring to preventing someone or something from moving.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -81053,7 +81053,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(3) What words indicate that most of a group is of one kind.</AUni>
+<AUni ws="en">(3) What words indicate that most of a group is of one kind?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">mostly, mainly, largely, predominantly, predominate, be in the majority, a preponderance</AUni>
@@ -85917,7 +85917,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for words that describe something that is symmetrical--having the same shape on both sides</Run>
+<Run ws="en">Use this domain for words that describe something that is symmetrical--having the same shape on both sides.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -95922,7 +95922,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(2) What words refer to a situation that affects what can happen or what people can do? </AUni>
+<AUni ws="en">(2) What words refer to a situation that affects what can happen or what people can do?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">situation, circumstances, environment, climate, conditions, the lay of the land, which way the wind blows, scenario</AUni>
@@ -97304,7 +97304,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(17) gnomic present: the situation described in the proposition is generic; the predicate has held, holds, and will hold for the class of entities named by the subject, such as 'Elephants have trunks'. </AUni>
+<AUni ws="en">(17) gnomic present: the situation described in the proposition is generic; the predicate has held, holds, and will hold for the class of entities named by the subject, such as 'Elephants have trunks'.</AUni>
 </Question>
 </CmDomainQ>
 <CmDomainQ>
@@ -97912,7 +97912,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(10) strong: (self-explanatory). </AUni>
+<AUni ws="en">(10) strong: (self-explanatory).</AUni>
 </Question>
 </CmDomainQ>
 <CmDomainQ>
@@ -97956,7 +97956,7 @@
 <Questions>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(1) What words indicate that the speaker is encouraging or inciting someone to action.</AUni>
+<AUni ws="en">(1) What words indicate that the speaker is encouraging or inciting someone to action?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">urge, request, let, why don't, please</AUni>
@@ -98962,7 +98962,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(3) What are the noun forms of these words? </AUni>
+<AUni ws="en">(3) What are the noun forms of these words?</AUni>
 </Question>
 </CmDomainQ>
 </Questions>
@@ -99095,7 +99095,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(12) subordinator: marker indicates that the verb is in a subordinate clause. </AUni>
+<AUni ws="en">(12) subordinator: marker indicates that the verb is in a subordinate clause.</AUni>
 </Question>
 </CmDomainQ>
 </Questions>
@@ -101457,7 +101457,7 @@
 </Abbreviation>
 <Description>
 <AStr ws="en">
-<Run ws="en">Use this domain for common nicknames--an additional name given to a person later in life, often descriptive. Also include general names used to call or refer to someone when you don't know their name</Run>
+<Run ws="en">Use this domain for common nicknames--an additional name given to a person later in life, often descriptive. Also include general names used to call or refer to someone when you don't know their name.</Run>
 </AStr>
 </Description>
 <Questions>
@@ -101471,7 +101471,7 @@
 </CmDomainQ>
 <CmDomainQ>
 <Question>
-<AUni ws="en">(2) What names are used to refer to someone when you don't know their name.</AUni>
+<AUni ws="en">(2) What names are used to refer to someone when you don't know their name?</AUni>
 </Question>
 <ExampleWords>
 <AUni ws="en">John Doe, Jane Doe, Joe Blow, GI Joe</AUni>
