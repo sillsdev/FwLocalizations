@@ -33,7 +33,7 @@ jobs:
       # TODO crowdin localizations are provided for multiple branches. So fetch
       # and provide from multiple branches.
       run: |
-        overcrowdin download -v -f crowdin.zip
+        overcrowdin download -f crowdin.zip
         mkdir artifacts
         mv crowdin.zip artifacts/
     - name: Determine build version
