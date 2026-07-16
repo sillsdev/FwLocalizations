@@ -24,7 +24,7 @@ jobs:
             "project_identifier": "fieldworks",
             "api_key_env": "CROWDIN_API_KEY",
             "base_path": ".",
-            "branch": "FieldWorks-10.0",
+            "branch": "latest",
           }
         '
     - name: Download crowdin localizations

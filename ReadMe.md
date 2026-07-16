@@ -34,7 +34,7 @@ If you remove strings from FieldWorks you will need to get your system ready to 
 2. Set the `CROWDIN_API_KEY` environment variable to a Crowdin personal access token (Crowdin API v2 — `overcrowdin` is built on `Crowdin.Api` v2, which authenticates with a personal access token) for an account with access to the FieldWorks Crowdin project.
 3. `build /t:uploadUpdatesForTranslation`
 
-This uploads `lists/LocalizableLists.xml` (and other localizable sources) to the `"latest"` branch of the Crowdin project, per FieldWorks' `crowdin.json`. Note that this repo's own `.github/workflows/fetch-crowdin.yml` downloads translations from the `"FieldWorks-10.0"` branch instead — check which branch your change needs to reach before assuming an upload or download is visible on the other side.
+This uploads `lists/LocalizableLists.xml` (and other localizable sources) to the `"latest"` branch of the Crowdin project, per FieldWorks' `crowdin.json`. Check which branch your change needs to reach before assuming an upload or download is visible on the other side.
 
 **Semantic domain lists have independent copies elsewhere**
 
