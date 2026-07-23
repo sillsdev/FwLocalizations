@@ -1,4 +1,4 @@
-**Localizations for FieldWorks**
+## Localizations for FieldWorks
 
 The authoritative list of supported languages is maintained at https://crowdin.com/project/fieldworks/settings#translations. To add a new language, you will also need to update its entries in the FieldWorks repository (https://github.com/sillsdev/fieldworks). The installer is mid-migration from WiX 3 to WiX 6, so each locale is duplicated across parallel files; a search for a locale code such as “zh” across `Build/` and `FLExInstaller/` reliably reveals all of them. Currently:
 
@@ -6,7 +6,7 @@ The authoritative list of supported languages is maintained at https://crowdin.c
 - `FLExInstaller/CustomComponents.wxi` and `FLExInstaller/wix6/CustomComponents.wxi` — several places each (directory, `WixVariable`s, harvest include)
 - `FLExInstaller/CustomFeatures.wxi` and `FLExInstaller/wix6/CustomFeatures.wxi` — the per-language `<Feature>` list
 
-**Removing or adding strings**
+## Removing or adding strings
 
 If you remove strings from FieldWorks you will need to get your system ready to run the `uploadUpdatesForTranslation` build target.
 
@@ -16,7 +16,7 @@ If you remove strings from FieldWorks you will need to get your system ready to 
 
 This uploads `lists/LocalizableLists.xml` (and other localizable sources) to the `"latest"` branch of the Crowdin project, per FieldWorks' `crowdin.json`. Check which branch your change needs to reach before assuming an upload or download is visible on the other side.
 
-**Semantic domain lists have independent copies elsewhere**
+## Semantic domain lists have independent copies elsewhere
 
 `lists/LocalizableLists.xml` is the Crowdin source for semantic domain names, descriptions, and questions, but several other repos hold their own static copies of the same text that are _not_ regenerated when this file changes and must be updated by hand:
 
