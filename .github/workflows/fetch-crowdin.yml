@@ -10,11 +10,12 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - name: Checkout repository
+      uses: actions/checkout@v7
     - name: Setup .NET
-      uses: actions/setup-dotnet@v1
+      uses: actions/setup-dotnet@v6
       with:
-        dotnet-version: 2.1.x
+        dotnet-version: 8.0.x
     - name: Install overcrowdin
       run: dotnet tool install -g overcrowdin
     - name: Crowdin settings
@@ -24,7 +25,7 @@ jobs:
             "project_identifier": "fieldworks",
             "api_key_env": "CROWDIN_API_KEY",
             "base_path": ".",
-            "branch": "FieldWorks-9.0",
+            "branch": "latest",
           }
         '
     - name: Download crowdin localizations
@@ -33,7 +34,7 @@ jobs:
       # TODO crowdin localizations are provided for multiple branches. So fetch
       # and provide from multiple branches.
       run: |
-        overcrowdin download -v -r2 -f crowdin.zip
+        overcrowdin download -f crowdin.zip
         mkdir artifacts
         mv crowdin.zip artifacts/
     - name: Determine build version
@@ -50,7 +51,7 @@ jobs:
         echo >> "${GITHUB_ENV}" "TAG_NAME=${TAG_NAME}"
         echo >> "${GITHUB_ENV}" "BRANCH_NAME=${BRANCH_NAME}"
     - name: Publish artifacts as Github release
-      uses: ncipollo/release-action@v1.8.6
+      uses: ncipollo/release-action@v1.21.0
       with:
         artifacts: "artifacts/*"
         prerelease: false
