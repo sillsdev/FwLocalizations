@@ -23,6 +23,5 @@ This uploads `lists/LocalizableLists.xml` (and other localizable sources) to the
 - [liblcm](https://github.com/sillsdev/liblcm): `src/SIL.LCModel/Templates/SemDom.xml`
 - [TheCombine](https://github.com/sillsdev/TheCombine/): `deploy/scripts/semantic_domains/xml/SemanticDomains-*.xml`
 - [webonary](https://github.com/sillsdev/webonary): `localizations/input/LocalizedLists-*.xml`
-- This repo's own root `LocalizedLists-*.xml` files
 
 If you edit the English text in `lists/LocalizableLists.xml`, check whether those copies need the same edit.
