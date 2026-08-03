@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - develop
+  schedule:
+    - cron: "0 0 */30 * *"
   workflow_dispatch:
 
 jobs:
@@ -20,19 +22,17 @@ jobs:
       run: dotnet tool install -g overcrowdin
     - name: Crowdin settings
       run: |
+        # Omitting the branch name will download translations for all branches.
         tee crowdin.json <<< '
           {
             "project_identifier": "fieldworks",
             "api_key_env": "CROWDIN_API_KEY",
             "base_path": ".",
-            "branch": "latest",
           }
         '
     - name: Download crowdin localizations
       env:
         CROWDIN_API_KEY: ${{ secrets.CROWDIN_API_KEY }}
-      # TODO crowdin localizations are provided for multiple branches. So fetch
-      # and provide from multiple branches.
       run: |
         overcrowdin download -f crowdin.zip
         mkdir artifacts

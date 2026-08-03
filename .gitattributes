@@ -1,3 +1,4 @@
 LICENSE -whitespace
-*.tmx -whitespace
 *.md -whitespace
+*.tmx -whitespace
+*.yml -whitespace
