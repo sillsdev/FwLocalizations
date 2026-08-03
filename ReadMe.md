@@ -6,7 +6,7 @@ The authoritative list of supported languages is maintained at https://crowdin.c
 - `FLExInstaller/CustomComponents.wxi` and `FLExInstaller/wix6/CustomComponents.wxi` — several places each (directory, `WixVariable`s, harvest include)
 - `FLExInstaller/CustomFeatures.wxi` and `FLExInstaller/wix6/CustomFeatures.wxi` — the per-language `<Feature>` list
 
-Instructions are in [this Google document](https://docs.google.com/document/d/1Xt3mAyU-42QfunzkSJgePIP9brHFVv5pmcmiCT-zQ6A).
+This repository no longer holds checked-in localizations (those are in Crowdin and archived as this repository's GitHub Releases). It serves as a repository of tools to facilitate localization and as a staging area for Crowdin uploads and downloads. Instructions are in [this Google document](https://docs.google.com/document/d/1Xt3mAyU-42QfunzkSJgePIP9brHFVv5pmcmiCT-zQ6A).
 
 ## Removing or adding strings
 
