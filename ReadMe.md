@@ -26,7 +26,6 @@ This uploads `lists/LocalizableLists.xml` (and other localizable sources) to the
 - [liblcm](https://github.com/sillsdev/liblcm): `src/SIL.LCModel/Templates/SemDom.xml` (the English version packaged with FieldWorks)
 - [TheCombine](https://github.com/sillsdev/TheCombine/): `deploy/scripts/semantic_domains/xml/SemanticDomains-*.xml` (FieldWorks can roundtrip data to TheCombine)
 - [webonary](https://github.com/sillsdev/webonary): `localizations/input/LocalizedLists-*.xml` (FieldWorks can upload data to Webonary)
-- This repo's own root `LocalizedLists-*.xml` files (outdated since 2022. REVIEW (Hasso) 2026.08: should they be removed?)
 
 If you edit the English text in `lists/LocalizableLists.xml`, check whether those copies need the same edit.
 
