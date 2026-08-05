@@ -13,7 +13,7 @@ This repository no longer holds checked-in localizations (those are in Crowdin a
 If you remove strings from FieldWorks you will need to get your system ready and run the `uploadUpdatesForTranslation` build target.
 
 1. Make sure that you have liblcm cloned locally, checked out to the right branch, and set the `LcmRootDir` environment variable to the path of that clone.
-2. Clone this repository (FwLocalizations) into the FieldWorks repo root as `Localizations` (so the path is `<FieldWorks>/Localizations`). The build reads its `lists/` sources from there and writes generated files (`*.xlf`, `messages.pot`, `LCM/`, `l10ns/`) back into it.
+2. Clone this repository (FwLocalizations) into the FieldWorks repo root as `Localizations` (so the path is `<FieldWorks>/Localizations`; see [FieldWorks `CONTRIBUTING.md`](https://github.com/sillsdev/FieldWorks/blob/main/Docs/CONTRIBUTING.md#optional-clone-fwlocalizations-for-translation-work)). The build reads its `lists/` sources from there and writes generated files (`*.xlf`, `messages.pot`, `LCM/`, `l10ns/`) back into it.
 3. Set the `CROWDIN_API_KEY` environment variable to a Crowdin personal access token (Crowdin API v2 — `overcrowdin` is built on `Crowdin.Api` v2, which authenticates with a personal access token) for an account with access to the FieldWorks Crowdin project.
 4. From the FieldWorks repo root, run `.\build.ps1 -Target uploadUpdatesForTranslation`
 
